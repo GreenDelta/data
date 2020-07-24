@@ -1,6 +1,8 @@
 import csv
 import json
 
+from typing import List, Dict
+
 
 class Unit:
 
@@ -90,7 +92,7 @@ class Method:
         self.impacts = []  # type: List[Impact]
 
 
-def read_unit_groups() -> dict:
+def read_unit_groups() -> Dict[str, UnitGroup]:
 
     groups = {}
     ref_units = {}
@@ -130,7 +132,7 @@ def read_flow_properties() -> dict:
     return props
 
 
-def read_flows() -> dict:
+def read_flows() -> Dict[str, Flow]:
     paths = read_category_paths()
     flow_props = read_flow_properties()
     flows = {}
@@ -146,8 +148,7 @@ def read_flows() -> dict:
     return flows
 
 
-def read_impact_methods(flows: dict) -> dict:
-    # ids -> names
+def read_impact_methods(flows: Dict[str, Flow]) -> Dict[str, Method]:
     methods = {}
     method_rows = read_csv('./impact_data/olca_LCIA_IM_table.csv',
                            separator=',', skip_first=True)
@@ -276,9 +277,79 @@ def write_flow_sheet(flows: list):
             out.write(template)
 
 
+def write_method_sheets(methods: List[Method]):
+    for method in methods:
+        sheets = []
+        for impact in method.impacts:
+            data = {
+                'name': impact.name,
+                'freeze': 'A2',
+                'rows': {
+                    'len': len(impact.factors) + 1,
+                    0: {
+                        'cells': {
+                            0: {'text': 'Category'},
+                            1: {'text': 'Flow'},
+                            2: {'text': 'Factor'},
+                            3: {'text': 'Unit'},
+                        }
+                    }
+                }
+            }
+            rows = data['rows']
+            for i in range(0, len(impact.factors)):
+                factor = impact.factors[i]
+                cells = {
+                    0: {'text': factor.flow.category},
+                    1: {'text': factor.flow.name},
+                    2: {'text': factor.factor},
+                    3: {'text': impact.unit + '/' + factor.flow.unit()},
+                }
+                rows[i + 1] = {'cells': cells}
+            sheets.append(data)
+
+        with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
+            template = f.read()
+            template = template.replace('/*title*/', method.name)
+            call = 'xs.loadData(%s);' % json.dumps(sheets)
+            template = template.replace('/*data-call*/', call)
+            target = './build/%s.html' % as_file_name(method.name)
+            with open(target, 'w', encoding='utf-8') as out:
+                out.write(template)
+
+
 if __name__ == "__main__":
     flow_dict = read_flows()
     flows = [flow for flow in read_flows().values()]
     flows.sort(key=lambda flow: flow.category + flow.name)
     write_flow_sheet(flows)
     method_dict = read_impact_methods(flow_dict)
+    methods = [m for m in method_dict.values()]
+    methods.sort(key=lambda m: m.name)
+    write_method_sheets(methods)
+
+    # write index.html
+    print("write the index.html file")
+    index = '''<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>openLCA LCIA methods and reference data</title>
+    </head>
+    <body>
+        <h1>openLCA LCIA methods and reference data</h1>
+        <ul>
+            <li><a href="./flows.html" _target="blank">Reference flows</a></li>
+    '''
+
+    for method in methods:
+        index += '<li><a href="./%s.html" _target="blank">%s</a></li>' % (
+            as_file_name(method.name), method.name)
+
+    index += '''
+        </ul>
+    </body>
+    </html>'''
+
+    with open('./build/index.html', 'w', encoding='utf-8') as out:
+        out.write(index)
