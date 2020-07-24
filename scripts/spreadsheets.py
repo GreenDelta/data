@@ -54,6 +54,14 @@ class Flow:
         self.formula = ''
         self.ref_flow_property = FlowProperty.empty
 
+    def unit(self) -> str:
+        if self.ref_flow_property is None:
+            return ''
+        ug = self.ref_flow_property.unit_group
+        if ug is None or ug.ref_unit is None:
+            return ''
+        return ug.ref_unit.name
+
 
 Flow.empty = Flow()
 
@@ -138,6 +146,51 @@ def read_flows() -> dict:
     return flows
 
 
+def read_impact_methods(flows: dict) -> dict:
+    # ids -> names
+    methods = {}
+    method_rows = read_csv('./impact_data/olca_LCIA_IM_table.csv',
+                           separator=',', skip_first=True)
+    for row in method_rows:
+        method = Method()
+        method.uid = row[0]
+        method.name = row[1]
+        methods[method.uid] = method
+
+    impacts = {}
+    impact_rows = read_csv('./impact_data/olca_LCIA_IC_table.csv',
+                           separator=',', skip_first=True)
+    for row in impact_rows:
+        impact = Impact()
+        impact.uid = row[0]
+        impact.name = row[1]
+        impact.unit = row[2]
+        impacts[impact.uid] = impact
+        method = methods.get(row[3])
+        if method is None:
+            continue
+        method.impacts.append(impact)
+
+    factor_rows = read_csv('./impact_data/olca_LCIA_IF_table.csv',
+                           separator=',', skip_first=True)
+    for row in factor_rows:
+        val = row[2]
+        if val == '0':
+            continue
+        impact = impacts.get(row[0])
+        if impact is None:
+            continue
+        flow = flows.get(row[1])
+        if flow is None:
+            continue
+        factor = ImpactFactor()
+        factor.factor = val
+        factor.flow = flow
+        impact.factors.append(factor)
+
+    return methods
+
+
 def read_csv(path: str, separator=';', skip_first=False) -> list:
     rows = []
     with open(path, 'r', encoding='utf-8') as stream:
@@ -181,34 +234,13 @@ def as_file_name(s: str) -> str:
     return fname.strip('_')
 
 
-if __name__ == "__main__":
-
-    # ids -> names
-    methods = {}
-    method_rows = read_csv('./impact_data/olca_LCIA_IM_table.csv',
-                           separator=',', skip_first=True)
-    for row in method_rows:
-        methods[row[0]] = row[1]
-
-    impacts = {}
-    impact_rows = read_csv('./impact_data/olca_LCIA_IC_table.csv',
-                           separator=',', skip_first=True)
-    for row in impact_rows:
-        impacts[row[0]] = row
-
-    factors = {}
-
-    for m in methods.values():
-        print(as_file_name(m))
-
-    # write the flow sheet
-    flows = [flow for flow in read_flows().values()]
-    flows.sort(key=lambda flow: flow.category + flow.name)
+def write_flow_sheet(flows: list):
     with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
         template = f.read()
         template = template.replace('/*title*/', 'Reference flows')
         data = {
             'name': 'Flows',
+            'freeze': 'A2',
             'rows': {
                 'len': len(flows) + 1,
                 0: {
@@ -232,7 +264,7 @@ if __name__ == "__main__":
                 1: {'text': flow.category},
                 2: {'text': flow.name},
                 3: {'text': flow.ref_flow_property.name},
-                4: {'text': flow.ref_flow_property.unit_group.ref_unit.name},
+                4: {'text': flow.unit()},
                 5: {'text': flow.cas},
                 6: {'text': flow.formula},
             }
@@ -242,3 +274,11 @@ if __name__ == "__main__":
         template = template.replace('/*data-call*/', call)
         with open('./build/flows.html', 'w', encoding='utf-8') as out:
             out.write(template)
+
+
+if __name__ == "__main__":
+    flow_dict = read_flows()
+    flows = [flow for flow in read_flows().values()]
+    flows.sort(key=lambda flow: flow.category + flow.name)
+    write_flow_sheet(flows)
+    method_dict = read_impact_methods(flow_dict)
