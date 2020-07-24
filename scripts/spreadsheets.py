@@ -120,7 +120,7 @@ def read_unit_groups() -> Dict[str, UnitGroup]:
     return groups
 
 
-def read_flow_properties() -> dict:
+def read_flow_properties() -> Dict[str, FlowProperty]:
     unit_groups = read_unit_groups()
     props = {}
     for row in read_csv('./refdata/flow_properties.csv'):
@@ -203,7 +203,7 @@ def read_csv(path: str, separator=';', skip_first=False) -> list:
     return rows
 
 
-def read_category_paths() -> dict:
+def read_category_paths() -> Dict[str, str]:
     cats = {}
     for cat in read_csv('./refdata/categories.csv'):
         cats[cat[0]] = cat
@@ -235,7 +235,7 @@ def as_file_name(s: str) -> str:
     return fname.strip('_')
 
 
-def write_flow_sheet(flows: list):
+def write_flow_sheet(flows: List[Flow]):
     with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
         template = f.read()
         template = template.replace('/*title*/', 'Reference flows')
@@ -339,11 +339,11 @@ if __name__ == "__main__":
     <body>
         <h1>openLCA LCIA methods and reference data</h1>
         <ul>
-            <li><a href="./flows.html" _target="blank">Reference flows</a></li>
+            <li><a href="./flows.html" target="_blank">Reference flows</a></li>
     '''
 
     for method in methods:
-        index += '<li><a href="./%s.html" _target="blank">%s</a></li>' % (
+        index += '<li><a href="./%s.html" target="_blank">%s</a></li>' % (
             as_file_name(method.name), method.name)
 
     index += '''
