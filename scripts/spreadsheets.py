@@ -1,4 +1,5 @@
 import csv
+import json
 
 
 class Unit:
@@ -117,12 +118,24 @@ def read_flow_properties() -> dict:
         prop.uid = row[0]
         prop.name = row[1]
         props[prop.uid] = prop
-        ug = unit_groups.get(row[4])
-        if ug is None:
-            print('Unknown unit group for flow prop. %s' % prop.name)
-            continue
-        prop.unit_group = ug
+        prop.unit_group = unit_groups.get(row[4], UnitGroup.empty)
     return props
+
+
+def read_flows() -> dict:
+    paths = read_category_paths()
+    flow_props = read_flow_properties()
+    flows = {}
+    for row in read_csv('./refdata/flows.csv'):
+        flow = Flow()
+        flow.uid = row[0]
+        flow.name = row[1]
+        flow.category = paths.get(row[3], '')
+        flow.cas = row[5]
+        flow.formula = row[6]
+        flow.ref_flow_property = flow_props.get(row[7], FlowProperty.empty)
+        flows[flow.uid] = flow
+    return flows
 
 
 def read_csv(path: str, separator=';', skip_first=False) -> list:
@@ -188,4 +201,44 @@ if __name__ == "__main__":
     for m in methods.values():
         print(as_file_name(m))
 
-    print(read_flow_properties())
+    # write the flow sheet
+    flows = [flow for flow in read_flows().values()]
+    flows.sort(key=lambda flow: flow.category + flow.name)
+    with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
+        template = f.read()
+        template = template.replace('/*title*/', 'Reference flows')
+        data = {
+            'name': 'Flows',
+            'rows': {
+                'len': len(flows) + 1,
+                0: {
+                    'cells': {
+                        0: {'text': 'UUID'},
+                        1: {'text': 'Category'},
+                        2: {'text': 'Name'},
+                        3: {'text': 'Ref. flow property'},
+                        4: {'text': 'Ref. unit'},
+                        5: {'text': 'CAS'},
+                        6: {'text': 'Formula'},
+                    }
+                }
+            }
+        }
+        rows = data['rows']
+        for i in range(0, len(flows)):
+            flow = flows[i]
+            cells = {
+                0: {'text': flow.uid},
+                1: {'text': flow.category},
+                2: {'text': flow.name},
+                3: {'text': flow.ref_flow_property.name},
+                4: {'text': flow.ref_flow_property.unit_group.ref_unit.name},
+                5: {'text': flow.cas},
+                6: {'text': flow.formula},
+            }
+            rows[i + 1] = {'cells': cells}
+
+        call = 'xs.loadData([%s]);' % json.dumps(data)
+        template = template.replace('/*data-call*/', call)
+        with open('./build/flows.html', 'w', encoding='utf-8') as out:
+            out.write(template)

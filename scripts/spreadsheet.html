@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{title}}</title>
+    <title>/*title*/</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/x-data-spreadsheet@1.1.5/dist/xspreadsheet.css">
     <script src="https://unpkg.com/x-data-spreadsheet@1.1.5/dist/xspreadsheet.js"></script>
@@ -19,19 +19,7 @@
             showToolbar: false,
             showContextmenu: false,
         });
-        xs.loadData([
-            {
-                name: 'Method',
-                rows: {
-                    len: 10,
-                    1: {
-                        cells: {
-                            1: { text: 'LCIA Method' }
-                        }
-                    }
-                }
-            },
-        ]).reRender();
+        /*data-call*/
     </script>
 </body>
 
