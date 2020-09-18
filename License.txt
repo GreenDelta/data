@@ -1,0 +1,5 @@
+openLCA LCIA methods package license
+
+LCIA method pack for openLCA Nexus by Salwa Burhan, Claudia Di Noi, Michael Srocka, Andreas Ciroth is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on work on www.openlca.org and various impact assessment models. Permissions beyond the scope of this license may be available at www.greendelta.com. 
+
+September 2020
