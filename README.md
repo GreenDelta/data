@@ -11,3 +11,7 @@ Version updates or any modifications in the LCIA methods, such as addition or de
 The repository will enable users to track the changes in each of the LCIA methods with each version update, and download the most fitting LCIA methods from the [openLCA Nexus website](https://nexus.openlca.org/database/openLCA%20LCIA%20methods). 
 
 In case of any clarifications, comments or also error norification, users can use this platform. For more information on how to use GitHub, please read this [guide](https://guides.github.com/activities/hello-world/).
+
+**License**
+
+LCIA method pack for openLCA Nexus by  Salwa Burhan, Claudia Di Noi, Michael Srocka, Andreas Ciroth is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on work on www.openlca.org and various impact assessment models. Permissions beyond the scope of this license may be available at www.greendelta.com.
