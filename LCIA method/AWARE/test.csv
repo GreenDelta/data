@@ -1,0 +1,504 @@
+IC_UUID,IC_NAME,REFERENCE_UNIT,IM_UUID
+2e0e479e-6ea7-3221-88ea-41aa6530c5d2,Water use,m3,d07113f5-5b74-3af3-84ae-9548cbceafd3
+379b6af4-10b2-3313-924f-c95dada6cc33,"HH, marginal",DALY,3f290cab-a3ac-38af-b940-f31faf74cbe4
+d54f4770-5fb3-3acf-80dd-09b2acb6d4ed,"HH, distribution",DALY,3f290cab-a3ac-38af-b940-f31faf74cbe4
+0e2130aa-4c10-3fb7-b746-e47b0da55625,WSI,m3,3c7418c4-b970-39ea-9ecf-b351266877f6
+5008587e-8d72-3402-80df-68e20d636b51,Marine aquatic ecotoxicity,"kg 1,4-DB eq",effb055a-ad78-39bd-8dc0-341411db4ae7
+d098dc03-4caa-3c76-84df-bdd28659d40f,Abiotic depletion,kg Sb eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+73a47a0e-d1bf-302e-9ccb-5acd886512e3,Terrestrial ecotoxicity,"kg 1,4-DB eq",effb055a-ad78-39bd-8dc0-341411db4ae7
+44c2d0e0-0745-3f3e-bffb-bfaea092e3c4,Ozone layer depletion (ODP),kg CFC-11 eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+4c93a806-0b15-3a3b-bb1c-a2efb81dc86e,Fresh water aquatic ecotox.,"kg 1,4-DB eq",effb055a-ad78-39bd-8dc0-341411db4ae7
+acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+3a7921c8-147c-39e4-96c8-08e7e72a0d47,Acidification,kg SO2 eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+1d718284-11cd-338b-8fa2-dca155579f9d,Eutrophication,kg PO4--- eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+4b4ead48-6399-327e-9739-5321ce805c7b,Human toxicity,"kg 1,4-DB eq",effb055a-ad78-39bd-8dc0-341411db4ae7
+6f3b47a9-7d7b-3a96-b8c3-91139ae57f56,Global warming (GWP100a),kg CO2 eq,effb055a-ad78-39bd-8dc0-341411db4ae7
+a30f30eb-d5ff-3051-80f2-2f789db52886,Abiotic depletion (fossil fuels),MJ,effb055a-ad78-39bd-8dc0-341411db4ae7
+53f7be3f-ec33-35e3-89ca-13c3fb1096ab,Ozone layer depletion 15a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+9b283778-ca59-3c9f-93d9-157c3db028db,Global warming 100a (incl. NMVOC av.),kg CO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+f033f3d7-6a95-3a72-b1b5-6cd095c39818,Marine sediment ecotox. 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+136de7e5-9df3-3042-9cb7-c29a555dd5b4,Human toxicity 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+45a1d5ed-3a11-367b-8481-fa1454e44a5e,"Fw. aq. ecot.  (PAH, Xylene & NMVOC av.)","kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+85c4b65b-1fa8-3726-96e9-d0750dd5d415,Ozone layer depletion 30a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+7c8de615-1806-3abd-9551-357803c9690f,Acidification (fate not incl.),kg SO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+ef7cfb8f-a599-3fc3-8c26-3b5fc541c0e8,Global warming 20a,kg CO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+fdf3af6a-346a-39ad-aed7-c18fb17b10e8,Marine aquatic ecotox. 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+315b12c8-458b-360e-9e68-2a1c645d7183,Human toxicity 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+038e1428-124d-3ebd-a2a4-80796ba7b083,Freshwater sediment ecotox. 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+49e6b756-2603-3c01-a5b6-c8271bfa713a,Photochemical oxidation (low NOx),kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+31c05950-42f9-341b-9772-aca9ca89590b,Terrestrial ecotoxicity 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+f5ded1ca-155b-35c4-85eb-f2b88b2d72ef,Marine sediment ecotox. infinite,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+b2853e97-d39c-3c99-a681-044a3fba23c3,Ozone layer depletion 10a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+9d06dc38-c004-326a-913b-14cbe5d63e8a,Land competition,m2a,46f19b82-ee92-3ff9-b909-d7cab2647b16
+f2b9e76a-a308-35d4-b8d2-542078927234,Freshwater sediment ecotox. 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+a54645e7-71cc-3222-ac63-62a5de5d3f27,Photochem. oxid. (incl. NMVOC av.),kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+9b45a6d1-ce2f-31ff-bf91-7284a429e4e5,Marine aquatic ecotox. 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+ffd8e137-9997-3500-829d-0407f1af292c,Global warming 500a,kg CO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+a3eafba2-4999-31ff-b2d3-a312b625eac1,"Abiotic depletion (elem., reserve base)",kg Sb eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+8772aabd-7b70-3a5c-816a-566541f2425f,Ozone layer depletion 40a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+ca6152cb-a28a-3046-b858-dbdf67c7cb8d,"""Photochem. oxid. (MIR, very high NOx)""",kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+6d819d27-b768-3ec0-bd28-009891e0e620,Ozone layer depletion (incl. NMVOC av.),kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+8d7dbf49-cfa2-3695-ba7e-982a02ee1da7,"Human tox. (incl. PAH, Xylene & NMVOC av","kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+7da22b63-a6d3-32db-84be-a4d505895213,Freshwater aquatic ecotox. 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+28a3f2de-943b-3808-b3b8-2de1e23e58d5,Freshwater sediment ecotox. 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+97a690cc-072b-3f5d-91da-4d78fd3cf0e6,Lower limit of net global warming,kg CO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+da89a79d-3438-3708-a076-018b4d588883,Ionising radiation,DALYs,46f19b82-ee92-3ff9-b909-d7cab2647b16
+389c9544-e4be-3c8e-bb52-7a3c9de6344c,Marine sediment ecotox. 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+3de1e36e-3cc3-3eea-9ab5-e2814d2bee70,Terrestrial ecotoxicity 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+14115d11-89ed-3c11-9383-8b86785c9a1d,Terrestrial ecotoxicity 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+470968d9-813c-32af-9675-6b554ecee614,"Mar. aq. ecotox. (PAH, Xylene & NMVOC av","kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+7e62b926-ef36-3ede-b309-b4632ea60c17,Freshwater aquatic ecotox. 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+41576d69-2a56-33bd-a568-c678d850cd7d,Human toxicity 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+c919fc2a-fc0c-3a23-8029-fe2044e6ca9b,"""Photochemical oxidation (EBIR, low NOx)""",kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+428548e5-7358-3604-9deb-81af8f917f4b,Marine aquatic ecotox. 100a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+a1aeebdf-8d98-3990-9ad3-7c7e20e68c2c,Ozone layer depletion 5a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+7abb5095-b896-34b2-84fa-e859bcc03a90,"""Photochemical oxidation (MOIR, high NOx)""",kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+7e2ed9cf-17ee-3182-96db-35a5cce3fd3a,Photochem. oxid. (incl. NOx & NMVOC av.),kg C2H4 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+756d07c7-d0ea-3a0b-a4f0-e7dfb1c02bf1,Ozone layer depletion 25a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+9a8c684a-2c1c-3123-a16f-ffcd545627fd,Freshwater sediment ecotox. infinite,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+e6b30240-9ea8-33da-a44d-1478e79bdfca,"Terr. ecotox. (PAH, Xylene & NMVOC av.)","kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+972ac2fd-9e07-3188-b4a1-6ee212c23cf1,Malodorous air,m3 air,46f19b82-ee92-3ff9-b909-d7cab2647b16
+0485279f-397e-3f34-8679-d1c42235f890,Marine sediment ecotox. 500a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+0bea16eb-4460-3577-ba6d-dc0e7ad94f89,Freshwater aquatic ecotox. 20a,"kg 1,4-DB eq",46f19b82-ee92-3ff9-b909-d7cab2647b16
+c3633f7c-c771-3ce6-b057-8cc3f060d195,Upper limit of net global warming,kg CO2 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+774e0ae8-f6b2-3d34-9b9f-39bc605bf283,Ozone layer depletion 20a,kg CFC-11 eq,46f19b82-ee92-3ff9-b909-d7cab2647b16
+c9bd3b2b-a4d3-383a-83e8-8d5ee29cab9d,HH cancer,g C6H6 eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+849a02bc-cdab-3ab4-b9a1-e70c8b4614cb,Acidification,H+ mmole eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+3ad074dd-9970-35bd-9a64-679b151b4d63,Water intake,liters,3905f4a1-6244-3748-b0b5-04e03262c5a8
+4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,3905f4a1-6244-3748-b0b5-04e03262c5a8
+9edd1ed0-2a89-3747-8456-474ac409aa1f,Indoor air quality,g TVOC eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+8888a9ff-6ab1-3696-9832-a00fbe420ba0,Ecotoxicity,"g 2,4-D eq",3905f4a1-6244-3748-b0b5-04e03262c5a8
+0c6bbea0-170f-3ff4-9780-45139d0f5883,Natural resource depletion,MJ surplus,3905f4a1-6244-3748-b0b5-04e03262c5a8
+99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+f4cb202c-cdad-3b35-bd3e-a7ff88d57f1f,Eutrophication,g N eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+0b65bca5-b93c-3231-8cb7-251dd07dc7e4,HH noncancer,g C7H7 eq,3905f4a1-6244-3748-b0b5-04e03262c5a8
+9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,3905f4a1-6244-3748-b0b5-04e03262c5a8
+f9e85ee6-1163-3d02-9158-1564276613e5,WDI,m3,f1565e3e-245a-3d5a-9c02-8b792c3cafaa
+be18d2fc-0ec1-3a93-9e92-efb4edb04adc,"Non-renewable, biomass",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+14e58e12-ca7b-3fdd-a8c6-c06a42567d4c,"Non renewable, fossil",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+0cc25ff8-966d-3b04-880b-1d26e469c876,"Non-renewable, nuclear",MJ,be749018-2f47-3c25-819e-6e0c6fca1cb5
+85b08c25-2f1c-3215-9a7b-d756ce821dbf,"Non renewable, fossil",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+72f766b9-4507-3dcd-9a53-dd2403e0e43b,"Renewable, wind, solar, geothe",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+9965ede2-3b74-377e-a6c8-97c150cddf81,"Renewable, biomass",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+220081ea-e677-379e-a67f-39b5c6d5042b,"Renewable, water",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+580b50d7-9d76-3e8a-a787-a1d0d69a5876,"Non-renewable, biomass",MJ,2f77143f-7956-3d12-9cab-6d9fbfc2f970
+9a619559-e7da-3481-bb8b-1fe5b91b4a7f,"Renewable, kinetic",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+05961986-960f-3af3-b609-2452277308f5,"Non renewable, metals",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+fafa88de-03aa-3ba7-b348-ad2af241b28b,"Renewable, solar",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+a3675079-9685-3cfb-a007-e86e8014fc29,"Non renewable, primary",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+f8c8ff65-aea6-3649-9069-4acb7e1a7ddb,"Renewable, water",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+d7a325e6-2ca8-3199-af6b-303a969c0d55,"Renewable, potential",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+7bf44e3a-5fa4-38b3-a7ed-f6a55bf66db6,"Non renewable, nuclear",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+4c575d90-e089-3fa4-bfc3-798849f03109,"Renewable , biomass",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+6764d0f6-086c-3abb-b600-99fc8484bd01,"Non renewable, fossil",MJ,b0cea729-49fd-334b-ac83-e90fa2202437
+ddaee513-369c-37eb-b194-c8824e895885,Natural resources (water only),UBP,b28b29e5-efb8-3964-8c40-08ad5ce4858a
+1d7b2c0f-374e-38a1-9de1-f8c2b0813206,Radioactive substances into air,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+a47f8df0-3649-3e4f-92fe-82ae9059361a,Heavy metals into water,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+0d9b7dc6-2398-3f8c-81ea-a00ae34b8427,POP into water,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+c852f591-7b87-323b-b0ca-d2757b77dca5,Energy resources,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+2b810a33-afae-3b82-873e-fcbf70842846,Heavy metals into air,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+e38f116c-864e-3af3-b2b5-c3283ee097f6,Heavy metals into soil,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+1b63fe3e-9ef1-3e19-a77e-d228e775da6c,Water pollutants,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+9f0a07da-612d-395e-a6a9-5375a7103ce7,Mineral resources,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+46f1601e-a91a-37e7-bf05-cb9c488d1c47,Global warming,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+a8115b34-9a65-39b9-8dd1-277236b9addc,Radioactive waste to deposit,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+9d78f354-656a-3548-b4a7-e79c40e97cdb,Carcinogenic substances into air,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+fab221dc-4041-3e50-b937-92f1470d0930,Radioactive substances into water,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+5d29ecaf-1894-327e-bfe6-53ce55d69eb9,Water resources,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+ea84db17-6890-380f-a807-52f0b5c493c7,Non radioactive waste to deposit,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+c7f924d5-41ab-30cc-8a4e-c05defcc1206,Main air pollutants and PM,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+8ec14e99-dfa4-350d-b33a-accb82f7ecf3,Ozone layer depletion,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+03aeb69c-d882-3f7c-949d-eaea7190de0d,Pesticides into soil,UBP,f25cab6d-24b8-3823-ba2b-38b491622b3b
+13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,49beff5f-2ecb-3ce4-82f5-4003815edeaf
+6c37d574-cd8a-3d54-bff8-0a728516bd1f,"linear, land transformation",points,49beff5f-2ecb-3ce4-82f5-4003815edeaf
+92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,ae266ddc-ff35-3a5b-be2e-5a2021226227
+9c06cdb5-0b02-3334-8ca2-c58d1a58d5b8,Ozone formation (Vegetation),m2.ppm.h,ae266ddc-ff35-3a5b-be2e-5a2021226227
+93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,ae266ddc-ff35-3a5b-be2e-5a2021226227
+bafcc60b-3062-3fc4-9753-1aedf34e9513,Global warming 100a,kg CO2 eq,ae266ddc-ff35-3a5b-be2e-5a2021226227
+a4ebc45d-c11b-32ff-b2d5-56f496c8908e,Aquatic eutrophication EP(N),kg N,ae266ddc-ff35-3a5b-be2e-5a2021226227
+778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ae266ddc-ff35-3a5b-be2e-5a2021226227
+a3d8efe7-0723-3d38-b61d-b203323a29a1,Ozone depletion,kg CFC11 eq,ae266ddc-ff35-3a5b-be2e-5a2021226227
+6569512a-2c54-32d1-9da9-26b79e038bda,Ozone formation (Human),person.ppm.h,ae266ddc-ff35-3a5b-be2e-5a2021226227
+b9609a6a-7898-360a-8615-c5e35829eb78,Ecotoxicity water chronic,m3,ae266ddc-ff35-3a5b-be2e-5a2021226227
+c5c56f77-b1ad-36dd-868b-057b4d022200,Human toxicity water,m3,ae266ddc-ff35-3a5b-be2e-5a2021226227
+7e175787-f3d3-38c1-84db-dde4a5e5063d,Aquatic eutrophication EP(P),kg P,ae266ddc-ff35-3a5b-be2e-5a2021226227
+8ee47cbb-f517-317f-b41d-7c1d5b22a360,Acidification,m2,ae266ddc-ff35-3a5b-be2e-5a2021226227
+b3d5b4e1-cf11-3960-b71f-b780295d28c6,Resources (all),PR2004,ae266ddc-ff35-3a5b-be2e-5a2021226227
+42b26d72-71ed-3c07-bb14-f7669d4e7a63,Human toxicity air,person,ae266ddc-ff35-3a5b-be2e-5a2021226227
+1134bd92-15e1-38c1-9a0d-ee8435b5aae3,Ecotoxicity water acute,m3,ae266ddc-ff35-3a5b-be2e-5a2021226227
+076def33-8f2d-3fbd-9c6a-1b34095eb767,Ecotoxicity soil chronic,m3,ae266ddc-ff35-3a5b-be2e-5a2021226227
+aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,ae266ddc-ff35-3a5b-be2e-5a2021226227
+f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,ae266ddc-ff35-3a5b-be2e-5a2021226227
+e3a86bfa-e71e-389e-991b-b3289cc7c21d,Human toxicity soil,m3,ae266ddc-ff35-3a5b-be2e-5a2021226227
+248a3f3f-933e-3c45-a799-fad9f956e03c,Photochemical ozone formation,kg NMVOC eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+c732bdc7-4044-31ae-a670-6d9ccf4507b0,Water use,m3 depriv.,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+b4028c28-92bf-3731-af31-5005d1acea62,Ozone depletion,kg CFC11 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+dbdd01d5-2be4-3ba4-8127-de89f065fda1,"Ecotoxicity, freshwater",CTUe,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+20c5efe6-135a-30d0-b941-75f30bb1cdd8,"Human toxicity, cancer - organics",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+5fa27803-3370-3136-8274-8149415d2c26,Climate change - Land use and LU change,kg CO2 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+198c2d4f-9aca-38ed-999a-416e09370de6,Particulate matter,disease inc.,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+4eb4c81b-7cda-3264-9ad1-fa15168bdcd3,"Eutrophication, terrestrial",mol N eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+5067f656-f54f-3393-a55a-9c2a54444756,Ionising radiation,kBq U-235 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+4316221b-d1ab-3b99-b816-d8ffaab7fab5,"Eutrophication, marine",kg N eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+7e5f7680-70bd-3598-8d56-e8b3185dd595,Climate change - Biogenic,kg CO2 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+1783fe30-a9ed-34b5-b5f9-9acdb2fcd013,"Ecotoxicity, freshwater - inorganics",CTUe,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+241a3453-8167-35d0-a5da-d2bff22a65a6,"Ecotoxicity, freshwater - organics",CTUe,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+8dc972d8-cd5f-34c4-984b-01df508bac8b,"Human toxicity, cancer - metals",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+9ee5b46d-5bd1-3461-abc4-0ce9dcd85dcd,"Human toxicity, cancer",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+95f89947-4850-31b8-9101-090cf2bf431b,"Resource use, fossils",MJ,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+f4895d6e-c2cc-3096-bfab-197436031d1e,"Human toxicity, non-cancer",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+b3ba5fc3-5a6f-364b-b839-9ee55d418cb3,"Resource use, minerals and metals",kg Sb eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+d955e015-db81-325e-acf4-89044bceb3e6,Climate change - Fossil,kg CO2 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+3bc1c67f-d3e3-3891-9fea-4512107d88ef,Climate change,kg CO2 eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+2dddb0a4-2f97-3fef-a4e6-708f0b4c2554,"Human toxicity, cancer - inorganics",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+2bbe3c6a-5f0d-33d5-a6b9-8501e3821746,"Human toxicity, non-cancer - organics",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+9d1aee72-1b47-323e-afbc-827b452d4940,Acidification,mol H+ eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+2e0b3f30-541b-37c9-8cfe-071de8a46f6d,Land use,Pt,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+eb072b11-7c98-3470-a835-b428f1797461,"Human toxicity, non-cancer - inorganics",CTUh,b4571628-4b7b-3e4f-81b1-9a8cca6cb3f8
+6829b75b-fdae-32a9-a27f-2bd4834439a6,Cancer human health effects,CTUh,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+e079b6b3-bad8-3fa0-a9f8-43436eace726,Water scarcity,m3 depriv.,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+da98e46f-c2ee-3283-8ce0-bce330474c96,Ozone depletion,kg CFC11 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+b3c4cee1-4bdf-3289-b1b1-14c48189462d,Climate change,kg CO2 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+3ab8e56c-c663-3d5b-9003-b313dfa2fcdf,"Ionising radiation, HH",kBq U-235 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+f51ef6bb-2e8c-3993-afc7-a6b7173250f2,Climate change - biogenic,kg CO2 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+c7247a34-7b90-3a4e-b5e5-a37663f889d5,Non-cancer human health effects,CTUh,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+82859ffc-c06e-3395-b93b-257878778ed4,Climate change - land use and transform.,kg CO2 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+65936eab-27c6-30d5-9c5b-253e48d00e1d,Acidification terrestrial and freshwater,mol H+ eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+c0b85854-a89b-3b5f-8d2c-c8971ebc94c3,Land use,Pt,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+91ea5e59-58fd-3cbb-bf6a-26ec099a98a3,"Photochemical ozone formation, HH",kg NMVOC eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+1f1dd9ef-8732-33d8-8df4-ea13a31bba08,"Resource use, mineral and metals",kg Sb eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+51c59d8e-7e04-3aae-8f08-5cf00ef7d292,Eutrophication freshwater,kg P eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+6e8d8ecb-b76e-3e47-ac67-12362e247769,Climate change - fossil,kg CO2 eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+9912f373-c6a0-3bae-aeef-d96065a676d3,Eutrophication marine,kg N eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+be73c95b-2bd3-3e60-b068-636cda5b1a5f,Eutrophication terrestrial,mol N eq,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+d01b7214-6fd9-3930-b2e2-66296bb1f17e,"Resource use, energy carriers",MJ,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+28efd0a8-4095-31ef-9979-ad1fe406c621,Ecotoxicity freshwater,CTUe,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+eb56e7b7-178d-3135-bb9b-170a706121be,Respiratory inorganics,disease inc.,b0f6a3ba-a0be-3bfe-ae43-4e23c241e4b6
+209bd9be-d5c1-317b-a79b-2a76b79e495b,Climate change,kg CO2 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+65e09a23-0560-3eb6-94c6-29601ef9f113,Ozone depletion,kg CFC11 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+9e7da751-8c08-3241-85c2-cd72e4f4c373,Land use,Pt,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+a44bd383-9439-39c4-bc02-301175ef11f4,"Ecotoxicity, freshwater - metals",CTUe,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+df71c514-5c33-3d65-ab75-6f905c19bdc3,Acidification,mol H+ eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+58c15e82-5158-36aa-82cd-8ea40cf70adf,"Resource use, fossils",MJ,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+1cb335e6-4c41-3078-94fd-d355e3f9b5d7,"Human toxicity, cancer - organics",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+84e26e48-bb36-3ab3-931b-879c69d52ff9,"Human toxicity, cancer",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+784079fd-3c9b-3b34-9232-9c188d8514f7,"Human toxicity, non-cancer - inorganics",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+8f01f284-39bf-36e5-97ba-f2515ba820aa,"Eutrophication, marine",kg N eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+b5d45799-481a-3423-ba77-8a4549a4103e,Water use,m3 depriv.,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+02811db7-71f5-37a5-9fbf-815d309c5a21,Ionising radiation,kBq U-235 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+4fc54fc3-1ff3-3d5a-b43f-56a8ece7bf1d,"Human toxicity, non-cancer - metals",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+22d5afbd-bb7f-3f7c-a289-2ac0dfa57192,"Eutrophication, terrestrial",mol N eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+4469d642-487b-3cea-a527-794db494158f,"Resource use, minerals and metals",kg Sb eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+82c592fe-d47c-341a-babc-53d2c3f8abf1,Climate change - Fossil,kg CO2 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+88dc8f8b-382c-36a2-a9dd-6b2e277af68f,"Eutrophication, freshwater",kg P eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+f13a4b14-199f-3be9-bda2-03543431d53f,"Ecotoxicity, freshwater - inorganics",CTUe,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+644c466d-d2b4-340d-ad0d-caf1b5483403,"Ecotoxicity, freshwater",CTUe,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+022b6ff1-a76f-39ff-9a1c-aced4cfa102c,"Human toxicity, non-cancer",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+2def040a-b102-3c26-a23c-4a947fe13fe9,"Human toxicity, cancer - inorganics",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+8ab857d8-1ff1-30f3-bd52-f649b08509f9,Particulate matter,disease inc.,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+1b39ccd7-a181-3c71-bd58-e2cd6d72b8de,Climate change - Land use and LU change,kg CO2 eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+83690c48-0656-34d0-ae5a-38acaed12b65,"Ecotoxicity, freshwater - organics",CTUe,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+e4c0092c-5ab4-3dc7-a219-527907e8a1ea,Photochemical ozone formation,kg NMVOC eq,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+c531b2a4-cc36-3862-90be-1a2d968f359b,"Human toxicity, non-cancer - organics",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+9022c69c-70a7-3d49-a988-e74a5863d183,"Human toxicity, cancer - metals",CTUh,a4fa1dc6-317b-30ad-b2eb-6744ff77dcf0
+f070854d-750c-32ec-9a83-c2af398d5ac5,Marine ecotoxicity,"kg 1,4-DB eq",27407857-2131-3ba5-883a-8ef69088d36a
+14a846e9-545f-34fc-8cc3-06fc52796a78,Human toxicity,"kg 1,4-DB eq",27407857-2131-3ba5-883a-8ef69088d36a
+3f1542ed-16c5-3084-9291-85fb6f09b87b,Ionising radiation,kBq U235 eq,27407857-2131-3ba5-883a-8ef69088d36a
+128cda13-4869-379e-82c7-bd14d7855318,Marine eutrophication,kg N eq,27407857-2131-3ba5-883a-8ef69088d36a
+ba641202-f60b-38d9-909b-fedfdc846a5d,Metal depletion,kg Fe eq,27407857-2131-3ba5-883a-8ef69088d36a
+4306e027-294a-30fb-90c8-97dcf9a06d92,Freshwater ecotoxicity,"kg 1,4-DB eq",27407857-2131-3ba5-883a-8ef69088d36a
+28030ee1-3c42-37a5-8150-91f4570946f3,Fossil depletion,kg oil eq,27407857-2131-3ba5-883a-8ef69088d36a
+bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,27407857-2131-3ba5-883a-8ef69088d36a
+81f80eea-a8ad-360f-ac3d-586832c5f053,Ozone depletion,kg CFC-11 eq,27407857-2131-3ba5-883a-8ef69088d36a
+f26c76a9-863e-32a4-9242-c885321f9dd0,Terrestrial ecotoxicity,"kg 1,4-DB eq",27407857-2131-3ba5-883a-8ef69088d36a
+ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,27407857-2131-3ba5-883a-8ef69088d36a
+dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,27407857-2131-3ba5-883a-8ef69088d36a
+ba03a5cf-c0af-3291-8621-fe53b63dce8a,Climate change,kg CO2 eq,27407857-2131-3ba5-883a-8ef69088d36a
+7412244a-6163-3919-9ea1-06d18076db43,Photochemical oxidant formation,kg NMVOC,27407857-2131-3ba5-883a-8ef69088d36a
+0f3f4d9b-3bda-3b40-bfd0-f9a6adefc2da,Agricultural land occupation,m2a,27407857-2131-3ba5-883a-8ef69088d36a
+2528aae9-86ce-328d-ba73-63a86cf2e433,Freshwater eutrophication,kg P eq,27407857-2131-3ba5-883a-8ef69088d36a
+1455af4d-a2e6-3758-a392-2f35938fbc88,Water depletion,m3,27407857-2131-3ba5-883a-8ef69088d36a
+148b7da4-1703-31fe-b345-3330b4a57a63,Particulate matter formation,kg PM10 eq,27407857-2131-3ba5-883a-8ef69088d36a
+8fecafea-a852-3444-92c7-aca2caf5f2f3,Ozone layer depletion (ODP) (optional),kg CFC-11 eq,83812f2a-8272-3244-91a5-20ca745f0902
+935d8527-1659-3dcd-8103-fa230dabcf72,Eutrophication,kg PO4--- eq,83812f2a-8272-3244-91a5-20ca745f0902
+a06b977c-e40d-36b7-ad33-f179be03c9dd,Water scarcity,m3 eq,83812f2a-8272-3244-91a5-20ca745f0902
+f8df2095-d8d1-3a44-b091-51588127c597,Photochemical oxidation,kg NMVOC,83812f2a-8272-3244-91a5-20ca745f0902
+e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,83812f2a-8272-3244-91a5-20ca745f0902
+37d08d8a-ca81-3b3e-ae69-1c4bcf4d19c4,"Abiotic depletion, elements",kg Sb eq,83812f2a-8272-3244-91a5-20ca745f0902
+371f1238-e13c-30a5-b43c-37fb28bf4021,"Abiotic depletion, fossil fuels",MJ,83812f2a-8272-3244-91a5-20ca745f0902
+ade06603-d83a-35f1-a8a4-ae645574c89f,Global warming (GWP100a),kg CO2 eq,83812f2a-8272-3244-91a5-20ca745f0902
+63efef47-7844-331d-9c54-e3d98adcb233,COPD severe,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+933e49ae-e8bd-3fd7-9182-b18700b61669,Depletion of abiotic resources,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+c467bf19-5c33-3fdd-b3f7-71b7ee5b324f,Separations,case,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+5bdfeb34-712d-3148-a072-793b3c5f62a3,Irrigation water,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+0843647b-82d2-3fcb-be84-def058363fa9,Poisoning,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+d6c1cf80-59b7-31e5-98b5-2394a53bc4ae,YOLL,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+d904c822-e067-3d6f-873a-690e36819c89,Wood growth capacity,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+aab1133e-defa-3723-b758-6679659f8b3d,Drinking water,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+ff32ec3a-1520-3ed2-80cc-903f71f93dab,Fish&meat production capacity,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+72500c2f-f2f7-3c10-8b0a-1d8a77e5f222,Housing availability,m2,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+a27bbc3d-d9ae-3193-9181-7529aa2bfd8f,Species extinction,NEX,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+201d36cc-2ae4-3972-8bb1-4f2c71afcef4,Cancer,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+4b7b14bd-5f0b-36b8-8b8d-e6088236fd05,Working capacity,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+f0c636a2-336d-3e00-9cbe-0b53ec744ea7,Skin cancer,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+72ed6954-464e-3801-967a-933254e1b484,Intellectual disability: mild,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+545d53a2-f78f-3608-840f-04458a2ecda3,Crop growth capacity,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+3513b783-22f0-313f-af2c-9b9dc4c31fda,Malnutrition,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+58430da7-9bcd-3d93-a08e-981cd7059b08,Gravation of angina pectoris,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+ccd6f123-bb75-3b20-836b-a2bbf56fa936,Production capacity for fruit&vegetables,kg,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+7ea22a82-e40e-3ea1-b6cc-d2aaf90be942,Asthma cases,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+50e28051-854d-3e88-93b2-f3df883d558a,Diarrhea,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+ae78fac9-c52d-3baf-bf10-2bdd80ab9e53,Low vision,PersonYr,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,89c872c4-f1f6-39c3-a49f-f50ded7b632f
+5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+01db89a3-6b29-388f-bd44-65fd3dec50c8,COPD severe,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+65226290-e570-3f7f-a922-efea329c49b1,Skin cancer,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+53722d39-b105-3e39-b127-163d0ef1b229,Low vision,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+c869d3ad-8e4e-3da5-96c1-13cb5bd1d938,Diarrhea,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+c53d6d32-0e8b-3a6b-9037-2bc4295ae733,Depletion of abiotic resources,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+efe47670-1c7b-349c-b42b-f255c623d7f2,Separations,case,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+0fc381a9-e885-3c8d-8fa3-1ac54a8af794,Drinking water,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+5bd82709-84f8-3e34-a252-d524046da038,Asthma cases,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+e6e494ed-5f3f-3110-9bdd-88ac948b322e,Fish&meat production capacity,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+6575f54b-f047-3270-a47d-6af859e7b7c5,Wood growth capacity,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+44d65efa-dc96-39a2-8c75-8f579dda372f,Housing availability,m2,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+c66ff87e-6ac0-36c4-8d95-4b0c1f77bd46,Crop growth capacity,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+ba1fc06e-8b99-33a1-81c7-cd20ea4386cb,Production capacity for fruit&vegetables,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+98a7f4fe-ddd1-3d74-833a-27696cdbf1cb,Species extinction,NEX,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+4ead84f5-bccb-3eb2-a5ac-67eb8789d12a,YOLL,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+ffc6b0fa-e55c-396e-ae24-595cf706949e,Poisoning,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+8e3c8bcf-f50d-3e5a-8519-8b0fd2b319d2,Osteoporosis,case,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+8bcc3d7c-bba5-3f56-a216-c74e5f121031,Malnutrition,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+846a80c1-0019-3a35-a984-53274c4ed021,Working capacity,PersonYr,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+92a0b5be-5f2f-3b72-a82a-d8d23f8bdd2f,Irrigation water,kg,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+b8561781-d335-39c2-ae38-e1ae1fc12e08,Renal dysfunction,case,aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2
+c897165b-db72-3815-8af1-b7b03fa43365,CO2 uptake,kg CO2 eq,c4286970-0cd0-354f-b3a3-b69e14d95258
+8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,c4286970-0cd0-354f-b3a3-b69e14d95258
+bbea57ba-90aa-3398-aa15-353dccf109c7,Biogenic CO2 eq,kg CO2 eq,c4286970-0cd0-354f-b3a3-b69e14d95258
+cbbab6b5-1e1e-3962-a8be-9690f9310ac2,Fossil CO2 eq,kg CO2 eq,c4286970-0cd0-354f-b3a3-b69e14d95258
+4fbeb69c-0491-32b0-9fa8-325223125643,WSI,m3,bfb6bd35-2943-3d22-bcfd-8bfacdddacd8
+ced83ca3-af5a-38f0-8b59-bb7900894301,Photochemical ozone formation,kg NMVOC eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+e2dedeec-7f64-31b5-b5c4-94e7553f45cc,Ionizing radiation HH,kBq U235 eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+9e3bd74a-7c72-3204-a5fc-7fea48270e89,Terrestrial eutrophication,molc N eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+6827e043-b809-3a5c-825e-7ad31ce9c7bf,Particulate matter,kg PM2.5 eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+1811fb08-9d8a-38b3-9880-cab2ff6d1462,Climate change,kg CO2 eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+419dc346-20f1-33cb-84f9-84fc0c19bff7,Acidification,molc H+ eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+a18cef8f-5787-37ee-9498-53ec64aad901,Ozone depletion,kg CFC-11 eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+98ef5107-1a84-34ae-88dc-0c84da5d2545,Freshwater ecotoxicity,CTUe,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+970632e5-0def-30ee-a6dd-a2a7026c0b7f,"Human toxicity, cancer effects",CTUh,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+d597d9bd-f306-3ad3-af11-16e6dd0ac7ec,"Human toxicity, non-cancer effects",CTUh,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+c8c7b326-58f6-37a3-a8d6-161575c3dfd0,Freshwater eutrophication,kg P eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+0ce35b4d-0ee7-30fb-a3a5-32a94d223ded,Water resource depletion,m3 water eq,84b7e3f4-2898-3d5a-980a-faea0b995bdb
+a21865c5-2fb8-3104-884e-8dcaa0f59ad2,Ionizing radiation,Bq C-14 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+c35a82f8-c6bc-3408-ae84-fb4323e06f23,Global warming,kg CO2 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+2a1a7f55-c622-378e-af69-aef735cb5387,Aquatic acidification,kg SO2 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+c25c7c42-db8f-3648-b569-b46c1fc83379,Non-renewable energy,MJ primary,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+59238942-bccd-3388-b4ce-d275c220801e,Aquatic ecotoxicity,kg TEG water,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+fd18f8b0-0656-33c0-956d-aeee95762653,Carcinogens,kg C2H3Cl eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+693923a7-7b4e-3cef-b36c-295cf634ea31,Respiratory organics,kg C2H4 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+982ce5be-2003-3997-a2e7-e2e252ec4abf,Terrestrial acid/nutri,kg SO2 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+d628ba11-32ba-3d61-8b4a-4f0d12388960,Non-carcinogens,kg C2H3Cl eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+db3697b8-3ae9-3fc3-9ce9-5f3575555ef3,Terrestrial ecotoxicity,kg TEG soil,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+b566bc69-9986-3527-a5fb-40f273b18c82,Land occupation,m2org.arable,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+f800f493-43c1-354b-8a95-67b7e9d3301d,Aquatic eutrophication,kg PO4 P-lim,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+a2ca4f4e-aa74-325a-b8ba-301fab152372,Ozone layer depletion,kg CFC-11 eq,6b0c5e8a-8e8a-3679-a591-41f944e83bfd
+0529022f-23cd-36e5-bbba-3aff792d439c,IPCC GWP 100a,kg CO2 eq,787c02f1-d1f2-36d6-8e06-2307cc3ebebc
+0eeff8f8-0dff-3bd3-86da-24edd6e52d18,IPCC GWP 20a,kg CO2 eq,2d4fec29-3ff5-3499-8dcd-dc085c76c454
+900d021a-de62-31b6-b575-4e77d1d7d9d8,"HH, agricultural water scarcity",DALY,00348e72-2710-3554-a7ee-a6b36d360701
+f101d85d-333f-3afe-b4b8-2f2f06e2e1ab,"HH, domestic water scarcity",DALY,00348e72-2710-3554-a7ee-a6b36d360701
+67318ed2-fe9c-39b3-a85d-841541d09cd0,Human Health,DALY,e222b6d0-1232-386e-ac14-52bc4d18c571
+7aa1757a-5610-379d-a591-17f610bd88a9,Resources,MJ surplus,e222b6d0-1232-386e-ac14-52bc4d18c571
+537c7e90-dc16-386d-91fc-f9119b238972,Ecosystem Quality,PAF*m2yr,e222b6d0-1232-386e-ac14-52bc4d18c571
+f7329889-2466-362f-a1a8-a93c42a13895,WSI,m3,347b27b7-9c49-3424-b0ce-bada2fe8df95
+61009a43-3c77-3551-9a5b-d3371ce69c57,Ecosystem Quality,species*year,4c93a729-bc72-3938-b608-cbd95d2318a5
+2fa0ec33-2835-3490-86fb-7bf8511b3b64,Human Health,DALY,4c93a729-bc72-3938-b608-cbd95d2318a5
+3eaa7c63-5d41-3885-b7cd-19cfc334ee79,Resources,$ surplus,4c93a729-bc72-3938-b608-cbd95d2318a5
+11be7d76-2240-380c-ad1d-b6987e10196a,Ionizing radiation,DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+08b6912a-f0af-39db-8873-d04d21cf6cb1,"Ozone formation, Human health",DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+84b46bd1-8186-30ff-8afd-011bfcc7860a,"Global warming, Human health",DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+2fa55086-9380-368e-a5e1-3e6c2cf92249,Human carcinogenic toxicity,DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+43ed2b03-5722-34ca-bbda-03417e17a95b,"Global warming, Freshwater ecosystems",species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+a1fa8b37-27c4-3bf8-a6d2-3922b112e987,Freshwater eutrophication,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+e882c4a0-fe1b-3338-ace0-0e7e00aff951,Freshwater ecotoxicity,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+11920ecd-2dba-3a21-80e2-ae26a5dd0cb7,"Ozone formation, Terrestrial ecosystems",species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+00baa376-4153-3589-bd36-29bb588c144e,"Global warming, Terrestrial ecosystems",species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+b58ae860-49c5-3987-a88e-cf6bfdf2ed7a,"Water consumption, Terrestrial ecosystem",species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+ca404117-c54b-31c0-bbc5-ae12da3f9d8d,Human non-carcinogenic toxicity,DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+28804c9a-ada9-35d2-b94a-28eb5b8b3cc5,Fine particulate matter formation,DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+b8486997-1233-3169-bea7-1d376bb6f4c6,Stratospheric ozone depletion,DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+8e2a2bfc-ba22-3ac7-866d-6b662fb3b8d7,Terrestrial acidification,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+2b397422-c989-34e4-93fd-43a8cb5fa91b,"Water consumption, Aquatic ecosystems",species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+334fe532-28e6-3961-a29f-3339a6c69cfa,Terrestrial ecotoxicity,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+1e74965a-dbc7-3474-af56-db47f6c43d33,Marine ecotoxicity,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+17f6465f-8b70-3638-9bad-067659a20d82,Land use,species.yr,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+ff4ca1ca-cb2e-32dc-b510-5f6b12f3d2e2,"Water consumption, Human health",DALY,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+be9322da-1209-3466-8bf0-e639f3d2f117,Fossil resource scarcity,USD2013,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+6f0ba6b2-3321-3625-9e9d-4a9ba487231e,Mineral resource scarcity,USD2013,3b7b6f24-9809-3b46-a0be-2f09892ab9eb
+bea0b2b0-4fc1-310b-8a6f-60ad1c11694f,Terrestrial acidification,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+0097a24d-77ab-3589-be6b-2be73cfa8947,Terrestrial ecotoxicity,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+a531306f-c0ef-3ede-8ef0-190982e8512c,Fossil resource scarcity,USD2013,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+ccb7945c-5f4c-3a19-870b-111c0d19c19e,"Global warming, Freshwater ecosystems",species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+b5d8a3d7-1fe2-3e4b-be56-8e5aa8a81ca8,Freshwater ecotoxicity,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+e971652b-97fa-3c7b-9a74-6e6bc4b90d8f,Human non-carcinogenic toxicity,DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+0b66e474-0300-3c49-aa93-f88f26222ec3,"Global warming, Human health",DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+656f9cd8-2316-3c03-9ecb-451fe5d36f98,Fine particulate matter formation,DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+cd715643-4319-331d-976d-30ba56854475,Marine eutrophication,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+63a32d8f-5f08-3a8e-a44a-6ae63a95ea9f,Freshwater eutrophication,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+a6371f3f-6f95-32ac-9082-b85dd201e999,Marine ecotoxicity,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+0d2447fa-4c3d-35d3-b133-9da6d33f6dae,Human carcinogenic toxicity,DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+87c323f8-110b-3e8e-bdae-ad61283728f4,"Global warming, Terrestrial ecosystems",species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+eb55767b-3579-3f38-b4ca-dce1f2d1bbbc,"Water consumption, Aquatic ecosystems",species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+b75d0d88-1e43-372d-8502-996702b7f7d9,"Water consumption, Human health",DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+68a4e642-4b9a-35c4-95a0-89df42336ffa,"Ozone formation, Human health",DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+75025f52-0ab5-3623-8dc7-4b09fa2fab38,Stratospheric ozone depletion,DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+2b0a4828-6d95-360e-ad2a-2c2b90c05d40,"Ozone formation, Terrestrial ecosystems",species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+766da352-c0c5-378c-9a08-af9bbb5fe0fa,Mineral resource scarcity,USD2013,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+b1dfcc48-741a-3860-a938-a2af06ec1c92,"Water consumption, Terrestrial ecosystem",species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+070a1469-e952-339b-b0e0-c1f7f31fe56b,Ionizing radiation,DALY,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+4ffc08f3-23c1-32a2-8e43-3bc3f95f1434,Land use,species.yr,692b670c-b4e9-3ded-b7b0-a84b00d39bdc
+22bc08e2-682d-3956-a26b-196eb9453ccd,"Global warming, Terrestrial ecosystems",species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+458cd96e-2bf1-3c52-bca6-852e1328c9c1,"Ozone formation, Terrestrial ecosystems",species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+90043fa9-7edd-31e2-b381-334708da0db8,"Water consumption, Aquatic ecosystems",species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+2bb35182-4366-32a0-a014-bb8bb6204fb0,Fossil resource scarcity,USD2013,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+b07cee36-8f7d-3ebe-abd9-ac304a4d64cf,Ionizing radiation,DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+ca2be82b-0f72-3ee3-980a-4d49a7797685,"Global warming, Freshwater ecosystems",species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+ed70124a-3e63-30ae-bfa5-686aa5c9d2ab,Fine particulate matter formation,DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+fa1a31a6-ae44-3594-a721-323d2cf4a989,Mineral resource scarcity,USD2013,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+55369ffb-9f68-3c0c-be21-3c8db81ee6a4,Marine eutrophication,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+49502cb8-5949-3f27-9ce8-ac89cd26a64d,Freshwater eutrophication,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+7496c2e2-6745-3dd7-a343-1059faf00363,"Water consumption, Terrestrial ecosystem",species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+3a25e137-74d7-3d34-a8aa-ddf502b2c335,Marine ecotoxicity,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+4c6159c5-1d29-37ea-9570-b5baff3504b3,Land use,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+f3138c2e-ea9c-305a-adf6-65e692e5b761,Terrestrial ecotoxicity,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+d551488d-7f48-3ea9-9d78-794721d31cc2,"Global warming, Human health",DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+16506dc7-b148-38fd-b429-80a3861c1d41,Terrestrial acidification,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+4e9850d3-3a6c-39b8-a23d-c9cafdcef6b3,Human non-carcinogenic toxicity,DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+5b89d9b4-355a-3dc2-8b2f-339f1274d6c2,"Water consumption, Human health",DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+8a45ec86-3e40-3d0c-8d06-47b6f7769b23,Human carcinogenic toxicity,DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+9dbf2441-a7f5-31c1-ae94-d73ae41c59d2,Stratospheric ozone depletion,DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+d19f3d69-acb9-3952-9915-ab0a8a2384d6,"Ozone formation, Human health",DALY,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+31417d6e-6814-3727-89a7-1d90c1d92cb1,Freshwater ecotoxicity,species.yr,183b58c6-44f8-353b-9c75-1cc3d8fe0274
+c6b2384c-5945-3390-8280-f7b0a6645685,Fine particulate matter formation,kg PM2.5 eq,47461eb7-ac98-3242-97e8-760434380369
+05927852-a35a-39d4-a571-7cb54660a561,Water consumption,m3,47461eb7-ac98-3242-97e8-760434380369
+a803fc09-27ec-32eb-95ac-2bc21b70ca0b,Ionizing radiation,kBq Co-60 eq,47461eb7-ac98-3242-97e8-760434380369
+55b7910a-049d-379b-891d-74e9480caaf2,Fossil resource scarcity,kg oil eq,47461eb7-ac98-3242-97e8-760434380369
+3b69b396-7853-3de1-9576-87c3abe73c01,Marine ecotoxicity,"kg 1,4-DCB",47461eb7-ac98-3242-97e8-760434380369
+2ff035a8-ca2a-30e9-a0de-79673c497d94,Global warming,kg CO2 eq,47461eb7-ac98-3242-97e8-760434380369
+55a4d003-bb2a-3326-b6c1-d6a964f1a8d6,Freshwater eutrophication,kg P eq,47461eb7-ac98-3242-97e8-760434380369
+ae586774-245d-3dd9-a54b-65ecfad0e2b0,Stratospheric ozone depletion,kg CFC11 eq,47461eb7-ac98-3242-97e8-760434380369
+43b885c7-b250-3002-ac15-4991d8759476,Human non-carcinogenic toxicity,"kg 1,4-DCB",47461eb7-ac98-3242-97e8-760434380369
+dae2ac1f-9006-3a32-b4f7-be0fd366d4a0,Human carcinogenic toxicity,"kg 1,4-DCB",47461eb7-ac98-3242-97e8-760434380369
+be3012f8-4350-37a4-a95f-74bf58f9223a,"Ozone formation, Terrestrial ecosystems",kg NOx eq,47461eb7-ac98-3242-97e8-760434380369
+bed89320-330c-357e-95bf-7feacbb2f0a0,Marine eutrophication,kg N eq,47461eb7-ac98-3242-97e8-760434380369
+651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,47461eb7-ac98-3242-97e8-760434380369
+893e5826-ce1e-3e91-900c-b5dcc996cba4,Terrestrial acidification,kg SO2 eq,47461eb7-ac98-3242-97e8-760434380369
+dab0053c-59b2-388d-bfed-7a69c23df7a4,Terrestrial ecotoxicity,"kg 1,4-DCB",47461eb7-ac98-3242-97e8-760434380369
+789727be-7d63-346b-9ba5-a25a2e63c3f4,"Ozone formation, Human health",kg NOx eq,47461eb7-ac98-3242-97e8-760434380369
+68ec1c72-51fd-38ab-aa08-b6363bfa8577,Mineral resource scarcity,kg Cu eq,47461eb7-ac98-3242-97e8-760434380369
+598ce7c8-10d1-309e-b263-95ffef404b2b,Freshwater ecotoxicity,"kg 1,4-DCB",47461eb7-ac98-3242-97e8-760434380369
+2d8e76c1-c7a5-3289-9657-0256edbeea41,Human carcinogenic toxicity,"kg 1,4-DCB",2e5cd15d-d539-3141-a950-56d75df9d579
+f93a8dda-aa59-3e8c-9344-1e0f6e4db224,Terrestrial ecotoxicity,"kg 1,4-DCB",2e5cd15d-d539-3141-a950-56d75df9d579
+f7c097c5-71c7-322c-a610-5dee0a39fd6b,Land use,m2a crop eq,2e5cd15d-d539-3141-a950-56d75df9d579
+0d4ca54a-eeea-3564-93a5-03906d763cdb,Terrestrial acidification,kg SO2 eq,2e5cd15d-d539-3141-a950-56d75df9d579
+b39a745e-4f3d-35b0-9797-10ebc40b24ad,Global warming,kg CO2 eq,2e5cd15d-d539-3141-a950-56d75df9d579
+80e0b1a4-16b9-3aeb-9136-e544aca7a1e3,Fossil resource scarcity,kg oil eq,2e5cd15d-d539-3141-a950-56d75df9d579
+95d88b64-0767-321b-8f02-9e3e7c65a527,Water consumption,m3,2e5cd15d-d539-3141-a950-56d75df9d579
+7f771819-2b75-30a4-b1d2-9a5846590d6d,Freshwater eutrophication,kg P eq,2e5cd15d-d539-3141-a950-56d75df9d579
+09a73c78-b3ba-3369-81ba-cf1bb9f0f54d,Ionizing radiation,kBq Co-60 eq,2e5cd15d-d539-3141-a950-56d75df9d579
+d7bce000-07a4-37d7-9cb6-0d11062b6baa,Freshwater ecotoxicity,"kg 1,4-DCB",2e5cd15d-d539-3141-a950-56d75df9d579
+f9e7dd9d-f3a3-318e-b458-6452fbdcbd8f,Mineral resource scarcity,kg Cu eq,2e5cd15d-d539-3141-a950-56d75df9d579
+d9ff50c2-00ab-3901-8970-569f9b7c8041,Marine ecotoxicity,"kg 1,4-DCB",2e5cd15d-d539-3141-a950-56d75df9d579
+b4315ae1-5cb2-3f70-ad17-1a35a58823ef,Fine particulate matter formation,kg PM2.5 eq,2e5cd15d-d539-3141-a950-56d75df9d579
+23d3e9af-9a16-31f1-a58d-81ecea82ac0a,"Ozone formation, Human health",kg NOx eq,2e5cd15d-d539-3141-a950-56d75df9d579
+6d056b44-9f90-3821-95c5-8594b5a6819c,"Ozone formation, Terrestrial ecosystems",kg NOx eq,2e5cd15d-d539-3141-a950-56d75df9d579
+e84559f5-8f11-36cb-b978-a41f0ef9780c,Human non-carcinogenic toxicity,"kg 1,4-DCB",2e5cd15d-d539-3141-a950-56d75df9d579
+e2b13de9-397c-3b6f-9dcf-4e206404db3b,Stratospheric ozone depletion,kg CFC11 eq,2e5cd15d-d539-3141-a950-56d75df9d579
+5e7d91a6-531c-3132-98ba-41b48d6e96f3,Marine eutrophication,kg N eq,2e5cd15d-d539-3141-a950-56d75df9d579
+11501fc5-8cdc-3ddf-93b7-d4eb0b698573,Freshwater ecotoxicity,"kg 1,4-DCB",cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+7b726a04-31ce-3643-8612-ab1ec45857bc,Stratospheric ozone depletion,kg CFC11 eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+c23a169a-f3a3-362c-a869-7f6a63b3cc1e,Ionizing radiation,kBq Co-60 eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+420385cf-51b6-3c13-b49e-3e73cf1a4270,Terrestrial ecotoxicity,"kg 1,4-DCB",cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+a877666e-fee7-3155-8e63-0b265fb45a51,"Ozone formation, Terrestrial ecosystems",kg NOx eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+fa2f053a-56c4-388c-8784-e5ef5ce142df,Freshwater eutrophication,kg P eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+6e8d1e83-f29c-34c3-afe7-aaf5502d24d8,Mineral resource scarcity,kg Cu eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+dafb72f8-08aa-3b20-95aa-86c866dc4c5f,Terrestrial acidification,kg SO2 eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+e6a5f291-2ab1-3bdd-9eab-1347a213614c,Water consumption,m3,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+44e30d3f-88ad-302f-9d1a-5d8f6a1aec43,Land use,m2a crop eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+54488a87-e760-3949-8caa-7a7d4932859c,"Ozone formation, Human health",kg NOx eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+d345ae02-543a-3bed-bf43-e2f1c52a2163,Marine ecotoxicity,"kg 1,4-DCB",cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+298b3635-3751-3bad-a244-d5481ce7d846,Global warming,kg CO2 eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+7f6e3a8f-d3ac-30cf-b306-88ef90e15fb7,Fossil resource scarcity,kg oil eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+bf5eb3e6-cc23-3871-b9cb-0bb7c4a971c0,Fine particulate matter formation,kg PM2.5 eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+65319d8e-fcc7-362f-a48d-3ed9d7d87415,Human carcinogenic toxicity,"kg 1,4-DCB",cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+4953b17e-cfab-3517-8def-973f1fe78a6a,Marine eutrophication,kg N eq,cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+45bb7716-5b68-3a4e-98dc-d72fb3f69374,Human non-carcinogenic toxicity,"kg 1,4-DCB",cdc94b11-9a31-3229-a2d4-5b78c2dc7e86
+126b2e4c-9b2e-32d9-ab51-dad8ae2a042f,NMVOC,kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+1c53472d-b8a1-36a1-aedb-a0d658a5e0d5,Cadmium,kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+eeb979c2-c5a2-3791-8fa7-8957d6cb5eb7,Land occupation,m2a,3a748812-7a13-3d2a-b663-6b62f7878bf9
+be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,3a748812-7a13-3d2a-b663-6b62f7878bf9
+d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+b9f7e6a3-7bc4-3f9d-ab36-77c1e0c2a0c6,Lead,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+b1026e51-b6ee-3938-b418-c3d6f6f39fdc,"Carbon, biogenic, fixed",kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+acd3a04f-8111-33b9-8cdf-a624c08b1ae4,Dinitrogen monoxide,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+e97d553f-37e5-3287-9ef0-42ecc9356d0f,"Particulates, >2.5 um and <10",kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+54916ea6-82c2-3e51-9fe3-e93653143b35,Zinc,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,09e9337a-b9ee-3e88-aaaf-bbff90744119
+87337a71-8da4-3994-aad9-ba1e0b623139,Nuclides,kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+1ec8999c-2051-38c1-a330-fd88616367c6,Actinides (water),kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+5004a96f-e8b4-36e9-8910-1211345a0459,Noble gas,kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+7665a933-8843-3db4-8769-1738094a96f5,Aerosole,kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+b9260378-00a5-30c5-b825-606840290b3d,"Oils, unspecified",kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+d9a858ea-4a6d-3645-9b16-216e70617c54,Freshwater,m3,09e9337a-b9ee-3e88-aaaf-bbff90744119
+6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,09e9337a-b9ee-3e88-aaaf-bbff90744119
+d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,09e9337a-b9ee-3e88-aaaf-bbff90744119
+a4e95db3-9fb4-3b32-8f1c-2872ac621b25,Actinides (air),kBq,09e9337a-b9ee-3e88-aaaf-bbff90744119
+d4827ae3-c873-3ea4-85fb-860b7f3f2dee,Non carcinogenics,CTUh,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+e0916d62-7fbd-3d0a-a4a5-52659b0ac9c1,Respiratory effects,kg PM2.5 eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+338e9370-ceb0-3d18-9d87-5f91feb7829c,Ecotoxicity,CTUe,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+7a149078-e2fd-3e07-a5a3-79035c60e7c3,Smog,kg O3 eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+31967441-d687-313d-9910-13da3a584ab7,Global warming,kg CO2 eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+a6e5e5d8-a1e5-3c77-8170-586c4fe37514,Carcinogenics,CTUh,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+0e45786f-67fa-3b8a-b8a3-73a7c316434c,Fossil fuel depletion,MJ surplus,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+45b8cd56-498a-3c6f-9488-134e951d8c02,Eutrophication,kg N eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+6c05dad1-6661-35f2-82aa-6e8e6a498aec,Ozone depletion,kg CFC-11 eq,d2c781ce-21b4-3218-8fca-78133f2c8d4d
+a7ebc3cf-c3c2-3eaa-bd39-68972780012e,Freshwater ecotoxicity,PAF.m3.day,5eb764ea-3f85-33f2-b99c-fc8c5b832f99
+d142afdf-e16e-354a-87bc-792b3f35e3d3,"Human toxicity, cancer",cases,5eb764ea-3f85-33f2-b99c-fc8c5b832f99
+403b1653-6361-34aa-bb11-326308519db4,"Human toxicity, non-cancer",cases,5eb764ea-3f85-33f2-b99c-fc8c5b832f99
+9ed07403-497a-3441-9a5a-e606fb90f9c7,Freshwater ecotoxicity,PAF.m3.day,af11ef29-8b3a-37ba-acc5-a7d01a871386
+31cff242-1ca3-32f8-943c-e54a8bf4282d,"Human toxicity, cancer",cases,af11ef29-8b3a-37ba-acc5-a7d01a871386
+e5958698-64cd-3f40-b58e-7a0d2d91f37e,"Human toxicity, non-cancer",cases,af11ef29-8b3a-37ba-acc5-a7d01a871386
