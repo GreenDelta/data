@@ -1,0 +1,16 @@
+Method to calculate Cumulative Energy Demand (CED), based on the method published by ecoinvent version 2.0 and expanded by PRé Consultants for raw materials available in the SimaPro 7 database. 
+The method is based on higher heating values (HHV). Contact info: http://www.ecoinvent.org/contact/Frischknecht R., Jungbluth N., et.al. (2003). Implementation of Life Cycle Impact Assessment Methods. Final report ecoinvent 2000, Swiss Centre for LCI. Duebendorf, CH, www.ecoinvent.ch
+Wood is not included in this methodology due to the frequent use of wood as feedstock in Simapro.
+Normalization is not a part of this method. Weighting: Each impact category is given the weighting factor 1. 
+Other adaptations (November 2018, v1.11): Updated characterisation factors for the remaining 6 flows in category Non renewable, fossil. Previously, their characterisation factors were calculated based on LHV instead of HHV. 
+Other adaptations (November 2017, v1.10): Updated characterisation factors for 22 flows in category Non renewable, fossil. Previously, their characterisation factors were calculated using LHV instead of HHV. 
+Other adaptations (August 2014, v1.09): (1) The following flows were added: Coal, bituminous, 24.8 MJ per kg; Coal, hard, 30.7 MJ per kg; Gas, natural/kg; (2) The factor for Methane was changed from 35.9 to 55.53 MJ/kg (the previous value was in MJ/m3, which is the incorrect unit).
+Other adaptations (August 2010, v1.08): The quantity and unit of the single score is changed: v1.07: Indicator (Pt), v1.08: Energy (MJ).
+Other adaptations (March 2010, v1.07): The weighting factor of impact category non-renewable biomass was changed to 1.
+Other adaptations (November 2009, v1.06): Created a new impact category: 'Non-renewable, biomass' and moved the substance 'energy, gross calorific value, in biomass, primairy forest' to this new impact category.
+Other adaptations (April 2008, v1.05): (1) Seven extra substance flows are added:           Energy, gross calorific value, in biomas, primary forest'; Geothermal converted'; Energy, solar, converted'; Energy, from hydrogen'; Energy, unspecified'; (2) The characterisation factor of Peat, in ground' raw biotic in IC non renewable, fossil has a new characterisation factor = 9.
+Other adaptations (February 2008, v1.04): Minor adaptations in Unit names and Impact category names (capitals, points) for more consistency with other categories.
+Other adaptations (August 2005, v1.03): In impact category Non renewable, fossil the characterisation value for "Gas, natural in ground" has been changed from 40,3 to 38.3 MJ LHV/m3 following the ecoinvent 1.2 update.
+Other adaptations (March 2005, v1.02): Sulphur removed.
+Other adaptations (August 2004, v1.01): Added: Additional oil resources; Water, barrage. Corrected values: Uranium ore, 1.11 GJ per kg, in ground; Uranium, 2291 GJ per kg, in ground; Uranium, 451 GJ per kg, in ground; Uranium, 560 GJ per kg, in ground. Not included: Energy from hydrogen; Energy, recovered; Energy, unspecified; Oil; Steam from waste incineration.
+Method checked against SimaPro 9.0.0.30.
