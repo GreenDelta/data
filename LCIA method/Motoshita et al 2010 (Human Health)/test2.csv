@@ -1,0 +1,51 @@
+﻿Flow,Category,Flow property,Factor,Unit,Uncertainty
+Ammonia,Emission to air/high population density,Mass,4.16E-07,species.yr/kg,none
+Ammonia,Emission to air/low population density,Mass,4.16E-07,species.yr/kg,none
+Ammonia,"Emission to air/low population density, long-term",Mass,4.16E-07,species.yr/kg,none
+Ammonia,Emission to air/lower stratosphere + upper troposphere,Mass,4.16E-07,species.yr/kg,none
+Ammonia,Emission to air/unspecified,Mass,4.16E-07,species.yr/kg,none
+Nitrate,Emission to air/high population density,Mass,5.72E-08,species.yr/kg,none
+Nitrate,Emission to air/low population density,Mass,5.72E-08,species.yr/kg,none
+Nitrate,"Emission to air/low population density, long-term",Mass,5.72E-08,species.yr/kg,none
+Nitrate,Emission to air/lower stratosphere + upper troposphere,Mass,5.72E-08,species.yr/kg,none
+Nitrate,Emission to air/unspecified,Mass,5.72E-08,species.yr/kg,none
+Nitric oxide,Emission to air/unspecified,Mass,1.17E-07,species.yr/kg,none
+Nitrogen dioxide,Emission to air/high population density,Mass,7.63E-08,species.yr/kg,none
+Nitrogen dioxide,Emission to air/low population density,Mass,7.63E-08,species.yr/kg,none
+Nitrogen dioxide,"Emission to air/low population density, long-term",Mass,7.63E-08,species.yr/kg,none
+Nitrogen dioxide,Emission to air/lower stratosphere + upper troposphere,Mass,7.63E-08,species.yr/kg,none
+Nitrogen dioxide,Emission to air/stratosphere,Mass,7.63E-08,species.yr/kg,none
+Nitrogen dioxide,Emission to air/unspecified,Mass,7.63E-08,species.yr/kg,none
+Nitrogen monoxide,Emission to air/high population density,Mass,1.17E-07,species.yr/kg,none
+Nitrogen monoxide,Emission to air/low population density,Mass,1.17E-07,species.yr/kg,none
+Nitrogen monoxide,"Emission to air/low population density, long-term",Mass,1.17E-07,species.yr/kg,none
+Nitrogen monoxide,Emission to air/lower stratosphere + upper troposphere,Mass,1.17E-07,species.yr/kg,none
+Nitrogen monoxide,Emission to air/stratosphere,Mass,1.17E-07,species.yr/kg,none
+Nitrogen oxides,Emission to air/high population density,Mass,7.63E-08,species.yr/kg,none
+Nitrogen oxides,Emission to air/low population density,Mass,7.63E-08,species.yr/kg,none
+Nitrogen oxides,"Emission to air/low population density, long-term",Mass,7.63E-08,species.yr/kg,none
+Nitrogen oxides,Emission to air/lower stratosphere + upper troposphere,Mass,7.63E-08,species.yr/kg,none
+Nitrogen oxides,Emission to air/unspecified,Mass,7.63E-08,species.yr/kg,none
+Sulfur dioxide,Emission to air/high population density,Mass,2.12E-07,species.yr/kg,none
+Sulfur dioxide,Emission to air/low population density,Mass,2.12E-07,species.yr/kg,none
+Sulfur dioxide,"Emission to air/low population density, long-term",Mass,2.12E-07,species.yr/kg,none
+Sulfur dioxide,Emission to air/lower stratosphere + upper troposphere,Mass,2.12E-07,species.yr/kg,none
+Sulfur dioxide,Emission to air/unspecified,Mass,2.12E-07,species.yr/kg,none
+Sulfur monoxide,Emission to air/high population density,Mass,2.82E-07,species.yr/kg,none
+Sulfur monoxide,Emission to air/low population density,Mass,2.82E-07,species.yr/kg,none
+Sulfur monoxide,"Emission to air/low population density, long-term",Mass,2.82E-07,species.yr/kg,none
+Sulfur monoxide,Emission to air/unspecified,Mass,2.82E-07,species.yr/kg,none
+Sulfur oxides,Emission to air/high population density,Mass,2.12E-07,species.yr/kg,none
+Sulfur oxides,Emission to air/low population density,Mass,2.12E-07,species.yr/kg,none
+Sulfur oxides,"Emission to air/low population density, long-term",Mass,2.12E-07,species.yr/kg,none
+Sulfur oxides,Emission to air/lower stratosphere + upper troposphere,Mass,2.12E-07,species.yr/kg,none
+Sulfur oxides,Emission to air/unspecified,Mass,2.12E-07,species.yr/kg,none
+Sulfur trioxide,Emission to air/high population density,Mass,1.70E-07,species.yr/kg,none
+Sulfur trioxide,"Emission to air/low population density, long-term",Mass,1.70E-07,species.yr/kg,none
+Sulfur trioxide,Emission to air/unspecified,Mass,1.70E-07,species.yr/kg,none
+Sulfuric acid,Emission to air/high population density,Mass,1.38E-07,species.yr/kg,none
+Sulfuric acid,Emission to air/indoor,Mass,1.38E-07,species.yr/kg,none
+Sulfuric acid,Emission to air/low population density,Mass,1.38E-07,species.yr/kg,none
+Sulfuric acid,"Emission to air/low population density, long-term",Mass,1.38E-07,species.yr/kg,none
+Sulfuric acid,Emission to air/lower stratosphere + upper troposphere,Mass,1.38E-07,species.yr/kg,none
+Sulfuric acid,Emission to air/unspecified,Mass,1.38E-07,species.yr/kg,none
