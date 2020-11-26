@@ -1,13 +1,12 @@
 IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
-ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,b2e8e329-f643-3fa0-8af9-95afa9347bbd,"Energy, from wood",,biotic,Resource,MJ,0
+ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"test",kg Sb eq,b2e8e329-f643-3fa0-8af9-95afa9347bbd,"Energy, from potato",,biotic,Resource,MJ,0
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,01c12fca-ad8b-4902-8b48-2d5afe3d3a0f,"Energy, gross calorific value, in biomass",,biotic,Resource,MJ,0
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,5224d6af-147e-3506-b9e4-60b8eb3a9f82,"Energy, from biomass",,biotic,Resource,MJ,0
+this,is,a,new,line,do,not,replace!
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,8842042d-7f07-45f8-bf43-fa83833d75de,"Energy, gross calorific value, in biomass, primary forest",,biotic,Resource,MJ,0
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,c5035ce2-5ee5-431f-a287-4b25da42be74,"Peat, in ground",,biotic,Resource,kg,0
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,adf02c21-da6a-32ba-9c75-038c952270db,"Energy, from peat",,biotic,Resource,MJ,0
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,a7ff17d4-d3fe-4a70-9f2e-392b34630772,"Energy, solar, converted",,in air,Resource,MJ,0
-ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,57c71b25-4663-4fad-9167-7ce5be3e8268,"Energy, kinetic (in wind), converted",,in air,Resource,MJ,0
-ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,8c2fe757-6866-4ed2-9f89-81012ad774a0,"Carbon, organic, in soil or biomass stock",,in ground,Resource,kg,0.00044
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,8bc65fca-548d-4831-b102-391bbdd6bc8c,"Aluminium, 24% in bauxite, 11% in crude ore",001318-16-7,in ground,Resource,kg,0.00001
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,733b2c7c-60ef-4c1b-b9cb-c010e3fd2275,Bauxite,001318-16-7,in ground,Resource,kg,0.00001
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,8fb75455-9f86-4f3e-b910-ee91a4f34b59,Scandium,007440-20-2,in ground,Resource,kg,0.00057
@@ -25,8 +24,8 @@ ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren 
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,176598c1-699c-5dd8-8c33-d269ff7f5edd,"Lanthanum, in ground",,in ground,Resource,kg,0.00057
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,db0c855c-e9ef-58d9-97cc-960e646fc882,"Neodymium, in ground",,in ground,Resource,kg,0.00057
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,7a636bea-94c0-4774-a791-2512b7fbda94,"Cerium, 24% in bastnasite, 2.4% in crude ore",007440-45-1,in ground,Resource,kg,0.00057
-ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,35da65ff-7287-571d-b859-13d398ac5182,"Praseodymium, in ground",,in ground,Resource,kg,0.00057
-ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,7c954971-4bce-41db-9e8b-2b2f049539d7,"Europium, 0.06% in bastnasite, 0.006% in crude ore",007440-53-1,in ground,Resource,kg,0.00057
+ILCD 4444 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,35da65ff-7287-571d-b859-13d398ac5182,"Praseodymium, in ground",,in ground,Resource,kg,0.00057
+ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource ggggg",kg Sb eq,43534r3-4bce-41db-9e8b-2b2f049539d7,"Europium, 0.06% in bastnasite, 0.006% in crude ore",007440-53-1,in ground,Resource,kg,0.00057
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,c970e81e-1c4e-4f21-814c-0c25444f41d2,"Neodymium, 4% in bastnasite, 0.4% in crude ore",007440-00-8,in ground,Resource,kg,0.00057
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,4057f8b4-f20a-59c9-9bb7-fdeaf5ad106d,"Cerium, in ground",,in ground,Resource,kg,0.00057
 ILCD 2011 Midpoint+,9518b4ea-d7c1-3548-a4b6-977770f0954a,"Mineral, fossil & ren resource depletion",kg Sb eq,b878ca93-d699-421e-a4b6-f694dc627062,"Gadolinium, 0.15% in bastnasite, 0.015% in crude ore",007440-54-2,in ground,Resource,kg,0.00057
