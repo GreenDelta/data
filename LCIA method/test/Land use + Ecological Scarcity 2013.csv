@@ -1,0 +1,80 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,1b0a8570-eab4-46c2-9b67-c9b918e75676,"Occupation, annual crop, non-irrigated, extensive",,land,Resource,m2*a,100
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,e063ee9c-9850-42b5-b01e-4cc9b5ad7152,"Occupation, annual crop, non-irrigated, intensive",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,c4a82f46-381f-474c-a362-3363064b9c33,"Occupation, annual crop, irrigated",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,c7cb5880-4219-4051-9357-10fdd08c6f2b,"Occupation, unspecified",,land,Resource,m2*a,110
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,23309f61-c8db-3224-abcc-d65ae4800611,"Occupation, annual crop, organic",,land,Resource,m2*a,150
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,59734866-f67e-3c7e-a2de-6d269f99788c,"Occupation, pasture, man made, organic",,land,Resource,m2*a,81
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,9fd128fe-d8c5-476f-af42-2795d5f5d227,"Occupation, annual crop, irrigated, intensive",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,c199261c-8234-43c5-b906-5b67707e4395,"Occupation, shrub land, sclerophyllous",,land,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,379ba5c9-5c3a-43d0-8e2d-605ad9c39e46,"Occupation, mineral extraction site",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,4b6b9b76-3199-4bd0-b11d-f8f2efbeac4e,"Occupation, construction site",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,2925111b-3464-4e34-9d02-b73c1c033e91,"Occupation, forest, extensive",,land,Resource,m2*a,0
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,fe9c3a98-a6d2-452d-a9a4-a13e64f1b95b,"Occupation, industrial area",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,aca1714f-0040-4a65-a73a-0e38aa9f50f4,"Occupation, forest, intensive",,land,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,26efe47c-92a5-4dea-b4d0-eac13e418a58,"Occupation, traffic area, road network",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,e9007a6f-7244-44d4-a561-91ae1b6c6cfc,"Occupation, permanent crop",,land,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,56ec994a-eb96-42e8-93eb-4970e30e6362,"Occupation, urban, discontinuously built",,land,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, rail/road embankment",,land,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,a6889a22-e99e-42ea-85cd-4a68d7975dcd,"Occupation, annual crop, non-irrigated",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,250de680-25a7-4a3b-93c9-a9ed44bb4e0c,"Occupation, forest, intensive, clear-cutting",,land,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,b91d0527-9a01-4a86-b420-c62b70629ba4,"Occupation, forest, unspecified",,land,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,44ea6f89-8780-45b4-a80a-cfc3abcfef5f,"Occupation, industrial area, vegetation",,land,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,1eaa9ea4-40b8-414a-b198-5626400372e1,"Occupation, dump site",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,77e63dc5-3fbd-3535-90cb-18fdcb6bad17,"Occupation, annual crop, non-irrigated, monotone-intensive",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,59ded913-17fe-4b3e-80cb-79b97cdbef9a,"Occupation, pasture, man made",,land,Resource,m2*a,230
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,c5aafa60-495c-461c-a1d4-b262a34c45b9,"Occupation, annual crop",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,fc924940-e7cd-3238-9d9c-cdb1b59c6aec,"Occupation, forest, intensive, normal",,land,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,3b4db191-9634-4a01-a873-f3cb234785e4,"Occupation, urban, continuously built",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,98b723d4-3362-4b38-8b1e-1bedacfd5e27,"Occupation, pasture, man made, intensive",,land,Resource,m2*a,230
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,a923740c-61a1-380c-9501-8edda44211e4,"Occupation, annual crop, non-irrigated, fallow",,land,Resource,m2*a,150
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,19f84b2e-e6ff-4351-ba3a-8b650fc20d14,"Occupation, pasture, man made, extensive",,land,Resource,m2*a,81
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,04eb6f40-8671-3a31-b27b-ef82f04be46f,"Occupation, annual crop, non-irrigated, diverse-intensive",,land,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,062a6faf-b1a5-4a6a-aa02-47ae3ec566a8,"Occupation, traffic area, rail network",,land,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,bafff3e8-f51e-42d6-8924-dcab1098c8ef,"Occupation, forest, intensive, short-cycle",,land,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,69c7d771-04fc-499e-84f8-6c7b923b8ced,"Occupation, heterogeneous, agricultural",,land,Resource,m2*a,270
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,2c701803-1116-3c24-ae30-a3aeabea7d74,"Occupation, annual crop, organic",,unspecified,Resource,m2*a,150
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,ca69a1af-870b-318a-b22b-370d7e0ecb15,"Occupation, annual crop, non-irrigated, extensive",,unspecified,Resource,m2*a,100
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,11b3f160-360b-3d4d-8481-e32dd5113c14,"Occupation, annual crop, non-irrigated, intensive",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,5d369409-5f43-30e4-9f98-eb99ba5fcd79,"Occupation, annual crop, irrigated",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,fce3535d-e90e-3d99-9d7a-efe48ed7c9ce,"Occupation, annual crop, irrigated, intensive",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,6f3af90a-61f9-3dcf-90d7-a4fdabe343df,"Occupation, pasture, man made, organic",,unspecified,Resource,m2*a,81
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,c033dd2f-87a4-435d-a7cb-477b15310066,"Occupation, dump site, benthos",,unspecified,Resource,m2*a,0
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,080bf4c6-fab3-4e21-88c7-20b435aa42e8,"Occupation, urban, discontinuously built",,unspecified,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,36e3de27-9337-37bb-8e42-6402adc97f58,"Occupation, annual crop, non-irrigated, monotone-intensive",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,dde38771-435a-4f90-ad87-fd944f90b437,"Occupation, industrial area, vegetation",,unspecified,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,ab295ced-caf0-4281-96a2-7ebc2203c508,"Occupation, shrub land, sclerophyllous",,unspecified,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,5db2250f-278c-4b47-8c45-561ae9ff448d,"Occupation, permanent crop, fruit, extensive",,unspecified,Resource,m2*a,100
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,3259f9e3-8108-444b-9521-de12e53f6e35,"Occupation, dump site",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,26586deb-0d0d-42b7-ae01-e6e517a743cb,"Occupation, construction site",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,4498615d-0ed6-4ca4-8a87-267f31f624b0,"Occupation, forest, intensive, normal",,unspecified,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,5ba2a89f-819f-358d-ab0d-bfcd70083e3d,"Occupation, annual crop, non-irrigated, diverse-intensive",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,135816ab-f119-4a64-b608-a61cb788af7d,"Occupation, forest, extensive",,unspecified,Resource,m2*a,0
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,45091000-d7e1-459f-bac5-38b51efb4d63,"Occupation, urban, continuously built",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,5826d648-5ff2-31e1-9b9e-b193d406c44e,"Occupation, annual crop, non-irrigated, fallow",,unspecified,Resource,m2*a,150
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,72745257-3534-4ca3-adfa-a2eb63f1e7d9,"Occupation, traffic area, road network",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,b8210d24-4b65-3710-846b-d24edffb5f89,"Occupation, traffic area, rail/road embankment",,unspecified,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,f2311a45-8789-472c-8aba-416e8621bb4c,"Occupation, permanent crop, vine",,unspecified,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,7d6baa46-6ac9-4f04-9bcb-abc382574260,"Occupation, mineral extraction site",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,2997b0b4-f6ec-4df0-9481-4bdab4e86507,"Occupation, permanent crop, fruit, intensive",,unspecified,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,a4c4b2e8-7611-4690-b00f-80789d4eb9fe,"Occupation, tropical rain forest",,unspecified,Resource,m2*a,0
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,67884dbf-8895-42ca-9a2a-37aef1189d3b,"Occupation, permanent crop, fruit",,unspecified,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,3295a31d-855c-4ed1-ace4-e81d0a7f04c6,"Occupation, permanent crop, vine, extensive",,unspecified,Resource,m2*a,100
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,377086c9-230f-3b09-acb6-512f046e4b74,"Occupation, pasture, man made",,unspecified,Resource,m2*a,230
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,2843362e-6942-48fb-acdc-cea07d6e08cc,"Occupation, forest, intensive, clear-cutting",,unspecified,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,a029c026-6970-40a0-b597-5ebd8dfbaa97,"Occupation, forest, intensive, short-cycle",,unspecified,Resource,m2*a,120
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,1a01977a-d170-4ac1-86df-aae792cbeb8f,"Occupation, permanent crop",,unspecified,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,2aa913a6-41a4-47cd-83bd-58cc5e1b11a5,"Occupation, traffic area, rail network",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,0b71699f-f013-3465-b171-b25083c0c257,"Occupation, pasture, man made, extensive",,unspecified,Resource,m2*a,81
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,92f8f25e-135a-48df-b90c-c6c4547fe94d,"Occupation, forest, intensive",,unspecified,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,680016d9-59a9-37ad-9e51-8a476db6b732,"Occupation, pasture, man made, intensive",,unspecified,Resource,m2*a,230
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,cf39ec61-e779-4614-97b7-ec622556040d,"Occupation, industrial area, built up",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,16835899-c22f-4e78-8076-0d4d340c6f60,"Occupation, permanent crop, vine, intensive",,unspecified,Resource,m2*a,290
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,14b92328-e08d-4fac-b16a-da5dcd0e5627,"Occupation, traffic area, road embankment",,unspecified,Resource,m2*a,180
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,34b81b2a-3230-3939-879c-1559f65badf7,"Occupation, annual crop",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,45e60c3e-a8ac-3d36-a6d2-ef0e4dc1f160,"Occupation, forest, unspecified",,unspecified,Resource,m2*a,30
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,faa01bcb-884e-4c79-9ea2-16da6596c6a6,"Occupation, industrial area",,unspecified,Resource,m2*a,300
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,7d143ee5-e848-47d0-91e8-f10f7c86963d,"Occupation, heterogeneous, agricultural",,unspecified,Resource,m2*a,270
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,50b14562-ddeb-49d7-899c-dcbf9dfed004,"Occupation, unknown",,unspecified,Resource,m2*a,110
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,42d9ad9b-d218-3047-a014-6a2c14e554c2,"Occupation, annual crop, non-irrigated",,unspecified,Resource,m2*a,420
+Ecological Scarcity 2013,1ba1ee4a-41db-3234-a595-2ae002f4449d,Land use,UBP,ece7e2b1-d93f-3f83-ae39-e3b49527e594,"Occupation, mineral extraction site",,in water,Resource,m2*a,300

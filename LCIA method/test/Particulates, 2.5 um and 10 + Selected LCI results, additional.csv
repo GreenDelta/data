@@ -1,0 +1,6 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,230d8a0a-517c-43fe-8357-1818dd12997a,"Particulates, < 2.5 um",,high population density,Emission to air,kg,1
+Selected LCI results,49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,66f50b33-fd62-4fdd-a373-c5b0de7de00d,"Particulates, < 2.5 um",,low population density,Emission to air,kg,1
+Selected LCI results,49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,051aaf7a-6c1a-4e86-999f-85d5f0830df6,"Particulates, < 2.5 um",,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,21e46cb8-6233-4c99-bac3-c41d2ab99498,"Particulates, < 2.5 um",,unspecified,Emission to air,kg,1
+Selected LCI results,49247748-b258-31d1-8b4c-51c51b07a466,"Particulates, <2.5 um",kg,ddd99a3a-be86-423d-b36a-a9dc8af1b1f8,"Particulates, < 2.5 um",,lower stratosphere + upper troposphere,Emission to air,kg,1

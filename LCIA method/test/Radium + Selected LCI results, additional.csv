@@ -1,0 +1,32 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,4fda63d1-a380-478b-bef1-a932dbc5c2a5,Radium-228,015262-20-1,"river, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,c09c9224-3ddd-4b65-bdc7-f894457ab1cc,Radium-224,013233-32-4,"river, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,f1b57113-5251-4671-9160-790fbffd0d9f,Radium-226,013982-63-3,"river, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,3c25c75c-a196-43e7-86cb-561c1b6fcd1f,Radium-226,013982-63-3,"fresh water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,99877264-71df-4803-9471-5aa6ddb235a8,Radium-224,013233-32-4,fossil-,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,bbddb541-77f3-4a02-ab72-7702a0b37d0a,Radium-228,015262-20-1,fossil-,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,bf359ca2-0d70-400d-8be8-4c669e19e34b,Radium-226,013982-63-3,fossil-,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,6ba6a13a-fba6-4c15-af46-4aab37ed99b8,Radium-228,015262-20-1,fresh water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,d73952b6-7af5-4473-b68d-b0ce7f063317,Radium-224,013233-32-4,fresh water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,e839f221-2958-425e-b113-b3a5b12ca226,Radium-226,013982-63-3,fresh water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,e91315c1-cae7-4ade-bc9a-595bfdca133f,Radium-224,013233-32-4,"ground water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,d4bb55d3-8165-466b-b502-d4b25fae104b,Radium-228,015262-20-1,"ground water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,090cc44a-7ca1-46fc-98bf-5bc6f5afb0a6,Radium-226,013982-63-3,"ground water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,de9eee06-aa4b-4842-a43f-70be12e969da,Radium-224,013233-32-4,unspecified,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,4ea9bb4f-e4ab-45d7-beb5-dc07fc1c685a,Radium-228,,unspecified,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,d65a94b4-0479-42cc-8274-2db66e1e6aeb,Radium-226,,unspecified,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,09257283-72d9-4d13-838b-ee7f28e6d146,Radium-228,,ocean,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,0a7de246-d762-4210-8656-56e1f26249b6,Radium-224,,ocean,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,74a0aabb-e11b-4f3b-8921-45e447b33393,Radium-226,,ocean,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,8812d57e-ae84-497e-a778-e5c318120205,Radium-224,,surface water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,d2312bc4-af11-445f-aa07-20d95b2794bd,Radium-228,,surface water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,15648250-4537-4960-a6dc-0802d39c26a7,Radium-226,,surface water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,84b6df35-fd4f-4ed6-afc7-fb3285a489e8,Radium-224,013233-32-4,river,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,0eb0c647-5f2b-48a7-9ce8-da2d5797fbc7,Radium-228,015262-20-1,river,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,54628800-94d9-4af7-8f0c-a3add4f8c598,Radium-226,013982-63-3,river,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,b7a129bc-5218-479d-86ce-15a69392933d,Radium-224,013233-32-4,lake,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,a6d6f84a-9125-4c32-852e-fd4f6350bb06,Radium-228,015262-20-1,lake,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,cab6be7d-d237-4464-87a3-eef17c46d8f3,Radium-226,013982-63-3,lake,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,fe807c9d-7e35-4500-9511-25b92cd6fe53,Radium-228,015262-20-1,ground water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,9b20a822-25a5-4edf-8eff-a3bd963c9577,Radium-224,013233-32-4,ground water,Emission to water,kBq,1
+"Selected LCI results, additional",45984c77-24b7-387d-ad6c-b6b09e1d8e54,Radium,kBq,788c0461-92d9-4a39-b89b-e3c42a5c68ae,Radium-226,,ground water,Emission to water,kBq,1

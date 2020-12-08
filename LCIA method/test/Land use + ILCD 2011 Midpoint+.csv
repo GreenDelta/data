@@ -1,0 +1,375 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c7d2cf2d-0d21-45f7-9769-b07f3e53b76a,"Transformation, to seabed, infrastructure",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7e2b64d5-3c75-4adf-88a6-d54b4bb46d3c,"Transformation, to water courses, artificial",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bbcdd18c-4d16-4c28-b031-d988884030a7,"Transformation, from seabed, infrastructure",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,cba23005-55b5-3ab9-81d4-29c82d8d7778,"Transformation, to seabed, unspecified",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,90e42c10-53b5-3d2f-9905-ea8b98fdcf8e,"Transformation, to water courses, artificial",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,738190db-3c02-3e22-8550-49905e845aa9,"Transformation, to seabed, infrastructure",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4469a949-7f12-3718-80bd-2eab01e003d4,"Transformation, from seabed, infrastructure",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,631d9552-1190-4edf-abc9-319139c90bd4,"Transformation, from water courses, artificial",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,84b65d8f-2edd-4ddd-8f68-ca28d1c681b0,"Transformation, to lake, artificial",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9b5b8c40-38fe-42fb-8130-56c15e485fd0,"Transformation, to seabed, drilling and mining",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,66d811e9-3b75-3379-abde-e221ecd1c699,"Transformation, to seabed, drilling and mining",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,34f9fc3a-0406-4a90-b85f-7df531350944,"Transformation, from water bodies, artificial",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,090e9aa9-a9a9-4878-9634-3ad0ba7fbc91,"Transformation, to river, artificial",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,426e316e-db90-40ec-9f45-fa08e6db160c,"Transformation, to water bodies, artificial",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,cbdd7871-f1a9-46ca-bd95-5863d459d34a,"Transformation, from water courses, artificial",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9c08496f-7895-44f9-8686-fe3154392da4,"Transformation, from water bodies, artificial",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,69dfa439-8e4e-4cae-bb0c-85a8aa8b9a73,"Occupation, lake, artificial",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4d166779-88fd-441b-9537-f3b974e3bff7,"Transformation, from arable land, unspecified use",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,54b82481-32a3-4e82-bac7-1df475dbc80c,"Transformation, to cropland fallow (non-use)",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0ecf9899-f14e-3d0d-b3dd-ac895bf518f2,"Transformation, to grassland, not used",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,873be1a5-2186-3326-9989-8d695db71eb8,"Transformation, to annual crop, non-irrigated, monotone-intensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7803551a-ea4f-3605-85f0-ba47b3d01647,"Transformation, from pasture, man made, organic",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,984054e3-b91c-3e32-aeca-59f6cdedeb97,"Transformation, to annual crop, non-irrigated, diverse-intensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2cb441cd-8d2e-4e5c-a208-48c4fa005c41,"Transformation, to permanent crop, vine, extensive",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d0394db1-a1cd-4026-bf50-dd5e47331572,"Transformation, from permanent crop, fruit, extensive",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,04eb0695-e67b-46e5-9516-da6bde119822,"Transformation, to traffic area, rail/road embankment",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,db6f90ef-27fc-41a8-a541-07efdce1fab5,"Transformation, to permanent crop, fruit, extensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,63735d98-57b0-429c-8267-40a5f1da06b1,"Transformation, from permanent crop, vine, extensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,975ae6bf-9a02-4d6f-af7e-8f1253842fed,"Transformation, from traffic area, rail embankment",,land,Resource,m2,"-1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3e88be44-3a9b-38ab-aa3a-544ba1ecf359,"Transformation, to annual crop, non-irrigated, fallow",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ea3bc981-8a35-40e1-82bd-33a12820f98c,"Transformation, to permanent crop, vine, extensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fdda4f8e-b620-4df6-92a9-101a251d2f42,"Transformation, to heterogeneous, agricultural",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9607e93d-3572-461f-bb2c-8597cc23bab0,"Transformation, to heterogeneous, agricultural",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fa121789-03b2-3c76-bef9-6f4c9be4b4e6,"Transformation, to annual crop, organic",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,898830d2-7480-37fd-abde-b91e12eef138,"Transformation, to annual crop, non-irrigated, fallow",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,56a10d5d-7c21-35da-b967-1faee93f0798,"Transformation, to pasture, man made, organic",,land,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,11cf29f4-49fa-321a-b8d0-36dea84e9d84,"Transformation, from annual crop, non-irrigated, diverse-intensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,07d4460c-ae27-4717-9db9-9e0b1ea12dd5,"Transformation, from heterogeneous, agricultural",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a034ca0b-aea4-386a-8071-101cde3d7ac4,"Transformation, to pasture, man made, organic",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4da2ea28-8273-4901-9931-264169ec7731,"Transformation, from cropland fallow (non-use)",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,54c07b4c-4347-310e-a6c6-ddeb94952e19,"Transformation, from cropland fallow (non-use)",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6baab24d-655c-3572-b697-9bffcd3b458c,"Transformation, from pasture, man made, organic",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,436403fd-caa1-3abb-9de4-e3dde0774798,"Transformation, from annual crop, non-irrigated, diverse-intensive",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,59df4945-6ee2-4ea6-9ef7-36c4f4b478f6,"Transformation, to permanent crop, fruit, extensive",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,88ea48e5-649c-3b0d-9dcc-2352d5af2c2a,"Transformation, to annual crop, organic",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,af41f691-3a3e-47a3-9e45-3b4d78469ae0,"Transformation, from permanent crop, vine, extensive",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,83a691df-1e4a-4cee-bcdb-17b7bd0c8c35,"Transformation, from urban, green area",,land,Resource,m2,"-1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fe91efc5-25ce-4316-b0d1-43173a755777,"Transformation, from permanent crop, fruit, extensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,20bfd418-5b2e-4c9c-ae57-cf7ebd573c2a,"Transformation, from traffic area, rail embankment",,unspecified,Resource,m2,"-1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7c3b3fa1-676a-3452-86c4-9725c915ba57,"Transformation, to annual crop, non-irrigated, monotone-intensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2e002771-9f22-43e3-9990-f06f8235700b,"Transformation, from heterogeneous, agricultural",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,37f39bba-757f-3491-9cf0-9d77f2d816ad,"Transformation, to annual crop, non-irrigated, diverse-intensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,932d215c-082d-3674-9e8a-a56818fbffa7,"Transformation, from annual crop, organic",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f23dcf2e-2508-3274-bda0-bba3ec27dec4,"Transformation, from annual crop, non-irrigated, monotone-intensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6298cf1e-af72-3f28-a296-1ae880d427e4,"Transformation, from annual crop, non-irrigated, monotone-intensive",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5ba11781-6a33-3d20-80ee-76ae7b0d5d82,"Transformation, from annual crop, organic",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f4d4db7e-0763-3193-b5a9-a954e6434de9,"Transformation, to traffic area",,unspecified,Resource,m2,"5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,90a5a447-af6f-421a-8201-011f07ad1150,"Transformation, to dump site",,land,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,14a00c9f-9976-44fd-aa01-e8bba2835841,"Transformation, from urban, continuously built",,unspecified,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5c180ec0-3dc5-3094-84c2-2cefe9402b49,"Transformation, from annual crop, fallow",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0b062583-0e24-373c-beb5-e3e639619895,"Transformation, to agriculture, mosaic",,unspecified,Resource,m2,245
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,8337d938-5b92-37bc-9686-70484ba2334e,"Transformation, to grassland, natural, for livestock grazing",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,96f8d99e-0f5e-36f6-8929-3f02457a1cf9,"Transformation, to permanent crop, non-irrigated",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,220b9a7a-1ced-462b-b645-e80253e189ee,"Transformation, from mineral extraction site",,unspecified,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,032542d3-7078-4f85-bd95-75fdac9268d2,"Transformation, from dump site, sanitary landfill",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,366ece56-e09c-4acd-b615-aaedd9bbe777,"Transformation, to urban, discontinuously built",,unspecified,Resource,m2,"7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bee13c5d-f647-336e-8cdf-50725664414c,"Transformation, from pasture, man made, intensive",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7464da86-f239-4bef-a778-04d5818bb956,"Transformation, to pasture, man made, extensive",,land,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bc55a5b7-5a07-4ba7-87af-6f374d79ef06,"Transformation, to permanent crop",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,df8130f1-b807-3be8-a73a-8475d03ea9ac,"Transformation, to urban/industrial fallow",,unspecified,Resource,m2,"1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1e033b47-5e2f-4fd4-acc3-df3e2e3e56a5,"Transformation, from urban, discontinuously built",,unspecified,Resource,m2,"-7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,65a79f10-6f25-341d-bf7f-c3d4fb306209,"Transformation, from traffic area",,unspecified,Resource,m2,"-5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f05cca02-ec18-4acc-9939-59658ff9a554,"Transformation, from annual crop",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c3eff967-20d8-4bcd-bd26-2dc2592a37b9,"Transformation, to mineral extraction site",,unspecified,Resource,m2,"7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1d678d0d-fe42-429b-9aa9-d30127b0ca9c,"Transformation, from traffic area, road embankment",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f1a36c63-5f49-32b3-bd72-deb083869a46,"Transformation, from grassland/pasture/meadow",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,247ddc2a-c861-43be-97f0-0183e3d12f99,"Transformation, to annual crop, irrigated",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,943d867e-221f-32e7-8a75-64a100da1601,"Transformation, from forest, used",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,01fa974b-b5b5-3a42-bd53-fd95cd3f3ebc,"Transformation, from urban/industrial fallow",,unspecified,Resource,m2,"-1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ab3e851e-21c9-47cf-8e7d-5f96dfae3ba5,"Transformation, from annual crop, non-irrigated, intensive",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,aa784c1b-0d0b-4c69-b631-b045d6ee61af,"Transformation, to permanent crop, non-irrigated, intensive",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a1012243-30d3-354b-8adb-b1241f26335a,"Transformation, to grassland/pasture/meadow",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,40fd6146-cfe0-3de1-8525-81a2f3d4096e,"Transformation, from permanent crop, non-irrigated",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,154bd436-9ad3-3e22-80e5-bb9e8b8c0f15,"Transformation, from agriculture",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e9314943-228f-3eb5-b8cd-e0bbb88fb68b,"Transformation, to forest, used",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,58d5f43e-42f0-39d6-b8a4-061481b84c39,"Transformation, from forest, natural",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6af699a7-4115-3f84-9c47-745e57e9b9c3,"Transformation, to annual crop, greenhouse",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2306b050-8a10-3ead-b178-ace9c57b7f42,"Transformation, to annual crop, non-irrigated, intensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7137dec4-1c3b-33c0-ba11-db0bb3b14321,"Transformation, from annual crop, fallow",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1a568858-efa8-4c2a-b46e-82b6e66b6072,"Transformation, to dump site, sanitary landfill",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,dd60c69c-73b0-3c59-be56-e1b5ad7be04d,"Transformation, from urban",,unspecified,Resource,m2,"-7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a487b7db-318a-46ff-8e52-2837fab777ad,"Transformation, to permanent crop, irrigated",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fcb77a5a-6882-4aeb-82a9-ba57688d2224,"Transformation, from permanent crop",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b0c97ed6-c53d-346b-b73d-d54984818d18,"Transformation, from artificial areas",,unspecified,Resource,m2,"-7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d857ca45-0add-3d40-87a9-1f7c08b63516,"Transformation, to forest, primary (non-use)",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b5d37ef1-0d36-4c00-8a38-54bbdc5e1eda,"Transformation, to industrial area",,unspecified,Resource,m2,"7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,07a366fe-1c9e-4651-ad1a-1da666316417,"Transformation, to permanent crop, fruit, intensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0d7c280e-9f07-48b7-bf01-5cfd0d475e1c,"Transformation, from dump site, slag compartment",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,777b7fc7-d7a2-3e6d-a326-cfa1f6b11aea,"Transformation, from annual crop, non-irrigated, fallow",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c3f83a91-4888-41a4-add9-fd01678a1e5f,"Transformation, to annual crop",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,8f5c8cb3-dccd-45da-9f1f-d1c61cd789c3,"Transformation, to dump site, residual material landfill",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1a1d0d4b-6b95-4815-ad06-2ec5fe333c43,"Transformation, from unspecified, natural (non-use)",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4da676fe-755c-3c08-accc-aef726a3d5d8,"Transformation, from annual crop, non-irrigated, intensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,93ac2969-a4e9-49b5-8b97-5cbc6b9b2601,"Transformation, to permanent crop, irrigated, intensive",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,45d25a41-1590-3c9f-b6d6-1d051820d554,"Transformation, from permanent crop, irrigated",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7aed60f0-ad45-370c-b0a0-beb5734d7a84,"Transformation, to unspecified, used",,unspecified,Resource,m2,"7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,10ebc72c-2c4b-45ea-abd8-cb7fe0805883,"Transformation, from annual crop, irrigated, intensive",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fa288b80-6ef1-4e80-b534-5c2e5c492fd8,"Transformation, from permanent crop, non-irrigated, intensive",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ee0cbb9c-1c20-3748-a366-4ecbd51075f9,"Transformation, to forest, natural",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,cd53f769-c3e0-3830-838e-56810b6a7e24,"Transformation, from annual crop, non-irrigated, extensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,91a067cc-543a-4d73-a0c0-feb1f8935756,"Transformation, to annual crop, non-irrigated, extensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4fe8d4ab-fdd1-4316-8065-deb1edb04e39,"Transformation, from permanent crop, fruit",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,82f2476e-988b-4d7a-bde6-5da9337d1f65,"Transformation, from pasture, man made, extensive",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,101f15ac-0698-49dd-b177-471a813ef78e,"Transformation, from annual crop, greenhouse",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,15601455-4282-33ea-8c89-468de90f203b,"Transformation, to grassland",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b79e26a0-88db-441f-b79b-508506e81b93,"Transformation, from dump site, sanitary landfill",,land,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5cf68994-cf11-4e37-9834-1f0e1c382fa5,"Transformation, to dump site, sanitary landfill",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2e52cbfa-94d7-432b-892f-431daa71a6ef,"Transformation, to annual crop, non-irrigated, intensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,49c23685-ef19-495b-9a6b-4a91a7ceb710,"Transformation, to annual crop, greenhouse",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fc045f32-7b02-318b-81ce-ae9c9345f019,"Transformation, from pasture, man made",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1ba33265-7100-47b7-b9ed-1f1a74fbb141,"Transformation, to urban, continuously built",,unspecified,Resource,m2,"7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bdd6f3f4-b8c6-3ac8-824c-1d4480f2e39e,"Transformation, to urban, green areas",,unspecified,Resource,m2,"1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0384e43e-b51f-36e2-8adb-bf96beec088f,"Transformation, to unspecified, natural (non-use)",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6d5106b1-0c5e-3b60-99fe-197578809228,"Transformation, to annual crop, fallow",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3f8e24d7-3d44-4a47-870f-9e3e74decca4,"Transformation, to permanent crop, non-irrigated",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,69d8569b-a90e-4bf5-8a5d-e8d0c59068cc,"Transformation, from permanent crop",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,40c3fa17-7b46-3e3d-b0ad-38c99835f4d9,"Transformation, from permanent crop, irrigated, intensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c3c3d385-57fa-4d47-a2c5-d838006e7985,"Transformation, to annual crop, irrigated, intensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0f361e17-252c-3f5f-bec2-e11e0f681bed,"Transformation, from unspecified, natural (non-use)",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a46f2bc1-bc80-3595-ba7d-d9448a871ccc,"Transformation, from grassland",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4b420f19-0421-461e-a0b6-7efbf580089b,"Transformation, from annual crop, non-irrigated",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,cffc8ff1-63bd-40d8-8b91-13cbee6457b3,"Transformation, to traffic area, rail network",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6b964d5d-bc57-394d-b6eb-2f0d8fa24ee8,"Transformation, from annual crop, irrigated",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c1513682-45ad-444e-afb5-27c660714e88,"Transformation, from dump site, inert material landfill",,land,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9f10b83a-5b75-48dd-a103-2d27a2c8a6cb,"Transformation, from dump site, inert material landfill",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2f1e926a-ec96-432b-b2a6-bd5e3de2ff87,"Transformation, to arable land, unspecified use",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d50fbe3f-b265-4fde-bf05-4156fe27b0a3,"Transformation, from traffic area, road network",,unspecified,Resource,m2,"-5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,104e2de4-047b-3274-abeb-888c37cbc00f,"Transformation, to pasture, man made, intensive",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9c373940-905e-3fcd-ae61-f3565b084fcb,"Transformation, from permanent crop, non-irrigated, extensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7a16b680-6d9a-4db3-a23e-0ec64aca5995,"Transformation, to pasture, man made",,land,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ce132b7d-ab1c-4df3-9656-8fe37ede77b1,"Transformation, to grassland, natural, for livestock grazing",,land,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,00637e13-cdda-3715-97c6-e0b881ea5969,"Transformation, to permanent crop, irrigated, intensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7d5b5802-3698-4be8-98f8-ab7c1a2e9328,"Transformation, from dump site, slag compartment",,land,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3aa37a9b-98ad-42b0-b7c9-bf472c9a2aa3,"Transformation, from traffic area, rail network",,unspecified,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ac0aba5c-66ce-42c9-9f46-1e47ab7bc4b9,"Transformation, from forest, natural",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e6a7a9ef-e30f-3df3-80d2-a0a70553cae0,"Transformation, from annual crop, non-irrigated",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,635b00a6-93ce-346b-a46b-8f9814cdfee6,"Transformation, from permanent crop, non-irrigated, intensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,73cba245-5969-4076-8490-75a236073196,"Transformation, from permanent crop, irrigated",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9af35f20-e8f1-4e39-8241-f3e76741dc78,"Transformation, from permanent crop, fruit, intensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7fdc928c-f347-45e7-82d7-046acdf878ae,"Transformation, from dump site, residual material landfill",,land,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2c126bcc-bb63-4d63-bd72-f02a1e616809,"Transformation, from pasture, man made",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c8c9bc86-8649-4637-a435-c2b52d5e1ddf,"Transformation, to dump site, residual material landfill",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,dea3251a-45aa-3486-95bb-132338e4dec9,"Transformation, from annual crop, non-irrigated, fallow",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,55beee8d-d04e-4307-bb0e-4e113dc07ee7,"Transformation, to urban, discontinuously built",,land,Resource,m2,"7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,60fbcca2-15a2-4791-ab89-09921211487f,"Transformation, to dump site, slag compartment",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,023aa5cc-a9cd-39d4-b10b-91e92ed69b1d,"Transformation, to permanent crop, irrigated",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a8e39acd-6e7f-4d43-973b-37e6b7c00037,"Transformation, from urban, continuously built",,land,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e97b784a-ec09-4b1b-9f14-cc0ce9799c9e,"Transformation, to annual crop, non-irrigated",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5eb25424-acb6-4ffa-a96a-5fdef05f6515,"Transformation, from dump site",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e2c447ae-bd03-3ef4-bf23-7cf3342b6796,"Transformation, from annual crop, irrigated, extensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,46cfaeaf-f124-409f-998d-47b159051cec,"Transformation, to unspecified, natural (non-use)",,land,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,62a7676d-12ea-3dcb-a841-a4b86aeb8bca,"Transformation, to permanent crop, non-irrigated, intensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,878c6877-caa9-3c08-b5d4-57bb48aa3290,"Transformation, from urban, green area",,unspecified,Resource,m2,"-1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,382586b6-da14-3733-9c73-b55401c40453,"Transformation, to traffic area, rail/road embankment",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a600b977-1499-3363-ad74-426f91a921c4,"Transformation, to annual crop, non-irrigated, extensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,07f05619-bee3-3524-a7d8-b2b3dac9cbb2,"Transformation, to pasture, man made, extensive",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4e48b83e-af69-429f-8941-2332e7ddc62a,"Transformation, from industrial area",,unspecified,Resource,m2,"-7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0abf9db7-b5a2-4c18-8ec6-aca3a7fb5579,"Transformation, to traffic area, rail network",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a99a8eaf-2f2c-42c6-b6ce-d5686a9ca249,"Transformation, from traffic area, rail network",,land,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,00907a61-b501-4f47-b688-1dc2b51d48c1,"Transformation, from traffic area, road network",,land,Resource,m2,"-5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4624deff-2016-41d4-b2bf-3db8dab88779,"Transformation, to industrial area",,land,Resource,m2,"7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,79a7cd15-6645-32b4-a02f-342b914bc49e,"Transformation, to agriculture",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3abec56e-98ea-44d2-b91d-7ae9bcd2141d,"Transformation, to dump site",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c12ed8b5-8452-43ca-9986-a814e908e792,"Transformation, from grassland, natural, for livestock grazing",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,875601be-57c4-3b71-9cb2-598b5770ec9d,"Transformation, to annual crop, fallow",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ef4e5109-025b-4786-860e-9dcc2db701a0,"Transformation, to permanent crop, vine, intensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d10b390c-9d0c-4f59-b31d-3d0d70e77a35,"Transformation, to dump site, inert material landfill",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b2cab275-38d8-3a11-aba0-4758598dc610,"Transformation, from annual crop, irrigated, intensive",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7deabce9-48fa-3fe1-b12a-f04fed80724d,"Transformation, from permanent crop, irrigated, extensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,64d99cb5-3b4f-4195-b86f-c5f45b4dcd19,"Transformation, from mineral extraction site",,land,Resource,m2,"-7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b447620b-45d8-3af9-a871-10f56d776ba7,"Transformation, to annual crop, irrigated",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b23d1e08-0434-321e-ac30-bc4b57a806d2,"Transformation, to annual crop",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3f63b3c5-7185-3dee-91b8-be0f9ac67a22,"Transformation, from annual crop",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,990c759a-1773-383c-9069-c105d72090c3,"Transformation, to urban/industrial fallow",,land,Resource,m2,"1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2dace710-44ce-4074-9617-65a5f2c1a3ee,"Transformation, from dump site",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ecdb040b-aae3-495b-804c-e6b3d6f687ff,"Transformation, to permanent crop, fruit",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,cc6009d8-76cc-3bbd-b176-a0a121fbc989,"Transformation, to annual crop, irrigated, intensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b46075bb-1544-31c9-adbd-1c5e04539b2d,"Transformation, to mineral extraction site",,in water,Resource,m2,"7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a42347d2-09f1-405e-95dd-bf6ac03765d8,"Transformation, to traffic area, road network",,land,Resource,m2,"5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,23a06694-e4ca-3513-9432-759554f72e3f,"Transformation, to annual crop, non-irrigated",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ec242c43-095c-4b42-8907-e0f13573f0a4,"Transformation, to pasture, man made, intensive",,land,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a70f8014-0de5-477f-9f10-712b5c280b8e,"Transformation, to annual crop, irrigated, extensive",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5dab832c-0691-393b-80f2-52933f490158,"Transformation, from pasture, man made, extensive",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d585d599-05f1-47ff-8c41-790f51830b9b,"Transformation, from permanent crop, irrigated, intensive",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,11700b93-5c22-4714-a468-0859f6b46b17,"Transformation, from permanent crop, vine, intensive",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,de48749a-85cb-4307-8a2b-c9d5830d0bae,"Transformation, from dump site, residual material landfill",,unspecified,Resource,m2,"-3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,28e5f69f-7b2e-4e31-9725-d407b2964b3f,"Transformation, to agriculture",,land,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b6dcefd8-3848-4338-9c3e-fe6e91f20937,"Transformation, from industrial area",,land,Resource,m2,"-7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,66f25f1d-1898-4827-bcbb-ca82f15c4d02,"Transformation, to urban, continuously built",,land,Resource,m2,"7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a70beb60-354d-4dcd-b6fd-8c251357fb2a,"Transformation, from annual crop, irrigated",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,31e4e26b-a997-4969-963d-243699aca3a8,"Transformation, from permanent crop, non-irrigated",,land,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3a8ddbf1-2603-3f55-9ba5-121509615129,"Transformation, from annual crop, greenhouse",,unspecified,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f157b88d-f288-473c-8b03-0f97b58235ff,"Transformation, to urban/industrial fallow (non-use)",,land,Resource,m2,"1,100"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,592bf69f-8551-4611-8942-4620be0adabe,"Transformation, from pasture, man made, intensive",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e1754f67-cc37-3429-8d19-805ce0042b2e,"Transformation, from grassland, natural, for livestock grazing",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f84b2b33-df49-45d4-8949-d5ab8b800656,"Transformation, from permanent crop, vine",,unspecified,Resource,m2,-100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,626915e9-2424-4059-8b6a-fae47161acdf,"Transformation, to mineral extraction site",,land,Resource,m2,"7,500"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b33924c0-f00c-3f04-b013-def5343864ec,"Transformation, to annual crop, irrigated, extensive",,unspecified,Resource,m2,485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,900425d2-98ee-3c6c-95bb-eff17cbc90c8,"Transformation, from forest, unspecified",,in water,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,85a087a2-6217-3cc1-9f2f-1cc9dccf6f9d,"Transformation, from unspecified, used",,unspecified,Resource,m2,"-7,400"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,267ca4fd-2526-451e-86e0-796318d509b6,"Transformation, to dump site, inert material landfill",,unspecified,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c18e00ca-2e0d-3c9c-a28c-a4dbe1a82047,"Transformation, to permanent crop, non-irrigated, extensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d73b27a2-81bd-4264-baa5-ce4aca3545be,"Transformation, to dump site, slag compartment",,land,Resource,m2,"3,750"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0ee752cd-5b6b-458d-b660-3e45a6798413,"Transformation, to traffic area, road network",,unspecified,Resource,m2,"5,250"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6e02ccfc-9eb5-4a51-be9a-870c1087c833,"Transformation, to permanent crop",,land,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c0143eba-3daf-44ad-8d34-6e1d34128ace,"Transformation, from agriculture",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,975543fa-3eed-4b0c-b87b-50f26630fe89,"Transformation, to permanent crop, vine",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,122644b3-642e-30da-8ecd-9b6cfad1ac1b,"Transformation, to pasture, man made",,unspecified,Resource,m2,125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c7869c43-266c-429d-bfd5-6b578ed32ce8,"Transformation, from annual crop, non-irrigated, extensive",,land,Resource,m2,-485
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,65721025-12c8-3cd7-ba5c-f2e2bdaf39bc,"Transformation, to permanent crop, irrigated, extensive",,unspecified,Resource,m2,100
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,325dbf5f-dda2-328a-852c-d7b4d5d2ff58,"Transformation, to urban",,unspecified,Resource,m2,"7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ba94eeb5-4b68-4848-a86e-71a9f3b70a4c,"Transformation, from urban, discontinuously built",,land,Resource,m2,"-7,300"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c16d78c6-a944-4bfa-8e7a-b292b5b49d2e,"Transformation, to forest, intensive",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7f401bdd-4116-48ad-b217-013fd904d323,"Transformation, from forest, extensive",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,26b15721-6a63-30fb-91fe-7907381a072e,"Transformation, from seabed, unspecified",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,399f4fd0-8fd8-4a22-82ee-c7f3b6a3d22a,"Transformation, from unknown",,unspecified,Resource,m2,"-1,720"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,aa6a298f-893f-449d-8573-39f32fd43fe5,"Transformation, from forest, intensive",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ebb16be1-8db3-42a2-8123-418787422cfe,"Transformation, to seabed, unspecified",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,13de50d5-fce8-3f57-a3ba-3bb7e5ada81b,"Transformation, from forest, unspecified",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,65b5162f-5ca9-4721-91cf-00a929960222,"Transformation, to sea and ocean",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,512a5356-8059-4772-a43f-42e3c4f3d299,"Transformation, to unspecified",,land,Resource,m2,"1,720"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0930b6b8-d9c6-4462-966f-ac7495b63bed,"Transformation, from forest, unspecified",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2299398e-0846-4290-bcab-09bda2e61ee3,"Transformation, to unknown",,unspecified,Resource,m2,"1,720"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bba9f623-5919-4ef3-b98d-c94af1553179,"Transformation, to forest, unspecified",,land,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,994d61de-fbb0-4187-a4d4-b11c3c2b9102,"Transformation, to forest, intensive",,land,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,88e8456c-dc23-4bb4-aed5-a4186a2fbf77,"Transformation, to forest, extensive",,land,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e71f95a5-fd82-4128-9fd1-be3f0e85d0fc,"Transformation, from forest, extensive",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3abea18f-cd91-4106-b23d-093c49427525,"Transformation, to forest, extensive",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e717f3cc-ac70-4c9b-be56-1614239b917e,"Transformation, from forest, intensive",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,29630a65-f38c-48a5-9744-c0121f586640,"Transformation, from unspecified",,land,Resource,m2,"-1,720"
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,928ba839-d6e5-4d1e-b5fd-122998a9bbe2,"Transformation, from seabed, unspecified",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,8b1e3dff-e8b1-309a-89f3-ecede50da739,"Transformation, to forest, unspecified",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9b30fc5f-510b-3a46-8dc1-79735508e830,"Transformation, from wetland, inland (non-use)",,unspecified,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2a57a86c-5738-3540-b510-5d5f9e8ff229,"Occupation, urban/industrial fallow (non-use)",,unspecified,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5f3dc1cd-12c9-35c8-80be-bc3d389ff825,"Occupation, permanent crop, non-irrigated, intensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ff6dccc1-5ebd-42c3-9fd9-3d73db7a3dd2,"Transformation, to forest, secondary (non-use)",,land,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2b1ded62-11d4-3758-a70e-0a58e428cebe,"Occupation, grassland, natural, for livestock grazing",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c07f2328-335a-3db4-8d9e-1b085d702e35,"Occupation, permanent crop, non-irrigated, extensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7956039f-1181-42ab-b03b-ba9992733394,"Occupation, annual crop, flooded crop",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5d369409-5f43-30e4-9f98-eb99ba5fcd79,"Occupation, annual crop, irrigated",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0782d8ff-80e5-47a7-a2ba-3ba40ab60b60,"Transformation, from wetland, inland (non-use)",,land,Resource,m2,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d3157d98-2297-32bd-93c5-125d4c6c5226,"Occupation, grassland",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2b8a0f87-bd2a-4b10-8dd9-714487f59fc9,"Occupation, grassland, natural (non-use)",,land,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6d957f85-fc93-36f1-9da3-397da3140eb9,"Occupation, unspecified, natural (non-use)",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,75686134-3d16-3df6-b14a-ce7b95b5fcc8,"Occupation, cropland fallow (non-use)",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fce3535d-e90e-3d99-9d7a-efe48ed7c9ce,"Occupation, annual crop, irrigated, intensive",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ca69a1af-870b-318a-b22b-370d7e0ecb15,"Occupation, annual crop, non-irrigated, extensive",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,acc1b9bf-3182-377c-adb3-ff4e1a585e29,"Occupation, annual crop, irrigated, extensive",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f719f0bd-9e4e-3749-9649-b2d0058600e5,"Occupation, permanent crop, irrigated",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0f923637-e322-44d8-9ff2-9c765d75e253,"Occupation, forest, primary (non-use)",,land,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,df1c10b2-021a-4db8-af05-267ceee43385,"Transformation, from shrub land, sclerophyllous",,unspecified,Resource,m2,-21
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9fd128fe-d8c5-476f-af42-2795d5f5d227,"Occupation, annual crop, irrigated, intensive",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,8c173ca1-5f74-4a6e-89e5-dd18e0f18d1a,"Occupation, arable land, unspecified use",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5dbd8205-fa09-3895-90d3-5e1d7406c179,"Occupation, agriculture",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ea0068d8-f3da-3242-a991-7ad2753bae1d,"Occupation, permanent crop, non-irrigated",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,061259d7-7bcc-4298-af3a-63d084191988,"Occupation, unspecified, natural (non-use)",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1b0a8570-eab4-46c2-9b67-c9b918e75676,"Occupation, annual crop, non-irrigated, extensive",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d5bb94d9-1426-3366-ad9c-2facec6e4f12,"Occupation, seabed, drilling and mining",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9d136389-8670-45ae-ad1d-a06848a1fd1d,"Transformation, from forest, primary (non-use)",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,310b68ea-1ea1-385f-add3-b49c49ac7293,"Occupation, agriculture, mosaic",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,11b3f160-360b-3d4d-8481-e32dd5113c14,"Occupation, annual crop, non-irrigated, intensive",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9089d7ad-09b1-4174-a188-8844ebde2d5d,"Transformation, to shrub land, sclerophyllous",,land,Resource,m2,21
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bbcc1fd7-e640-3b3d-ad3b-1d8afcc8b439,"Transformation, from grassland, natural (non-use)",,unspecified,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,70aa745b-8bc5-4433-b2f5-d1da652ba166,"Occupation, urban/industrial fallow (non-use)",,land,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,bd2930c1-0d30-32b5-bad0-141cd84a086e,"Occupation, forest, natural",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,06037f74-fb71-3996-bdd1-2c5ef86bc048,"Transformation, from forest, primary (non-use)",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6cd668d2-f1ee-3c26-b493-a7e13c4a1c02,"Occupation, forest, secondary (non-use)",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,895e2457-4921-360d-a896-4ca3ad621fe3,"Occupation, permanent crop, irrigated, extensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c2c796a7-b75e-3f60-a9d6-15199e4c9540,"Occupation, grassland, natural (non-use)",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,17a5a406-333f-4b9e-8852-c2de50bc9585,"Transformation, from shrub land, sclerophyllous",,land,Resource,m2,-21
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b905c2e0-a0db-4e66-80d2-8bdfc93c6218,"Transformation, from grassland, natural (non-use)",,land,Resource,m2,-125
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ad672604-b795-3595-a97d-e062d8c5c245,"Transformation, to forest, secondary (non-use)",,unspecified,Resource,m2,20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,89823c78-b1cc-398f-946e-36a47fdac7cb,"Occupation, urban",,unspecified,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e780232c-898f-4606-8d21-f8589801ebe6,"Occupation, grassland, natural, for livestock grazing",,land,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e063ee9c-9850-42b5-b01e-4cc9b5ad7152,"Occupation, annual crop, non-irrigated, intensive",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,40cbd1bc-c1fd-33c2-9dcf-f5692a76adf8,"Occupation, annual crop, greenhouse",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4bf710db-8c17-35e3-a99b-9a3466ee3747,"Occupation, arable land, unspecified use",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a57da54a-a2f2-3c3d-be95-238f564da562,"Occupation, grassland/pasture/meadow",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,f37246ae-19df-3043-8fae-0013e8e16330,"Occupation, seabed, infrastructure",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,18636f13-f552-4136-a353-3b5a8e5f87d1,"Occupation, permanent crop, non-irrigated",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c4a82f46-381f-474c-a362-3363064b9c33,"Occupation, annual crop, irrigated",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9cc80820-fcf9-4ea9-8e67-0aa423eba6a4,"Transformation, from forest, secondary (non-use)",,land,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e74b6885-3e05-3650-b6f5-49e8d6ab4c70,"Occupation, forest, used",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,eb5ff341-705e-3416-9e25-3c9a46490335,"Occupation, agriculture",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,759324e5-0469-376f-8e45-7a910659b20c,"Occupation, annual crop, flooded crop",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9e80f7cd-47fa-4c7f-8f2c-bdb9731b3196,"Occupation, annual crop, greenhouse",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d1a2f79b-02cf-3e39-b509-b0a61673875a,"Occupation, permanent crop, irrigated, intensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,258ade11-47cc-48fd-b49f-767a2f123cd6,"Transformation, to shrub land, sclerophyllous",,unspecified,Resource,m2,21
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7e7d6ebb-8c9c-4ecb-b64b-23a8c2c908c4,"Occupation, permanent crop, fruit, extensive",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2ace3064-cca0-3e0a-9d58-dccf3055c990,"Transformation, from forest, secondary (non-use)",,unspecified,Resource,m2,-20
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,84b11d12-a078-44e7-9d6e-7675a0e23c4d,"Occupation, forest, secondary (non-use)",,land,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4dce5be4-9605-316c-ba72-b102e6545075,"Occupation, artificial areas",,unspecified,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,6b1224cf-6a9d-37f3-9092-c289e700560f,"Occupation, forest, primary (non-use)",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c7cb5880-4219-4051-9357-10fdd08c6f2b,"Occupation, unspecified",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,63cf5ffa-3b2c-3ab8-b726-0bab20804237,"Occupation, unspecified, used",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c9461a73-d00a-4fc7-a890-a9eda6af3185,"Occupation, permanent crop, non-irrigated, intensive",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c14ea750-4a9f-41fa-bcc1-4a1d84466f43,"Occupation, river, artificial",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,67884dbf-8895-42ca-9a2a-37aef1189d3b,"Occupation, permanent crop, fruit",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,4b6b9b76-3199-4bd0-b11d-f8f2efbeac4e,"Occupation, construction site",,land,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c5aafa60-495c-461c-a1d4-b262a34c45b9,"Occupation, annual crop",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,42d9ad9b-d218-3047-a014-6a2c14e554c2,"Occupation, annual crop, non-irrigated",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,dbc67ab5-f891-33ff-b1f2-eed940a1205b,"Occupation, annual crop, conservation tillage",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,faa01bcb-884e-4c79-9ea2-16da6596c6a6,"Occupation, industrial area",,unspecified,Resource,m2*a,14.8
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,062a6faf-b1a5-4a6a-aa02-47ae3ec566a8,"Occupation, traffic area, rail network",,land,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,69c7d771-04fc-499e-84f8-6c7b923b8ced,"Occupation, heterogeneous, agricultural",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a47cd00c-476b-4f73-a0a0-46dc11638699,"Occupation, water courses, artificial",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,c199261c-8234-43c5-b906-5b67707e4395,"Occupation, shrub land, sclerophyllous",,land,Resource,m2*a,0.83
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3b4db191-9634-4a01-a873-f3cb234785e4,"Occupation, urban, continuously built",,land,Resource,m2*a,14.8
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,45e60c3e-a8ac-3d36-a6d2-ef0e4dc1f160,"Occupation, forest, unspecified",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1896b498-8d13-4f58-8c17-21fe57740158,"Occupation, permanent crop, irrigated",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,0b71699f-f013-3465-b171-b25083c0c257,"Occupation, pasture, man made, extensive",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5ba2a89f-819f-358d-ab0d-bfcd70083e3d,"Occupation, annual crop, non-irrigated, diverse-intensive",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,fe9c3a98-a6d2-452d-a9a4-a13e64f1b95b,"Occupation, industrial area",,land,Resource,m2*a,14.8
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,379ba5c9-5c3a-43d0-8e2d-605ad9c39e46,"Occupation, mineral extraction site",,land,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7d143ee5-e848-47d0-91e8-f10f7c86963d,"Occupation, heterogeneous, agricultural",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a923740c-61a1-380c-9501-8edda44211e4,"Occupation, annual crop, non-irrigated, fallow",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,d903114a-8c2c-3649-ab5b-22f404fc4646,"Occupation, annual crop, reduced tillage",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,080bf4c6-fab3-4e21-88c7-20b435aa42e8,"Occupation, urban, discontinuously built",,unspecified,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,59ded913-17fe-4b3e-80cb-79b97cdbef9a,"Occupation, pasture, man made",,land,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,34b81b2a-3230-3939-879c-1559f65badf7,"Occupation, annual crop",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b9a35003-86ed-45d8-b616-ef6859087b40,"Occupation, water bodies, artificial",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3259f9e3-8108-444b-9521-de12e53f6e35,"Occupation, dump site",,unspecified,Resource,m2*a,-15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,45091000-d7e1-459f-bac5-38b51efb4d63,"Occupation, urban, continuously built",,unspecified,Resource,m2*a,14.8
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,135816ab-f119-4a64-b608-a61cb788af7d,"Occupation, forest, extensive",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,19f84b2e-e6ff-4351-ba3a-8b650fc20d14,"Occupation, pasture, man made, extensive",,land,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7d6baa46-6ac9-4f04-9bcb-abc382574260,"Occupation, mineral extraction site",,unspecified,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7f52bb75-5d74-338f-b69b-815161f57c07,"Occupation, annual crop, reduced tillage",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ece7e2b1-d93f-3f83-ae39-e3b49527e594,"Occupation, mineral extraction site",,in water,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b91d0527-9a01-4a86-b420-c62b70629ba4,"Occupation, forest, unspecified",,land,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7f454ce5-4497-43d9-84d0-a79b65813b46,"Occupation, sea and ocean",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,190d9910-5d04-4c97-abea-3b39682b7ed6,"Occupation, urban, green area",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3afbc2d8-1b51-4d43-87a7-e68291c1e999,"Occupation, permanent crop, irrigated, intensive",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2925111b-3464-4e34-9d02-b73c1c033e91,"Occupation, forest, extensive",,land,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b3619a10-80f9-312b-a6ca-5263f580c89c,"Occupation, sparsely vegetated areas, steppe, tundra, badlands",,unspecified,Resource,m2*a,0.83
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,56ec994a-eb96-42e8-93eb-4970e30e6362,"Occupation, urban, discontinuously built",,land,Resource,m2*a,14.6
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,50b14562-ddeb-49d7-899c-dcbf9dfed004,"Occupation, unknown",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,a6889a22-e99e-42ea-85cd-4a68d7975dcd,"Occupation, annual crop, non-irrigated",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,ab295ced-caf0-4281-96a2-7ebc2203c508,"Occupation, shrub land, sclerophyllous",,unspecified,Resource,m2*a,0.83
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,04eb6f40-8671-3a31-b27b-ef82f04be46f,"Occupation, annual crop, non-irrigated, diverse-intensive",,land,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,72745257-3534-4ca3-adfa-a2eb63f1e7d9,"Occupation, traffic area, road network",,unspecified,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,74212326-ca29-46f8-a600-4e45b0ad688e,"Occupation, traffic area",,unspecified,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,26efe47c-92a5-4dea-b4d0-eac13e418a58,"Occupation, traffic area, road network",,land,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,9db06277-b6d9-4c48-8cfb-de342e928a50,"Occupation, seabed, infrastructure",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2aa913a6-41a4-47cd-83bd-58cc5e1b11a5,"Occupation, traffic area, rail network",,unspecified,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,26586deb-0d0d-42b7-ae01-e6e517a743cb,"Occupation, construction site",,unspecified,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1a01977a-d170-4ac1-86df-aae792cbeb8f,"Occupation, permanent crop",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,e9007a6f-7244-44d4-a561-91ae1b6c6cfc,"Occupation, permanent crop",,land,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5db2250f-278c-4b47-8c45-561ae9ff448d,"Occupation, permanent crop, fruit, extensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5ce41517-25bb-4da6-b839-5fd0f00baff1,"Occupation, urban, green areas",,unspecified,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,680016d9-59a9-37ad-9e51-8a476db6b732,"Occupation, pasture, man made, intensive",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, rail/road embankment",,land,Resource,m2*a,12
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,7af0b1a6-2e8f-407a-8ac7-b02a2023155b,"Occupation, seabed, unspecified",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3c578bf7-6ce7-365b-835a-a8c385fe94aa,"Occupation, annual crop, conservation tillage",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,1eaa9ea4-40b8-414a-b198-5626400372e1,"Occupation, dump site",,land,Resource,m2*a,-15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,20519748-a68f-33e6-a3d7-e7424fada99e,"Occupation, seabed, unspecified",,in water,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,377086c9-230f-3b09-acb6-512f046e4b74,"Occupation, pasture, man made",,unspecified,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,70c4c6d8-ed81-4763-ae6d-39e54ef0b1fa,"Occupation, seabed, drilling and mining",,land,Resource,m2*a,0
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,aca1714f-0040-4a65-a73a-0e38aa9f50f4,"Occupation, forest, intensive",,land,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,2997b0b4-f6ec-4df0-9481-4bdab4e86507,"Occupation, permanent crop, fruit, intensive",,unspecified,Resource,m2*a,4
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,5826d648-5ff2-31e1-9b9e-b193d406c44e,"Occupation, annual crop, non-irrigated, fallow",,unspecified,Resource,m2*a,9.7
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,98b723d4-3362-4b38-8b1e-1bedacfd5e27,"Occupation, pasture, man made, intensive",,land,Resource,m2*a,5
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,3e7f1605-9451-4e53-9690-ab5318033227,"Occupation, traffic area",,land,Resource,m2*a,15
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,92f8f25e-135a-48df-b90c-c6c4547fe94d,"Occupation, forest, intensive",,unspecified,Resource,m2*a,2
+ILCD 2011 Midpoint+,1d5fb5db-5de3-3a87-9a8a-65ef0c905f5f,Land use,kg C deficit,b8210d24-4b65-3710-846b-d24edffb5f89,"Occupation, traffic area, rail/road embankment",,unspecified,Resource,m2*a,12

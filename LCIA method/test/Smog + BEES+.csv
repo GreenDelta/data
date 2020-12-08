@@ -1,0 +1,657 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0e5cde66-8e9e-4bd9-a0d1-157d58a9d0da,Glycol ethers,,high population density,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2048a6fe-d31f-4d6f-b6ae-0e4c1cec630d,"Propane, 1,2,3-trichloro-",000096-18-4,high population density,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,81af7b25-644f-3012-af2f-63bdfa7ea2e4,"Ethane, dichloro-",001300-21-6,high population density,Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2970eb66-941e-497c-b602-c2063120d3e1,2-Butenal,004170-30-3,high population density,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,54d27bb0-e5ce-4667-8f14-1289bd6e927e,Dicyclopentadiene,000077-73-6,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,53fc7ec9-1b3f-4d89-ade6-8ca2934c1695,Butene,,high population density,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,27c7cf05-a12b-3dfb-ac83-863c0716ad29,"Acetylene, dichloro-",007572-29-4,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4b3b35eb-87ba-3a53-ae85-924ba673cef6,Hexanal,000066-25-1,high population density,Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1eb1b94c-e9d8-47ab-969b-9cca920157d8,"Particulates, > 10 um",,high population density,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,428e384f-5146-4023-9e62-cca1db3ed321,Paraffins,,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,39b71d69-740f-49fb-b580-8fd940464ba0,Allyl alcohol,000107-18-6,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0f9eae88-8db6-3498-a79e-f2f8b45895d3,"7,12-Dimethylbenz(a)anthracene",000057-97-6,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d439867e-7ef9-41aa-91e2-de8a922f9158,Diethylene glycol,,high population density,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1715cbaf-953d-3b05-b2f7-db08a8d444cc,3-Methylcholanthrene,000056-49-5,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b69cda46-98f7-4a18-a139-9146a2f94eb9,Fluorene,000086-73-7,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f0b81e20-4eb2-4db7-a147-39814da2c691,Acenaphthylene,000208-96-8,high population density,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fbf3f617-1db3-4441-9218-e4267be21041,Bromoform,000075-25-2,high population density,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7a9804f8-703e-44c7-85b8-0ebc51476ecc,Biphenyl,000092-52-4,high population density,Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,626dd1d8-5355-40cb-8569-9c87c2c6ab18,"Hydrocarbons, chlorinated",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fc415f33-5131-438c-830c-0f6089d3dada,"Hydrocarbons, aliphatic, alkanes, chlorinated",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,516f2eae-6f4c-30d9-86e3-17d30cdb25f2,Benzo(b)fluoranthene,000205-99-2,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8b5d5c1d-c786-4367-94f0-fae42cd3ac0a,"Hydrocarbons, aromatic",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,bfa26b15-5340-441e-acb4-0bb19a4028d3,"Hydrocarbons, aliphatic, alkanes, unspecified",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4eb98085-3a29-45b0-873a-32b7c405041a,Cresol,001319-77-3,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d961f86b-e36b-4ac6-8cd4-b253e496de79,"Aldehydes, unspecified",,high population density,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,99c07b66-c039-4896-866d-06abdaa9d46a,Acenaphthene,,high population density,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,07f3e3bb-d066-44bb-ac90-58489563b2b0,"Dibenz(a,h)anthracene",000053-70-3,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ce14196b-f2f9-454f-828f-b86622bcbbc4,Acetophenone,000098-86-2,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,34837fe3-4332-493c-86bb-95a207d9c234,"Hydrocarbons, aliphatic, unsaturated",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,18282ab8-5b46-4c56-9038-588ed28a4a95,"Hydrocarbons, aliphatic, alkanes, cyclic",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,38dd6eee-c49b-4a14-a481-61e5736fceeb,Cumene hydroperoxide,000080-15-9,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,06278bba-5079-4c7d-a7a2-b722efb6b98a,Isophorone,000078-59-1,high population density,Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cf17e91a-4872-4e83-9438-d1c740b1afaf,Pyrene,000129-00-0,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,616930f6-43a7-440d-93d9-6156e3fe7433,Methyl methacrylate,000080-62-6,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1049cdbc-1855-46ab-8219-11b65f0493f8,1-Methyl-2-pyrrolidinone,000872-50-4,high population density,Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,585da516-b59a-43b4-83c1-6ccf4d28c83b,Furan,000110-00-9,high population density,Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2fb1ea8b-ce07-4196-8fd7-7a2ea8a85a11,"Ethane, 1,2-dibromo-",000106-93-4,high population density,Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2786c3d5-2f5a-4202-8219-223f9cc7a307,Vinyl acetate,000108-05-4,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,30520d08-9589-44af-a59c-5c5cefd508ac,Crotonaldehyde,000123-73-9,high population density,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ed8da356-ed40-4a35-8de4-57aee1d3c279,Xylene,,high population density,Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,81420a5f-869c-407e-924b-11456ddd83cb,Fluoranthene,000206-44-0,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,468bebea-17ee-49d3-b11d-c603d91c67c8,"Ethane, 1,2-dichloro-",,high population density,Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f61bb84a-06b8-4075-9f13-b17e383b85e7,"Phthalate, dioctyl-",000117-81-7,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4e519201-34e5-4b32-8319-bb0dba8202ca,Benzyl chloride,000100-44-7,high population density,Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2daf7c02-8920-455a-8cab-b45116a69675,Anthracene,000120-12-7,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,127ff74d-018b-43b9-8a4e-fb5577d5ee5a,"Ethene, chloro-",,high population density,Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5e8c1862-c7ee-44a1-ab25-715418325df3,Benzo(a)anthracene,000056-55-3,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8e8d94da-134e-36f5-bf67-e987b059781e,Benzo(k)fluoranthene,000207-08-9,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c36dc87b-e52e-4212-8907-af83766694ab,Phthalic anhydride,000085-44-9,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d761d96f-d236-4131-89c8-ad3269d02a6b,Phenol,,high population density,Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f445081a-818e-4073-87cd-0ce921c96953,"Indeno(1,2,3-cd)pyrene",000193-39-5,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4446c2d0-1bc1-422f-9b97-0867d5602dbb,Ethylene oxide,,high population density,Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ed6dc0d-9c2e-4046-a44b-e8a708c2081e,Acrolein,,high population density,Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,44a477ca-44db-4a70-a94d-8a2e2e008ca9,Chrysene,000218-01-9,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8b14d08c-d2b6-4821-b35a-3eaffd48d6d8,Phenanthrene,000085-01-8,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,93e6ef92-1ef2-479c-a908-1b487af9cef7,Naphthalene,000091-20-3,high population density,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2cbb504a-ce2f-40e9-9d38-e130e95a1242,Benzo(a)pyrene,,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,30b704f8-c146-4afc-89e1-ff0da97f3022,"Benzo(g,h,i)perylene",000191-24-2,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5e0131bf-3240-48d9-8bc7-210147cb7963,"Benzene, chloro-",000108-90-7,high population density,Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4bf1c333-419b-4278-ac14-247c8bf563d6,"Methane, bromo-, Halon 1001",,high population density,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,370447a7-70d1-47bd-8577-0a32c4f53570,"Methane, monochloro-, R-40",000074-87-3,high population density,Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,620bc2f6-cf71-4dde-bba9-c6e8fdec5e23,Carbon monoxide,000630-08-0,high population density,Emission to air,g,0.0166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2a042136-80fd-4c1c-8996-65a7985497d3,Cyclohexane (for all cycloalkanes),,high population density,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ada09403-d5f2-4496-9201-a6dcca0b1717,Propene,,high population density,Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fe65f7e4-ee5b-4a6f-9d60-6c2f829dca3f,Benzaldehyde,,high population density,Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f4bb66f1-c78c-409f-8368-85c1205a3573,Heptane,,high population density,Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,36270548-9316-424b-9aeb-e0de134b0be1,Ethene,,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,35c746fb-2d4a-4d06-9955-1973ce67b74e,Cumene,,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1a13d6e7-45c9-427a-a3c9-38887ce7b86a,Ethyne,,high population density,Emission to air,g,0.304
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d5a2d5b4-d9f3-468e-9a3f-3eeaaf5bdc16,1-Butene,000106-98-9,high population density,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1f130425-11f9-4ec2-8d2f-d282acaacf5c,Acetone,,high population density,Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f873299d-0675-4fdc-ad01-c5a4b951b583,Methanol,,high population density,Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f1c0cd31-8d5e-4bc9-91f6-79e76329234e,Propionic acid,,high population density,Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d85a44cb-8407-4997-a146-581e4f35f39d,Styrene,,high population density,Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,892f10da-7bf2-42b3-b171-221989661a05,Butane,,high population density,Emission to air,g,0.661
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5a6eb27d-9157-46d5-be32-92bbd543ada9,o-Xylene,,high population density,Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1bb6a502-3ff9-4a79-835c-5588b855f1f5,Benzene,,high population density,Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f,Acetaldehyde,,high population density,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9fbec2f4-6b42-4e63-9573-14e04befe20f,4-Methyl-2-pentanone,,high population density,Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b9b68c0c-053e-41de-ab72-8dfe1c3f5755,Acetic acid,,high population density,Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,efc4290c-1404-4e01-8b5e-e75c6d90615c,Butanol,,high population density,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,Formaldehyde,,high population density,Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0a07a739-e6cf-4716-87a8-1078afbd3f0f,Isobutyraldehyde,000078-84-2,high population density,Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f9716462-bea3-4c6e-b767-906dc0fcee81,"Benzene, 1,2,4-trimethyl-",000095-63-6,high population density,Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a793710a-1990-4e65-a95e-cfbbc5332355,t-Butyl methyl ether,,high population density,Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2716807d-0266-48ff-bb7a-6e6c5fbfd5c5,"Methane, dichloro-, HCC-30",,high population density,Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e7140812-ce3d-49f5-97b0-2fef538217a5,Butadiene,,high population density,Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5512f026-b3a9-419a-b787-c0be0b39be1c,Cyclohexane,,high population density,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d2d4b344-3c58-4b0c-868a-ac0bdb2027dc,"Ethene, tetrachloro-",,high population density,Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9ea11aea-7cb7-4b38-b936-a42c2a4bac97,Ethane,,high population density,Emission to air,g,0.0874
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,818cee9e-231c-4b53-8ed2-47a0001802d5,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,high population density,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,379a827c-3290-4810-9689-b9e892945836,Ethanol,,high population density,Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3bbc78d0-08c4-48ef-a863-704e32fddcb3,Hexane,,high population density,Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,39946c56-cdf6-4a22-9ac9-1cd333b65533,Toluene,,high population density,Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0e7c1a7b-cd98-4f8d-a619-a687d3e2cb48,"Ethene, trichloro-",000079-01-6,high population density,Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b53d3744-3629-4219-be20-980865e54031,Methane,,high population density,Emission to air,g,0.00367
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,10571d92-ea97-4ac6-adb6-b25893a631cb,m-Xylene,,high population density,Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,98c66fdb-091d-46e9-a533-686f821e8f6a,Propane,,high population density,Emission to air,g,0.159
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,26b5c174-e20e-430a-a4b1-44de4af8b40f,Methyl ethyl ketone,,high population density,Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0b9698ec-8b52-4986-8f9f-ad30915aa00c,Pentane,,high population density,Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eeaeefc1-0af9-45e5-99a8-2333a387f0ae,Propanal,,high population density,Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7c09916a-b6b5-47f5-bdf6-30d2511beb82,"Benzene, ethyl-",,high population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,56cafa03-5440-4cb7-922e-3aa607787438,Ethylene glycol,000107-21-1,high population density,Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d242a254-bb88-48b2-b3ae-ab3810f01f63,Allyl alcohol,000107-18-6,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,796d7c49-d2f7-330a-80af-a98b31c2c443,Hexanal,000066-25-1,low population density,Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e1cc645c-9d74-40ff-a4b0-b0591d8717e5,Diethylene glycol,,low population density,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,44cfeaea-d92c-44f6-a228-25b6e5ff4905,"Propane, 1,2,3-trichloro-",000096-18-4,low population density,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fb660674-67d6-3ce2-8dcf-3c0c556c8cfb,"Ethane, dichloro-",001300-21-6,low population density,Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7678cec7-b8e1-439d-8242-99cd452834b1,"Particulates, > 10 um",,low population density,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ffa4a37d-e5f1-4b2c-a62d-46c95a169376,Glycol ethers,,low population density,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,16410099-57c2-4ad8-928a-d8ec91f1684f,Paraffins,,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,da3aced3-acb9-4e86-8ef4-3c720bb1ff20,2-Butenal,004170-30-3,low population density,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2bafbeed-fcb5-3594-876b-a0351820a167,3-Methylcholanthrene,000056-49-5,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5f680f47-0fe2-334a-98ab-68a946e1933a,"Acetylene, dichloro-",007572-29-4,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,deec5cec-4d8d-492a-9b0c-eab92dd55af8,Butene,025167-67-3,low population density,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae398c2-8532-11e0-9d78-0800200c9a66,"Particulates, unspecified",,low population density,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7e1b1bb6-bd3b-439d-8ea1-9090619f43ed,Dicyclopentadiene,000077-73-6,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,14975dbd-4be9-3fe9-b84e-1725ca41e70d,"7,12-Dimethylbenz(a)anthracene",000057-97-6,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d6626dfb-3ac8-4169-9e75-54c41ef2a582,"Hydrocarbons, chlorinated",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20938d59-8825-4bb3-9e16-a2285eb734c8,Cresol,001319-77-3,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f9abb851-8731-4c5b-b057-863996a1f94a,"Hydrocarbons, unspecified",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ba1a3dcb-d53a-42fd-80f0-d09f3a12ffe2,"Aldehydes, unspecified",,low population density,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3af44a2d-b891-4e0d-a267-e5e0a1a8f72d,Acetophenone,000098-86-2,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d50f4c8-a917-4496-a7d9-470b080faf68,"Hydrocarbons, aliphatic, unsaturated",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,922a7ccf-3338-43ad-bd7e-77d51df051ab,Acenaphthene,,low population density,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e1b2d391-f509-48eb-9c2c-153091e086e6,Cumene hydroperoxide,000080-15-9,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ae1791b5-85ce-481a-9091-75c4b3f51d2c,Acenaphthylene,000208-96-8,low population density,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c67be924-e68d-4bc1-9dd9-25f33a6cad34,"Hydrocarbons, aromatic",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5f4baaf6-055e-491e-9852-258897ab5194,"Hydrocarbons, aliphatic, alkanes, cyclic",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,11dc474a-2aae-4b75-a327-2defc78127c5,Isophorone,000078-59-1,low population density,Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,17a98e7f-a8fd-431d-9bb6-6c4bf3fc5517,"Hydrocarbons, aliphatic, alkanes, unspecified",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8c524507-938a-4ab9-8430-105b2011dbae,Fluorene,000086-73-7,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7d2de00e-9ebc-4b51-b802-defc24ed6c27,"Dibenz(a,h)anthracene",000053-70-3,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a191d3a2-12fe-3d83-8fd9-be62a171aebe,"Naphthalene, beta-chloro-",000091-58-7,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,adc26b80-96cd-3e03-a282-6e32974ebc31,Benzo(b)fluoranthene,000205-99-2,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,08a773ca-e79a-43ad-9cbc-7d2b7981d9c3,"Hydrocarbons, aliphatic, alkanes, chlorinated",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f36877b0-32ca-44db-a8fc-9a76e7f2d0fd,Bromoform,000075-25-2,low population density,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,14ede4f0-be68-4933-b84b-b4dc90f73fff,Pyrene,000129-00-0,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ddcb9689-4d1c-4ac0-bb1d-40352d4907a3,Biphenyl,000092-52-4,low population density,Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6bc4ea55-ddc5-4687-90fb-c965d04b32b0,Methyl methacrylate,000080-62-6,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d9fcc77c-126a-4e92-92d6-ae7c2f05860e,Vinyl acetate,000108-05-4,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,dbf3db34-cd47-4461-be28-ed5f2c176c4f,Crotonaldehyde,000123-73-9,low population density,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c198055c-280e-45df-9d81-895e7172886c,"Ethane, 1,2-dibromo-",000106-93-4,low population density,Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,142ce3b0-4bd6-47a3-9991-7c657c947ffe,Furan,,low population density,Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,583c27a3-273b-4459-b5a6-470c0e038e8b,1-Methyl-2-pyrrolidinone,000872-50-4,low population density,Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a1d277aa-7aea-4b5e-8aa9-2789ba8ff333,Xylene,,low population density,Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2256cd1c-760f-43b0-aa1c-5229ba199150,"Ethene, chloro-",000075-01-4,low population density,Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d5a30a9f-e6be-481f-b2ef-47cb08f0cc83,Phthalic anhydride,000085-44-9,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d773fe3d-1792-3f52-a658-2649e484ac90,Benzo(k)fluoranthene,000207-08-9,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d1548388-ce45-4a78-ac65-e096c1da1f8e,Fluoranthene,000206-44-0,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,df9d4dca-655b-460f-83b3-ee98efb35036,Anthracene,000120-12-7,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,43a411aa-8f29-4744-bc56-1deaa8105338,Ethylene oxide,000075-21-8,low population density,Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,621d5583-dca8-4acc-add7-316f8fca9ebc,Chrysene,000218-01-9,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,12840cef-c3b8-4ef2-b7d4-3a73dbd6a280,Acrolein,,low population density,Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,63974d2c-11f3-45eb-be9c-726261b04d85,Phenol,,low population density,Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,160cc5f4-4d25-43c3-9662-a62221505ec1,Naphthalene,000091-20-3,low population density,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c7b704e6-0ad7-458a-bdd5-edc4c91dd631,Phenanthrene,000085-01-8,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2cf8dc83-5e39-4035-9c14-603b99e55c28,Benzo(a)anthracene,000056-55-3,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ce227690-1a75-45ce-9bb9-343170a9d4be,"Phthalate, dioctyl-",000117-81-7,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,65e4dd1d-1067-46f3-8c6b-8e50e210899e,"Indeno(1,2,3-cd)pyrene",000193-39-5,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0925c22f-2a8b-4dcd-be23-0fae3d889a17,"Benzo(g,h,i)perylene",000191-24-2,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,46c04893-e98d-4ab6-a94a-ddbf27f60e50,"Benzene, chloro-",000108-90-7,low population density,Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,89324b2f-1e73-4eb1-9716-96b9be0349ac,"Ethane, 1,2-dichloro-",,low population density,Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3f719401-b7c5-4be3-ad66-9aba1df1e7b6,Benzyl chloride,000100-44-7,low population density,Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,81c4ba39-8a3f-4a43-97b4-401605bbebf5,Benzo(a)pyrene,,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,701cda28-4722-431c-b52f-05a735ef5ed3,"Methane, bromo-, Halon 1001",000074-83-9,low population density,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0f907765-2a94-48a8-8978-55a2757d3e24,Propionic acid,,low population density,Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d4b61c6c-a620-4a91-afc6-ca87ef97b55a,"Methane, dichloro-, HCC-30",,low population density,Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,885fffeb-80b7-40ef-9c94-e25356e05080,Ethylene glycol,000107-21-1,low population density,Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,23856318-9583-426b-ab04-12e4506b60a8,Propene,,low population density,Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ed63abd0-7cc6-4825-8759-b367e560fe95,"Methane, monochloro-, R-40",,low population density,Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,025fcb20-0591-4bae-80fc-7c34e9af2e7b,Heptane,000142-82-5,low population density,Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,22ff429e-4506-428d-9bba-4f9595ed3b99,Cyclohexane,,low population density,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9167dca7-615e-435c-8ba6-dbbf50e50e34,Formaldehyde,,low population density,Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e0e605c8-370b-4b5a-b6d4-2e7a5a1a6709,"Benzene, ethyl-",,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d456fb8-592b-46a7-97f0-81fc2a18e587,Styrene,,low population density,Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e7e0031e-791d-42f4-b26c-ec322db637bc,Ethane,,low population density,Emission to air,g,0.0874
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae371ab-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,low population density,Emission to air,g,0.0166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6ed53433-96ff-402c-87d0-52b8271aadac,4-Methyl-2-pentanone,,low population density,Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8a970585-5ce2-4226-b60d-df1c34649a56,Butadiene,000106-99-0,low population density,Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fc9f9a81-c4b9-4dce-bc20-9f04e05ca2f1,Acetaldehyde,,low population density,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1a796dc4-5dcb-40da-a609-3a5a40655fad,Cumene,,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fa5512cf-04a2-4014-8e96-d3e2d137f0df,Butane,,low population density,Emission to air,g,0.661
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,77f17646-cede-4a49-99dd-55950098b077,Toluene,,low population density,Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6b491a9d-285a-4dce-aef6-a5a6e51c713e,"Benzene, 1,2,4-trimethyl-",000095-63-6,low population density,Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,41067ac7-bf36-47ef-a19f-683d9b758a28,Hexane,,low population density,Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0d3ccb17-b3fe-4c08-b7cb-458ed3ababf1,Ethanol,,low population density,Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2f052025-4072-4d8e-b22d-68d50bfb260c,Pentane,,low population density,Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e64254e3-07d3-4330-b6de-6a858f108124,Ethyne,,low population density,Emission to air,g,0.304
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,edd62398-8916-4183-9615-65afce26518a,t-Butyl methyl ether,001634-04-4,low population density,Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,963be8ca-e43d-4f8d-a97b-d8982035ffbc,Propanal,,low population density,Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1d2439de-751b-469a-ba3e-fda8fe9802b2,Methanol,,low population density,Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2813518d-c4a8-4a8d-9542-f1882ec27c1c,Benzaldehyde,,low population density,Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,99585564-bfce-4845-9aaa-2f24b8f26a41,"Ethane, 1,1,1-trichloro-, HCFC-140",,low population density,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20408dd0-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,low population density,Emission to air,g,0.00367
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5e883a00-04e6-4d96-8dce-12d7117c6635,Benzene,,low population density,Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,22698b26-ab11-43eb-a48f-3e46863555cc,"Ethene, trichloro-",000079-01-6,low population density,Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,754028fd-e650-4804-922e-694a764ba578,"Ethene, tetrachloro-",,low population density,Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,92259b90-6f92-42ec-b3f2-30775167aff7,o-Xylene,000095-47-6,low population density,Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0aa4a379-3db3-4aad-950c-1bc4a58c6519,1-Butene,000106-98-9,low population density,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9beb60a3-3a8c-4345-9a0e-107eec2f709f,Propane,,low population density,Emission to air,g,0.159
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c5cc0625-6e01-4639-b053-5d1d9d22a53c,Acetic acid,,low population density,Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,87f683ed-44ae-41a6-b4bc-230622f8cfef,Ethene,,low population density,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d24f41d7-279e-4f5a-9ac9-00f726dc3bcc,m-Xylene,,low population density,Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,54b35742-21ff-4454-8a3d-f31577e308b3,Methyl ethyl ketone,,low population density,Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7a2d7097-20c4-4b5f-b2ee-bcfc2ba1378f,Acetone,,low population density,Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f4cf1743-b13f-437d-89af-0ca0cab4590f,Isobutyraldehyde,000078-84-2,low population density,Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5ca0b3e9-6649-35eb-8a54-4bf2701f8009,Hexanal,000066-25-1,indoor,Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a66d3153-d2b7-3cc8-ad6f-9f5845dd2dfc,Dicyclopentadiene,000077-73-6,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7b77cdb3-2091-3d1f-bbc3-69cd2af46510,2-Chloroacetophenone,000532-27-4,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eaa0b733-9024-3875-ab17-9bc33ae4443f,"Ethane, dichloro-",001300-21-6,indoor,Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,bde0e73f-453e-3d4d-91db-127b92ab6fa4,Allyl alcohol,000107-18-6,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2aa06cd9-d7b4-32b0-8f07-3e19771b39e0,"Propane, 1,2,3-trichloro-",000096-18-4,indoor,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,562e3a63-93fd-3e64-9fa8-5f5f816a402c,"7,12-Dimethylbenz(a)anthracene",000057-97-6,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c9a0bf7d-482b-3830-af8e-41deb52f24da,2-Butenal,004170-30-3,indoor,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,be9efabf-9127-3b61-bc8a-4e4627913145,Diethylene glycol,000111-46-6,indoor,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8d9325c3-bdd0-37c7-b269-35b68b3fb213,3-Methylcholanthrene,000056-49-5,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,87b7e248-6b9a-3dd8-8438-be311b779d15,"Acetylene, dichloro-",007572-29-4,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1461c951-70f8-31b0-a8f5-fbef739bef45,Isophorone,000078-59-1,indoor,Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d708ebe-416b-3420-8d64-ab96345c7958,Pyrene,000129-00-0,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b7e108e4-b420-3536-8f97-12c8ee331a8b,Benzo(b)fluoranthene,000205-99-2,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,175af7d1-d67d-3563-8711-2228f02bb1f5,Cumene hydroperoxide,000080-15-9,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7dfecbc4-d508-342f-ba95-4d778c245400,"Dibenz(a,h)anthracene",000053-70-3,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,95805c90-161e-3843-a522-219601992dcc,Acenaphthene,000083-32-9,indoor,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8cc11efa-80c1-3ee6-bc1c-4f31c08abaf0,Acenaphthylene,000208-96-8,indoor,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,14ac702b-410a-30af-8ea7-4ba57866a33d,Acetophenone,000098-86-2,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,377f93ae-b605-3291-9418-8873e9a238d4,Biphenyl,000092-52-4,indoor,Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9e3c82b7-4fca-371d-b696-eb727551c77b,Bromoform,000075-25-2,indoor,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,78fcfebd-39f6-3c72-a1e8-93e11072ae20,Cresol,001319-77-3,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,db2ec8b2-7d99-328a-867b-9b8a348c6230,Fluorene,000086-73-7,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,69ddf804-2f75-3616-9732-957f007c55da,Quinone,000106-51-4,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0872e18e-bb91-355d-aed2-4b2a81deca40,Methyl methacrylate,000080-62-6,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,262dcf26-d847-35e6-a96b-4d3e27555000,o-Cresol,000095-48-7,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,04e44140-9bcd-30c2-9d1e-0fbfc7d9d1e8,"Ethane, 1,2-dibromo-",000106-93-4,indoor,Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,927a0c84-ca76-3518-8c08-4c5f3b06e69f,"Ethene, 1,1-dichloro-",000075-35-4,indoor,Emission to air,kg,0.483
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ec7e8526-953c-3661-a4e7-649592d3fa7f,Crotonaldehyde,000123-73-9,indoor,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d44bbd99-1e3e-3599-b20b-a0c12453d745,Furan,000110-00-9,indoor,Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f2ded4d6-e180-3912-a76f-36809d0ca0c1,"Ethane, chloro-",000075-00-3,indoor,Emission to air,g,0.0525
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,07907ba6-6e57-3343-bbbc-7bf7ca2ebdee,1-Methyl-2-pyrrolidinone,000872-50-4,indoor,Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d3c2babe-0354-3993-9c1a-6c0b6701e352,Vinyl acetate,000108-05-4,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c02a7951-93e7-3202-aaf0-92bd496c433f,Xylene,001330-20-7,indoor,Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9c3a2df2-d9db-3b89-85ab-92df0cf6140d,Naphthalene,000091-20-3,indoor,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,aadd454f-896a-3e3f-8562-5b2bfed0befd,Ethylene oxide,000075-21-8,indoor,Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,bab8c287-cca4-3b41-8e45-3c6bdb37f2d5,"Ethane, 1,2-dichloro-",000107-06-2,indoor,Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d9a8922-2cb8-356f-88e2-a393f1a1a0a5,Phenanthrene,000085-01-8,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0371cc30-26c5-34b6-99a8-45bb8395b248,Anthracene,000120-12-7,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b0439679-38a0-3c7d-9912-0505c00711f2,"Benzene, chloro-",000108-90-7,indoor,Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ae011ede-efac-3ee1-8b21-186d4a20db4c,Benzo(a)pyrene,000050-32-8,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8aaebd21-bc58-3df2-96e8-7a90a8c4b024,"Phthalate, dioctyl-",000117-81-7,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d3eb004c-fcdc-3e6f-8952-cd4f2cbebee9,Acrolein,000107-02-8,indoor,Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,49324ed2-a3a5-3adf-a329-20affcc0fc8d,Fluoranthene,000206-44-0,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fa160ff3-12d1-3e6b-a975-2a87b1f7ca63,Chrysene,000218-01-9,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,90e3fd74-fb2a-328f-98f1-385517e40d6a,Benzo(k)fluoranthene,000207-08-9,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,dd29f098-2314-30aa-84cf-78c485b4cdfc,"Indeno(1,2,3-cd)pyrene",000193-39-5,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4208841f-4f0a-37e2-bbc7-c1d635e3f5d6,"Benzo(g,h,i)perylene",000191-24-2,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fbcc53dc-2a0f-3e88-b4c2-f5445afce65d,"Benzene, 1,4-dichloro-",000106-46-7,indoor,Emission to air,g,0.109
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0f9d7117-0e1d-3ac1-9135-8245fd68fafe,"Ethene, chloro-",000075-01-4,indoor,Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,120c322e-3a2c-3cb3-a7ec-2567f87999f7,Benzyl chloride,000100-44-7,indoor,Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f2980b7a-195a-3f28-8afe-b440dd85f80c,Phthalic anhydride,000085-44-9,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8c11f067-c51a-33e8-b098-3032055edb0b,Phenol,000108-95-2,indoor,Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4f9b54df-ad37-35f9-940a-8d8b8685384a,Benzo(a)anthracene,000056-55-3,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,46d70535-e74d-3c0e-8aa9-d52233b755d6,"Methane, bromo-, Halon 1001",000074-83-9,indoor,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f5936aab-5e0b-3d3b-b605-c72078038ebf,p-Xylene,000106-42-3,indoor,Emission to air,g,1.09
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2e5e65e9-67b9-3a73-83e4-d487b186d8d9,Butadiene,000106-99-0,indoor,Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ee6bf285-eb89-319f-a1c1-9045e851cd46,Ethylene glycol,000107-21-1,indoor,Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,78d778f3-271d-367a-bbc2-db3c85f6b0d8,Benzaldehyde,000100-52-7,indoor,Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,34507fb8-65d9-3149-b6e8-d17f91409ac9,Propene,000115-07-1,indoor,Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e97ec376-5436-35b7-a1d5-cd18999e7b0b,Heptane,000142-82-5,indoor,Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5ffc1e31-2eb1-3cbc-b428-0f9d57af2d70,Benzene,000071-43-2,indoor,Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eb1a4e44-4c66-35eb-9f9d-5dd25ad0a02d,o-Xylene,000095-47-6,indoor,Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,99011daf-eb19-37ce-9c0e-651b6b62adaa,"Ethene, tetrachloro-",000127-18-4,indoor,Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cd03cf82-d130-33eb-927c-db747ce6f1d9,Toluene,000108-88-3,indoor,Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,62b909fa-e68f-3e06-a207-981e312d3094,Propionic acid,000079-09-4,indoor,Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,772ec94e-900d-3303-ad15-c04dd2578d2b,Acetone,000067-64-1,indoor,Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a93b9ed6-405e-3c97-840f-53427af913e8,"Methane, dichloro-, HCC-30",000075-09-2,indoor,Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7e23f4e8-1575-396a-be61-35a1847ffebe,4-Methyl-2-pentanone,000108-10-1,indoor,Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,794caf8b-0d37-3762-8357-ae0e05cc2938,Propanal,000123-38-6,indoor,Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e43bdf20-94d3-3714-b444-6d6d5adb4c2c,Cyclohexane,000110-82-7,indoor,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,45b4e3cd-ee3a-3fba-97f9-85be8efb5601,2-Butanol,000078-92-2,indoor,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4a749402-133c-3dfe-bd3b-60060a81bb72,Hexane,000110-54-3,indoor,Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,58f86d12-b811-3ca0-9c2d-83559bcc4ca3,Acetic acid,000064-19-7,indoor,Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,77486b49-518e-3a60-a78e-62f88fe737b7,t-Butyl methyl ether,001634-04-4,indoor,Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9a509b8f-c2a6-33df-8170-b62dcb6fb949,Methanol,000067-56-1,indoor,Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9f0196c4-8f8e-36dc-920f-8d052b372f2a,Isobutyraldehyde,000078-84-2,indoor,Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,508f6f4a-2420-3646-a5bc-65175881baf2,Methyl ethyl ketone,000078-93-3,indoor,Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,194d7081-d8c8-3467-b3cb-3845e697ff37,Cumene,000098-82-8,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f25df531-a2c6-3a1c-b997-06a802880d1a,Styrene,000100-42-5,indoor,Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,759040bc-32a2-3250-8900-c49444e1c619,"Benzene, 1,2,4-trimethyl-",000095-63-6,indoor,Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,756db068-d8ff-3c5f-badc-e430dbd82a7d,1-Butanol,000071-36-3,indoor,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,45d459a5-33fc-37fa-bcfa-16cc05ebe2b1,"Methane, monochloro-, R-40",000074-87-3,indoor,Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,71353ebf-383b-33fa-9349-8bfa0df61801,Pentane,000109-66-0,indoor,Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,629becfa-af05-3a08-89c3-3aa848878560,Butanal,000123-72-8,indoor,Emission to air,kg,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,839f05a3-29ee-3af9-aaf9-f8d6409fc223,Acetaldehyde,000075-07-0,indoor,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6869a95b-c5db-3a5a-bf9e-f215b2811782,Formaldehyde,000050-00-0,indoor,Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9de44397-4c4b-394e-ac70-28db28788fea,m-Xylene,000108-38-3,indoor,Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,926e91c7-69bb-3673-a488-72bae997734c,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,indoor,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ef327fa3-1194-36db-afc1-68224924a120,t-Butyl alcohol,000075-65-0,indoor,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d2c3346e-9bbd-3524-ac91-b020ab3a206a,"Ethene, trichloro-",000079-01-6,indoor,Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,38a736e8-ddd5-3b04-a0b8-16780bbf3238,"Benzene, ethyl-",000100-41-4,indoor,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c589f21a-de8f-39ca-b6f5-324426ea19ae,Ethanol,000064-17-5,indoor,Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,31eb3c73-390f-356a-af8f-d8c291fcbb43,"Alcohols, unspecified",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,10da41c2-7820-3895-8134-b0bf499d735f,3-Methylcholanthrene,000056-49-5,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,43069ed9-6df0-347c-a547-3f611a29c983,"7,12-Dimethylbenz(a)anthracene",000057-97-6,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,24ebe8c7-139a-3b42-8f87-f3d1c194180d,Allyl alcohol,000107-18-6,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f6571384-9210-4c4c-a882-25ae25979d7a,2-Butenal,004170-30-3,"low population density, long-term",Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,68a73500-a6cb-388e-a97b-c39b937ba419,Hexanal,000066-25-1,"low population density, long-term",Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e94f4bf3-3e8a-4aa1-a9c9-799218337fc6,Paraffins,008002-74-2,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,767a703f-842a-4b30-87f5-ca62b338a51d,Butene,025167-67-3,"low population density, long-term",Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9aecf9d0-a933-31b7-a8a7-0fa84d83a6ab,"Propane, 1,2,3-trichloro-",000096-18-4,"low population density, long-term",Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9e82adba-528b-3156-9299-4e5002ccf734,"Acetylene, dichloro-",007572-29-4,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,51fb4920-7f49-47ba-b02f-9574accf731d,Diethylene glycol,000111-46-6,"low population density, long-term",Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f8990c27-1f9e-3816-a631-eead855318fd,"Ethane, dichloro-",001300-21-6,"low population density, long-term",Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e3f7b1a2-f1d1-42c6-b3ef-ba53fdd8ca71,Dicyclopentadiene,000077-73-6,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b001715e-60e4-4f1d-949d-1acfab65bd8f,"Particulates, > 10 um",,"low population density, long-term",Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,933aa823-4d33-3059-9123-99f772115ad5,"Particulates, unspecified",,"low population density, long-term",Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c594f595-1e0b-3874-8268-b3dfbcb633ef,"Hydrocarbons, unspecified",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2174f265-c406-4bc9-80e4-898fd9658d11,Acetophenone,000098-86-2,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8af26ade-c001-4efa-9754-b2a7f6ef4a61,Cresol,001319-77-3,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5f1878da-0442-40c8-8c89-7173d67697cf,"Aldehydes, unspecified",,"low population density, long-term",Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,81801aa8-01a0-41ac-8c3e-4bbda8dd1381,"Hydrocarbons, aliphatic, alkanes, unspecified",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7df24a3c-ecb7-3ff6-aed1-0c187ccb6fb5,"Naphthalene, beta-chloro-",000091-58-7,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,075b61d1-6821-356a-8258-3a099606a9c6,Quinone,000106-51-4,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a97ba30e-898d-4e73-bd62-ec8f636659c2,"Hydrocarbons, aliphatic, alkanes, cyclic",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b6f5b8b3-7cdc-48f2-a0ab-c50e8d3c2a38,Pyrene,000129-00-0,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4dc7aa66-50ae-4aca-a8bb-d6d9cf4a73fe,Biphenyl,000092-52-4,"low population density, long-term",Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,21f7d520-f329-4592-8880-949a08773371,"Hydrocarbons, chlorinated",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,596712ce-d415-4636-a3cf-acc767b36857,"Hydrocarbons, aromatic",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5d9b9ee5-9e03-423d-8658-eb689ead9068,Cumene hydroperoxide,000080-15-9,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5bacbbc2-ded2-32e8-9515-211ea7755129,"Hydrocarbons, aliphatic, alkenes, unspecified",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d4642f9-e0d5-4854-9d8e-85e5c9fc2524,Acenaphthylene,000208-96-8,"low population density, long-term",Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d3683e8e-f77b-4a10-919c-4baba46f439a,"Dibenz(a,h)anthracene",000053-70-3,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,77a5e184-04c8-4d01-a05b-b83bb6914a2f,Bromoform,000075-25-2,"low population density, long-term",Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8b17bb6e-65a7-3049-b8f5-7cd621458d82,"Hydrocarbons, halogenated",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0555dc8e-d8b3-4da1-afaa-a2144758d590,Acenaphthene,000083-32-9,"low population density, long-term",Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3b96e0bd-ff7d-47c1-a0ed-f10c1d80d681,Isophorone,000078-59-1,"low population density, long-term",Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,75974ba0-87e7-4d67-9b63-f74ac20cef7a,Fluorene,000086-73-7,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9fd8c8e6-4159-4553-88f3-9c557626508e,"Hydrocarbons, aliphatic, unsaturated",,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20c65b6c-7063-32f4-9a42-564f07633873,Benzo(b)fluoranthene,000205-99-2,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3806f0b9-7caa-48a6-b548-3136f56b38e8,Methyl methacrylate,000080-62-6,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b5cf3a55-57a4-445a-b80e-35a1ef1466a2,1-Methyl-2-pyrrolidinone,000872-50-4,"low population density, long-term",Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,488e4c31-da5c-4d5b-adf5-d328cd3bd7ff,Vinyl acetate,000108-05-4,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c5bd0845-2650-4cf5-9049-510a3d65ebda,Crotonaldehyde,000123-73-9,"low population density, long-term",Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,53805d7c-d34d-4a83-9cb1-2af8ca356fc9,"Ethane, 1,2-dibromo-",000106-93-4,"low population density, long-term",Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a5856dc0-2980-41cc-a93f-a1699fcf4890,Furan,000110-00-9,"low population density, long-term",Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,88f3d3b4-89a9-33b1-8a61-abb5d2099996,"Ethene, 1,1-dichloro-",000075-35-4,"low population density, long-term",Emission to air,kg,0.483
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c8214570-8e2d-4ccf-b9d7-aabc17068d4e,Xylene,001330-20-7,"low population density, long-term",Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ba3120e9-7412-4517-812c-752edeac5472,"Ethane, 1,2-dichloro-",000107-06-2,"low population density, long-term",Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,57c7e238-f705-4d41-93be-ae6c4e442283,Benzyl chloride,000100-44-7,"low population density, long-term",Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1090768c-70ed-426a-a847-97426ed5b183,"Benzene, chloro-",000108-90-7,"low population density, long-term",Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fd391502-2734-4cc0-98cf-f878a2a876dd,Fluoranthene,000206-44-0,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,21360f7b-3c31-415c-90be-cdc6cfc9ccdc,"Benzo(g,h,i)perylene",000191-24-2,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,67726551-a057-4b2f-83e6-8dca5f221be4,Chrysene,000218-01-9,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cfdf83eb-0704-44fb-852d-17e3f5059081,Phenanthrene,000085-01-8,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f4b9a83b-b676-447a-b9a6-36f1e4522d8c,"Phthalate, dioctyl-",000117-81-7,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,45f6aeb4-8144-43c2-af8c-d93306e6e230,Naphthalene,000091-20-3,"low population density, long-term",Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,68b769b3-46f3-4b8e-a4f3-45a0fd85bf1b,"Ethene, chloro-",000075-01-4,"low population density, long-term",Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,63a289d7-c442-45c0-9c9a-d0538ddf8f3d,Anthracene,000120-12-7,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d800a996-a9ef-488f-900d-28a5b6ede9eb,Ethylene oxide,000075-21-8,"low population density, long-term",Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,daeee3a1-5dbb-389b-9af8-32f7d30c1b71,Benzo(k)fluoranthene,000207-08-9,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3d980f29-e849-3e0f-ae39-54c42221f560,Phthalic anhydride,000085-44-9,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,086f6b04-002c-49a0-9be8-2bad29a9c17a,Acrolein,000107-02-8,"low population density, long-term",Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9afcdc9e-0c8a-4221-9c9a-04823a53f5a2,"Indeno(1,2,3-cd)pyrene",000193-39-5,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,62a48339-fe5f-4b18-81d4-24f2366ae20a,Benzo(a)anthracene,000056-55-3,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ce8a4102-a9fe-4823-a6c0-7cc35b6ce07e,Phenol,000108-95-2,"low population density, long-term",Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,32d98afc-e42b-46f6-b53e-9c949875ab20,Benzo(a)pyrene,000050-32-8,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,09e231fa-b1c2-4d63-9c57-7ea0e2210858,"Methane, bromo-, Halon 1001",000074-83-9,"low population density, long-term",Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,13fb54aa-a54a-48de-b2ec-b9165dea111d,Ethene,000074-85-1,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ad2358fd-bdb0-44eb-aa84-dc9e358323d9,Methane,000074-82-8,"low population density, long-term",Emission to air,g,0.00367
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8a515488-6475-42d0-bdf3-00a89ac06d0d,Ethyne,000074-86-2,"low population density, long-term",Emission to air,g,0.304
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e9d5a946-70ac-4610-a95b-cc659b48f29e,Propene,000115-07-1,"low population density, long-term",Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1258b87f-6a94-4c0f-a51a-cef98a3bf534,Formaldehyde,000050-00-0,"low population density, long-term",Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d88b5aeb-d589-4847-b2d4-80ba6a227ab7,"Ethene, tetrachloro-",000127-18-4,"low population density, long-term",Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,58f84a38-ca67-490c-8ed7-219c42dcc52d,Propanal,000123-38-6,"low population density, long-term",Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3b6e56fc-e148-44f1-b489-8c2ff91ebe81,Cumene,000098-82-8,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4009a3f4-1995-4318-9056-92825bc532c3,Propionic acid,000079-09-4,"low population density, long-term",Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,497e2e7c-0e1a-4b9f-a94e-d63d5e49dcf8,4-Methyl-2-pentanone,000108-10-1,"low population density, long-term",Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e462d2ef-2da9-4b99-9e16-f4cd181a91da,Carbon monoxide,000630-08-0,"low population density, long-term",Emission to air,g,0.0166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f8ee4881-a003-4e18-aa2a-d9daf97d76f7,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,"low population density, long-term",Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,823106de-a29a-481f-8647-728a19b9294d,Ethane,000074-84-0,"low population density, long-term",Emission to air,g,0.0874
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,246c87af-4495-4977-8d39-eae397c1c8f1,"Methane, monochloro-, R-40",000074-87-3,"low population density, long-term",Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,55b0bc94-7f43-4930-ad57-25af3f892757,Acetaldehyde,000075-07-0,"low population density, long-term",Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,77ff1fec-e163-4377-acac-b00c8aa94391,Hexane,000110-54-3,"low population density, long-term",Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a93012b9-5223-4716-842b-23d4bb53119f,Methyl ethyl ketone,000078-93-3,"low population density, long-term",Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,abb87cf5-9e30-4d02-987c-7643510b7013,Propane,000074-98-6,"low population density, long-term",Emission to air,g,0.159
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f4a1e10b-ed51-433e-a2f5-2a99f231a5e5,Butane,000106-97-8,"low population density, long-term",Emission to air,g,0.661
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3a5b4a5f-0c52-4314-b9bb-030baff8e00c,Ethylene glycol,000107-21-1,"low population density, long-term",Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eee7f4df-d621-439a-a89a-edf2d761d848,Pentane,000109-66-0,"low population density, long-term",Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d482b568-0604-4433-87b2-1340f7a17512,Methanol,000067-56-1,"low population density, long-term",Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e91093c9-20df-49c5-8960-eabf05af6832,Acetone,000067-64-1,"low population density, long-term",Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e9acbffd-7211-42e2-9f3a-cd9556e21132,Acetic acid,000064-19-7,"low population density, long-term",Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f903c2fb-71bf-4568-99fc-6aa7ed7bc922,"Methane, dichloro-, HCC-30",000075-09-2,"low population density, long-term",Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,dbafa5bd-48d1-455a-8042-7d631d913745,Ethanol,000064-17-5,"low population density, long-term",Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,34f18170-9aca-4025-a4ab-d9aaf261b391,t-Butyl methyl ether,001634-04-4,"low population density, long-term",Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,facffe7e-9170-43af-8460-5031bcfa1679,1-Butene,000106-98-9,"low population density, long-term",Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d56ddb2e-5087-4118-8359-64fb6cb513f9,"Ethene, trichloro-",000079-01-6,"low population density, long-term",Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4d3fca94-6936-4cf8-926c-a685512f091b,Isobutyraldehyde,000078-84-2,"low population density, long-term",Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0315d855-dff2-44af-bb37-1b855df53d69,Butadiene,000106-99-0,"low population density, long-term",Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8476d82a-4a17-4c08-8339-efd46c6518e7,Benzene,000071-43-2,"low population density, long-term",Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,62bd2ced-16de-43c2-88e1-adfae242654e,m-Xylene,000108-38-3,"low population density, long-term",Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,56cfc774-379e-4c9e-a020-22208f28a11c,"Benzene, 1,2,4-trimethyl-",000095-63-6,"low population density, long-term",Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8a4e7925-a486-467c-a255-f8a1ec5040de,o-Xylene,000095-47-6,"low population density, long-term",Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,248223f5-4e00-4b0d-9652-76a9c39ce414,Heptane,000142-82-5,"low population density, long-term",Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9ada9c2e-9817-42fe-88ba-3c18aba85585,Cyclohexane,000110-82-7,"low population density, long-term",Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f7bdeabf-a11d-4ddb-ad19-501485f39f07,Styrene,000100-42-5,"low population density, long-term",Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e4ef0139-8f7a-4541-a2fb-8316558eb296,"Benzene, ethyl-",000100-41-4,"low population density, long-term",Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a61637db-d0a5-40c3-8969-e0b03509b667,Benzaldehyde,000100-52-7,"low population density, long-term",Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b98c02c6-89bb-4dd2-8d68-6af6758db3d9,Toluene,000108-88-3,"low population density, long-term",Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3684f778-7e63-341d-922c-83124212cdd5,5-methyl Chrysene,003697-24-3,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0e671ec4-8baa-4df6-9431-d4361e102118,Dicyclopentadiene,000077-73-6,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,856354ed-217c-4027-a861-9b86136fa18f,"Ethane, dichloro-",001300-21-6,unspecified,Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5357820f-eebe-3c99-8d4f-09c616e71c8a,"phthalates, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,30d0d08e-2a31-385b-8f34-73ddf58c944d,"7,12-Dimethylbenz(a)anthracene",000057-97-6,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a6948921-d5ca-4770-ba23-99047a15f553,2-Chloro-1-phenylethanone,000532-27-4,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5b0b2256-1b01-34de-874c-02e82ed9069d,Hexanal,000066-25-1,unspecified,Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c955fc32-da91-468e-8f65-5aca2c8aa4cc,Paraffins,008002-74-2,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c03d0cd0-0bd2-4ec1-a99c-ec6c7b19490d,Tar,008007-45-2,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,51f39696-ecd5-3ee0-a6a9-01010c251047,"Particulates, > 10 um (process)",,unspecified,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5504288a-ff0f-355a-b2ad-1edbbe33b814,2-Chloroacetophenone,000532-27-4,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,08f3e44e-7589-32e3-b02c-de1505a4c867,Methyl naphthalenes,,unspecified,Emission to air,g,1.1
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d18cb269-72d9-4e4a-ae29-9f07a3dfa098,"Propane, 1,2,3-trichloro-",000096-18-4,unspecified,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6277bb68-8dde-36f6-8d89-f588c0720ccc,"Acetylene, dichloro-",007572-29-4,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4ee2efad-e710-483a-a9ca-b02dd41293bf,"Chrysene, 5-methyl-",003697-24-3,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b30de891-1765-405f-9751-4e260f339eae,Allyl alcohol,000107-18-6,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,66020d27-7ae4-4e59-83a3-89214b72c40a,"Particulates, > 10 um",,unspecified,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,95af8f9c-a258-475c-8957-ff2628908354,Benzo(e)pyrene,000192-97-2,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae398c3-8532-11e0-9d78-0800200c9a66,"Particulates, unspecified",,unspecified,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,af7f6412-a55f-4799-b7bc-a3f69d0cc8cb,Diethylene glycol,000111-46-6,unspecified,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d343c710-9ae2-4180-bf46-912e9f9bc934,2-Butenal,004170-30-3,unspecified,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,766ea362-8dfd-4b6a-997b-9ce1af8675c9,Glycol ethers,,unspecified,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4e4bcaad-2ccb-3b3e-9ede-d240c74b2822,"Alcohols, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,91f6386a-af2e-4bbb-a05c-62e4483b1bcf,Butene,,unspecified,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,25c798f6-2ece-43e5-888e-1a7d947dd8bd,3-Methylcholanthrene,000056-49-5,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,70c19266-a222-43f4-8ce0-6833978d4ef4,Perylene,000198-55-0,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1f4afa32-a9a2-40da-8396-104452cb637f,Acenaphthene,,unspecified,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5c9ec415-12f1-4390-bcff-3ff0fcd7ba73,"Hydrocarbons, aliphatic, alkanes, cyclic",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5074e766-6e6d-35c9-95c9-7ff6f66ed0d6,"Polycyclic organic matter, as 7-PAH",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9b9393fa-02bb-427a-aaac-a39b9ed5c894,"Hydrocarbons, aliphatic, alkanes, chlorinated",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae371a7-8532-11e0-9d78-0800200c9a66,Biphenyl,000092-52-4,unspecified,Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,63e7d74d-8549-11e0-9d78-0800200c9a66,"Hydrocarbons, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e0346157-1f0e-4bf9-b234-78fead761e18,Acenaphthylene,,unspecified,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d32ac640-ebe4-4066-add8-c21bdb3e3ce9,Cumene hydroperoxide,000080-15-9,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f1d8c0d8-61fc-3b84-94d9-86c942113455,Quinone,000106-51-4,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,dbe2c062-5692-4282-aa6c-e75f4d718077,Fluorene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8ffb6105-7d1c-3c00-bd6d-1234dfccf89f,"Hydrocarbons, polycyclic",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4cff006f-c6df-42a8-9dee-cc064f14326e,"Hydrocarbons, aliphatic, unsaturated",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8b48b5cf-853c-4970-840d-5d9c5fb3caac,Pyrene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,06f0a67c-ec68-435d-8c32-0decd79a4a1a,"Aldehydes, unspecified",,unspecified,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d14eb0da-95fd-46c3-90db-55ca33d78701,"Hydrocarbons, chlorinated",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,adc8a0ac-f701-4bd3-ab46-13a758350985,Bromoform,000075-25-2,unspecified,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e7e71a5e-e401-4c99-9552-33f837d361a7,Isophorone,000078-59-1,unspecified,Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,840d659f-0c0d-4f26-a17a-bad026ab5dbb,"Polycyclic organic matter, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c009202c-0247-4512-8d7d-26f5f44b8ab2,Acetophenone,000098-86-2,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3cca7f02-58b0-4b49-9938-e0f8bea03064,"Hydrocarbons, aromatic",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3d0b170a-1e60-34e7-8b4b-7d47e168e698,"Hydrocarbons, halogenated",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,67f9859a-ba76-3ca8-addd-3789ce3ad704,"Polycyclic organic matter, as 15-PAH",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a58560ee-3ffc-4a54-a507-56a349badd7b,Cresol,001319-77-3,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2451f9df-0596-49ec-8380-08e4ad75a153,"Hydrocarbons, aliphatic, alkanes, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a20ae446-198b-381f-979b-a18296ee697f,"Naphthalene, beta-chloro-",000091-58-7,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,23a4dfc7-c82e-4425-abf6-0195f78f3363,"Dibenz(a,h)anthracene",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,13c3bf18-f21b-3e58-9746-79ab540d0580,"Hydrocarbons, partly oxidized",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,35357464-0d86-4bbd-940f-7d0dd8e5df57,Benzo(b)fluoranthene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,598f8574-2e4d-3d44-9c50-d3fd0dc23cfe,"Hydrocarbons, aliphatic, alkenes, unspecified",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1ddb3480-3426-4541-a201-592d4c6fe6aa,Methyl methacrylate,000080-62-6,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a487d198-8aea-4813-8ee5-f89780ef8096,Crotonaldehyde,000123-73-9,unspecified,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8aa9184d-fa90-4048-a84e-4d8e7a34aca1,"Ethane, 1,2-dibromo-",000106-93-4,unspecified,Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ece68c56-e5e2-4190-baa3-53582c6d78f9,"Ethene, 1,1-dichloro-",000075-35-4,unspecified,Emission to air,kg,0.483
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1d444a45-70c4-4718-8427-1c0fff91f88e,Vinyl acetate,000108-05-4,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,bce77a75-c399-4fa6-94ab-90d0e704ebde,Monochloroethane,,unspecified,Emission to air,g,0.0525
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,284d6491-de2c-4124-95db-7732cbb5136c,Furan,,unspecified,Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,27fb6fd6-126b-4df6-9bab-a4eb16951588,o-Cresol,000095-48-7,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,00b8c5b8-8f45-445f-839c-2017fe3ad8b8,1-Methyl-2-pyrrolidinone,000872-50-4,unspecified,Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5c234628-ab1e-4284-ae2b-f1c2f6883f71,Xylene,,unspecified,Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cc5f1637-8aa5-442f-a8c6-43c8739944a0,Benzo(k)fluoranthene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5896c761-4e02-4573-8747-c4bbf73162c0,Phenol,,unspecified,Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,63e7892d-8549-11e0-9d78-0800200c9a66,"Benzene, chloro-",000108-90-7,unspecified,Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0605e241-ce98-4c10-8c61-d0a1775cdcb0,Benzo(ghi)perylene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2a51889e-9264-45df-9753-64c25a755d9e,"Ethene, chloro-",,unspecified,Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d57ab983-120a-448b-a681-b876e1addecf,Fluoranthene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e63fe35f-ef82-4018-ae1b-f2ffed7b592f,"1,4-dichlorobenzene",000106-46-7,unspecified,Emission to air,g,0.109
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a87b678b-4445-4707-aa9c-792d5ca64bcb,Benzyl chloride,000100-44-7,unspecified,Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d896ced7-a107-4017-b284-d95a8ef3e735,Acrolein,,unspecified,Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5e13c2ab-5466-4ff5-816d-702dfdf25f76,Benzo(a)pyrene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4db9bb53-4bdd-4f32-a6a8-521f58c5825c,Benz(a)anthracene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a582504a-9e41-44b2-affb-18b45bb9ae38,Phthalic anhydride,000085-44-9,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,63e7fe64-8549-11e0-9d78-0800200c9a66,"Phthalate, dioctyl-",000117-81-7,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fc840c3f-dbcd-4175-9bc2-7fba64501e39,Anthracene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4407dc37-09ec-4d52-b65a-9c3f0a88306d,Ethylene oxide,,unspecified,Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c492ac36-a5e1-446c-92c5-110a55654a80,Chrysene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,16d90661-cdaf-3f0d-80f1-2e94d9c376ca,"Benzene, 1,4-dichloro-",000106-46-7,unspecified,Emission to air,g,0.109
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3df4c2f4-c854-4493-b514-f2f3accdc307,Naphthalene,,unspecified,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,03758df7-503a-400e-bc7b-ec05825761a5,"Ethane, 1,2-dichloro-",,unspecified,Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,895fa803-ad56-4b1d-a37b-23a9135ce26a,Phenanthrene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,76608f33-7127-47f2-9718-383b3efe3b43,"Indeno(1,2,3-cd)pyrene",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7346ba9f-476c-4343-9f37-d1bb174eed6d,Naphtalene,,unspecified,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8c283de2-50d3-40c8-8bff-1e172c3398f8,"Methane, bromo-, Halon 1001",,unspecified,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,432a3326-73f8-4752-bc4d-06b7b4b1243c,"Methane, dichloro-, HCC-30",,unspecified,Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1ec6c4b4-ee5f-4788-8683-c95a84d6d63c,Heptane,,unspecified,Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0d25326e-2335-4a06-8ecb-d161f02adccf,"Benzene, 1,2,4-trimethyl-",000095-63-6,unspecified,Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20408dd1-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,unspecified,Emission to air,g,0.00367
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,8e30c990-5ed4-4f94-9d0e-2f5e4ff1a1f9,Ethane,,unspecified,Emission to air,g,0.0874
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,527d6cb5-bbd7-403d-8dcc-b6678fb123f5,o-Xylene,,unspecified,Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a861cfae-a310-4e9d-b9eb-5d555c9a684c,Formaldehyde,,unspecified,Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7d10ce65-5cae-4755-8d09-0bc42a7bf710,Isobutyraldehyde,000078-84-2,unspecified,Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3b1ecf8e-1d2c-4330-81da-a79f9068976d,Toluene,,unspecified,Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0ebdb68a-f50d-4b0c-ad4b-3a1104d8b454,Methanol,,unspecified,Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9bc66656-9f37-44bc-ae0b-5d5243b8137e,"Ethene, tetrachloro-",,unspecified,Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b9a9b2ad-5db3-47aa-81de-3a48ae9ad4ec,1-Butanol,000071-36-3,unspecified,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,170567c3-eba5-4979-b1ed-69e081881c16,para-Xylene,000106-42-3,unspecified,Emission to air,g,1.09
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,64165202-4870-47d0-8602-b85e5d672865,Propene,,unspecified,Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1dcd86a2-ace9-4f68-b02c-13aff1c00923,2-Butanol,000078-92-2,unspecified,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cfdbc576-e8dc-44ef-bdf2-ddd7009ce57e,m-Xylene,,unspecified,Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,53214ef0-3cc1-4166-920b-08ca46f7c457,4-Methyl-2-pentanone,000108-10-1,unspecified,Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d279bdef-1284-46be-9999-384a0df3267e,Butanal,000123-72-8,unspecified,Emission to air,kg,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,88ef28f1-cfd5-44a0-ac34-01acf2db84a0,"Benzene, ethyl-",,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eca23d30-748f-43dc-86b7-c833ccba8a1c,1-Butene,000106-98-9,unspecified,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,42a2f3e7-5393-4a69-9b0b-f70a9139ee24,Ethyne,,unspecified,Emission to air,g,0.304
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,516606eb-99f6-4e8c-b99a-6b439aaed48c,Pentane,,unspecified,Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a0950325-06dc-5ca0-84b6-983c9e6ccf74,Trichloroethylene,,unspecified,Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,18ea247b-edc2-43fe-89bd-cedd04102bcc,"Methane, monochloro-, R-40",,unspecified,Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a192f5ac-fb5d-4e14-ac11-3c38283da9d0,Cumene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3a6c936c-0276-4f11-9d98-1bd011387a6e,Propane,,unspecified,Emission to air,g,0.159
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6b248529-b754-4be7-8b1a-91b9756fc2bc,Hexane,,unspecified,Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b84ebfec-fd10-4fc7-bd83-e6d7c94250c7,t-Butyl alcohol,000075-65-0,unspecified,Emission to air,g,0.538
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f3d5fd96-8805-4d3d-867a-5df27975b07f,Acetone,,unspecified,Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e3e8f6a2-c45e-4685-9859-698b2eadaf5b,Acetaldehyde,,unspecified,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,86b1a044-aa9d-3252-8318-0dd5eca3b31b,p-Xylene,000106-42-3,unspecified,Emission to air,g,1.09
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d3709c7e-7c61-45a4-92e4-f7cf95ebe3a2,Methyl ethyl ketone,,unspecified,Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,28999907-a8a7-45b3-857e-836495ca2aa0,Benzene,,unspecified,Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ce6294f5-2ed7-46ee-a967-33e265e34455,"Ethane, 1,1,1-trichloro-, HCFC-140",,unspecified,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae371ac-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,unspecified,Emission to air,g,0.0166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,555aed47-6c62-4cbe-b9b8-d01229284c8a,Propanal,,unspecified,Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,10d26189-a688-4859-8aa9-525e058a07f0,Benzaldehyde,,unspecified,Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9c2a7dc9-8b1f-46ba-bc16-0d761a4f6016,Ethene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,90f722bf-cb9b-571a-88fc-34286632bdc4,Ethylene,,unspecified,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9cec94a2-e7fe-43f4-82f4-293c477f86dc,Styrene,,unspecified,Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d157416d-db9b-4f88-a7f3-a9a5f1ea88f2,Acetic acid,,unspecified,Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,165aaeac-93d1-4afd-adf2-e3d6c0eaf629,Cyclohexane,000110-82-7,unspecified,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d3f5d0b9-0155-4800-9dbb-b0583948c8c6,Ethanol,,unspecified,Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5064da53-d4ec-44ee-ba23-b20a4f8c4964,Butadiene,,unspecified,Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,beb69352-568e-4a33-b9d4-3b5bfafc85bd,t-Butyl methyl ether,001634-04-4,unspecified,Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7ae398b3-8532-11e0-9d78-0800200c9a66,Ethylene glycol,000107-21-1,unspecified,Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a1ecc854-a399-4b01-bae2-3a88b12ed44f,Propionic acid,,unspecified,Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,982b0510-96ac-4bcb-a758-e98006b95f4d,Butane,,unspecified,Emission to air,g,0.661
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,dbdaa334-3101-418d-bc52-8ddb066864d6,Diethylene glycol,000111-46-6,lower stratosphere + upper troposphere,Emission to air,g,1.11
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7f68ee40-220b-4960-bbf9-d988daf0a5e6,Dicyclopentadiene,000077-73-6,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,21c70f3b-ff97-3102-b10f-f7f83288965b,Allyl alcohol,000107-18-6,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cc732f26-58e6-3f19-b1af-631496a6cd2a,Hexanal,000066-25-1,lower stratosphere + upper troposphere,Emission to air,g,1.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,638b45bd-890e-3166-b4f8-41c78c88f994,"7,12-Dimethylbenz(a)anthracene",000057-97-6,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c08959e9-6d86-3a89-bf7c-78c64f52f86d,"Acetylene, dichloro-",007572-29-4,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7795f13f-6ea8-34c4-8c93-6f69152545cf,3-Methylcholanthrene,000056-49-5,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1ce92120-8acb-4e30-a97c-0b1ffd369b89,Paraffins,008002-74-2,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1bec7eb9-dc55-30bd-ae0d-76c6a40755a0,"Propane, 1,2,3-trichloro-",000096-18-4,lower stratosphere + upper troposphere,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a1a88d2c-a4dd-30c7-8ac1-ca554e3f88bd,"Ethane, dichloro-",001300-21-6,lower stratosphere + upper troposphere,Emission to air,g,0.171
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e22e8f39-d8f2-4702-bed3-0b95babb7788,"Particulates, > 10 um",,lower stratosphere + upper troposphere,Emission to air,g,0.0459
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fb3cbe0e-94aa-4a16-84fc-d03309b64cff,2-Butenal,004170-30-3,lower stratosphere + upper troposphere,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f2663c0c-3618-4095-b8d8-9c3b5c7097fb,Butene,025167-67-3,lower stratosphere + upper troposphere,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,84cd61aa-92a0-40d1-aad5-e9e5c0d4c93e,"Hydrocarbons, aliphatic, alkanes, unspecified",,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,15a335be-9a71-431f-a0b0-56585fbafe5e,"Hydrocarbons, chlorinated",,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,34cbdeb9-6462-4938-a048-881a9f7e6978,"Hydrocarbons, aromatic",,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7f07d3c9-0caa-4797-afa7-a13d5629997c,Isophorone,000078-59-1,lower stratosphere + upper troposphere,Emission to air,g,0.596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,c92547ac-d74c-47e1-9b95-17100f20d5b3,Biphenyl,000092-52-4,lower stratosphere + upper troposphere,Emission to air,g,0.607
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fd8bd45c-5a21-4533-8563-7e53aeda3925,Cumene hydroperoxide,000080-15-9,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ac07bb4a-a492-45b3-9a07-4ab9b8959374,"Aldehydes, unspecified",,lower stratosphere + upper troposphere,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,ed2ce095-e106-45e4-b48c-8107d4337db5,Cresol,001319-77-3,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a5bd6a6e-1b8f-4557-b052-89f12c4564ec,Bromoform,000075-25-2,lower stratosphere + upper troposphere,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0a984053-85e7-4568-8003-16c12eb2aeda,Acenaphthylene,000208-96-8,lower stratosphere + upper troposphere,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,26404dde-a057-4f64-a58b-6e493d2ed6d5,Acetophenone,000098-86-2,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f228fcae-8e19-4a73-9d8c-60ec8adaea50,"Hydrocarbons, aliphatic, unsaturated",,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f6432a5a-eb35-4395-9909-5d0e17296681,Acenaphthene,000083-32-9,lower stratosphere + upper troposphere,Emission to air,g,1.29
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,fea16062-6c4b-4d59-be9e-e9b0b56ca9f0,"Hydrocarbons, aliphatic, alkanes, cyclic",,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,39686da0-e2a3-3d3a-88bd-f06f358eb9c8,Quinone,000106-51-4,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,719a1a41-6415-4868-9590-aedb870367fa,Fluorene,000086-73-7,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,16de7404-a5f8-35e0-9b2b-7368258f99ce,Benzo(b)fluoranthene,000205-99-2,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,386c33f9-5cb5-4ddb-b1b1-9abb1c69aa39,Pyrene,000129-00-0,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d05a8fe4-57b2-4591-a20b-a0c2e5772a7e,"Dibenz(a,h)anthracene",000053-70-3,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1e4e487a-009f-3850-9a11-2508058071f1,"Naphthalene, beta-chloro-",000091-58-7,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,511e511b-bf77-410f-9ba4-11518b23001d,Methyl methacrylate,000080-62-6,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,3d20d2fc-2e7e-4c8c-a77d-91bd822a1dfe,Furan,000110-00-9,lower stratosphere + upper troposphere,Emission to air,g,3.54
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,554d844b-aaf7-45fd-b5a1-d33ca3bada42,Crotonaldehyde,000123-73-9,lower stratosphere + upper troposphere,Emission to air,g,2.49
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b59ccac2-87a3-3cfb-9fac-9b5097db96c7,"Ethene, 1,1-dichloro-",000075-35-4,lower stratosphere + upper troposphere,Emission to air,kg,0.483
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,de37ae32-ffa5-4387-b928-782a565981b0,1-Methyl-2-pyrrolidinone,000872-50-4,lower stratosphere + upper troposphere,Emission to air,g,0.686
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7bf9443a-4c51-401c-a6f9-82d3da130e91,Vinyl acetate,000108-05-4,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,218e1083-bab7-44ab-b4ae-8a9d71afca21,"Ethane, 1,2-dibromo-",000106-93-4,lower stratosphere + upper troposphere,Emission to air,g,0.0902
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6da40876-a6ab-459e-ba17-9a5e3d4da146,Xylene,001330-20-7,lower stratosphere + upper troposphere,Emission to air,g,1.92
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2d76e779-d4cd-48c1-948c-aafeca21eef0,Phenanthrene,000085-01-8,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,21d42fc0-7769-3ca7-9143-b8b637cb36fd,Phthalic anhydride,000085-44-9,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9e885597-3fb6-4680-bcc1-d4c0115c799f,Fluoranthene,000206-44-0,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f57322f2-0bed-46db-a819-f52728e387e0,"Benzo(g,h,i)perylene",000191-24-2,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d8b6c259-4e1a-4482-8eed-237cde14f346,Phenol,000108-95-2,lower stratosphere + upper troposphere,Emission to air,g,0.915
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f6af42eb-ced7-45b6-a19d-c19be525151c,"Phthalate, dioctyl-",000117-81-7,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6b0c2e40-3721-4677-9dc2-80a795e87295,Chrysene,000218-01-9,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4e054ec3-6e16-4544-8ef8-69b22414adf6,Benzo(a)pyrene,000050-32-8,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a8f5d7b3-07e1-45a9-a93e-736f0fa5a5a5,Anthracene,000120-12-7,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9e3d2a47-97a4-442c-af23-3cd9f48e0719,"Benzene, chloro-",000108-90-7,lower stratosphere + upper troposphere,Emission to air,g,0.195
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0bb66845-6ccf-4648-b565-2e704989d7c0,Ethylene oxide,000075-21-8,lower stratosphere + upper troposphere,Emission to air,g,0.0214
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,cab70244-9e25-42d3-b31e-ddabfd3eeb67,"Ethane, 1,2-dichloro-",000107-06-2,lower stratosphere + upper troposphere,Emission to air,g,0.0225
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9b0b6158-b022-3c25-bb82-503c9077a8d2,Benzo(k)fluoranthene,000207-08-9,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,20750a37-320b-48cb-9fd4-366a86fcd6d6,"Ethene, chloro-",000075-01-4,lower stratosphere + upper troposphere,Emission to air,g,0.657
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,98e6f0da-e688-4bf0-a5de-a192eb035fa9,Naphthalene,000091-20-3,lower stratosphere + upper troposphere,Emission to air,g,0.752
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5aadcbcf-3c4b-4ea6-b264-ecb6fdf0b109,Benzo(a)anthracene,000056-55-3,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,1ccc25c5-f5c0-4deb-b34a-965ccbaa4caa,Acrolein,000107-02-8,lower stratosphere + upper troposphere,Emission to air,g,1.99
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e11b66d0-8cba-4909-a461-fccf5cbcfcfe,"Indeno(1,2,3-cd)pyrene",000193-39-5,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4b77bfe7-811e-4d8c-95f5-43235db4e885,Benzyl chloride,000100-44-7,lower stratosphere + upper troposphere,Emission to air,g,0.579
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6bdb666d-e227-4f57-9b1d-d25009d3c44b,"Methane, bromo-, Halon 1001",000074-83-9,lower stratosphere + upper troposphere,Emission to air,g,0.00596
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f53378fe-3e04-4f74-9a08-bea2a6332b67,Acetic acid,000064-19-7,lower stratosphere + upper troposphere,Emission to air,g,0.166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,g,1.24
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e47fcb9f-ef2f-4047-b902-37363ea5345c,Ethanol,000064-17-5,lower stratosphere + upper troposphere,Emission to air,g,0.473
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,745503c2-768d-4f2c-b63c-bb75c1c5419c,Heptane,000142-82-5,lower stratosphere + upper troposphere,Emission to air,g,0.261
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,22b0b296-d066-4159-a44b-69fdb17dc802,Formaldehyde,000050-00-0,lower stratosphere + upper troposphere,Emission to air,g,2.25
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b02991d4-c180-4b16-8035-ac38f4a64b87,Ethene,000074-85-1,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b328d33e-9a9f-407d-a767-5c64ccdc163f,"Methane, dichloro-, HCC-30",000075-09-2,lower stratosphere + upper troposphere,Emission to air,g,0.0238
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,903e0cf9-6ef2-42a1-b3a8-364dfe6d04d3,Methyl ethyl ketone,000078-93-3,lower stratosphere + upper troposphere,Emission to air,g,0.326
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9b60f739-1e89-4e4f-a786-a8086058e656,"Benzene, ethyl-",000100-41-4,lower stratosphere + upper troposphere,Emission to air,g,0.968
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a6dd536a-5443-4c23-bb5e-60f0fa68af13,4-Methyl-2-pentanone,000108-10-1,lower stratosphere + upper troposphere,Emission to air,g,0.916
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f9727bf8-d8e3-432c-8feb-2dc43da4c37d,Cyclohexane,000110-82-7,lower stratosphere + upper troposphere,Emission to air,g,0.484
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,66ff5d22-17e2-4112-b486-3ea4e0191fba,Butane,000106-97-8,lower stratosphere + upper troposphere,Emission to air,g,0.661
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a765d3a1-65c6-4544-8487-b3104b937568,Acetone,000067-64-1,lower stratosphere + upper troposphere,Emission to air,g,0.119
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0f70e720-127e-44dc-bb85-438158235ab6,"Methane, monochloro-, R-40",000074-87-3,lower stratosphere + upper troposphere,Emission to air,g,0.00775
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,0b0d8098-ecbf-4020-afd6-4bcf9db686ce,Toluene,000108-88-3,lower stratosphere + upper troposphere,Emission to air,g,1.03
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,454f5552-15ca-412d-821d-ab79cc0c989b,t-Butyl methyl ether,001634-04-4,lower stratosphere + upper troposphere,Emission to air,g,0.33
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,737857df-4504-4068-9a5f-67e9ff53ec30,Propanal,000123-38-6,lower stratosphere + upper troposphere,Emission to air,g,2.05
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,91c76c8e-d725-475d-9be6-a90b99747075,Butadiene,000106-99-0,lower stratosphere + upper troposphere,Emission to air,g,3.23
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e4a9cefa-7a99-406f-8b32-3e001ca82d31,Propionic acid,000079-09-4,lower stratosphere + upper troposphere,Emission to air,g,0.338
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2b676e9e-1e3b-45d6-b209-6ed3af61fc42,Styrene,000100-42-5,lower stratosphere + upper troposphere,Emission to air,g,0.62
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,f99b316a-6188-48d2-9eba-f1a67c8964c8,1-Butene,000106-98-9,lower stratosphere + upper troposphere,Emission to air,g,2.66
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,e622c0ec-e35d-4230-b1e1-7423e632afc4,"Benzene, 1,2,4-trimethyl-",000095-63-6,lower stratosphere + upper troposphere,Emission to air,g,1.85
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4c08620f-1001-43b2-a42c-e02163ac41a3,Benzaldehyde,000100-52-7,lower stratosphere + upper troposphere,Emission to air,g,-0.124
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,lower stratosphere + upper troposphere,Emission to air,g,0.0221
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,7541dcdb-5009-4082-a99a-cc7436fcb5a7,Isobutyraldehyde,000078-84-2,lower stratosphere + upper troposphere,Emission to air,g,1.74
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,a8a2f53b-c6d2-4302-a59f-502bd7e242fc,"Ethene, tetrachloro-",000127-18-4,lower stratosphere + upper troposphere,Emission to air,g,0.0286
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,50e083ba-5784-4801-8011-164a14c61b5a,m-Xylene,000108-38-3,lower stratosphere + upper troposphere,Emission to air,g,2.73
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6cfec9aa-691b-4be2-940d-56e73fda16de,Ethane,000074-84-0,lower stratosphere + upper troposphere,Emission to air,g,0.0874
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,43a7e8ef-634e-401b-92f1-32cb42f226ac,Acetaldehyde,000075-07-0,lower stratosphere + upper troposphere,Emission to air,g,1.79
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,5f29e18d-ace2-466c-831e-be1aee84323a,Hexane,000110-54-3,lower stratosphere + upper troposphere,Emission to air,g,0.306
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,08a91e70-3ddc-11dd-9252-0050c2490048,Carbon monoxide,000630-08-0,lower stratosphere + upper troposphere,Emission to air,g,0.0166
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,aec794cd-e559-46f6-a2a0-7f4ef195144c,Propane,000074-98-6,lower stratosphere + upper troposphere,Emission to air,g,0.159
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,eb15dd66-43ee-4161-ac90-2cd6d19ca72d,Benzene,000071-43-2,lower stratosphere + upper troposphere,Emission to air,g,0.246
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d9da59f1-695d-465b-959d-1cff9d86d923,Pentane,000109-66-0,lower stratosphere + upper troposphere,Emission to air,g,0.43
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,adf4ac5e-7edd-4ca3-9adb-0b50903a71c1,Methanol,000067-56-1,lower stratosphere + upper troposphere,Emission to air,g,0.245
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,d1992a5a-9f86-492d-9b72-62f7c7851cbc,Ethylene glycol,000107-21-1,lower stratosphere + upper troposphere,Emission to air,g,1.4
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,6c95c917-d232-4c5b-9721-8b2841e6671c,Ethyne,000074-86-2,lower stratosphere + upper troposphere,Emission to air,g,0.304
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,4b841af5-7061-4e59-89d4-cace8bc364e1,o-Xylene,000095-47-6,lower stratosphere + upper troposphere,Emission to air,g,1.93
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,b45082cf-2816-46b9-816c-c4036d727804,Propene,000115-07-1,lower stratosphere + upper troposphere,Emission to air,g,3.07
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,2e1396a2-b8e0-4f4a-89c7-11c4ee4733c1,"Ethene, trichloro-",000079-01-6,lower stratosphere + upper troposphere,Emission to air,g,0.00025
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,711fd742-d357-4291-a133-adb5ca979a21,Methane,000074-82-8,lower stratosphere + upper troposphere,Emission to air,g,0.00367
+BEES+,5607c0e9-417e-3cc4-8529-2d4dfda25e82,Smog,g NOx eq,137f2ebc-8f8b-41fc-9ff6-d32f42565d56,Cumene,000098-82-8,lower stratosphere + upper troposphere,Emission to air,g,0.968

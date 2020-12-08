@@ -1,0 +1,12 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,7a874970-77f5-49be-bf00-1647f35d717a,"Hydrogen-3, Tritium",010028-17-8,"river, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,dddafc30-7a1e-4ab1-ad0d-0a1df4f82af7,"Hydrogen-3, Tritium",010028-17-8,"fresh water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,4075139e-3311-401a-b98c-e83f203063da,"Hydrogen-3, Tritium",010028-17-8,fossil-,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,1d75a540-c7f2-4cae-8b02-0f0d41c0cef7,"Hydrogen-3, Tritium",010028-17-8,fresh water,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,902b7ebc-68a8-4dd3-b67a-6087db8c0971,"Hydrogen-3, Tritium",010028-17-8,"ground water, long-term",Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,9be02ae0-3170-4544-8665-f03a1b43f2bd,"Hydrogen-3, Tritium",010028-17-8,unspecified,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,58fabee9-b4b6-48ee-857a-e16ed31bb354,"Hydrogen-3, Tritium",,ocean,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,134ec0d7-3701-473c-a1a1-1982fd48ef4d,"Hydrogen-3, Tritium",,surface water,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,ae65979b-a513-424c-b381-09c421b79a8d,"Hydrogen-3, Tritium",010028-17-8,river,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,3d4ce09c-f818-4710-9c0f-9734b15d7f7b,"Hydrogen-3, Tritium",010028-17-8,lake,Emission to water,kBq,1
+"Selected LCI results, additional",d5a92468-c5f0-3d66-9a90-3eb5597e53c5,Tritium,kBq,848a6c6a-76b7-42ad-90ce-ad2494fd5bd3,"Hydrogen-3, Tritium",010028-17-8,ground water,Emission to water,kBq,1

@@ -1,0 +1,11 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,b101cae3-a323-4b8a-8cc8-43d305b6e2ff,"BOD5, Biological Oxygen Demand",,"river, long-term",Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,dc2458f6-30fc-4c71-97f6-ff4c5470bd3a,"BOD5, Biological Oxygen Demand",,fossil-,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,4574cd53-77cc-4540-827b-5736dda9c4d7,"BOD5, Biological Oxygen Demand",,fresh water,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,aedea697-930a-4a0e-9e4f-b9c369aa9a33,"BOD5, Biological Oxygen Demand",,"ground water, long-term",Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,91955aba-6ebc-4413-9342-f0298860b4aa,"BOD5, Biological Oxygen Demand",,unspecified,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,f012d2d5-ebb4-4531-8285-0b98af3dcbd4,"BOD5, Biological Oxygen Demand",,ocean,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,70d467b6-115e-43c5-add2-441de9411348,"BOD5, Biological Oxygen Demand",,surface water,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,8d33cd5f-c365-44b8-bb70-a211d5bb15dd,"BOD5, Biological Oxygen Demand",,river,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,3f512502-5e18-45f1-90a4-e22c93229ea2,"BOD5, Biological Oxygen Demand",,lake,Emission to water,kg,1
+Selected LCI results,74b214d7-8f90-3ffe-a5e0-3d5533899592,BOD,kg,57c27ba7-a61a-4932-8cd5-095c88ff0245,"BOD5, Biological Oxygen Demand",,ground water,Emission to water,kg,1

@@ -1,0 +1,559 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,290b9600-5985-4881-9988-1e6551816f3a,Dodecane,000112-40-3,high population density,Emission to air,kg,0.357
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4a6af581-af93-4d79-9f45-a5c43f463bbb,Propanol,,high population density,Emission to air,kg,0.561
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2cbe35d9-052c-4fe8-8eb2-08769f10b2c7,Formic acid,,high population density,Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,370447a7-70d1-47bd-8577-0a32c4f53570,"Methane, monochloro-, R-40",000074-87-3,high population density,Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,620bc2f6-cf71-4dde-bba9-c6e8fdec5e23,Carbon monoxide,000630-08-0,high population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,65eaa306-0133-48d8-bdd1-26dc5d836d8b,Isobutene,000115-11-7,high population density,Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2a042136-80fd-4c1c-8996-65a7985497d3,Cyclohexane (for all cycloalkanes),,high population density,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,89951b1a-9b6b-4bc7-82fc-6fc263e91936,Diethyl ether,,high population density,Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,baf58fc9-573c-419c-8c16-831ac03203b9,"Methane, non-fossil",,high population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6edcc2df-88a3-48e1-83d8-ffc38d31c35b,"Carbon monoxide, fossil",,high population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ada09403-d5f2-4496-9201-a6dcca0b1717,Propene,,high population density,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3f31cbb0-66a1-4d42-9c86-c97050f447aa,2-Hexanone,000591-78-6,high population density,Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e2d860e3-1038-4386-a5f1-25ad75d18bbd,2-Methyl-1-propanol,,high population density,Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fe65f7e4-ee5b-4a6f-9d60-6c2f829dca3f,Benzaldehyde,,high population density,Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f4bb66f1-c78c-409f-8368-85c1205a3573,Heptane,,high population density,Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,36270548-9316-424b-9aeb-e0de134b0be1,Ethene,,high population density,Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,35c746fb-2d4a-4d06-9955-1973ce67b74e,Cumene,,high population density,Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1a13d6e7-45c9-427a-a3c9-38887ce7b86a,Ethyne,,high population density,Emission to air,kg,0.085
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d5a2d5b4-d9f3-468e-9a3f-3eeaaf5bdc16,1-Butene,000106-98-9,high population density,Emission to air,kg,1.08
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6a3a3f28-83ce-4b61-8962-6563969984a2,Cyclohexanol,000108-93-0,high population density,Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1f130425-11f9-4ec2-8d2f-d282acaacf5c,Acetone,,high population density,Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8cbaa905-41b0-4327-8403-bf1c8eb25429,1-Pentene,,high population density,Emission to air,kg,0.977
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6de0feb6-78c5-4ee3-bf58-8e68bc7c67b3,"Pentane, 2-methyl-",000107-83-5,high population density,Emission to air,kg,0.42
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f873299d-0675-4fdc-ad01-c5a4b951b583,Methanol,,high population density,Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f1c0cd31-8d5e-4bc9-91f6-79e76329234e,Propionic acid,,high population density,Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d85a44cb-8407-4997-a146-581e4f35f39d,Styrene,,high population density,Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,cbf58f64-9286-406f-8dcb-ef1d81eec980,2-Propanol,,high population density,Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,892f10da-7bf2-42b3-b171-221989661a05,Butane,,high population density,Emission to air,kg,0.352
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5a6eb27d-9157-46d5-be32-92bbd543ada9,o-Xylene,,high population density,Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1bb6a502-3ff9-4a79-835c-5588b855f1f5,Benzene,,high population density,Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f,Acetaldehyde,,high population density,Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a71b27f2-3bcb-4bcc-a0c6-b6a123f0b42e,Methyl formate,,high population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,41cce80a-82c1-4caa-b6ef-718ec4b83fd6,Ethyl acetate,,high population density,Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9fbec2f4-6b42-4e63-9573-14e04befe20f,4-Methyl-2-pentanone,,high population density,Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4cadbc9f-0472-4bb9-a942-df5b90e37878,Chloroform,,high population density,Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b9b68c0c-053e-41de-ab72-8dfe1c3f5755,Acetic acid,,high population density,Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8c356c12-29dd-3a6d-9f9d-d3ebd106db5b,Sulfur monoxide,,high population density,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,550eaab3-16d8-3b28-a1a1-5aa018fd394c,"Carbon monoxide, biogenic",000630-08-0,high population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7acc474d-a20e-4278-b952-622143ec0c2c,Propylene glycol,000057-55-6,high population density,Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,108e9780-646b-448d-903b-609b3f65950b,Butyl acetate,000123-86-4,high population density,Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,efc4290c-1404-4e01-8b5e-e75c6d90615c,Butanol,,high population density,Emission to air,kg,0.62
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,Formaldehyde,,high population density,Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0a07a739-e6cf-4716-87a8-1078afbd3f0f,Isobutyraldehyde,000078-84-2,high population density,Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d5649872-502b-4d23-b882-26d74a9fc4b4,2-Methyl pentane,,high population density,Emission to air,kg,0.42
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,759b135b-4b8e-4259-8f85-15be9283fd36,"Toluene, 3,5-diethyl-",002050-24-0,high population density,Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,57caaa94-7ed5-416c-957a-7d4e6049c352,Propylene glycol methyl ether,000107-98-2,high population density,Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f9716462-bea3-4c6e-b767-906dc0fcee81,"Benzene, 1,2,4-trimethyl-",000095-63-6,high population density,Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a793710a-1990-4e65-a95e-cfbbc5332355,t-Butyl methyl ether,,high population density,Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2716807d-0266-48ff-bb7a-6e6c5fbfd5c5,"Methane, dichloro-, HCC-30",,high population density,Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e7140812-ce3d-49f5-97b0-2fef538217a5,Butadiene,,high population density,Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4f83df1f-53c1-4678-b507-e53111f2ef07,Isopentane,000078-78-4,high population density,Emission to air,kg,0.405
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b8cc3a09-0923-4e3d-92bb-39f662d68408,"Ethanol, 2-butoxy-",000111-76-2,high population density,Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,193e6e89-72db-40e1-9a8e-19017ea0e5b4,Cyclohexanone,000108-94-1,high population density,Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5512f026-b3a9-419a-b787-c0be0b39be1c,Cyclohexane,,high population density,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d47f0dde-81ae-4083-841b-e34f26a032d5,Isopropyl acetate,000108-21-4,high population density,Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a1908e1d-13cb-4b81-92f7-55652d21fafd,Nonane,000111-84-2,high population density,Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6f13e014-fd44-449b-83b5-1f340cbe492b,"Pentane, 3-methyl-",000096-14-0,high population density,Emission to air,kg,0.479
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9afa0173-ecbd-4f2c-9c5c-b3128a032812,"Carbon monoxide, non-fossil",,high population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d2d4b344-3c58-4b0c-868a-ac0bdb2027dc,"Ethene, tetrachloro-",,high population density,Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ef06f2a4-4b8c-4740-9e06-0c2126d1839a,Methyl acetate,,high population density,Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9ea11aea-7cb7-4b38-b936-a42c2a4bac97,Ethane,,high population density,Emission to air,kg,0.123
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,818cee9e-231c-4b53-8ed2-47a0001802d5,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,high population density,Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,379a827c-3290-4810-9689-b9e892945836,Ethanol,,high population density,Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3bbc78d0-08c4-48ef-a863-704e32fddcb3,Hexane,,high population density,Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,45213364-2927-4637-839e-9579e0414629,"Benzene, 1,3,5-trimethyl-",000108-67-8,high population density,Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e5e50f39-ab65-4ed0-84c3-93707e85f4d4,Isoprene,000078-79-5,high population density,Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,39946c56-cdf6-4a22-9ac9-1cd333b65533,Toluene,,high population density,Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0e7c1a7b-cd98-4f8d-a619-a687d3e2cb48,"Ethene, trichloro-",000079-01-6,high population density,Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,79a87f98-0b00-4e7e-86f8-70667307f696,2-Methyl-2-butene,,high population density,Emission to air,kg,0.842
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,716ffe4d-8ce9-4734-838d-5899056a8e9d,Decane,000124-18-5,high population density,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8e5e019b-1ad7-4962-9eb6-a4bc62978268,Dimethyl carbonate,000616-38-6,high population density,Emission to air,kg,0.025
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b53d3744-3629-4219-be20-980865e54031,Methane,,high population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,10571d92-ea97-4ac6-adb6-b25893a631cb,m-Xylene,,high population density,Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7c76ca96-5e7e-43be-aa71-a64627cdca23,Dimethyl ether,000115-10-6,high population density,Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,98c66fdb-091d-46e9-a533-686f821e8f6a,Propane,,high population density,Emission to air,kg,0.176
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5f7aad3d-566c-4d0d-ad59-e765f971aa0f,"Methane, fossil",,high population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3dba0484-8e84-4a42-ad11-665d589b56bc,Isobutane,000075-28-5,high population density,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c6310f81-3859-4c5c-990a-4662ba179693,3-Methyl-1-butanol,,high population density,Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,26b5c174-e20e-430a-a4b1-44de4af8b40f,Methyl ethyl ketone,,high population density,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b011cb83-89db-454b-aa91-6cddb0cd87be,3-Pentanol,000584-02-1,high population density,Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0b9698ec-8b52-4986-8f9f-ad30915aa00c,Pentane,,high population density,Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eeaeefc1-0af9-45e5-99a8-2333a387f0ae,Propanal,,high population density,Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7c09916a-b6b5-47f5-bdf6-30d2511beb82,"Benzene, ethyl-",,high population density,Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,56cafa03-5440-4cb7-922e-3aa607787438,Ethylene glycol,000107-21-1,high population density,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8d3e52fc-2df5-4bf3-8497-9ddc41a5bd8e,1-Hexene,000592-41-6,high population density,Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0f907765-2a94-48a8-8978-55a2757d3e24,Propionic acid,,low population density,Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d4b61c6c-a620-4a91-afc6-ca87ef97b55a,"Methane, dichloro-, HCC-30",,low population density,Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,885fffeb-80b7-40ef-9c94-e25356e05080,Ethylene glycol,000107-21-1,low population density,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,766ea0be-0cc8-4534-965d-cc4853f18b3b,Dodecane,000112-40-3,low population density,Emission to air,kg,0.357
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,23856318-9583-426b-ab04-12e4506b60a8,Propene,,low population density,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ed63abd0-7cc6-4825-8759-b367e560fe95,"Methane, monochloro-, R-40",,low population density,Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,025fcb20-0591-4bae-80fc-7c34e9af2e7b,Heptane,000142-82-5,low population density,Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d358094a-48de-4733-bab0-98337d204251,Isobutane,000075-28-5,low population density,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,22ff429e-4506-428d-9bba-4f9595ed3b99,Cyclohexane,,low population density,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9167dca7-615e-435c-8ba6-dbbf50e50e34,Formaldehyde,,low population density,Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e0e605c8-370b-4b5a-b6d4-2e7a5a1a6709,"Benzene, ethyl-",,low population density,Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f06d0805-3aa7-45f5-abc4-b392740c7425,Dimethyl carbonate,000616-38-6,low population density,Emission to air,kg,0.025
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2d456fb8-592b-46a7-97f0-81fc2a18e587,Styrene,,low population density,Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e7e0031e-791d-42f4-b26c-ec322db637bc,Ethane,,low population density,Emission to air,kg,0.123
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ed1aff41-0bfc-48b8-8250-840c0a2f6961,2-Propanol,,low population density,Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b58c0d57-fecb-3079-aaf3-49e239bca4cb,"Carbon monoxide, biogenic",000630-08-0,low population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a6386bef-e154-4862-967c-f3767d7f9a2a,Methyl formate,000107-31-3,low population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4ad8b6a1-339a-47e6-9456-ff1a7b815c80,"Benzene, 1,3,5-trimethyl-",000108-67-8,low population density,Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8ec37464-0c43-4054-827c-35f2bf44e393,Cyclohexanol,000108-93-0,low population density,Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b661daa9-d1d9-45a1-890b-21c178058330,Isopentane,000078-78-4,low population density,Emission to air,kg,0.405
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d8126779-4743-43ec-8d92-d07050cca303,Isobutene,000115-11-7,low population density,Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a2ae351e-8f02-47e0-acba-927170619958,3-Pentanol,000584-02-1,low population density,Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7ae371ab-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,low population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6ed53433-96ff-402c-87d0-52b8271aadac,4-Methyl-2-pentanone,,low population density,Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8a970585-5ce2-4226-b60d-df1c34649a56,Butadiene,000106-99-0,low population density,Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fc9f9a81-c4b9-4dce-bc20-9f04e05ca2f1,Acetaldehyde,,low population density,Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1a796dc4-5dcb-40da-a609-3a5a40655fad,Cumene,,low population density,Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d7c40d17-3e65-44a4-9641-fcdd024df366,Isopropyl acetate,000108-21-4,low population density,Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fa5512cf-04a2-4014-8e96-d3e2d137f0df,Butane,,low population density,Emission to air,kg,0.352
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c2ad287c-6114-4a34-807a-b2353844dd3f,Cyclohexanone,000108-94-1,low population density,Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,76e532b3-25c7-487e-894c-5bf306cdd012,2-Methyl-1-propanol,,low population density,Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77f17646-cede-4a49-99dd-55950098b077,Toluene,,low population density,Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6b491a9d-285a-4dce-aef6-a5a6e51c713e,"Benzene, 1,2,4-trimethyl-",000095-63-6,low population density,Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,41067ac7-bf36-47ef-a19f-683d9b758a28,Hexane,,low population density,Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c798efdf-58b8-4868-9c90-a452248dce85,Nonane,000111-84-2,low population density,Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fcc4b429-e76d-4a56-9683-27a77e6437c9,"Toluene, 3,5-diethyl-",002050-24-0,low population density,Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e0994a6e-9a9f-4a17-9f02-d85937d01028,Sulfur monoxide,,low population density,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0d3ccb17-b3fe-4c08-b7cb-458ed3ababf1,Ethanol,,low population density,Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,49d04b62-aa23-43a4-a29c-2ad3b10271c2,Propylene glycol,000057-55-6,low population density,Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e96f2f43-b816-4a9d-87b3-119778369a45,2-Hexanone,000591-78-6,low population density,Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2f052025-4072-4d8e-b22d-68d50bfb260c,Pentane,,low population density,Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e64254e3-07d3-4330-b6de-6a858f108124,Ethyne,,low population density,Emission to air,kg,0.085
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,edd62398-8916-4183-9615-65afce26518a,t-Butyl methyl ether,001634-04-4,low population density,Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,963be8ca-e43d-4f8d-a97b-d8982035ffbc,Propanal,,low population density,Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1d2439de-751b-469a-ba3e-fda8fe9802b2,Methanol,,low population density,Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3b5e692a-e862-4571-9d14-a856097468ca,"Ethanol, 2-butoxy-",000111-76-2,low population density,Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,bf633941-aa40-4c37-b361-b5cbfb1089f5,Isoprene,,low population density,Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fa9b9736-6de8-4bd6-ba22-1bd78c798373,Chloroform,,low population density,Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2813518d-c4a8-4a8d-9542-f1882ec27c1c,Benzaldehyde,,low population density,Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,99585564-bfce-4845-9aaa-2f24b8f26a41,"Ethane, 1,1,1-trichloro-, HCFC-140",,low population density,Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,17ab0ec3-6165-4b0d-aa90-165f6b7cd6cd,Decane,000124-18-5,low population density,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,98f28ebe-22c0-4d0b-a2a2-2fcf910a91dd,Diethyl ether,000060-29-7,low population density,Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,099b36ab-4c03-4587-87f4-2f81e337afb8,"Carbon monoxide, fossil",,low population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ccfea48e-0aec-4573-8ed1-fb7c0f1b14ae,1-Pentene,000109-67-1,low population density,Emission to air,kg,0.977
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5c91a905-8d1d-4b84-b207-9b6332b4425e,Butyl acetate,000123-86-4,low population density,Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,20408dd0-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,low population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ae95b686-e862-4970-8316-6cdaeb7f3527,Propylene glycol methyl ether,000107-98-2,low population density,Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e7f7fd97-a1c8-4be9-8a21-68ef06437d20,Formic acid,,low population density,Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5e883a00-04e6-4d96-8dce-12d7117c6635,Benzene,,low population density,Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,22698b26-ab11-43eb-a48f-3e46863555cc,"Ethene, trichloro-",000079-01-6,low population density,Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,754028fd-e650-4804-922e-694a764ba578,"Ethene, tetrachloro-",,low population density,Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,57bdb443-d4a6-423d-8024-959b8261d02e,"Methane, non-fossil",,low population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5933e933-9eaf-4f97-ae63-5eb1eea95e53,Ethyl acetate,000141-78-6,low population density,Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,29bfab29-0ad0-47da-b5b9-a76328ba5a64,Propanol,,low population density,Emission to air,kg,0.561
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,92259b90-6f92-42ec-b3f2-30775167aff7,o-Xylene,000095-47-6,low population density,Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0aa4a379-3db3-4aad-950c-1bc4a58c6519,1-Butene,000106-98-9,low population density,Emission to air,kg,1.08
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9beb60a3-3a8c-4345-9a0e-107eec2f709f,Propane,,low population density,Emission to air,kg,0.176
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c5cc0625-6e01-4639-b053-5d1d9d22a53c,Acetic acid,,low population density,Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ba38866f-4480-48a7-9e22-92a16fc3e9c5,Methyl acetate,000079-20-9,low population density,Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,87f683ed-44ae-41a6-b4bc-230622f8cfef,Ethene,,low population density,Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8ed0dd8d-64b5-44ed-924e-ee883e3bf19e,1-Hexene,000592-41-6,low population density,Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d24f41d7-279e-4f5a-9ac9-00f726dc3bcc,m-Xylene,,low population density,Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,50cbb355-9a33-4e15-986a-c95c40931638,Dimethyl ether,000115-10-6,low population density,Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,54b35742-21ff-4454-8a3d-f31577e308b3,Methyl ethyl ketone,,low population density,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,"Carbon monoxide, non-fossil",,low population density,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7a2d7097-20c4-4b5f-b2ee-bcfc2ba1378f,Acetone,,low population density,Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f4cf1743-b13f-437d-89af-0ca0cab4590f,Isobutyraldehyde,000078-84-2,low population density,Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,70ef743b-3ed5-4a6d-b192-fb6d62378555,"Methane, fossil",,low population density,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8d50d9ce-3284-4a1e-ab89-2a7a931b110d,3-Methyl-1-butanol,000123-51-3,low population density,Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3ebae152-62cf-3a28-a47f-9ca2a7a333a7,"Methane, dimethoxy-",000109-87-5,indoor,Emission to air,kg,0.164
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f5936aab-5e0b-3d3b-b605-c72078038ebf,p-Xylene,000106-42-3,indoor,Emission to air,kg,1.01
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2e5e65e9-67b9-3a73-83e4-d487b186d8d9,Butadiene,000106-99-0,indoor,Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ee6bf285-eb89-319f-a1c1-9045e851cd46,Ethylene glycol,000107-21-1,indoor,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,43ca56d1-87c6-3605-a6c2-55d292e3e51f,Isoprene,000078-79-5,indoor,Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,852c4eea-96e6-30f0-9e5b-203e1c822030,Propyl acetate,000109-60-4,indoor,Emission to air,kg,0.282
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ea1aa416-24a6-3070-b684-38feb5492ccc,1-Propanol,000071-23-8,indoor,Emission to air,kg,0.561
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,78d778f3-271d-367a-bbc2-db3c85f6b0d8,Benzaldehyde,000100-52-7,indoor,Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0ea9b371-2c9a-3847-a7e1-160f4c44fee4,2-Methyl-2-butanol,000075-85-4,indoor,Emission to air,kg,0.228
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,173b468a-3c3e-3981-a083-2f49e33787f9,3-Pentanone,000096-22-0,indoor,Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,34507fb8-65d9-3149-b6e8-d17f91409ac9,Propene,000115-07-1,indoor,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e97ec376-5436-35b7-a1d5-cd18999e7b0b,Heptane,000142-82-5,indoor,Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5ffc1e31-2eb1-3cbc-b428-0f9d57af2d70,Benzene,000071-43-2,indoor,Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,65cf903d-262a-38ab-9084-d9638da50ebf,Isopropyl acetate,000108-21-4,indoor,Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0758fd39-21c0-3f92-bcbc-2f7ff3fc3a25,Diethyl ether,000060-29-7,indoor,Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,59c6b3ad-7ded-39fa-90fe-0087cb3660a4,4-Hydroxy-4-methyl-2-pentanone,000123-42-2,indoor,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eb1a4e44-4c66-35eb-9f9d-5dd25ad0a02d,o-Xylene,000095-47-6,indoor,Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,99011daf-eb19-37ce-9c0e-651b6b62adaa,"Ethene, tetrachloro-",000127-18-4,indoor,Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eba260c0-c5b5-3eba-8634-c36917f11ae9,"Ethanol, 2-butoxy-",000111-76-2,indoor,Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,16210d98-77fb-31c0-88b5-1659c4e6434c,N-octane,000111-65-9,indoor,Emission to air,kg,0.453
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,cd03cf82-d130-33eb-927c-db747ce6f1d9,Toluene,000108-88-3,indoor,Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5d55dda5-a42b-3238-8309-4c83ced051d3,Propylene glycol,000057-55-6,indoor,Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,668b5f8b-d534-3c82-986e-fbf7b3cdde0b,"Benzene, 1,3,5-trimethyl-",000108-67-8,indoor,Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,62b909fa-e68f-3e06-a207-981e312d3094,Propionic acid,000079-09-4,indoor,Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ef3ec802-2d73-3f04-8dad-bc32d0a03eea,3-Pentanol,000584-02-1,indoor,Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,772ec94e-900d-3303-ad15-c04dd2578d2b,Acetone,000067-64-1,indoor,Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a93b9ed6-405e-3c97-840f-53427af913e8,"Methane, dichloro-, HCC-30",000075-09-2,indoor,Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c62f144c-55e4-380c-ae21-e059ba49ca21,Isobutene,000115-11-7,indoor,Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7e23f4e8-1575-396a-be61-35a1847ffebe,4-Methyl-2-pentanone,000108-10-1,indoor,Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,794caf8b-0d37-3762-8357-ae0e05cc2938,Propanal,000123-38-6,indoor,Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e43bdf20-94d3-3714-b444-6d6d5adb4c2c,Cyclohexane,000110-82-7,indoor,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,45b4e3cd-ee3a-3fba-97f9-85be8efb5601,2-Butanol,000078-92-2,indoor,Emission to air,kg,0.4
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4a749402-133c-3dfe-bd3b-60060a81bb72,Hexane,000110-54-3,indoor,Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f375005a-03a4-3497-8cdd-a248bae61fcd,"3,3-Dimethyl-2-butanone",000075-97-8,indoor,Emission to air,kg,0.323
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77d06311-6c92-3e52-9f7b-6182d68be251,3-Methyl-1-butanol,000123-51-3,indoor,Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5dacf573-9f72-3b2c-8e0a-889058aa2d79,2-Pentanone,000107-87-9,indoor,Emission to air,kg,0.548
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,58f86d12-b811-3ca0-9c2d-83559bcc4ca3,Acetic acid,000064-19-7,indoor,Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6abf9e1a-c33e-49ae-aeae-ab84cee7d2ab,Dimethyl ether,000115-10-6,indoor,Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,aa46ed7d-4bf8-36f6-8bdd-c14e12be0078,Methyl acetate,000079-20-9,indoor,Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,103afa13-5b3a-30c3-88d3-8594ded2d79d,"Ethene, dichloro- (trans)",000156-60-5,indoor,Emission to air,kg,0.392
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77486b49-518e-3a60-a78e-62f88fe737b7,t-Butyl methyl ether,001634-04-4,indoor,Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4be2783f-31d7-376d-b01f-612dad0cc7ee,"Ethanol, 2-ethoxy-",000110-80-5,indoor,Emission to air,kg,0.386
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9ff6b755-dc6d-41b1-b9a3-08db6bad381f,"Toluene, 3,5-diethyl-",002050-24-0,indoor,Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9a509b8f-c2a6-33df-8170-b62dcb6fb949,Methanol,000067-56-1,indoor,Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9f0196c4-8f8e-36dc-920f-8d052b372f2a,Isobutyraldehyde,000078-84-2,indoor,Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,939c30c6-f6bb-30ff-be56-6fa213416cad,Pentanal,000110-62-3,indoor,Emission to air,kg,0.765
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,508f6f4a-2420-3646-a5bc-65175881baf2,Methyl ethyl ketone,000078-93-3,indoor,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3850502e-8067-3b7d-888e-8932d1ec5891,Methyl formate,000107-31-3,indoor,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fddc0a18-cf8f-384c-8b8a-558ed4d4bae1,Decane,000124-18-5,indoor,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,194d7081-d8c8-3467-b3cb-3845e697ff37,Cumene,000098-82-8,indoor,Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f25df531-a2c6-3a1c-b997-06a802880d1a,Styrene,000100-42-5,indoor,Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,759040bc-32a2-3250-8900-c49444e1c619,"Benzene, 1,2,4-trimethyl-",000095-63-6,indoor,Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a948693d-2010-39c2-9cd1-b9844754fdb0,2-Methyl-1-propanol,000078-83-1,indoor,Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a86d9871-4454-3417-ab6c-acfd52430b7c,2-Propanol,000067-63-0,indoor,Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0102958d-e9b8-30b2-b1b6-3b10ddba458f,Cyclohexanone,000108-94-1,indoor,Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6ade9b20-ae7d-3093-8c3a-698ced281bb2,Ethyl acetate,000141-78-6,indoor,Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1119e45c-6707-3b66-af94-f60114491671,N-propylbenzene,000103-65-1,indoor,Emission to air,kg,0.636
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,393d37ed-d04b-3646-9e78-c0dac922861e,t-Butyl acetate,000540-88-5,indoor,Emission to air,kg,0.053
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ac624a56-94d7-3ada-a23d-39fb154173ee,Formic acid,000064-18-6,indoor,Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,756db068-d8ff-3c5f-badc-e430dbd82a7d,1-Butanol,000071-36-3,indoor,Emission to air,kg,0.62
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4b853dc5-1751-31f3-9078-65045a146737,Diisopropyl ether,000108-20-3,indoor,Emission to air,kg,0.398
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,45d459a5-33fc-37fa-bcfa-16cc05ebe2b1,"Methane, monochloro-, R-40",000074-87-3,indoor,Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,71353ebf-383b-33fa-9349-8bfa0df61801,Pentane,000109-66-0,indoor,Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,629becfa-af05-3a08-89c3-3aa848878560,Butanal,000123-72-8,indoor,Emission to air,kg,0.795
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e75fd2b7-41a0-39e7-9784-82c545512033,s-Butyl acetate,000105-46-4,indoor,Emission to air,kg,0.275
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,839f05a3-29ee-3af9-aaf9-f8d6409fc223,Acetaldehyde,000075-07-0,indoor,Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,dc01172a-4aba-3b14-8c6f-92b0e8f456a6,Chloroform,000067-66-3,indoor,Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7b44cf6c-867f-34a0-b632-024664899e21,"Methane, biogenic",000074-82-8,indoor,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,81e83866-4864-3ab6-9b12-004947235518,1-Hexene,000592-41-6,indoor,Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,301da838-ffba-34a9-bf88-d8f7a3747d30,"2-Butanone, 3-methyl-",000563-80-4,indoor,Emission to air,kg,0.364
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6869a95b-c5db-3a5a-bf9e-f215b2811782,Formaldehyde,000050-00-0,indoor,Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f6b2d30a-e90c-34b1-9756-821f416f1603,"Ethanol, 2-methoxy-",000109-86-4,indoor,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9de44397-4c4b-394e-ac70-28db28788fea,m-Xylene,000108-38-3,indoor,Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,926e91c7-69bb-3673-a488-72bae997734c,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,indoor,Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,09c332a9-1186-36ac-aa4e-3da3e002f29d,Butyl acetate,000123-86-4,indoor,Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,622a89ea-1153-3567-829b-082b759af388,Propylene glycol methyl ether,000107-98-2,indoor,Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ef327fa3-1194-36db-afc1-68224924a120,t-Butyl alcohol,000075-65-0,indoor,Emission to air,kg,0.106
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6de483db-a3e1-33e8-abb2-715555035181,Cyclohexanol,000108-93-0,indoor,Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d2c3346e-9bbd-3524-ac91-b020ab3a206a,"Ethene, trichloro-",000079-01-6,indoor,Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,38a736e8-ddd5-3b04-a0b8-16780bbf3238,"Benzene, ethyl-",000100-41-4,indoor,Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eaf2d256-75f5-3555-b66d-a204c05426f4,2-Hexanone,000591-78-6,indoor,Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c589f21a-de8f-39ca-b6f5-324426ea19ae,Ethanol,000064-17-5,indoor,Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1be48ad1-6513-31a3-b2d8-e2344c06d746,"Toluene, 3,5-diethyl-",002050-24-0,"low population density, long-term",Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,13fb54aa-a54a-48de-b2ec-b9165dea111d,Ethene,000074-85-1,"low population density, long-term",Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ad2358fd-bdb0-44eb-aa84-dc9e358323d9,Methane,000074-82-8,"low population density, long-term",Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8a515488-6475-42d0-bdf3-00a89ac06d0d,Ethyne,000074-86-2,"low population density, long-term",Emission to air,kg,0.085
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e9d5a946-70ac-4610-a95b-cc659b48f29e,Propene,000115-07-1,"low population density, long-term",Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0d4989fd-00e3-4522-905f-2ab6a1bd5677,Methyl acetate,000079-20-9,"low population density, long-term",Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,583f0850-0f80-49f8-86a5-944ee389f3b6,Propylene glycol,000057-55-6,"low population density, long-term",Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e823de32-cccb-458f-96b6-2a46487ffdbf,Dimethyl carbonate,000616-38-6,"low population density, long-term",Emission to air,kg,0.025
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1258b87f-6a94-4c0f-a51a-cef98a3bf534,Formaldehyde,000050-00-0,"low population density, long-term",Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f2d8ab10-7974-4038-9339-b8a204d26331,Dimethyl ether,000115-10-6,"low population density, long-term",Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4e273361-5b8e-48e3-9220-9679acd57ed7,2-Hexanone,000591-78-6,"low population density, long-term",Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d88b5aeb-d589-4847-b2d4-80ba6a227ab7,"Ethene, tetrachloro-",000127-18-4,"low population density, long-term",Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b5cce6fb-7921-4e0a-975a-0c7df7e9195a,1-Hexene,000592-41-6,"low population density, long-term",Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,326b94e8-aea0-4bd4-8a50-63bf283882a8,2-Propanol,000067-63-0,"low population density, long-term",Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,58f84a38-ca67-490c-8ed7-219c42dcc52d,Propanal,000123-38-6,"low population density, long-term",Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3b6e56fc-e148-44f1-b489-8c2ff91ebe81,Cumene,000098-82-8,"low population density, long-term",Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4009a3f4-1995-4318-9056-92825bc532c3,Propionic acid,000079-09-4,"low population density, long-term",Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,497e2e7c-0e1a-4b9f-a94e-d63d5e49dcf8,4-Methyl-2-pentanone,000108-10-1,"low population density, long-term",Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,bce32727-6571-4c6e-977d-da7018c40d76,3-Pentanol,000584-02-1,"low population density, long-term",Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,49c594c6-b6a8-42a3-95c5-cca812fda80b,"Carbon monoxide, fossil",000630-08-0,"low population density, long-term",Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e462d2ef-2da9-4b99-9e16-f4cd181a91da,Carbon monoxide,000630-08-0,"low population density, long-term",Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d9b31144-bba1-4662-b40f-54f71bcf0dc6,Dodecane,000112-40-3,"low population density, long-term",Emission to air,kg,0.357
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,88be8e1b-1bdc-46e1-9856-187a95b3d872,2-Methyl-1-propanol,000078-83-1,"low population density, long-term",Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,588356df-f3b4-43a7-a76e-c47175a7eae0,"Carbon monoxide, biogenic",000630-08-0,"low population density, long-term",Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f8ee4881-a003-4e18-aa2a-d9daf97d76f7,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,"low population density, long-term",Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1275ddeb-f87b-3f52-94a4-1eb8e2ac6c06,Sulfur monoxide,,"low population density, long-term",Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3d68daf9-95a2-4eb1-adef-a8ad86b72bf7,Nonane,000111-84-2,"low population density, long-term",Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,69a73f35-665b-4b3a-a1e5-56aaa697fb10,Isopentane,000078-78-4,"low population density, long-term",Emission to air,kg,0.405
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,78259cf2-1bb2-41ec-941c-9d70909df094,Chloroform,000067-66-3,"low population density, long-term",Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,823106de-a29a-481f-8647-728a19b9294d,Ethane,000074-84-0,"low population density, long-term",Emission to air,kg,0.123
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eb6232f4-95b8-4eed-9d63-6b35acd86b8f,"Benzene, 1,3,5-trimethyl-",000108-67-8,"low population density, long-term",Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ff7829da-1095-4600-b17d-5c218b3828f4,Cyclohexanone,000108-94-1,"low population density, long-term",Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,246c87af-4495-4977-8d39-eae397c1c8f1,"Methane, monochloro-, R-40",000074-87-3,"low population density, long-term",Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,55b0bc94-7f43-4930-ad57-25af3f892757,Acetaldehyde,000075-07-0,"low population density, long-term",Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77ff1fec-e163-4377-acac-b00c8aa94391,Hexane,000110-54-3,"low population density, long-term",Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2563243b-9991-4fb4-bfe7-4239c25de7db,Methyl formate,000107-31-3,"low population density, long-term",Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,410fbb1a-4849-4165-a11c-115bc1107c46,Isobutane,000075-28-5,"low population density, long-term",Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f0cc0453-32c0-48f5-b8d4-fc87d100b8d9,Isoprene,000078-79-5,"low population density, long-term",Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a93012b9-5223-4716-842b-23d4bb53119f,Methyl ethyl ketone,000078-93-3,"low population density, long-term",Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,abb87cf5-9e30-4d02-987c-7643510b7013,Propane,000074-98-6,"low population density, long-term",Emission to air,kg,0.176
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f4a1e10b-ed51-433e-a2f5-2a99f231a5e5,Butane,000106-97-8,"low population density, long-term",Emission to air,kg,0.352
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3a5b4a5f-0c52-4314-b9bb-030baff8e00c,Ethylene glycol,000107-21-1,"low population density, long-term",Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,227f85d8-5156-461f-9d03-03960287debf,Ethyl acetate,000141-78-6,"low population density, long-term",Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,cf877bac-3c9e-4256-bb4b-18c11d58769e,Isopropyl acetate,000108-21-4,"low population density, long-term",Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ccf4ef50-00b4-4eca-8c87-4f5855041439,Isobutene,000115-11-7,"low population density, long-term",Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eee7f4df-d621-439a-a89a-edf2d761d848,Pentane,000109-66-0,"low population density, long-term",Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6c977009-5c4e-4901-a4c1-ab20389cb972,"Methane, biogenic",000074-82-8,"low population density, long-term",Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,47a8dfb8-f1e5-4460-b7ca-eeea1ca44596,1-Pentene,000109-67-1,"low population density, long-term",Emission to air,kg,0.977
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d482b568-0604-4433-87b2-1340f7a17512,Methanol,000067-56-1,"low population density, long-term",Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e91093c9-20df-49c5-8960-eabf05af6832,Acetone,000067-64-1,"low population density, long-term",Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e9acbffd-7211-42e2-9f3a-cd9556e21132,Acetic acid,000064-19-7,"low population density, long-term",Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,cda709f8-a73c-4b2f-a29f-49496b29f704,"Ethanol, 2-butoxy-",000111-76-2,"low population density, long-term",Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7ae0a943-090b-4da6-899f-8c53a33a1db2,Diethyl ether,000060-29-7,"low population density, long-term",Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f903c2fb-71bf-4568-99fc-6aa7ed7bc922,"Methane, dichloro-, HCC-30",000075-09-2,"low population density, long-term",Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,dbafa5bd-48d1-455a-8042-7d631d913745,Ethanol,000064-17-5,"low population density, long-term",Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1fee3bdb-480b-4194-b3d7-0e4bd2814c33,Butyl acetate,000123-86-4,"low population density, long-term",Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,21667021-5f5c-482f-9dc3-31480b0037dd,Cyclohexanol,000108-93-0,"low population density, long-term",Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,dc50265c-a1ea-49b3-97a9-fad6f1da0bd7,3-Methyl-1-butanol,000123-51-3,"low population density, long-term",Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,34f18170-9aca-4025-a4ab-d9aaf261b391,t-Butyl methyl ether,001634-04-4,"low population density, long-term",Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,facffe7e-9170-43af-8460-5031bcfa1679,1-Butene,000106-98-9,"low population density, long-term",Emission to air,kg,1.08
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d56ddb2e-5087-4118-8359-64fb6cb513f9,"Ethene, trichloro-",000079-01-6,"low population density, long-term",Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4d3fca94-6936-4cf8-926c-a685512f091b,Isobutyraldehyde,000078-84-2,"low population density, long-term",Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0315d855-dff2-44af-bb37-1b855df53d69,Butadiene,000106-99-0,"low population density, long-term",Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c8da1004-26dc-493a-a568-72f4c3820fc8,Formic acid,000064-18-6,"low population density, long-term",Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8476d82a-4a17-4c08-8339-efd46c6518e7,Benzene,000071-43-2,"low population density, long-term",Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,62bd2ced-16de-43c2-88e1-adfae242654e,m-Xylene,000108-38-3,"low population density, long-term",Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,56cfc774-379e-4c9e-a020-22208f28a11c,"Benzene, 1,2,4-trimethyl-",000095-63-6,"low population density, long-term",Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8a4e7925-a486-467c-a255-f8a1ec5040de,o-Xylene,000095-47-6,"low population density, long-term",Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,68b7967f-d613-4a97-ab5a-ba9496d2900d,Propylene glycol methyl ether,000107-98-2,"low population density, long-term",Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f3bd723a-5276-4ae8-9860-b89537351a90,"Methane, fossil",,"low population density, long-term",Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,248223f5-4e00-4b0d-9652-76a9c39ce414,Heptane,000142-82-5,"low population density, long-term",Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9ada9c2e-9817-42fe-88ba-3c18aba85585,Cyclohexane,000110-82-7,"low population density, long-term",Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,12aeeb5b-15e4-49b9-aa5e-572d607e9a6e,Decane,000124-18-5,"low population density, long-term",Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f7bdeabf-a11d-4ddb-ad19-501485f39f07,Styrene,000100-42-5,"low population density, long-term",Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e4ef0139-8f7a-4541-a2fb-8316558eb296,"Benzene, ethyl-",000100-41-4,"low population density, long-term",Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a61637db-d0a5-40c3-8969-e0b03509b667,Benzaldehyde,000100-52-7,"low population density, long-term",Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b98c02c6-89bb-4dd2-8d68-6af6758db3d9,Toluene,000108-88-3,"low population density, long-term",Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,47bee45d-6d2b-48a6-a0c8-fcb8debc7f5d,2-Methyl-1-propanol,000078-83-1,unspecified,Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,432a3326-73f8-4752-bc4d-06b7b4b1243c,"Methane, dichloro-, HCC-30",,unspecified,Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1ec6c4b4-ee5f-4788-8683-c95a84d6d63c,Heptane,,unspecified,Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0d25326e-2335-4a06-8ecb-d161f02adccf,"Benzene, 1,2,4-trimethyl-",000095-63-6,unspecified,Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3e9958d3-0bb9-47ec-934f-023fa057d568,para-Ethyltoluene,000622-96-8,unspecified,Emission to air,kg,0.906
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b0a0659d-4d5c-4a26-879c-d91da2dcb6e0,ortho-Ethyltoluene,000611-14-3,unspecified,Emission to air,kg,0.898
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,20408dd1-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,unspecified,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8e30c990-5ed4-4f94-9d0e-2f5e4ff1a1f9,Ethane,,unspecified,Emission to air,kg,0.123
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,acfeda73-2eee-4ca2-ad41-e8c564e75cec,Dimethyl ether,000115-10-6,unspecified,Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,527d6cb5-bbd7-403d-8dcc-b6678fb123f5,o-Xylene,,unspecified,Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1eefb686-03de-4dc8-933a-e3b7459438da,3-Methyl-1-butanol,000123-51-3,unspecified,Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,25fa24f5-1c5e-4dca-a06b-8979ae0b3519,"Hexane, 3-methyl-",000589-34-4,unspecified,Emission to air,kg,0.364
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d18838bc-54cd-5d6f-a8f3-9b94cfc8472d,Dimethyl carbonate,,unspecified,Emission to air,kg,0.025
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,da1157e2-7593-4dfd-80dd-a3449b37a4d8,"Methane, non-fossil",,unspecified,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,29732347-e82f-43dd-b13a-8a42c7f92185,Propylene glycol t-butyl ether,057018-52-7,unspecified,Emission to air,kg,0.463
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b514ddac-92a4-4c76-9c67-4188c5b7ff47,"1,2,3-Trimethyl Benzene",000526-73-8,unspecified,Emission to air,kg,1.27
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a861cfae-a310-4e9d-b9eb-5d555c9a684c,Formaldehyde,,unspecified,Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2cb2333c-1599-46cf-8435-3dffce627524,"Carbon monoxide, non-fossil",,unspecified,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a277f1a2-5e12-418b-8121-8bd174b89aea,"Benzene, 3,5-dimethylethyl-",000934-74-7,unspecified,Emission to air,kg,1.32
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b1124d65-6c5a-4530-a5e5-0c9726eb524c,Sulfur monoxide,,unspecified,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,75908286-a794-3337-8aca-4824bec1290d,"Toluene, 3-ethyl-",000620-14-4,unspecified,Emission to air,kg,1.02
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7d10ce65-5cae-4755-8d09-0bc42a7bf710,Isobutyraldehyde,000078-84-2,unspecified,Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fbf6ab3a-74e3-4cbe-b61d-959728bdce46,Chloroform,,unspecified,Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4e44630f-4197-4f05-809f-0fef07fba7d3,"2-Butene, 2-methyl-",000513-35-9,unspecified,Emission to air,kg,0.842
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8fe4d5bf-66c4-3808-87a0-7d764a4dda0a,"Toluene, 2-ethyl-",000611-14-3,unspecified,Emission to air,kg,0.898
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3b1ecf8e-1d2c-4330-81da-a79f9068976d,Toluene,,unspecified,Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,40a41567-eb17-43d5-be52-11b606cd573e,t-Butyl ethyl ether,000637-92-3,unspecified,Emission to air,kg,0.244
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fe0acd60-3ddc-11dd-a282-0050c2490048,"Benzene, 1,3,5-trimethyl-",000108-67-8,unspecified,Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ae833ace-aacf-4d1f-bfe0-cdb6b658164c,"Ethanol, 2-butoxy-",000111-76-2,unspecified,Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0ebdb68a-f50d-4b0c-ad4b-3a1104d8b454,Methanol,,unspecified,Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9bc66656-9f37-44bc-ae0b-5d5243b8137e,"Ethene, tetrachloro-",,unspecified,Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e0299028-cc11-494d-867e-3cab2958fb7a,2-Butene (cis),000590-18-1,unspecified,Emission to air,kg,1.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77cb2fb7-d73b-42f0-9d7b-633422069ede,2-Hexene (cis),007688-21-3,unspecified,Emission to air,kg,1.07
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b9a9b2ad-5db3-47aa-81de-3a48ae9ad4ec,1-Butanol,000071-36-3,unspecified,Emission to air,kg,0.62
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7c24a41a-d756-3e29-bb1c-6c3a1532d7b4,2-Pentene (cis),000627-20-3,unspecified,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3615a1b2-6781-45a1-9d9c-efe1f1c95188,Pentanal,000110-62-3,unspecified,Emission to air,kg,0.765
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5b2a19b9-1243-44ae-b76c-c0d92159d5d6,"Ethanol, 2-methoxy-",000109-86-4,unspecified,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4da82801-d0a0-4af3-be99-1c4f52ac0914,3-Pentanol,000584-02-1,unspecified,Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ff5d0fa9-6ca8-4e61-b99b-14981620c0d7,1-Propanol,000071-23-8,unspecified,Emission to air,kg,0.561
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,959c60c9-5a4f-49f2-b340-8c5b245aa498,Propylene glycol methyl ether,000107-98-2,unspecified,Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,651cbfbb-3027-4e20-a5b0-4a67e86e837a,1-Pentene,000109-67-1,unspecified,Emission to air,kg,0.977
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5e734470-2065-4bfe-8dc7-e2006a7ea2b1,3-Methyl pentane,000096-14-0,unspecified,Emission to air,kg,0.479
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,140f5c54-7965-420d-a5c1-0ed0f0671a55,Decane,000124-18-5,unspecified,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,170567c3-eba5-4979-b1ed-69e081881c16,para-Xylene,000106-42-3,unspecified,Emission to air,kg,1.01
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,588b9b03-5a22-4072-804e-135c81b7adc2,Cyclohexanone,000108-94-1,unspecified,Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4e288276-72b1-416c-b91b-82b976d83709,Dodecane,000112-40-3,unspecified,Emission to air,kg,0.357
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,451711c8-ad20-3aaf-ad6b-1fe8bfc83775,"Butane, 2,2-dimethyl-",000075-83-2,unspecified,Emission to air,kg,0.241
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eb16cbd8-c19e-46e0-bf3d-804fbf856bc1,"Ethene, dichloro- (trans)",000156-60-5,unspecified,Emission to air,kg,0.392
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,059e6a26-7035-4621-a360-c71c5778eec8,"Pentane, 3-methyl-",000096-14-0,unspecified,Emission to air,kg,0.479
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,45e23e23-d952-4721-a514-2acfa5bfcab5,"Ethanol, 2-ethoxy-",000110-80-5,unspecified,Emission to air,kg,0.386
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a884c30c-e7d8-40b2-8fb2-2b75a1e94063,3-Hexanone,000589-38-8,unspecified,Emission to air,kg,0.599
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ce142d34-8ba9-47aa-a497-8742a2e4a547,Methyl pentane,000107-83-5,unspecified,Emission to air,kg,0.42
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8ca862ca-3e9b-41d5-9a04-3781decea14b,"Hexane, 2-methyl-",000591-76-4,unspecified,Emission to air,kg,0.411
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,c88a91dc-117a-479d-be84-0b7e57717fc7,1-Undecane,001120-21-4,unspecified,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,80151258-6ef0-4b7a-98fc-bee7b8673a1f,meta-Ethyltoluene,000620-14-4,unspecified,Emission to air,kg,1.02
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,64165202-4870-47d0-8602-b85e5d672865,Propene,,unspecified,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8b49204b-fe0d-4c67-aa60-47731dd75101,trans-2-Pentene,000646-04-8,unspecified,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3e08d92a-46b6-3eda-ad74-5b4a6ff80307,N-propylbenzene,000103-65-1,unspecified,Emission to air,kg,0.636
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1dcd86a2-ace9-4f68-b02c-13aff1c00923,2-Butanol,000078-92-2,unspecified,Emission to air,kg,0.4
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,83db4ab2-cdb5-4e0e-828b-42fe208b0f13,Isobutane,000075-28-5,unspecified,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,cfdbc576-e8dc-44ef-bdf2-ddd7009ce57e,m-Xylene,,unspecified,Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a54d8577-3aa9-3346-b15d-8b5dbf89ae08,"Toluene, 4-ethyl-",000622-96-8,unspecified,Emission to air,kg,0.906
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,06911561-7da9-487c-adda-85e268d672af,Isopentane,000078-78-4,unspecified,Emission to air,kg,0.405
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9c6f665b-3a73-4a33-a10a-d25a1ec6c678,1-Hexene,000592-41-6,unspecified,Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,53214ef0-3cc1-4166-920b-08ca46f7c457,4-Methyl-2-pentanone,000108-10-1,unspecified,Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8077467e-8d30-46cc-ab55-5759286eebd3,Ethyl acetate,000141-78-6,unspecified,Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d01adad5-df5d-4c96-877d-09aeed46cf3d,"1-Butene, 3-methyl-",000563-45-1,unspecified,Emission to air,kg,0.671
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,96c4add0-8914-37f3-82c7-873fd1ebd8a7,"1-Butene, 2-methyl-",000563-46-2,unspecified,Emission to air,kg,0.771
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6e37c774-caff-433d-8b50-a7937902be6b,Propyl acetate,000109-60-4,unspecified,Emission to air,kg,0.282
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d279bdef-1284-46be-9999-384a0df3267e,Butanal,000123-72-8,unspecified,Emission to air,kg,0.795
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,768a9d0d-b058-4471-96b9-26599a6eccef,"Butane, 2,3-dimethyl-",000079-29-8,unspecified,Emission to air,kg,0.541
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,67570e38-0bb4-4a11-8654-ad5b02fc8d0a,"Ethene, dichloro- (cis)",000156-59-2,unspecified,Emission to air,kg,0.447
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f4cb34df-e4a9-48ad-a936-c826f32b6061,s-Butyl acetate,000105-46-4,unspecified,Emission to air,kg,0.275
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,88ef28f1-cfd5-44a0-ac34-01acf2db84a0,"Benzene, ethyl-",,unspecified,Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,47882809-7425-3351-a73a-ac63ff85b148,"Pentane, 2-methyl-",000107-83-5,unspecified,Emission to air,kg,0.42
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,08a91e70-3ddc-11dd-9734-0050c2490048,Octane,000111-65-9,unspecified,Emission to air,kg,0.453
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eca23d30-748f-43dc-86b7-c833ccba8a1c,1-Butene,000106-98-9,unspecified,Emission to air,kg,1.08
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2bd76405-c1ba-3bca-b4c2-a2a4d06b07bd,2-Pentene (trans),000646-04-8,unspecified,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,676cc1aa-8f83-4a97-854f-536746a68b63,"Methane, dimethoxy-",000109-87-5,unspecified,Emission to air,kg,0.164
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,51446c5d-fd9b-4e45-884f-649143ebee1a,"Butanol, 3-methyl-2-",000598-75-4,unspecified,Emission to air,kg,0.406
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,42a2f3e7-5393-4a69-9b0b-f70a9139ee24,Ethyne,,unspecified,Emission to air,kg,0.085
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0c209634-80bb-4909-8442-3189b7cb01d7,Isoprene,,unspecified,Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,516606eb-99f6-4e8c-b99a-6b439aaed48c,Pentane,,unspecified,Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a0950325-06dc-5ca0-84b6-983c9e6ccf74,Trichloroethylene,,unspecified,Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ddc17e11-bf2e-4816-87b8-27293955ae37,trans-2-Butene,000624-64-6,unspecified,Emission to air,kg,1.13
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,18ea247b-edc2-43fe-89bd-cedd04102bcc,"Methane, monochloro-, R-40",,unspecified,Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a192f5ac-fb5d-4e14-ac11-3c38283da9d0,Cumene,,unspecified,Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3a6c936c-0276-4f11-9d98-1bd011387a6e,Propane,,unspecified,Emission to air,kg,0.176
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,479edec6-763c-49fc-83f8-49780f08cf29,2-Propanol,,unspecified,Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0795345f-c7ae-410c-ad25-1845784c75f5,"Methane, fossil",,unspecified,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6b248529-b754-4be7-8b1a-91b9756fc2bc,Hexane,,unspecified,Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b84ebfec-fd10-4fc7-bd83-e6d7c94250c7,t-Butyl alcohol,000075-65-0,unspecified,Emission to air,kg,0.106
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f3d5fd96-8805-4d3d-867a-5df27975b07f,Acetone,,unspecified,Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a1b92409-5af6-42eb-9fdd-c6f2b64f5dd7,Propylene glycol,000057-55-6,unspecified,Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6a865580-e9f8-4a34-9c0a-dbc0620844ae,cis-2-Pentene,000627-20-3,unspecified,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,27804c78-5eee-47f9-9a91-1f6126ccfe45,Formic acid,000064-18-6,unspecified,Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e3e8f6a2-c45e-4685-9859-698b2eadaf5b,Acetaldehyde,,unspecified,Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,86b1a044-aa9d-3252-8318-0dd5eca3b31b,p-Xylene,000106-42-3,unspecified,Emission to air,kg,1.01
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,944acd1d-4828-3806-ad16-f572b402578a,4-Hydroxy-4-methyl-2-pentanone,000123-42-2,unspecified,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d3709c7e-7c61-45a4-92e4-f7cf95ebe3a2,Methyl ethyl ketone,,unspecified,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ba2f3f82-c93a-47a5-822a-37ec97495275,"Carbon monoxide, fossil",,unspecified,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,21ce6d32-e633-3196-a43d-48de2678c188,"Toluene, 3,5-diethyl-",002050-24-0,unspecified,Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e489fc0d-1a9d-4122-ba0e-06cdaf80b637,Isopropyl acetate,000108-21-4,unspecified,Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,28999907-a8a7-45b3-857e-836495ca2aa0,Benzene,,unspecified,Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f514d4d0-f910-43e8-b629-b4daa53b8670,2-Methyl-2-butanol,000075-85-4,unspecified,Emission to air,kg,0.228
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ce6294f5-2ed7-46ee-a967-33e265e34455,"Ethane, 1,1,1-trichloro-, HCFC-140",,unspecified,Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8835c3a6-629a-447b-83e2-df196974e79c,"3,3-Dimethyl-2-butanone",000075-97-8,unspecified,Emission to air,kg,0.323
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7ae371ac-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,unspecified,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,555aed47-6c62-4cbe-b9b8-d01229284c8a,Propanal,,unspecified,Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d6703e06-c8e7-3783-8a84-95a1560f8e9c,"Carbon monoxide, biogenic",000630-08-0,unspecified,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,10d26189-a688-4859-8aa9-525e058a07f0,Benzaldehyde,,unspecified,Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9c2a7dc9-8b1f-46ba-bc16-0d761a4f6016,Ethene,,unspecified,Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,90f722bf-cb9b-571a-88fc-34286632bdc4,Ethylene,,unspecified,Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,da3d541f-0063-4ddf-9b0d-7ba7b8cb6ec7,Butyl acetate,000123-86-4,unspecified,Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,decd9ac0-1c39-446b-bd31-5f74d33fb9da,t-Butyl acetate,000540-88-5,unspecified,Emission to air,kg,0.053
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,608433bf-6098-4433-953d-d1efa0d56bba,3-Pentanone,000096-22-0,unspecified,Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9cec94a2-e7fe-43f4-82f4-293c477f86dc,Styrene,,unspecified,Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,30bdc791-f014-3a59-9d65-3ff95be66c42,"Benzene, 1,2,3-trimethyl-",000526-73-8,unspecified,Emission to air,kg,1.27
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e424f8cf-75f3-4479-9a74-c8bcc8034ebf,2-Hexene (trans),004050-45-7,unspecified,Emission to air,kg,1.07
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4877b7b5-0ac1-47f7-96bd-677179544c9f,Methyl formate,000107-31-3,unspecified,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6a8bd6ee-9a3e-447b-9ecb-26a7e606a6fa,Isobutene,000115-11-7,unspecified,Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d157416d-db9b-4f88-a7f3-a9a5f1ea88f2,Acetic acid,,unspecified,Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,55920736-fffa-417c-b9ec-967c404252e3,"Propane, 2,2-dimethyl-",000463-82-1,unspecified,Emission to air,kg,0.173
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4d3104a5-df41-4ac6-9b16-275056f2fd5f,Nonane,000111-84-2,unspecified,Emission to air,kg,0.414
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f711f691-e83e-4f32-b3b9-c90cfec27a02,"Butanol, 2-methyl-1-",000137-32-6,unspecified,Emission to air,kg,0.489
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,165aaeac-93d1-4afd-adf2-e3d6c0eaf629,Cyclohexane,000110-82-7,unspecified,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,98972872-d582-4ffa-af43-3661575e6f00,2-Pentanone,000107-87-9,unspecified,Emission to air,kg,0.548
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,bd70c699-1ea1-4bb1-b23d-bc771d7d6311,Methyl acetate,,unspecified,Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9ad80db5-180a-4713-b02e-f8f4f00ef5ef,2-Methyl-1-Butene,000563-46-2,unspecified,Emission to air,kg,0.771
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9e510046-cd32-30a8-b1cf-162f44fae6c3,2-Butene (trans),000624-64-6,unspecified,Emission to air,kg,1.13
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d3f5d0b9-0155-4800-9dbb-b0583948c8c6,Ethanol,,unspecified,Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5064da53-d4ec-44ee-ba23-b20a4f8c4964,Butadiene,,unspecified,Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,21c17fb0-74fc-365b-b79e-3ac2f27c21a3,Undecane,001120-21-4,unspecified,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d9062eef-8b87-4ff3-af36-80527ee36be9,Cyclohexanol,000108-93-0,unspecified,Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f966bc6a-7dfa-4dfc-b85d-0a6f91d9739e,Diisopropyl ether,000108-20-3,unspecified,Emission to air,kg,0.398
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,22524a35-32c0-482a-82f7-49724ad1c595,Diethyl ether,000060-29-7,unspecified,Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,beb69352-568e-4a33-b9d4-3b5bfafc85bd,t-Butyl methyl ether,001634-04-4,unspecified,Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7ae398b3-8532-11e0-9d78-0800200c9a66,Ethylene glycol,000107-21-1,unspecified,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1dc23713-5d50-3df2-9d1e-7701fa59fa39,N-octane,000111-65-9,unspecified,Emission to air,kg,0.453
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e53503c2-c0ad-414a-a4bb-3b461d29610a,2-Hexanone,000591-78-6,unspecified,Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a1ecc854-a399-4b01-bae2-3a88b12ed44f,Propionic acid,,unspecified,Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,982b0510-96ac-4bcb-a758-e98006b95f4d,Butane,,unspecified,Emission to air,kg,0.352
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,77d4b158-0b9e-4516-807a-0f1a7a79ac83,"2-Butanone, 3-methyl-",000563-80-4,unspecified,Emission to air,kg,0.364
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,63501407-9885-4bac-a31e-0f760c313607,"2,2-Dimethylbutane",000075-83-2,unspecified,Emission to air,kg,0.241
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1cd24bc8-53b9-43e8-ad58-4438c9244a10,2-Propanol,000067-63-0,lower stratosphere + upper troposphere,Emission to air,kg,0.188
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f53378fe-3e04-4f74-9a08-bea2a6332b67,Acetic acid,000064-19-7,lower stratosphere + upper troposphere,Emission to air,kg,0.097
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,98af3079-fb76-488d-8afe-713814e14d36,Chloroform,000067-66-3,lower stratosphere + upper troposphere,Emission to air,kg,0.023
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f5909dac-f3da-44a5-8890-0d2a36500e17,2-Hexanone,000591-78-6,lower stratosphere + upper troposphere,Emission to air,kg,0.572
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.028
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e47fcb9f-ef2f-4047-b902-37363ea5345c,Ethanol,000064-17-5,lower stratosphere + upper troposphere,Emission to air,kg,0.399
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,745503c2-768d-4f2c-b63c-bb75c1c5419c,Heptane,000142-82-5,lower stratosphere + upper troposphere,Emission to air,kg,0.494
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,22b0b296-d066-4159-a44b-69fdb17dc802,Formaldehyde,000050-00-0,lower stratosphere + upper troposphere,Emission to air,kg,0.519
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b02991d4-c180-4b16-8035-ac38f4a64b87,Ethene,000074-85-1,lower stratosphere + upper troposphere,Emission to air,kg,1
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b328d33e-9a9f-407d-a767-5c64ccdc163f,"Methane, dichloro-, HCC-30",000075-09-2,lower stratosphere + upper troposphere,Emission to air,kg,0.068
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,903e0cf9-6ef2-42a1-b3a8-364dfe6d04d3,Methyl ethyl ketone,000078-93-3,lower stratosphere + upper troposphere,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,-0.427
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9b60f739-1e89-4e4f-a786-a8086058e656,"Benzene, ethyl-",000100-41-4,lower stratosphere + upper troposphere,Emission to air,kg,0.73
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f792a1df-81cb-4c95-8c4a-e0626701e619,3-Methyl-1-butanol,000123-51-3,lower stratosphere + upper troposphere,Emission to air,kg,0.433
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,87eed31b-5a6b-43ae-9a02-778a8c6e4ff8,1-Pentene,000109-67-1,lower stratosphere + upper troposphere,Emission to air,kg,0.977
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,435b0dec-6a6a-4f44-8fa4-0988332459f5,Methyl acetate,000079-20-9,lower stratosphere + upper troposphere,Emission to air,kg,0.059
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a6dd536a-5443-4c23-bb5e-60f0fa68af13,4-Methyl-2-pentanone,000108-10-1,lower stratosphere + upper troposphere,Emission to air,kg,0.49
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f9727bf8-d8e3-432c-8feb-2dc43da4c37d,Cyclohexane,000110-82-7,lower stratosphere + upper troposphere,Emission to air,kg,0.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,be9c3b45-1759-4c0a-bb02-afd3e3043eb8,Isopentane,000078-78-4,lower stratosphere + upper troposphere,Emission to air,kg,0.405
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,66ff5d22-17e2-4112-b486-3ea4e0191fba,Butane,000106-97-8,lower stratosphere + upper troposphere,Emission to air,kg,0.352
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,899911dd-e0d3-49a0-aae0-a5f92511845a,"Ethanol, 2-butoxy-",000111-76-2,lower stratosphere + upper troposphere,Emission to air,kg,0.483
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a765d3a1-65c6-4544-8487-b3104b937568,Acetone,000067-64-1,lower stratosphere + upper troposphere,Emission to air,kg,0.094
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,97a9ccde-1289-44d6-89de-b59a23426a14,Isobutane,000075-28-5,lower stratosphere + upper troposphere,Emission to air,kg,0.307
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,0.048
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,968495ec-1000-438a-9e11-467776ebb54e,"Carbon monoxide, biogenic",000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0f70e720-127e-44dc-bb85-438158235ab6,"Methane, monochloro-, R-40",000074-87-3,lower stratosphere + upper troposphere,Emission to air,kg,0.005
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,09adf1e6-9c65-4d35-80ae-b22bc6d23660,Isobutene,000115-11-7,lower stratosphere + upper troposphere,Emission to air,kg,0.627
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,0b0d8098-ecbf-4020-afd6-4bcf9db686ce,Toluene,000108-88-3,lower stratosphere + upper troposphere,Emission to air,kg,0.637
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,454f5552-15ca-412d-821d-ab79cc0c989b,t-Butyl methyl ether,001634-04-4,lower stratosphere + upper troposphere,Emission to air,kg,0.175
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6b1b495b-70ee-4be6-b1c2-3031aa4d6add,"Methane, fossil",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,737857df-4504-4068-9a5f-67e9ff53ec30,Propanal,000123-38-6,lower stratosphere + upper troposphere,Emission to air,kg,0.798
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,91c76c8e-d725-475d-9be6-a90b99747075,Butadiene,000106-99-0,lower stratosphere + upper troposphere,Emission to air,kg,0.851
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e4a9cefa-7a99-406f-8b32-3e001ca82d31,Propionic acid,000079-09-4,lower stratosphere + upper troposphere,Emission to air,kg,0.15
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a31cd36e-e3ca-42ac-8d71-de1b6b12f523,Isoprene,000078-79-5,lower stratosphere + upper troposphere,Emission to air,kg,1.09
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2b676e9e-1e3b-45d6-b209-6ed3af61fc42,Styrene,000100-42-5,lower stratosphere + upper troposphere,Emission to air,kg,0.142
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f99b316a-6188-48d2-9eba-f1a67c8964c8,1-Butene,000106-98-9,lower stratosphere + upper troposphere,Emission to air,kg,1.08
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e622c0ec-e35d-4230-b1e1-7423e632afc4,"Benzene, 1,2,4-trimethyl-",000095-63-6,lower stratosphere + upper troposphere,Emission to air,kg,1.28
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,258263a0-6be3-4439-bd84-efee0498b849,"Methane, biogenic",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,bb656df7-0d8a-427c-b58c-02962e50df57,Ethyl acetate,000141-78-6,lower stratosphere + upper troposphere,Emission to air,kg,0.209
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4c08620f-1001-43b2-a42c-e02163ac41a3,Benzaldehyde,000100-52-7,lower stratosphere + upper troposphere,Emission to air,kg,-0.092
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d19fad16-6bec-4d57-88c7-6790ed9651c8,"Benzene, 1,3,5-trimethyl-",000108-67-8,lower stratosphere + upper troposphere,Emission to air,kg,1.38
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,3a4d6460-68e9-403c-84b0-cf29cd58dd95,1-Hexene,000592-41-6,lower stratosphere + upper troposphere,Emission to air,kg,0.874
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4f061396-da10-49b3-a7ac-ac1d2eb49fa1,Dimethyl ether,000115-10-6,lower stratosphere + upper troposphere,Emission to air,kg,0.189
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,lower stratosphere + upper troposphere,Emission to air,kg,0.009
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,1d875dde-6f0d-4d50-985f-6ca762eed0b8,"Toluene, 3,5-diethyl-",002050-24-0,lower stratosphere + upper troposphere,Emission to air,kg,1.29
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,7541dcdb-5009-4082-a99a-cc7436fcb5a7,Isobutyraldehyde,000078-84-2,lower stratosphere + upper troposphere,Emission to air,kg,0.514
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a8a2f53b-c6d2-4302-a59f-502bd7e242fc,"Ethene, tetrachloro-",000127-18-4,lower stratosphere + upper troposphere,Emission to air,kg,0.029
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,dcf76a32-1de9-401e-8d43-a5a31c672ea2,Cyclohexanol,000108-93-0,lower stratosphere + upper troposphere,Emission to air,kg,0.518
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,9f7e577d-509b-4bbd-805f-3293a44fdc89,Butyl acetate,000123-86-4,lower stratosphere + upper troposphere,Emission to air,kg,0.269
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,67dd6e98-c44a-491d-97b1-8961777538a5,Diethyl ether,000060-29-7,lower stratosphere + upper troposphere,Emission to air,kg,0.445
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,50e083ba-5784-4801-8011-164a14c61b5a,m-Xylene,000108-38-3,lower stratosphere + upper troposphere,Emission to air,kg,1.11
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6cfec9aa-691b-4be2-940d-56e73fda16de,Ethane,000074-84-0,lower stratosphere + upper troposphere,Emission to air,kg,0.123
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,43a7e8ef-634e-401b-92f1-32cb42f226ac,Acetaldehyde,000075-07-0,lower stratosphere + upper troposphere,Emission to air,kg,0.641
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,5f29e18d-ace2-466c-831e-be1aee84323a,Hexane,000110-54-3,lower stratosphere + upper troposphere,Emission to air,kg,0.482
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,ad61a130-d1d5-49c0-a328-94bfd3af8ba8,Isopropyl acetate,000108-21-4,lower stratosphere + upper troposphere,Emission to air,kg,0.211
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8553e650-97f1-48e0-ba7f-8d3a950a2328,Decane,000124-18-5,lower stratosphere + upper troposphere,Emission to air,kg,0.384
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,08a91e70-3ddc-11dd-9252-0050c2490048,Carbon monoxide,000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,da3057af-dca7-4b7d-b36e-8b241586cc0c,Formic acid,000064-18-6,lower stratosphere + upper troposphere,Emission to air,kg,0.032
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,aec794cd-e559-46f6-a2a0-7f4ef195144c,Propane,000074-98-6,lower stratosphere + upper troposphere,Emission to air,kg,0.176
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,eb15dd66-43ee-4161-ac90-2cd6d19ca72d,Benzene,000071-43-2,lower stratosphere + upper troposphere,Emission to air,kg,0.218
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,17f06f74-feea-4b7c-a125-a67ae6e1dcfb,2-Methyl-1-propanol,000078-83-1,lower stratosphere + upper troposphere,Emission to air,kg,0.36
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d9da59f1-695d-465b-959d-1cff9d86d923,Pentane,000109-66-0,lower stratosphere + upper troposphere,Emission to air,kg,0.395
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,abe41fdc-444c-4e96-8cff-6dabbcbf745e,Cyclohexanone,000108-94-1,lower stratosphere + upper troposphere,Emission to air,kg,0.299
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,adf4ac5e-7edd-4ca3-9adb-0b50903a71c1,Methanol,000067-56-1,lower stratosphere + upper troposphere,Emission to air,kg,0.14
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,d1992a5a-9f86-492d-9b72-62f7c7851cbc,Ethylene glycol,000107-21-1,lower stratosphere + upper troposphere,Emission to air,kg,0.373
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,6c95c917-d232-4c5b-9721-8b2841e6671c,Ethyne,000074-86-2,lower stratosphere + upper troposphere,Emission to air,kg,0.085
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,a3beb5ac-5149-47f6-a035-53fc5030f10a,"Carbon monoxide, fossil",,lower stratosphere + upper troposphere,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,4b841af5-7061-4e59-89d4-cace8bc364e1,o-Xylene,000095-47-6,lower stratosphere + upper troposphere,Emission to air,kg,1.05
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,b45082cf-2816-46b9-816c-c4036d727804,Propene,000115-07-1,lower stratosphere + upper troposphere,Emission to air,kg,1.12
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,8f3094bc-90d1-45e9-8480-957a798a48ca,3-Pentanol,000584-02-1,lower stratosphere + upper troposphere,Emission to air,kg,0.595
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2e1396a2-b8e0-4f4a-89c7-11c4ee4733c1,"Ethene, trichloro-",000079-01-6,lower stratosphere + upper troposphere,Emission to air,kg,0.325
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,711fd742-d357-4291-a133-adb5ca979a21,Methane,000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,0.006
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,2990d557-c693-4682-a408-ccfd16b64efa,Propylene glycol,000057-55-6,lower stratosphere + upper troposphere,Emission to air,kg,0.457
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,f4ce8a13-0159-48e3-a773-669d75e9fd78,Methyl formate,000107-31-3,lower stratosphere + upper troposphere,Emission to air,kg,0.027
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,e2626e0f-1631-402d-b8db-29ba7d2aa457,Propylene glycol methyl ether,000107-98-2,lower stratosphere + upper troposphere,Emission to air,kg,0.355
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,137f2ebc-8f8b-41fc-9ff6-d32f42565d56,Cumene,000098-82-8,lower stratosphere + upper troposphere,Emission to air,kg,0.5
+CML-IA baseline,acb12462-2f82-3a72-8ee4-ffb7ff5a47ad,Photochemical oxidation,kg C2H4 eq,91f0b3df-8377-455b-8f00-d0f7a7c60ff1,Dimethyl carbonate,000616-38-6,lower stratosphere + upper troposphere,Emission to air,kg,0.025

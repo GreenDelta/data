@@ -1,0 +1,218 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b070de50-71bb-4e38-8259-24fd2a0dd5d4,Cesium-137,010045-97-3,unspecified,Emission to soil,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,57143e51-0735-4a00-908f-669824d79cce,"Hydrogen-3, Tritium",010028-17-8,agricultural,Emission to soil,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5b3d35e2-5e69-4a72-b715-227612f9731b,"Hydrogen-3, Tritium",010028-17-8,unspecified,Emission to soil,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a9c7fd3a-6adf-41ba-a731-db8f0f2d8dcf,Manganese-54,013966-31-9,agricultural,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5eed3166-9f2f-414e-b565-4fbb77a0d4f0,Cesium-134,013967-70-9,agricultural,Emission to soil,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a68b2059-8759-4be0-845f-4be3af102d2e,Cobalt-60,010198-40-0,unspecified,Emission to soil,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ccfc46fe-16a0-466f-a6ff-7da192e47ea8,Tellurium-123,014304-80-4,unspecified,Emission to soil,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,bc408be7-c039-478f-8700-d9a85ba5101d,Silver-110,014391-76-5,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,83ba2783-8da7-4333-915b-157cd3e06b0c,Cobalt-58,013981-38-9,agricultural,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1b7b01ec-e2bc-346d-9457-e240f6d93b7f,Nickel-63,013981-37-8,high population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,13c4aed3-5367-4415-8b05-903c23f44551,Antimony-125,014234-35-6,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,180016f0-7376-4089-9596-c513cd7fdfec,Antimony-124,014683-10-4,unspecified,Emission to soil,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,126cb24a-a5ac-38ac-96a8-4d1124da0171,Nickel-63,013981-37-8,low population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2728d6bf-4ab3-4275-ac82-f7984f0b3e63,Silver-110,014391-76-5,agricultural,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,f30121fe-ef90-31d0-8752-8d036ed1e440,Nickel-63,013981-37-8,unspecified,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0ca60abc-2853-4cac-977f-2709702658bd,Antimony-124,014683-10-4,agricultural,Emission to soil,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e1378e36-89ae-48ba-8f7c-8f2aa854649a,Antimony-125,014234-35-6,agricultural,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,463be5b9-2c85-4214-bbd9-066bc5eda676,Cesium-134,013967-70-9,unspecified,Emission to soil,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,87e10f6b-9dcc-47a6-8941-aee4de198160,Cobalt-58,013981-38-9,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5be454b3-0ecc-4b73-bbca-d84e20341579,Cesium-137,010045-97-3,agricultural,Emission to soil,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,fc62cf26-9d2b-43da-a8b3-93f25df114bb,Iodine-131,010043-66-0,agricultural,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,519ef8f4-c801-45fa-8dfa-c6b7517456de,Carbon-14,014762-75-5,unspecified,Emission to soil,kBq,0.00009
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3634188c-04cb-349b-ac87-a0fc8caeddcb,Nickel-63,013981-37-8,unspecified,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,70484eb1-531f-4cfc-b325-20e782343d31,tellurium-123,,agricultural,Emission to soil,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,55d5f389-dd99-3e61-ae87-5ce98e0762b3,Nickel-63,013981-37-8,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,85ba2834-3c33-41d1-bedc-0a62fa09bcf7,Carbon-14,014762-75-5,agricultural,Emission to soil,kBq,0.00009
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c6477d22-747e-4a9f-9c29-92114269c4b8,Manganese-54,013966-31-9,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8360d5c9-fd14-4979-9aee-15876621380f,Iodine-131,010043-66-0,unspecified,Emission to soil,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,281108a0-7873-4d0d-972b-f7319d19bb39,Cobalt-60,010198-40-0,agricultural,Emission to soil,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,bf75c125-b39c-49d3-b06e-83153db03bd8,"Hydrogen-3, Tritium",010028-17-8,lower stratosphere + upper troposphere,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6e7276bb-64f5-4421-8696-b0103b687ddd,Carbon-14,014762-75-5,lower stratosphere + upper troposphere,Emission to air,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,93add24b-0bbf-4903-b3c1-3c695f597c63,Carbon-14,014762-75-5,high population density,Emission to air,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b082e84d-001a-4154-be49-5851cfa68ddf,"Hydrogen-3, Tritium",010028-17-8,"low population density, long-term",Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,284a896f-2aca-496e-9ab2-845525fbbc53,Carbon-14,014762-75-5,"low population density, long-term",Emission to air,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b772118d-cb3e-4330-aa01-317b04703cb2,"Hydrogen-3, Tritium",010028-17-8,high population density,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,19256c0f-bea8-4e61-9499-8cc2f84953f8,Carbon-14,,low population density,Emission to air,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,22043b06-1981-45a5-bfbb-20ae6f253191,"Hydrogen-3, Tritium",010028-17-8,unspecified,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,bfc66f26-0b11-4e6e-9e8c-2bfde24dc23c,Carbon-14,014762-75-5,unspecified,Emission to air,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0cdaaa7e-3c23-419d-8ad5-12dc93c2e1e3,"Hydrogen-3, Tritium",,low population density,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8c66a07d-1b6f-488f-b301-afc79b46aa76,Cesium-134,013967-70-9,fresh water,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a4669a72-41dc-4874-9983-55e381c81e67,Tellurium-123m,378784-49-7,ground water,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,d37e6d71-525f-441d-9de2-7dc91aac81d7,Silver-110,014391-76-5,lake,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,336b3038-d763-4de7-a4b2-c047728e346c,Cobalt-58,013981-38-9,lake,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,fa194dc5-ad5d-4c1e-a8f4-9fedba38fe8d,Antimony-125,014234-35-6,unspecified,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c05a4d81-570d-4393-8dc7-f0fdf06094a0,Cobalt-58,013981-38-9,ground water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ba955510-2d32-4251-bd56-0ecb4e578335,Silver-110,014391-76-5,river,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,fe9552bd-49c9-4e37-8c13-eeee4ddb8e34,Cesium-134,,surface water,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c18f9e43-e4ad-4b3a-8ed8-638fe8015425,Carbon-14,014762-75-5,unspecified,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0c5de0d2-eb1e-4afe-a8de-b600d899516f,Cesium-137,010045-97-3,ground water,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7ad30e1c-f353-41c9-b61e-48fb5a07acef,Cobalt-58,013981-38-9,ocean,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4a838a42-fa78-4b0a-92f9-588a3660809b,Cobalt-58,013981-38-9,unspecified,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1984c85d-9ef9-4a86-9e4c-cf214b5c1f01,Cobalt-60,010198-40-0,"river, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8228e37e-d702-40a8-a08a-b72931815ec8,Cesium-134,013967-70-9,"fresh water, long-term",Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,427f852c-2866-4c4b-a792-98b44a6f1c3e,Antimony-125,014234-35-6,fossil-,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,cc6f1602-f01a-48e9-95dd-9651fbf02940,Carbon-14,014762-75-5,lake,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3d73dd18-aec5-41a6-bc11-91a8aa9beb1d,Silver-110,014391-76-5,unspecified,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,01f511e2-7030-45f0-abb7-c24a4fae698b,Antimony-125,,surface water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4bd82b24-9226-4ee0-a812-a3b9247334f3,Cobalt-58,013981-38-9,"ground water, long-term",Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e2e79f41-9c2e-4a2b-844c-37cb6f9a3ce6,Silver-110,014391-76-5,"river, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,25403b99-fe84-4d9f-ada1-c089a71756e7,Iodine-131,010043-66-0,"river, long-term",Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,92c58ab9-8864-45ea-86b2-00698ecc9df7,Cobalt-60,010198-40-0,fresh water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2a8ec77d-55f2-402a-bc5a-2e9162de2822,Silver-110,014391-76-5,"ground water, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e26cfab3-5928-41fe-a5b7-f815af0677bc,Antimony-124,014683-10-4,river,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9d9bcab1-3c01-4e4b-a876-9b15c623735c,Cobalt-60,010198-40-0,ground water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,751aebae-ab74-4a39-8c69-3bad4215e123,Cesium-137,010045-97-3,"river, long-term",Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,67c19573-200d-4457-aa4c-decd78a02ffb,Silver-110,014391-76-5,"fresh water, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e1167a49-0a2d-4c7e-a089-645eed790566,Manganese-54,013966-31-9,"fresh water, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0e066010-5511-4ce5-b7ff-446e58417a65,Antimony-124,014683-10-4,"ground water, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c1833bfb-adfe-4596-a1cd-0b3c4c81a994,Tellurium-123m,378784-49-7,river,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e651d762-8bf6-45a3-ba3c-33e1539f714f,Cesium-134,013967-70-9,ground water,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,67438baa-f083-40f0-b251-e9ff292a788b,Cobalt-58,013981-38-9,fossil-,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,64f81516-52e1-4ce6-a22c-84d3f7cc9a53,Antimony-124,014683-10-4,unspecified,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,83fa5f74-baa4-46d3-a8b4-ada4379b70a3,Cobalt-60,010198-40-0,ocean,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a9141288-0e08-4e15-92c7-3617251c64aa,Antimony-125,014234-35-6,ground water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6fae9979-43ec-4675-8714-671731b4e283,Carbon-14,014762-75-5,ground water,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9dc2b19d-ff8e-44d2-ae33-dc49f728235c,Antimony-125,014234-35-6,"river, long-term",Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,729eac4f-0339-4d0f-8956-a71ebe20a527,Manganese-54,013966-31-9,unspecified,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a04ea618-06a0-45b4-b116-a49603ba70ea,Manganese-54,013966-31-9,"ground water, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9a12a4c4-c03e-43fb-a448-4d911f539e64,Manganese-54,,surface water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c62c75a7-339e-4133-9b89-ef46aa607f2a,Silver-110,014391-76-5,fresh water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5a38306d-8c33-4e3a-b2d5-da6e8dc19cba,Iodine-131,010043-66-0,river,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0ac31b4a-b16d-40c8-928f-cdb8053d988f,Cesium-137,010045-97-3,fresh water,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,aabd6cc5-202b-441b-9cfe-38001b93a65e,Manganese-54,013966-31-9,fossil-,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,db52b0c1-6a98-43e6-b3da-6e6ad0fab8a9,Antimony-125,014234-35-6,lake,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0c1f1396-1b8f-4958-858c-1fde3a746125,Silver-110,014391-76-5,ocean,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8bbe0b4c-5c9c-4959-a878-572f680e428d,Cesium-137,010045-97-3,unspecified,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1489fa29-476c-404a-95d9-9d2e3fa434da,Carbon-14,014762-75-5,"river, long-term",Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,09bdb17a-1ba0-4116-b2c1-969c093799b8,Antimony-124,014683-10-4,lake,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5dc7336c-fdc3-4916-bf4c-e0e7cabbe281,Cobalt-58,013981-38-9,"fresh water, long-term",Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,df5f3f08-b71d-4816-b861-59604c1e6f11,Carbon-14,014762-75-5,ocean,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,029057c8-f489-433f-927e-fc18e8b1a51b,Cobalt-60,010198-40-0,fossil-,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,16a6b0a2-16f4-4706-a75a-20e08e41f46e,Manganese-54,013966-31-9,fresh water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ba9971e7-1210-4215-ae3a-5c67e0949848,Carbon-14,,surface water,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,dcf5005b-16a3-49ed-ae93-960a320f52db,Manganese-54,013966-31-9,ground water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9d9246d4-0ce3-4b47-8491-cf62e562ad38,Cesium-134,013967-70-9,unspecified,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,03606bd1-8f71-4667-9b93-4f5e3b28249e,Carbon-14,014762-75-5,"ground water, long-term",Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c9358839-d438-4404-a244-ad4666250ee6,Cesium-137,010045-97-3,river,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9e2ec631-3462-4d0d-8484-5c22be880eb5,Iodine-131,010043-66-0,"fresh water, long-term",Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9ae892fd-419e-4362-84bd-4447430be0d8,Antimony-124,014683-10-4,"fresh water, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b6e855e8-97dc-41b0-8a3e-614676036796,Silver-110,014391-76-5,fossil-,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1ce083b8-b4d9-48d5-bd1a-708f3400de0b,Cobalt-58,013981-38-9,river,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e8f4893d-61f6-430e-a9bc-c39c6dbfdb57,Iodine-131,010043-66-0,fossil-,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,305af6f4-1a7e-487e-8479-0e37e3ec9d9e,Cobalt-58,013981-38-9,fresh water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9add642d-b762-4051-bcbc-7d78e4221c5c,Cesium-134,013967-70-9,river,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,90975fe0-331c-4125-8881-2a454ad79542,Carbon-14,014762-75-5,fresh water,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,f68f00b8-2057-476e-88c8-1d92b5af0889,Antimony-124,014683-10-4,fresh water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0fc1db69-f50d-4a88-b9d8-1446e691063c,Cobalt-60,,surface water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c8423c2c-cda6-49da-b940-56b58907fa12,Tellurium-123m,378784-49-7,"river, long-term",Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6fccbcea-27bd-4368-8db2-7ce5aa3b0c80,Cesium-137,010045-97-3,"ground water, long-term",Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,bca0aef8-5f01-4b60-bd49-d6711b461339,Antimony-124,014683-10-4,"river, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,618c3a74-5b36-4d8a-b94f-26b8270448f8,Iodine-131,010043-66-0,unspecified,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,eea0ae1c-7a64-481c-a24d-fb6a3b8c5290,Iodine-131,010043-66-0,ground water,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,23367e14-798c-401e-864b-e21b6ab6cd81,Cesium-134,013967-70-9,"river, long-term",Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,204b7848-3d6c-4a5a-b02b-084e8ab6ab22,Cobalt-60,010198-40-0,lake,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2d0d9cdc-822f-4438-98d7-7aa4aa64771a,Manganese-54,013966-31-9,lake,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ab9fef9d-1b47-4d79-a28a-0132dfa18020,Iodine-131,,surface water,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b08bafd5-a0e3-4770-a224-1ffe46eac382,Carbon-14,014762-75-5,fossil-,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2f36d881-55bd-44ed-a383-a97cd4c53b16,Tellurium-123m,,surface water,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,147b91df-513b-4784-923a-180c2a5b1434,Manganese-54,013966-31-9,ocean,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,de9ce04f-b751-484f-a8a2-740d98138bf6,Tellurium-123m,378784-49-7,"ground water, long-term",Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4dcfcea3-a7e7-44c5-8b96-9628d21ef86f,Iodine-131,010043-66-0,lake,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0097bf60-3729-40b6-94d0-06bd6146cfc2,Cesium-137,,ocean,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,62ec6b76-5685-4501-8ea8-83cc3435385d,Manganese-54,013966-31-9,"river, long-term",Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,34ee1027-3ef0-48c5-9478-07cf667ed94b,Tellurium-123m,378784-49-7,fossil-,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,10ec2732-3828-4232-914e-941c38bdd08b,Antimony-125,014234-35-6,fresh water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8c869ccc-3964-40be-9217-8c6aae5f8963,Carbon-14,014762-75-5,river,Emission to water,kBq,0.00017
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8d8e393e-39c4-44e1-b424-8eeefcd33560,Cobalt-60,010198-40-0,unspecified,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5e09ac47-20a5-46d5-a360-60586cf30478,Cesium-134,013967-70-9,ocean,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c053d3d0-392b-42f7-a948-c55efb07562f,Cesium-134,013967-70-9,fossil-,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,42901ad7-4be5-47d9-82cd-380ca34281c1,Cesium-137,,surface water,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9f826bcb-5efc-4977-93f2-8415e3f957df,Silver-110,,surface water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6a05e007-ce7e-4dd3-8cb7-54585031b8b5,Antimony-125,014234-35-6,ocean,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1e10ab97-c155-42f6-99b2-14b22bc22aeb,Antimony-125,014234-35-6,river,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,232b8aaa-06a6-4940-b725-46470bc82864,Antimony-124,014683-10-4,ocean,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,d8da8531-3e6c-497e-8ff7-1265feaa8d90,Tellurium-123m,378784-49-7,lake,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,fd9eef90-dfbd-4d17-a0e3-927e5c2a6030,Cobalt-58,013981-38-9,"river, long-term",Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,04d64aaa-b414-4dea-bf43-78b8b68a1894,Cesium-137,010045-97-3,lake,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2e7b6bd9-c3af-498f-8d33-b172fc82c688,Silver-110,014391-76-5,ground water,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,30af7730-01ec-4836-a207-35fcb5931737,Cobalt-60,010198-40-0,"fresh water, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,cb20efd1-1f08-4035-a18a-1a601a81347e,Cesium-137,010045-97-3,fossil-,Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,f7fc4f19-e01f-4909-aab5-f7612354e7a0,Cobalt-58,,surface water,Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,16ff2790-3c88-4761-bb09-b91d981d2c30,Antimony-125,014234-35-6,"ground water, long-term",Emission to water,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3ac3442a-ca4d-4b4b-a486-3584bb29f9e0,Iodine-131,010043-66-0,fresh water,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,03bd55c6-c37d-4205-aaa2-3c1f3759a0cd,Tellurium-123m,378784-49-7,ocean,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7ac9850e-54f1-4e3b-a677-1f4580f02eb8,Cesium-137,010045-97-3,"fresh water, long-term",Emission to water,kBq,0.0001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,14cf8478-945a-47c6-91b2-f1f8293549b2,Cobalt-60,010198-40-0,"ground water, long-term",Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0b28fc38-9334-42a9-bac1-a04c2832e79d,Iodine-131,010043-66-0,"ground water, long-term",Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,897ec6a5-af78-453f-abdf-32233d0a30bf,Iodine-131,010043-66-0,ocean,Emission to water,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2b1eee93-0c3c-4e79-8a03-590ccf60a063,Cobalt-60,010198-40-0,river,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,f9055607-c571-4903-85a8-7c20e3790c43,Antimony-124,014683-10-4,ground water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,5a4c8a8a-fda3-44b3-b4d5-52a635f10e50,Cesium-134,013967-70-9,lake,Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4f51b9de-e586-41ff-82a7-4f2523ce8b3e,Manganese-54,013966-31-9,river,Emission to water,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,0097618c-4552-42d9-b14c-00a07d78c0dc,Antimony-124,014683-10-4,fossil-,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,077b92b0-0610-48ba-9ff8-55c13e98364b,Antimony-124,,surface water,Emission to water,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3860fbca-8a2b-4297-803b-55ee227cab79,Cesium-134,013967-70-9,"ground water, long-term",Emission to water,kBq,0.00012
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e3de5903-aa75-4d7b-a804-2c75248b4c6d,Tellurium-123m,378784-49-7,unspecified,Emission to water,kBq,0.00007
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7b87ce50-ede0-40fa-a3ee-5f72553af0e7,Cesium-137,010045-97-3,unspecified,Emission to air,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7ab5611b-c200-464f-8edf-b7b59ca1889d,Cobalt-58,013981-38-9,high population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,40526886-fcc3-4059-b025-58e254c03233,Cobalt-58,013981-38-9,lower stratosphere + upper troposphere,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,03e91172-fca0-47f3-9014-22ae3136251b,Iodine-131,,low population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b2466957-a3f8-4b31-8b95-3f5e6f99b594,Antimony-125,014234-35-6,lower stratosphere + upper troposphere,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2e969e9b-f2e9-4fcc-8962-13a755dc8302,Cobalt-58,013981-38-9,"low population density, long-term",Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4233a269-e2a4-4029-b8d5-60be44815587,Cesium-134,013967-70-9,high population density,Emission to air,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,87e68018-eac4-4935-9d0b-a61d4be6f147,Silver-110,014391-76-5,"low population density, long-term",Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6cf5c7e9-f3c2-4185-82bb-b5a1278651da,Antimony-124,014683-10-4,"low population density, long-term",Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7e4fad26-2081-4b55-8acc-974dafafeed8,Cesium-134,013967-70-9,lower stratosphere + upper troposphere,Emission to air,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e51e73a4-bc86-40a4-bdf7-83192b3618a3,Silver-110,014391-76-5,unspecified,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4f2051b8-22e6-4592-8803-1e984f8fa61b,Cesium-134,013967-70-9,unspecified,Emission to air,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8f2b8012-eda6-4f3f-9ae2-8ad10b5866f7,Cesium-134,013967-70-9,"low population density, long-term",Emission to air,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,a9e65945-a4dd-42c2-89cf-81ad2eb6b0fd,Cesium-137,,low population density,Emission to air,kBq,0.00005
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,dd05bdcf-c6e9-4027-9282-24ed986c4b80,Tellurium-123m,378784-49-7,high population density,Emission to air,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,70d0e8c8-8c46-4eee-ad05-92f05e8f129e,Cobalt-58,013981-38-9,unspecified,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,d2643677-b96c-4aec-a687-b5b2d4ba9368,Manganese-54,013966-31-9,high population density,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,43efdef0-6157-4436-8a23-2f50ac3c6fc2,Tellurium-123m,378784-49-7,unspecified,Emission to air,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,441ef9b3-0df0-461b-bd84-358973e0c2ca,Cobalt-60,,low population density,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c317b216-2668-40f8-9e24-1ce183d53697,Iodine-131,010043-66-0,unspecified,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,62b1a76d-22be-4076-ab47-58597e621ea3,Cesium-137,010045-97-3,"low population density, long-term",Emission to air,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,28955c40-9925-47d2-9770-dc18a4bba82a,Manganese-54,013966-31-9,unspecified,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,e62cf4c6-73a6-42b8-b0da-88aeac40e6ae,Cesium-137,010045-97-3,high population density,Emission to air,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,6402a177-ff01-4112-8c54-9061b756c8c9,Tellurium-123m,378784-49-7,lower stratosphere + upper troposphere,Emission to air,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,fdd3a558-5d4d-4ca0-b0a5-950051dc92da,Manganese-54,013966-31-9,lower stratosphere + upper troposphere,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ab4a11c8-14f8-40f1-8c4e-888347bb2546,Cobalt-60,010198-40-0,unspecified,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,42c74b9e-fa00-4612-a3bf-4951237cba04,Antimony-124,014683-10-4,high population density,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,2c9e7fba-dd57-4294-8a5e-2aa489930f69,Silver-110,,low population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,19ff96c2-6796-44e3-ab85-3635e8cb7e89,Iodine-131,010043-66-0,lower stratosphere + upper troposphere,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,39b3200d-f95a-413a-9c96-6d90345d9dca,Cesium-134,,low population density,Emission to air,kBq,0.00006
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9314fbdb-a2c7-466b-bb6c-61c89f09df51,Antimony-125,014234-35-6,unspecified,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,16e15fb4-aee8-42b8-a303-70d61a9b723a,Cobalt-60,010198-40-0,high population density,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,83e7f0f5-6cf8-4a66-bbd6-def720e8a01b,Tellurium-123m,378784-49-7,low population density,Emission to air,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9143372d-1042-4422-ac51-c197a4955292,Manganese-54,013966-31-9,"low population density, long-term",Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7567e592-ecfa-467b-9f11-19f11786505b,Antimony-124,,low population density,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,033fb239-a6c7-4486-9f92-f5a80b346778,Cobalt-58,,low population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,b4024357-ed17-4b19-9382-91815e67f62b,Cobalt-60,010198-40-0,lower stratosphere + upper troposphere,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1329e7f0-ff40-45e2-8e46-a2192b87e407,Silver-110,014391-76-5,lower stratosphere + upper troposphere,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,f7236656-9c75-47c1-8435-26283fd5d58b,Antimony-124,014683-10-4,lower stratosphere + upper troposphere,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,8cd82962-d90f-409a-b3c1-961d5365d338,Antimony-124,014683-10-4,unspecified,Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,c8dd5128-8a14-41c8-abab-7112ce115f94,Silver-110,014391-76-5,high population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ffe3e89e-e0c1-4665-a6e5-2404c131fe32,Antimony-125,014234-35-6,"low population density, long-term",Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,46a9723a-aca5-4b66-9367-47412ec9e3a0,Manganese-54,,low population density,Emission to air,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,67e221a4-9177-44a6-86a7-e4d652cda4bf,Tellurium-123m,378784-49-7,"low population density, long-term",Emission to air,kBq,0.00003
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4f9a12c7-74b1-4221-a1e5-5a8235379166,Cobalt-60,010198-40-0,"low population density, long-term",Emission to air,kBq,0.00002
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,551ee803-cf94-4b0a-8a99-e19378207281,Iodine-131,010043-66-0,"low population density, long-term",Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3a08acee-6c03-4335-b14f-4b51a2945a6f,Cesium-137,010045-97-3,lower stratosphere + upper troposphere,Emission to air,kBq,0.00004
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,33d0fe96-541c-4ac2-9dd6-51b44dc39676,Antimony-125,014234-35-6,high population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,51f80fcc-8eb0-4912-afbd-e9b9861e45a4,Antimony-125,,low population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ddb14297-53e4-44c2-907c-47b27074ecaf,Iodine-131,010043-66-0,high population density,Emission to air,kBq,0.00001
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,3d4ce09c-f818-4710-9c0f-9734b15d7f7b,"Hydrogen-3, Tritium",010028-17-8,lake,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,1d75a540-c7f2-4cae-8b02-0f0d41c0cef7,"Hydrogen-3, Tritium",010028-17-8,fresh water,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,134ec0d7-3701-473c-a1a1-1982fd48ef4d,"Hydrogen-3, Tritium",,surface water,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,58fabee9-b4b6-48ee-857a-e16ed31bb354,"Hydrogen-3, Tritium",,ocean,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,ae65979b-a513-424c-b381-09c421b79a8d,"Hydrogen-3, Tritium",010028-17-8,river,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,902b7ebc-68a8-4dd3-b67a-6087db8c0971,"Hydrogen-3, Tritium",010028-17-8,"ground water, long-term",Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,dddafc30-7a1e-4ab1-ad0d-0a1df4f82af7,"Hydrogen-3, Tritium",010028-17-8,"fresh water, long-term",Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,4075139e-3311-401a-b98c-e83f203063da,"Hydrogen-3, Tritium",010028-17-8,fossil-,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,9be02ae0-3170-4544-8665-f03a1b43f2bd,"Hydrogen-3, Tritium",010028-17-8,unspecified,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,848a6c6a-76b7-42ad-90ce-ad2494fd5bd3,"Hydrogen-3, Tritium",010028-17-8,ground water,Emission to water,kBq,0
+ILCD 2011 Midpoint+,2d0a4c8e-3af2-344e-a4af-6191359bd649,Ionizing radiation E (interim),CTUe,7a874970-77f5-49be-bf00-1647f35d717a,"Hydrogen-3, Tritium",010028-17-8,"river, long-term",Emission to water,kBq,0

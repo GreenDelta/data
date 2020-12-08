@@ -1,0 +1,98 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,bef32b51-dea3-3915-a98b-19b84ed0e27e,Nitrogen monoxide,,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,04f1bbea-9402-3cf9-a696-81a90e498da4,Nitrogen dioxide,010102-44-0,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,7ce704ce-2a44-448b-b198-f00bf5928b4b,Nitrogen,007727-37-9,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,7f1aa5f1-423d-35de-bce5-4cc39793af16,Nitrogen oxides,011104-93-1,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,47976b26-94a9-48fe-a48a-1ab2517d017d,Nitrate,014797-55-8,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,d8997408-a915-4c5a-be0d-b6733dca498b,Ammonia,007664-41-7,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,2d7ce21e-9999-4c5d-9a83-2f3219982649,"Ammonium, ion",014798-03-9,agricultural,Emission to soil,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,955a20ad-f3bd-4d89-ab9b-d2809718750d,Nitrogen monoxide,010102-43-9,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,3d20130a-2e35-455d-b1f1-10f2b4cb9e86,"Nitrogen, organic bound",007727-37-9,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,9b8188d5-294f-4ea5-aeda-4e572490a51e,Nitrogen,007727-37-9,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,80a0931d-d592-400a-8314-d85bdc5dbccf,Nitrite,014797-65-0,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,930e0aba-b5e3-426e-a182-bfb2ae961bc4,Nitrate,014797-55-8,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,51b06290-9a7f-4750-86bc-d1db0dd503a7,Ammonia,007664-41-7,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,f1c5c598-d627-42db-8d33-d5d53b5b927a,Nitrogen oxides,011104-93-1,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,f1fd2d13-7b1d-43bc-9294-8c5a1db02ac4,"Ammonium, ion",014798-03-9,"river, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,47176fae-573e-43ed-bda2-a5ff94e11ad6,"Nitrogen, organic bound",007727-37-9,"fresh water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,f85bf23d-cf72-4ca7-b33f-3b1ee02a1f4c,"Ammonium, ion",014798-03-9,"fresh water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,cd68d2a8-b0aa-492a-9972-f9a67eaa5355,Nitrate,014797-55-8,"fresh water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,90b08e70-9da2-4e91-a18c-73def7cf2b94,Ammonia,007664-41-7,"fresh water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,066872fe-7faf-4fa1-b6b7-a347c395976f,Nitrite,014797-65-0,"fresh water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,5e551724-bb86-433e-a133-26e38132d708,Nitrogen monoxide,010102-43-9,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,c9109749-b56a-476e-8ad9-4bf36c69a18f,"Nitrogen, organic bound",007727-37-9,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,c04ef26d-7a0b-4ef4-a79f-d64a840866bc,"Ammonium, ion",014798-03-9,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,921a8f84-63fd-4d1c-81be-bce6bd840e13,Nitrogen,007727-37-9,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,946c1ab0-3308-466a-8c56-54182159a3c6,Nitrite,014797-65-0,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,06bf53c2-ea2f-4efe-9967-63c31567e752,Nitrogen oxides,011104-93-1,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,a6fa3c5f-5323-487e-afba-12740ca8ea70,Ammonia,007664-41-7,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,3ae8c924-dc92-4971-a415-4b82261842f3,Nitrate,014797-55-8,fossil-,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,3fb8c1a8-3e8e-457d-9be6-92c2c950a086,Nitrogen monoxide,010102-43-9,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,b8f0e22b-f6db-422d-8807-97be5e246747,Nitrogen dioxide,,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,2732c215-d02a-4f48-84c5-c18ab6143d1d,"Nitrogen, organic bound",007727-37-9,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,4b81a3e2-b3fc-4e2f-81aa-5a68d11084c8,Ammonia,007664-41-7,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,09257c34-f323-436a-81be-ef90e9171ed2,Nitrite,014797-65-0,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,26fd0df4-74ca-4144-b632-6e6f5f6d07b1,"Ammonium, ion",014798-03-9,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,fc7fad22-f39c-4df1-937b-d3c262a355d4,Nitrogen oxides,011104-93-1,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,14855254-9651-473b-92a2-1d0e4438ddbd,Nitrogen,007727-37-9,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,180520a0-34e8-4058-bac9-27cbbb32c527,Nitrate,014797-55-8,fresh water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,2ebba5b5-277a-4ee5-896a-f3c6f75ad82d,Nitrogen monoxide,010102-43-9,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,15cfc784-a719-4230-ad2e-f4104d56c427,"Nitrogen, organic bound",,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,b61057a3-a0bc-4158-882e-b819c4797419,Nitrate,,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,ffa49ee2-374d-476d-b685-1a10978e04ad,Nitrogen oxides,011104-93-1,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,130cedc6-f6ed-4f1b-bd1e-881177f79e74,"Ammonium, ion",,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,f5d022f1-c26d-4044-ac88-d7c5bbff83c4,Nitrite,,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,42eeb663-34dc-4394-8a07-e4d8e45a7e2d,Nitrogen,007727-37-9,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,a858cb45-50f3-46c6-abd6-f801ba201f53,Ammonia,007664-41-7,"ground water, long-term",Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,db05b900-6d1d-30dd-b2b4-0e2954f6151b,"Nitrogenous Matter (unspecified, as N)",,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,4e00d713-aaa0-4b74-b6a2-c4e5e0030398,Nitrogen monoxide,,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,4e2156dc-6cc5-477d-9d7f-665407913542,Nitrogen dioxide,010102-44-0,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,a703733d-fabc-487b-826a-06c11ac4c0c6,"Nitrogen, organic bound",,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,c5ff9afc-4c08-40cb-9150-c2465be5cd3c,"Ammonia, as N",007664-41-7,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,fb005c47-7b90-41f3-a5ca-f0eb11db354a,"Ammonium, ion",,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,63e7fe56-8549-11e0-9d78-0800200c9a66,Nitrogen oxides,011104-93-1,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,63e78926-8549-11e0-9d78-0800200c9a66,Ammonia,007664-41-7,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,5189de76-6bbb-44ba-8c42-5714f1b4371f,Nitrate,,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,9f5bfac4-cbb6-4b38-afb9-cf563fc5ca15,Nitrite,,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,dcfe0815-6fa3-4e1d-a55e-155b29904f1d,Nitrogen,,unspecified,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,bf7d4fc6-aa3e-331b-8e39-2a769024ad81,"Nitrogenous Matter (unspecified, as N)",,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,e29cdddb-0bbd-4faf-81ab-a534fb40b829,Nitrogen monoxide,,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,7e94e333-0895-461d-9685-6cad5f27327c,Nitrogen dioxide,010102-44-0,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,77c7dcf8-1d10-4725-9f8f-bcdccaed0836,"Nitrogen, organic bound",007727-37-9,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,6b18294b-01e0-4bba-afa5-c5a0fb636b53,"Ammonia, as N",007664-41-7,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,4754e070-bb68-4af8-83a6-c1dc3b857510,Nitrogen oxides,011104-93-1,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,08a91e70-3ddc-11dd-954c-0050c2490048,Ammonia,007664-41-7,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,2f19a0af-a516-4f89-88ba-4c6b7cd52650,Nitrite,,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,996829cc-2d40-418a-beda-7c50399952f9,Nitrogen,,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,43c700bb-0b3b-4fb1-8bd1-3d1da82b6844,Nitrate,,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,bc069d24-fbbd-4c05-8b6e-4089dc8249ae,"Ammonium, ion",,ocean,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,d43f7827-b47b-4652-8366-f370995fd206,"Nitrogen, organic bound",,surface water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,13331e67-6006-48c4-bdb4-340c12010036,"Ammonium, ion",,surface water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,7ce56135-2ca5-4fba-ad52-d62a34bfeb35,Nitrate,,surface water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,0017271e-7df5-40bc-833a-36110c1fe5d5,Nitrite,,surface water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,ae70ca6c-807a-482b-9ddc-e449b4893fe3,Nitrogen,,surface water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,0ef09fdb-cb0f-45e4-9b9a-86f09cbe4209,Nitrogen monoxide,010102-43-9,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,6e70bfca-b07b-4bee-9531-7e851602fbec,"Nitrogen, organic bound",007727-37-9,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,10d61f4b-01ce-4f02-8140-a0d22777b405,Nitrite,014797-65-0,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,4588adc5-e56e-443c-ade5-6645219b53cd,"Ammonium, ion",014798-03-9,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,bcd5fd42-2b56-45f7-a493-27b016c84f7b,Nitrogen oxides,011104-93-1,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,b4f5586e-4589-4482-bfc7-5efdf9bcbf19,Nitrogen,007727-37-9,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,64b758fe-fbf2-4bdb-85f6-eab48e2ad2e4,Ammonia,007664-41-7,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,6bb60b06-5b1f-4d8c-9782-e18a7f11bc5c,Nitrate,014797-55-8,river,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,3e79b7b6-5b6f-4f26-9a98-31774832e1ba,Nitrogen monoxide,010102-43-9,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,db1c0d32-ca42-4b9d-8d8f-4d378cd158f2,"Nitrogen, organic bound",007727-37-9,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,ebcf2be7-e222-412d-a59e-5b5f13334a35,Ammonia,007664-41-7,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,1550e897-623b-4f0a-9c90-10f88b4850e3,Nitrite,014797-65-0,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,d1ad797c-d4cd-4502-82b4-ea2566d94684,Nitrogen oxides,011104-93-1,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,2ccfa703-d0fe-4d27-9220-ba5ef2e97c6e,Nitrate,014797-55-8,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,41eb549e-df64-4f94-9403-b54012b99c3e,Nitrogen,007727-37-9,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,59e8b3a7-3862-4388-905a-73b35b93c6d4,"Ammonium, ion",014798-03-9,lake,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,8d686f27-433c-4709-83e0-83c6fc05c680,Nitrogen monoxide,010102-43-9,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,9ca36d40-49e7-3fa4-9b3f-1ef1367a91ef,Nitrogen dioxide,010102-44-0,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,b646bb3e-65e2-4f85-8376-9408e94e4b59,"Nitrogen, organic bound",,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,9a98be81-7711-4a1b-adc0-8e65acf05d62,Nitrite,,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,736f52e8-9703-4076-8909-7ae80a7f8005,"Ammonium, ion",,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,f3b31b38-bc7b-4054-99ea-0180796d5c5b,Ammonia,007664-41-7,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,0c150bb4-fd1a-43f8-b6c9-5dfda8dadb6c,Nitrogen,,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,b9291c72-4b1d-4275-8068-4c707dc3ce33,Nitrate,,ground water,Emission to water,kg,0
+ReCiPe 2016 Endpoint (E),6d8c31a0-a055-319e-85ae-72f83ff057b4,Marine eutrophication,species.yr,0c6346da-55d8-4f04-93ec-b30cd00a8bc0,Nitrogen oxides,011104-93-1,ground water,Emission to water,kg,0

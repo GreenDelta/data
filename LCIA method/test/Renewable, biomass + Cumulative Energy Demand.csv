@@ -1,0 +1,8 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,b2e8e329-f643-3fa0-8af9-95afa9347bbd,"Energy, from wood",,biotic,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,01c12fca-ad8b-4902-8b48-2d5afe3d3a0f,"Energy, gross calorific value, in biomass",,biotic,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,5224d6af-147e-3506-b9e4-60b8eb3a9f82,"Energy, from biomass",,biotic,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,ec0d301e-fd17-301d-8cc8-9fd0306d0cc5,"Energy, from wood",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,842ed4a3-54cf-4fd0-bad5-c6bfefa8ef09,"Energy, gross calorific value, in biomass",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,4b670a63-0f25-3f62-a33b-027fd7fd2641,"Biomass, feedstock",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,9ea0f2d6-0f60-3e80-b2e4-6adebe5e7803,"Renewable, biomass",MJ,c0b949da-6998-3336-892e-f338913e0753,"Energy, from biomass",,unspecified,Resource,MJ,1

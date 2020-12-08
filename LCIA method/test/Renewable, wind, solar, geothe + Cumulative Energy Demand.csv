@@ -1,0 +1,8 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,a7ff17d4-d3fe-4a70-9f2e-392b34630772,"Energy, solar, converted",,in air,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,57c71b25-4663-4fad-9167-7ce5be3e8268,"Energy, kinetic (in wind), converted",,in air,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,8bc09c04-2190-4ee2-9ee2-ae988ccd4e0c,"Energy, geothermal, converted",,in ground,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,730399c8-335f-43f0-b1b2-d3f1cb2617b9,"Energy, solar, converted",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,9edca90e-5b03-310e-a0ad-1480f672b1b2,"Energy, geothermal",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,6907e368-6a12-4f14-9125-d0c2eea91b63,"Energy, kinetic (in wind), converted",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,0477e7ec-5ce6-3156-b002-c764b6173224,"Renewable, wind, solar, geothe",MJ,f54b7f8d-f473-495e-8fc4-637859ab6e3a,"Energy, geothermal, converted",,unspecified,Resource,MJ,1

@@ -1,0 +1,157 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,0a11decc-edde-3008-b5cc-1bc31fa53b5b,"Bulk waste, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c35d0460-c95c-3c78-af50-73209db1ba02,Cardboard waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,f9dbaecd-94f3-3090-8353-ae5a2dbb2cbb,Carton waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,40cc4975-30b9-34f4-afca-b198b993b504,Zinc waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b07d25ff-192d-3043-8769-7eca81efc998,Waste to recycling,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5380cd8b-0ffe-3186-bf31-dae3c3139f30,Construction waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7945607d-6e84-3dd2-8552-382eb1dd54ff,Mineral wool waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1dbea2ab-bdf6-33e4-8838-98b7cc8ea784,"Packaging waste, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5bc40db7-52f1-3d2e-8f21-be1abeea61bc,"Waste, inorganic",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1b868bdd-c325-3eae-a78f-af922fa592e5,Waste in incineration,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4cdad7ec-147a-3a9b-9310-09970ea5c0b3,Photovoltaic/EVA cell waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,e7624ac8-f487-34ae-a84b-894bf0d4f6f0,Aluminium waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,574e5159-07a6-336c-ac6d-caa17ee42264,Limestone waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c7d10688-2f91-3c94-9c3e-caf24379082c,Catalyst waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,75157e0c-d779-383d-9dcb-a7cb2c6fb95a,Light bulb waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c96f4c02-e1d7-3a2d-940f-4873ee4c25ff,"Waste, solid",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,0d84c825-51c0-32a7-a961-3b993181042c,Polystyrene waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,cbc726f6-857d-3a8e-b760-e59af06c618a,"Waste, from drilling, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,e5192c9d-6f7b-3cc6-aa30-0b65d53b8225,"Rejects, corrugated cardboard",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b3e0e0b6-d96f-39f4-b05c-d733f9ab3c90,"Wood, sawdust",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,060fdca6-140c-3dc2-9e7f-5abd64747893,"Mineral waste, from mining",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9f3f5ffd-ea86-3a23-a7ba-fc756ef6ad6d,Coal tailings,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b0b5cbd7-c413-3e53-be95-148b85e888f7,"Packaging waste, paper and board",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1480daf8-68ae-30fb-aff4-c30a4288d4aa,Mineral waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,17003425-e252-3140-a5f8-fba9d8344572,Photovoltaic panel waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,add3e7b2-3ec6-3957-ad58-f9bfe45ce505,"Production waste, not inert",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,71536daf-21f5-3805-8924-2f6030375cfc,Bitumen waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ff56c49f-ffed-3961-abf6-70bed22a10de,Sludge,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,94b4d35d-3b2f-304d-8e56-ca21703f7d87,Photovoltaic production waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5feb5a5f-863f-3aec-84fb-b165fbc9d27f,Chromium waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,355ab8ac-75b2-33fd-874a-cde0b99beb23,Copper waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b009ad31-3e26-3c42-b6dc-de03219e97de,"Packaging waste, wood",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,587fad22-da2d-37ae-a41b-57b7e8467867,Paint waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4861943c-4812-3923-b95d-85a6f29c8a2f,Production waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,91e62f7a-29ec-38d7-9b9c-43cc6d4039f1,Waste in inert landfill,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,e7e93c5d-3233-3eee-bc90-bb899a175459,E-saving bulb waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,d9de9bab-1532-397d-a757-70a625002467,Steel waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8b82f7ca-f06d-3eec-af58-3a0aac733330,Iron waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,37ffca01-23f4-3a89-b0af-1440f30f900a,"Packaging waste, plastic",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,32810ff0-f116-3c47-b97d-2a2b6f48865a,Photovoltaic cell waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,996ab6fd-1b29-38a5-91a8-93635d6111c8,Propylene glycol waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5d63573f-6bc5-3a8e-990e-1a768141e925,Stones and rubble,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,cc5cf006-cc4a-3b55-8cf3-6f0866e18148,Residues,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,bf81535b-d6fa-3ffa-b904-022838568417,Process waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,efa81610-4900-304d-b9b1-77559434a776,Plastic waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,fc0de4cd-76dc-3ad2-805f-59d062b90a9f,Zeolite waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,48bd18b7-4d61-3c64-a4bd-6f4f250e75a2,"Waste, final, inert",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1804c474-a1a0-39d1-9023-466eb03ac016,Metal waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,27846925-8f7a-35d7-83c4-a747d3092114,Copper absorbent waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,2aafc8d4-b666-3e85-8a4b-c584a075c91c,Wood waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8e7bab8a-e9f8-3d2f-a357-cff4368d9746,Dross,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ba92e76f-279c-3067-beb3-5fd2c87c0338,Polyethylene waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c89091de-ea88-3854-bf33-9642d67d6a11,Tinder from rolling drum,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,88590747-b3f5-3c7c-9e4f-4a9df95ae715,Calcium fluoride waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1a760b1a-8912-3254-8ce9-4afcbfdcf11d,Tin waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,58e63779-4e4b-38ac-9778-a8a4eee6bd44,Asphalt waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5a7c5e0a-3b84-340a-b1da-ed84b25be794,Fluoride waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,0893f735-5833-39d5-a9ca-894f0e308729,Electronic waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,22273ff5-a892-3b30-a806-ad97a47be6b1,Wood ashes,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ba3625aa-925f-3ff7-a951-ec0a50693324,"Packaging waste, steel",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,a8d800f5-168b-386e-ae51-3a6095a0fe32,"Dust, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,09c4e3c4-6d82-34bd-a30a-de08118bfa88,Gas pipe waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8f2a52e6-0cc0-3eb4-8d44-e19a35e1099e,E-saving bulb plastic waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8f611d9e-6933-3680-9cba-db4e5b8609e1,"Dust, break-out",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,2b407271-960d-3e1d-9a2c-f88dbf5146ce,Cathode iron ingots waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ecc08fa0-5bb5-3362-b5be-fa5f917febb3,Dross for recycling,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,fcca7fcd-f93a-3b21-9c82-84c0208e01f6,Printed circuitboards waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,a3a6a9b8-066e-374d-a86e-49c478ce504b,Waste in bioactive landfill,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,47b4e2be-4b3c-3f6d-be29-89482770e660,"Waste, industrial",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4bccc060-cff1-358c-a729-aa34287117e0,"Waste, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,37bef155-1004-3d94-8fa8-59808613ba78,Polyvinyl chloride waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b1e048da-18c3-3de4-b61b-3f7c42f51329,Glass waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9a92e377-59d5-3acb-adf7-bd95d3981c79,Rejects,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,836571de-63fb-3489-9a9f-a774d4e2e6fd,Ion exchanger sludge,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,af6786f8-f175-3009-9df7-3c0a8e47d304,Cathode loss,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,97917d2b-7f0c-350c-b58d-dac4b2d8078f,Steel waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4c304486-e1c4-3b8d-be23-5457da302c90,"Waste, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,0a542745-3ceb-3652-8c90-8f737abe2035,Carton waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4649a2c3-02ac-396e-a21d-9cdb1fd432f5,Photovoltaic cell waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,543aa28a-8d26-382c-b9f2-7366032417f9,Waste in inert landfill,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,83b4c6ad-1c72-304d-9853-a7bd33de999f,Asphalt waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7c8c3fdc-60a4-3fdf-866f-ca6f306b225d,Waste in incineration,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,da99596a-950e-3a4d-9312-2d2d51e8c8c1,Sludge,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,2f3242cd-2f6b-38ae-9e23-f75559aa000a,Waste to recycling,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,419eda5b-e24d-3698-8d8a-ec9f79cacf0f,Plastic waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,be59cf67-81c1-3eae-8d23-d5d1b2955c92,Polystyrene waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,09db2a17-976e-333d-8d2a-43c940cf811d,Aluminium waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b05510e5-84d1-35d4-8e53-1e1bfefc0530,Cathode loss,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,abc65a45-5413-3d09-b40a-12c72cb4ed5d,Mineral wool waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,326277e2-2fe5-3a2e-9b0a-5cbce4ae3e52,Production waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,24fc98bf-347b-39ec-80c5-564f802caaa9,Cathode iron ingots waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,6dabe51b-fde3-38af-8472-63f9cc6814e3,Stones and rubble,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8a7ad331-ede9-311d-b29b-086d51fd242e,Zeolite waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,db042614-328f-375b-beac-480ffb69db20,Cardboard waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b2a42487-c684-3a29-b42f-1d2a2a3f3c7e,"Waste, final, inert",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,24d1cd0b-c353-3414-8f55-747f53d036b1,Paint waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,e491b4cd-0598-36ae-a6e0-4681e294460f,Zinc waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,eaf4c236-c2a9-3f60-aae7-fd62a4b81d28,Fluoride waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7c054e88-2b1f-3ee5-be3d-1b151f5a47ac,"Waste, inorganic",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8dd293ea-e08c-3dcb-8add-7c0fc8e0e08f,Coal tailings,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,bf57a5e8-3ead-3d2a-a4e2-a7df40703753,Process waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,62390617-de1f-3250-8f4c-6d537447f82c,E-saving bulb waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1531f168-fb3e-3f1c-a86b-b77cf607b4da,Construction waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,3e34800b-0ec5-3158-a313-94cfa05bf88f,"Production waste, not inert",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9652a85d-b07a-3ce2-bc54-41e0d85318ce,"Waste, from drilling, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,6cf12140-b640-3811-81ba-3d5058a4a43f,Ion exchanger sludge,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7ef05beb-fb4a-3360-a9de-7bfa68aecf24,Chromium waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,fdb10687-f41f-3536-94bb-e01638d7ca60,Electronic waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,e3aefb80-8d8a-38fc-8ceb-07789268e9bb,"Packaging waste, plastic",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ec9cc2e9-8696-3c39-b8cd-b8d28b5763c7,Photovoltaic production waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,088cf652-43f0-31fd-80d1-dc2c3fa5742d,Tin waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9ba18e08-6f4c-3fc6-89cd-a73275c4ebb0,Dross,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7fbc72e9-6229-31f7-8d74-7b8e1cf2de03,"Waste, solid",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,f99ba19c-1f18-3c01-8b48-5986ed108a77,Wood waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,63976e1c-eb5a-3646-b881-86af7af3b437,"Packaging waste, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,ed82d5c5-772e-38b9-b263-067771eb9ffd,Dross for recycling,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,a34be2b9-770d-322e-ae78-8025f6608514,Copper waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9bd354e4-d3c6-33aa-b494-f2524a0de8cc,Iron waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5e365dab-729a-3d43-b042-16ffd231d5ad,"Packaging waste, wood",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,4c06dfa9-65ff-3a02-8c6f-6626425062b8,Polyvinyl chloride waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,deae66ce-be55-34c8-a4bb-7753b1c9c663,"Dust, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,19f60b63-b5d8-3689-835a-79ac8fd7f367,Metal waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1eeebaae-87e5-327f-8851-5d78d99b09a2,Propylene glycol waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,27465a84-9006-304c-99d5-b4d6ea3e6458,Wood ashes,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9817afb3-2fae-3a3e-b832-d1022a9cb8b0,Light bulb waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5d61d46e-a5d0-3957-9c6d-1c7f83be6477,E-saving bulb plastic waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,0d25b266-3dae-3c68-8511-1a90e02d35d5,Calcium fluoride waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,7ee814d4-94fb-38ce-82ee-5b7d1032ded9,"Rejects, corrugated cardboard",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5d4e2a94-98a6-352c-bb33-54d7257bf2a6,"Waste, industrial",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5d740c43-ad82-30f6-a434-445b9766f277,"Packaging waste, paper and board",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,57803045-7938-3d40-b6fe-fd0355c1de86,Printed circuitboards waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9f527622-cc4a-3014-a59e-a0383c602b5d,Catalyst waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c81d4c75-f173-38c7-85e3-a1db8acd7def,"Wood, sawdust",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,d1024ced-ff3d-3c63-85d9-7cb1eeb39215,Photovoltaic panel waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,a93a9979-abe0-3f78-b880-870976f7f99a,Photovoltaic/EVA cell waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,2dd8a3b2-24fc-3b3c-be21-4a8b186e0f3b,Polyethylene waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,937d37f5-8916-36a0-a111-e88a11a8ce60,"Packaging waste, steel",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,3dd138a5-bd77-3ae5-baf5-1c53acabb4b8,Mineral waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,afdc158c-12e1-3882-a418-505be514acc2,Tinder from rolling drum,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,92fccb3a-ad0c-35e3-b299-67bc7e65df19,Glass waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,46cac109-62f2-3779-96e6-588752f12baf,Limestone waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,9c7d208b-f58c-3f7a-a3cf-0ddf7dfce612,"Bulk waste, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,eeeb8cb4-6279-327d-a61f-f7007acdf604,Gas pipe waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,774fb860-455a-3b6f-8705-2a44fd028307,Copper absorbent waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,2998ad55-eee9-36c4-9a07-4f5adb71de93,Residues,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,85f17f2f-e977-31c0-ba9f-59875c2c3659,"Dust, break-out",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,708568f3-9861-3eab-a6d1-42b52d9e7482,Waste in bioactive landfill,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b7634e1f-5e7e-3a16-8680-b3d410ecf303,Rejects,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,b32e0b2f-e4bd-388c-be37-ffe1e6ee20a8,Bitumen waste,,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,a38ce396-868e-3795-a980-66ee3798a13a,"Mineral waste, from mining",,unspecified,Waste,kg,1
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,1a568858-efa8-4c2a-b46e-82b6e66b6072,"Transformation, to dump site, sanitary landfill",,land,Resource,m2,"20,000"
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,d10b390c-9d0c-4f59-b31d-3d0d70e77a35,"Transformation, to dump site, inert material landfill",,land,Resource,m2,"22,500"
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,8f5c8cb3-dccd-45da-9f1f-d1c61cd789c3,"Transformation, to dump site, residual material landfill",,land,Resource,m2,"16,000"
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,c8c9bc86-8649-4637-a435-c2b52d5e1ddf,"Transformation, to dump site, residual material landfill",,unspecified,Resource,m2,"16,000"
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,267ca4fd-2526-451e-86e0-796318d509b6,"Transformation, to dump site, inert material landfill",,unspecified,Resource,m2,"22,500"
+EDIP 2003,778070b3-7669-38de-9924-4221efd7e331,Bulk waste,kg,5cf68994-cf11-4e37-9834-1f0e1c382fa5,"Transformation, to dump site, sanitary landfill",,unspecified,Resource,m2,"20,000"

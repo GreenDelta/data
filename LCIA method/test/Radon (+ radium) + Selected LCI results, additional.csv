@@ -1,0 +1,21 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,98bd0642-19d0-4c76-930e-03136c21cc20,Radon-220,,high population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,deafd761-4499-40e3-8667-06c91f204f6f,Radium-228,,high population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,6fd55524-c309-4eb8-bff6-9c606e3a82d7,Radon-222,,high population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,1c02cff4-e852-489b-893c-d3ed30eb8ca5,Radium-226,,high population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,e70d3563-78c4-42cf-8cf3-5ac42c499589,Radon-220,,low population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,793f8194-88c0-4315-b59e-58de48ba6ce4,Radium-228,,low population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,d1679eda-eac2-4be4-876f-3be480c53dc4,Radium-226,,low population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,1551f1cd-7cb7-4f68-a628-cb9301323c7b,Radon-222,,low population density,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,878a36ab-9fb6-4d14-a1a7-163b24777eeb,Radon-220,022481-48-7,"low population density, long-term",Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,3d73d6c8-145c-48c5-aabe-17b4279c66e0,Radium-228,015262-20-1,"low population density, long-term",Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,dfcd04d5-e7d9-4965-b62a-f272f40831f1,Radium-226,013982-63-3,"low population density, long-term",Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,4ac6979b-55f2-42ae-8d7e-37846e92506c,Radon-222,,"low population density, long-term",Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,b613b3b0-a98d-4b7a-a908-999ccfe1452d,Radon-220,,unspecified,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,d5ca33b3-f101-4371-b684-c720463ae2ab,Radium-228,,unspecified,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,b912f4b4-34ac-4ec1-aba1-01b9c83683e5,Radium-226,,unspecified,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,cb3265f8-49a0-4b09-9bd9-c374370c4cc4,Radon-222,,unspecified,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,e9041c16-9cae-4fc0-ac93-f9a486ef53db,Radium-228,015262-20-1,lower stratosphere + upper troposphere,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,7a2d5b3a-aac7-4a82-a990-0f4e1501db0b,Radon-220,022481-48-7,lower stratosphere + upper troposphere,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,18bcb736-db8a-445c-ba28-ca648838a1a0,Radon-222,014859-67-7,lower stratosphere + upper troposphere,Emission to air,kBq,1
+"Selected LCI results, additional",d910414f-6990-3967-bce6-02228c105135,Radon (+ radium),kBq,2eb231c3-447f-42e3-bcb6-fdcbdb8ee915,Radium-226,013982-63-3,lower stratosphere + upper troposphere,Emission to air,kBq,1

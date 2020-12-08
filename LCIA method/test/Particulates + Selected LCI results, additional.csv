@@ -1,0 +1,16 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,1eb1b94c-e9d8-47ab-969b-9cca920157d8,"Particulates, > 10 um",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,230d8a0a-517c-43fe-8357-1818dd12997a,"Particulates, < 2.5 um",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,ccb169c3-8aae-4727-89bb-a7dd122946f3,"Particulates, > 2.5 um, and < 10um",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,7678cec7-b8e1-439d-8242-99cd452834b1,"Particulates, > 10 um",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,295c9740-6fdb-4676-9eb8-15e3786f713d,"Particulates, > 2.5 um, and < 10um",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,66f50b33-fd62-4fdd-a373-c5b0de7de00d,"Particulates, < 2.5 um",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,b001715e-60e4-4f1d-949d-1acfab65bd8f,"Particulates, > 10 um",,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,051aaf7a-6c1a-4e86-999f-85d5f0830df6,"Particulates, < 2.5 um",,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,5716c728-bd33-414d-8691-16e5534f5d37,"Particulates, > 2.5 um, and < 10um",,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,66020d27-7ae4-4e59-83a3-89214b72c40a,"Particulates, > 10 um",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,21e46cb8-6233-4c99-bac3-c41d2ab99498,"Particulates, < 2.5 um",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,b967e1bf-f09b-4c89-8740-ace21db47bba,"Particulates, > 2.5 um, and < 10um",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,e22e8f39-d8f2-4702-bed3-0b95babb7788,"Particulates, > 10 um",,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,ddd99a3a-be86-423d-b36a-a9dc8af1b1f8,"Particulates, < 2.5 um",,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",d2d8488b-475f-3d15-88dc-b2b1c286b584,Particulates,kg,604f9273-f26b-46be-83a7-3a65280011d1,"Particulates, > 2.5 um, and < 10um",,lower stratosphere + upper troposphere,Emission to air,kg,1

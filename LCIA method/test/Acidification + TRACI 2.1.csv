@@ -1,0 +1,72 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,675d7403-504b-422c-aa11-7dc8e79e4486,Sulfur oxides,,high population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,afcbd980-14c2-4e1d-a0aa-5f6464e5c76b,Hydrogen chloride,,high population density,Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,e3cfaa07-9b68-4461-a06f-a0e4e59d41d3,Hydrogen sulfide,,high population density,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b00950bc-99cb-4ee2-bbc0-5f878ea170c3,Sulfur trioxide,,high population density,Emission to air,kg,0.8
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,7ecc2b66-8dde-4266-8832-f492f564377b,Sulfuric acid,,high population density,Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,257eacb9-96fe-4a3d-961a-f5e6c7823ff0,Hydrogen fluoride,,high population density,Emission to air,kg,1.6
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,5d0058e0-ad1b-4c15-b0ff-a665bb04154f,Phosphoric acid,,high population density,Emission to air,kg,0.98
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,37d014cb-8c2d-4c98-ab5c-2d4550822c2f,Nitric acid,007697-37-2,high population density,Emission to air,kg,0.51
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,8c356c12-29dd-3a6d-9f9d-d3ebd106db5b,Sulfur monoxide,,high population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,65e1e004-ceed-4b40-ab2b-5f34b07fdb99,Sulfur oxides,,low population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,68e32537-beae-41c2-be72-74df4d273c11,Hydrogen chloride,,low population density,Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,0b0ea9d1-9c54-4e23-bcfc-1b8fc2cf0358,Hydrogen sulfide,,low population density,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,5c9d8310-f7e1-4e98-8e73-7eece0435676,Sulfuric acid,,low population density,Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,8b7dc667-f04e-492c-a161-80b1482126b0,Hydrogen fluoride,,low population density,Emission to air,kg,1.6
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,0d1d9119-44bf-4c8e-a878-cdc78fd888ae,Nitric acid,007697-37-2,low population density,Emission to air,kg,0.51
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b0c3054b-6d71-42b1-8575-704c4d049180,Phosphoric acid,,low population density,Emission to air,kg,0.98
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,e0994a6e-9a9f-4a17-9f02-d85937d01028,Sulfur monoxide,,low population density,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,64b8332b-b659-3e22-b06f-3f522ea9662c,Sulfuric acid,007664-93-9,indoor,Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,65634b3e-5481-4e61-b4fa-b67cb7c4ffc3,Sulfur oxides,,"low population density, long-term",Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,a2d4ebed-c96c-47c9-b469-018dd1ae58ce,Hydrogen sulfide,,"low population density, long-term",Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,97178ead-47ba-406f-bd68-27d5fc6aa6f8,Hydrogen chloride,,"low population density, long-term",Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,51f0e6bf-5824-4247-a0f0-7766035da159,Sulfuric acid,007664-93-9,"low population density, long-term",Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,13825fb9-6e24-409a-bfcd-5dc4fd61ef98,Sulfur trioxide,007446-11-9,"low population density, long-term",Emission to air,kg,0.8
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,ac15536a-92f5-48d7-9560-cba0ca43b526,Hydrogen fluoride,,"low population density, long-term",Emission to air,kg,1.6
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,bcac684a-8868-4cd3-9063-3275dc831f91,Phosphoric acid,007664-38-2,"low population density, long-term",Emission to air,kg,0.98
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,2e493ad7-ff7f-47b8-9966-1d67e0323386,Nitric acid,007697-37-2,"low population density, long-term",Emission to air,kg,0.51
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,1275ddeb-f87b-3f52-94a4-1eb8e2ac6c06,Sulfur monoxide,,"low population density, long-term",Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd,Sulfur oxides,,unspecified,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,20d4d821-f4f7-4017-8810-f822fcdf619e,Hydrogen sulfide,,unspecified,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,c941d6d0-a56c-4e6c-95de-ac685635218d,Hydrogen chloride,,unspecified,Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,c9a8073a-8a19-5b9b-a120-7d549563b67b,Hydrochloric acid,,unspecified,Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,3268d8df-59cc-4740-a89f-dee8355ad7c3,Sulfur trioxide,,unspecified,Emission to air,kg,0.8
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,99c65c6a-6871-40ba-af79-5bd6851688e4,Sulfuric acid,,unspecified,Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,24541c8c-9f11-49ae-9de5-456f238a3f5e,Hydrogen fluoride,,unspecified,Emission to air,kg,1.6
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,dc084330-5108-4d9c-a7ed-eb3345507f13,Nitric acid,007697-37-2,unspecified,Emission to air,kg,0.51
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,2257e9f9-f38c-494b-b99f-f49b4768b4b9,Phosphoric acid,007664-38-2,unspecified,Emission to air,kg,0.98
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b1124d65-6c5a-4530-a5e5-0c9726eb524c,Sulfur monoxide,,unspecified,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,0c143a06-6761-3c47-8006-ffcad7b58a10,Sulfur oxides,,lower stratosphere + upper troposphere,Emission to air,kg,1
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,50f3bc1e-fafc-44a2-9800-4468d8c3b643,Hydrogen chloride,007647-01-0,lower stratosphere + upper troposphere,Emission to air,kg,0.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,59281544-7c5a-4101-a972-10118e8df6aa,Hydrogen sulfide,007783-06-4,lower stratosphere + upper troposphere,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,3caec0e2-2d07-4463-abae-bef6a0d4bbdb,Sulfuric acid,007664-93-9,lower stratosphere + upper troposphere,Emission to air,kg,0.65
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,b1689d22-7f6d-432c-8948-13d8f6df8a27,Hydrogen fluoride,007664-39-3,lower stratosphere + upper troposphere,Emission to air,kg,1.6
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,1.88
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,1aa538b9-51eb-49fe-8904-de34e58945c7,Nitric acid,007697-37-2,lower stratosphere + upper troposphere,Emission to air,kg,0.51
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,13d2fabe-9282-4905-9dfc-5c859022835c,Phosphoric acid,007664-38-2,lower stratosphere + upper troposphere,Emission to air,kg,0.98
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.7
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,1.07
+TRACI 2.1,75d0c8a2-e466-3bd7-813b-5beef2209330,Acidification,kg SO2 eq,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,1

@@ -1,0 +1,26 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,38.8
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,9af58019-22ff-4278-8f48-8e94b49aae5c,Nitrite,014797-65-0,high population density,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,101
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,37d014cb-8c2d-4c98-ab5c-2d4550822c2f,Nitric acid,007697-37-2,high population density,Emission to air,kg,18.5
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,38.8
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,b7ba3697-434d-4f47-91a1-f5b924871d92,Nitrite,014797-65-0,low population density,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,101
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,0d1d9119-44bf-4c8e-a878-cdc78fd888ae,Nitric acid,007697-37-2,low population density,Emission to air,kg,18.5
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,38.8
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,4da48cee-c42b-3b25-8849-33f928db9143,Nitrite,014797-65-0,"low population density, long-term",Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,101
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,2e493ad7-ff7f-47b8-9966-1d67e0323386,Nitric acid,007697-37-2,"low population density, long-term",Emission to air,kg,18.5
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,38.8
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,f37a3611-f6a5-4141-8d16-6eac6a1e9a52,Nitrite,014797-65-0,unspecified,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,dc084330-5108-4d9c-a7ed-eb3345507f13,Nitric acid,007697-37-2,unspecified,Emission to air,kg,18.5
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,101
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,38.8
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,25.4
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,101
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,1aa538b9-51eb-49fe-8904-de34e58945c7,Nitric acid,007697-37-2,lower stratosphere + upper troposphere,Emission to air,kg,18.5
+EDIP 2003,92c690a5-c0b5-33bd-ad53-f24ad348f569,Terrestrial eutrophication,m2,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,38.8

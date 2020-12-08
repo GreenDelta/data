@@ -1,0 +1,39 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,963b17e3-ec2a-3715-85eb-01d84a8fce7b,"Transformation, from forest, intensive, normal",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,c8a8cc97-c00f-31a0-ac0e-017f59071ac5,"Transformation, to tropical rain forest",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,7899bb60-56fd-3d8b-8c3a-9d6341b9d747,"Transformation, from tropical rain forest",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,05a9f970-d413-321a-8161-88b70933593f,"Transformation, to forest, intensive, normal",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,9d136389-8670-45ae-ad1d-a06848a1fd1d,"Transformation, from forest, primary (non-use)",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,bba9f623-5919-4ef3-b98d-c94af1553179,"Transformation, to forest, unspecified",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,e71f95a5-fd82-4128-9fd1-be3f0e85d0fc,"Transformation, from forest, extensive",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,99f1deff-a149-49bf-b1fd-95f7ff7d1331,"Transformation, from forest, intensive, short-cycle",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,88e8456c-dc23-4bb4-aed5-a4186a2fbf77,"Transformation, to forest, extensive",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,512a5356-8059-4772-a43f-42e3c4f3d299,"Transformation, to unspecified",,land,Resource,m2,-0.4
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,0930b6b8-d9c6-4462-966f-ac7495b63bed,"Transformation, from forest, unspecified",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,ebb16be1-8db3-42a2-8123-418787422cfe,"Transformation, to seabed, unspecified",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,cdbfd224-21fe-457e-a47d-26a525965051,"Transformation, to forest, intensive, clear-cutting",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,3573b5ab-5158-4048-a364-aad9e706acb4,"Transformation, to forest, intensive, short-cycle",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,29630a65-f38c-48a5-9744-c0121f586640,"Transformation, from unspecified",,land,Resource,m2,0.4
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,e717f3cc-ac70-4c9b-be56-1614239b917e,"Transformation, from forest, intensive",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,928ba839-d6e5-4d1e-b5fd-122998a9bbe2,"Transformation, from seabed, unspecified",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,8c920eda-3eee-4782-ace6-c706fb363b88,"Transformation, from forest, intensive, clear-cutting",,land,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,994d61de-fbb0-4187-a4d4-b11c3c2b9102,"Transformation, to forest, intensive",,land,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,fbe76292-b1ff-4efe-8ac6-3a36c4f3c900,"Transformation, from tropical rain forest",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,8b03ce87-7aec-4106-8f9f-752c6174fda3,"Transformation, from forest, intensive, normal",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,e3c1224d-1958-4fbb-b0e3-91943e5975c7,"Transformation, to tropical rain forest",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,43c326df-fae0-4e31-a1f2-5a9dcf3f2244,"Transformation, to forest, intensive, normal",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,06037f74-fb71-3996-bdd1-2c5ef86bc048,"Transformation, from forest, primary (non-use)",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,0cab58d3-f449-48d4-94bd-ec09d19736d6,"Transformation, to forest, intensive, clear-cutting",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,3f9dea81-3fba-46b9-83d5-23ffd5bae744,"Transformation, from forest, intensive, short-cycle",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,aa6a298f-893f-449d-8573-39f32fd43fe5,"Transformation, from forest, intensive",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,399f4fd0-8fd8-4a22-82ee-c7f3b6a3d22a,"Transformation, from unknown",,unspecified,Resource,m2,0.4
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,7f401bdd-4116-48ad-b217-013fd904d323,"Transformation, from forest, extensive",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,26b15721-6a63-30fb-91fe-7907381a072e,"Transformation, from seabed, unspecified",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,3abea18f-cd91-4106-b23d-093c49427525,"Transformation, to forest, extensive",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,2299398e-0846-4290-bcab-09bda2e61ee3,"Transformation, to unknown",,unspecified,Resource,m2,-0.4
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,0775d4c9-2c91-4a0d-a4a7-1c6b96e47ea4,"Transformation, to forest, intensive, short-cycle",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,8b1e3dff-e8b1-309a-89f3-ecede50da739,"Transformation, to forest, unspecified",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,65b5162f-5ca9-4721-91cf-00a929960222,"Transformation, to sea and ocean",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,0e1c3d27-fb97-457a-a5d0-a324e7043402,"Transformation, from forest, intensive, clear-cutting",,unspecified,Resource,m2,1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,c16d78c6-a944-4bfa-8e7a-b292b5b49d2e,"Transformation, to forest, intensive",,unspecified,Resource,m2,-1
+Environmental Prices,bcf07efe-cd0f-341e-beaf-0ad65e9dcb03,Natural land transformation,m2,13de50d5-fce8-3f57-a3ba-3bb7e5ada81b,"Transformation, from forest, unspecified",,unspecified,Resource,m2,1

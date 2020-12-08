@@ -1,0 +1,22 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,79fdbb2d-a497-4198-9b2a-094f98b8aee6,"Cadmium, ion",022537-48-0,"river, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,eb616bcb-7521-40a4-a2ac-0d33e30c2873,Cadmium,007440-43-9,"river, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,557575d3-a808-4336-88d4-0e7b8b178f32,Cadmium,007440-43-9,"fresh water, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,522e7bd8-194b-4fa8-9f6a-6211958fc040,"Cadmium, ion",022537-48-0,"fresh water, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,67b5b669-06b1-4be6-87bd-b68bbbe4bd5a,"Cadmium, ion",022537-48-0,fossil-,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,eed61927-90e5-4e59-a0bb-6507551c835c,Cadmium,007440-43-9,fossil-,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,cd26472d-d670-49fd-9df2-f689a14e9892,"Cadmium, ion",022537-48-0,fresh water,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,810b11b4-6438-4b30-b9a1-8202b2a53145,Cadmium,007440-43-9,fresh water,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,4ce23896-a82f-49f1-a8e3-8848734805a3,"Cadmium, ion",,"ground water, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,0c5da324-34a7-4e38-98e5-18a8625a2b7c,Cadmium,007440-43-9,"ground water, long-term",Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,2712fe5f-0d3c-4c8e-8bc4-26c604413849,"Cadmium, ion",,unspecified,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,c087ef23-4b5b-40f6-932a-7939b72386c4,Cadmium,007440-43-9,unspecified,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,62fcd384-906d-474f-a84b-9f944b78f804,"Cadmium, ion",,ocean,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,fe0acd60-3ddc-11dd-a294-0050c2490048,Cadmium,007440-43-9,ocean,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,af83b42f-a4e6-4457-be74-46a87798f82a,"Cadmium, ion",,surface water,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,8041cd06-58ce-450d-9f44-40922eeafc29,Cadmium,007440-43-9,river,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,125349bb-041b-4de3-aa95-d4862eddcf52,"Cadmium, ion",022537-48-0,river,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,68701316-d3f5-4e08-8814-6b3b28712d85,Cadmium,007440-43-9,lake,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,ba29bfe3-17a6-4702-8b50-9b63884bf91c,"Cadmium, ion",022537-48-0,lake,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,ddce052d-27c0-4b28-8bf6-d50d39e420b0,Cadmium,007440-43-9,ground water,Emission to water,kg,0.00007
+EPS 2015d,bffedafd-d35a-38c7-9c09-5673e5ad6801,Osteoporosis,case,3937f5a5-b4a4-434d-9fc3-1d29064fc3f8,"Cadmium, ion",,ground water,Emission to water,kg,0.00007

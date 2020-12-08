@@ -1,0 +1,6 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,1
+Selected LCI results,8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,1
+Selected LCI results,8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,1
+Selected LCI results,8b86e077-2b02-3375-9bf5-12d59e8914d1,Nitrogen oxides,kg,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,1
