@@ -1,0 +1,7 @@
+﻿IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,78eb1859-abd9-44c6-9ce3-f3b5b33d619c,"Carbon dioxide, from soil or biomass stock",000124-38-9,low population density,Emission to air,kg,1
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,78eb1859-abd9-44c6-9ce3-f3b5b33d619c,"Carbon dioxide, from soil or biomass stock",000124-38-9,low population density,Emission to air,kg,1
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,6d89125e-e9b7-4d7e-a1fc-ada45dbd8815,"Carbon dioxide, land transformation",000124-38-9,lower stratosphere + upper troposphere,Emission to air,kg,1
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,e4e9febc-07c1-403d-8d3a-6707bb4d96e6,"Carbon dioxide, from soil or biomass stock",000124-38-9,unspecified,Emission to air,kg,1
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,e8787b5e-d927-446d-81a9-f56977bbfeb4,"Carbon dioxide, land transformation",000124-38-9,high population density,Emission to air,kg,1
+Greenhouse Gas Protocol,8ffe04b4-e56c-3073-a87c-dc5f66aa40ae,CO2 eq from land transformation,kg CO2 eq,e1c597cc-14cb-4ebb-af07-7a93a5b77d34,"Carbon dioxide, land transformation",000124-38-9,"low population density, long-term",Emission to air,kg,1
