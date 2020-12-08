@@ -1,0 +1,54 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,b6e2f7f4-6b2e-4b3e-be1f-67626cb8205d,Phosphorus,007723-14-0,forestry,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,8785b396-a1c1-3d39-b819-5b429f33dbf8,"Fertiliser, applied (P component)",,agricultural,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,51f1aca9-c614-3d2b-b580-717cdc13fc0b,"Manure, applied (P component)",,agricultural,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,2d098ca9-f784-4ee9-81fd-e65df70846c0,Phosphoric acid,007664-38-2,agricultural,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,a60d4bd7-4973-49d4-8e0d-e0d267d800e8,Phosphate,014265-44-2,agricultural,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,b7fe9940-1c0c-4065-b9b9-fd473b432f64,"Phosphorus, total",,agricultural,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,c89a0749-40a5-4c9c-8770-c4295ea34977,Phosphorus,,agricultural,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,2210ecd7-46b4-390c-93b7-9a5e3447d65b,"Manure, applied (P component)",,unspecified,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,970f4540-8369-48a8-97f4-e8273793a80d,"Fertiliser, applied (P component)",,unspecified,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,d501bed2-4ab9-47ff-baf7-cafbec9f10d2,Phosphoric acid,007664-38-2,unspecified,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,7502ee31-9464-41bb-a061-ec90696679d6,Phosphate,014265-44-2,unspecified,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,8b0a4a41-c65c-4d94-b10c-94ddb98abdd2,Phosphorus,,unspecified,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,e5270d9b-269a-452f-9a8e-2d8bd40d3695,"Phosphorus, total",,unspecified,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,44662a3f-4ef3-4ab4-bd18-f3a0ce5ad74e,"Phosphorus, total",,industrial,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,2f8952b0-c90c-4e3d-b546-52b862fc8f11,Phosphorus,,industrial,Emission to soil,kg,0.05
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,5def994f-b874-463f-9129-4176dff192cc,Phosphoric acid,007664-38-2,industrial,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,e17ecc95-00ce-496d-8864-4728a6069971,Phosphate,014265-44-2,industrial,Emission to soil,kg,0.016
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,226fb7e6-0ee2-4e8a-9fac-67d83b77aa75,Phosphoric acid,007664-38-2,"river, long-term",Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,d76b8325-e4de-4d1c-b2b8-cf0128dc941c,Phosphorus,007723-14-0,"river, long-term",Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,2a89246a-8408-4775-a6db-7c33656f1469,Phosphate,014265-44-2,"river, long-term",Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,6054fc06-c63a-48f2-bb80-3733834167bc,Phosphate,014265-44-2,"fresh water, long-term",Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,503ccbc4-8697-46e7-9a9b-beee17d4cdec,Phosphate,014265-44-2,fossil-,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,362acbd4-9fee-4943-9b92-4e73ef4b3387,Phosphorus,007723-14-0,fossil-,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,448934cb-8be4-4ae2-acdb-de9dec10459b,Phosphoric acid,007664-38-2,fossil-,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,dcd473f2-93b3-416b-8b97-d157b6ce1fe8,Phosphoric acid,007664-38-2,fresh water,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,d07a6bba-3816-4ac1-bb17-f0b99e5ee17a,"Phosphorus, total",,fresh water,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,a87680bc-ecde-471a-88bb-6bc7482a62cf,Phosphate,014265-44-2,fresh water,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,4d11b9d2-f8b4-413f-822f-141d7ae493d8,Phosphorus,007723-14-0,fresh water,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,43156184-3040-4095-9085-38d8895406cc,Phosphoric acid,007664-38-2,"ground water, long-term",Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,76b09afe-52b9-4ecc-b97a-00b49ad8ed1a,Phosphorus,007723-14-0,"ground water, long-term",Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,0b5a86df-2ba4-3e9a-be5c-9e35e42d0f61,"Phosphorus, total",,"ground water, long-term",Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,490b267b-f429-4d9a-ac79-224e37fb4d58,Phosphate,,"ground water, long-term",Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,c8791f3c-3c4a-4278-91c0-483797d14da2,Phosphate,,unspecified,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,18e1aef2-00e7-410d-9613-fdfb305a689e,"Phosphorus, total",,unspecified,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,cefa3637-739c-5e9f-99a6-2456e6a44772,Phosphoric acid,,unspecified,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,2d4b8ec1-8d53-4e62-8a11-ebc45909b02e,Phosphorus,,unspecified,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,62f3d964-9b53-4d01-9ee0-04112dcfc6d2,Phosphorus,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,d9a9027d-a792-4e1a-8507-7e93cf63901f,"Phosphorus, total",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,3aaf9017-0d8a-42aa-9a60-cbc39e994e73,Phosphate,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,8775e96b-ad1e-4484-a4b3-5aa8e832650d,Phosphoric acid,007664-38-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,b2631209-8374-431e-b7d5-56c96c6b6d79,Phosphorus,,surface water,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,1727b41d-377e-43cd-bc01-9eaba946eccb,Phosphate,,surface water,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,89b48ac9-f3ea-3c38-b776-aac911237361,"Phosphorus, total",,river,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,4ba931a8-50e1-4b94-abe2-f645e93bb574,Phosphate,014265-44-2,river,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,9caf6b8a-03ae-478b-a6a0-d8423b0cd16a,Phosphorus,007723-14-0,river,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,4a5a08f6-51ab-41e7-809a-13d70b509740,Phosphoric acid,007664-38-2,river,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,5687da3e-fa56-4ad0-81bc-a5f6d175433e,Phosphoric acid,007664-38-2,lake,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,4ab486b5-7102-4a88-a7fd-3e7b42e0e2e2,Phosphorus,007723-14-0,lake,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,ad62c648-1af8-4805-bbfb-64c6361eb9f6,Phosphate,014265-44-2,lake,Emission to water,kg,0.33
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,dfa1c3fe-0907-3a37-b579-395b31863ea2,"Phosphorus, total",,ground water,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,0857999c-aaf4-41f9-b3cc-5cc56909ecaa,Phosphoric acid,007664-38-2,ground water,Emission to water,kg,0.32
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,b1fca66f-8e83-469a-a7b5-018e14d5d545,Phosphorus,,ground water,Emission to water,kg,1
+EF 3.0 Method (adapted),00af7673-38a0-3b59-a7ac-10fafe9b83d2,"Eutrophication, freshwater",kg P eq,329fc7d8-4011-4327-84e4-34ff76f0e42d,Phosphate,,ground water,Emission to water,kg,0.33
