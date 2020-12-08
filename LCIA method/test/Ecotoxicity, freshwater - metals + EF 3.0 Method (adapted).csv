@@ -1,0 +1,836 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1a313b30-7156-4bc3-9f3b-54faa4b742b6,Antimony V,022537-51-5,forestry,Emission to soil,kg,"9,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1173fbf5-c554-4ffc-8168-aadb0f823b40,Antimony III,023713-48-6,forestry,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,591de726-f2c7-43ba-8e22-15fd08acc8dc,Chromium,,forestry,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,009a49e8-09a7-4432-9cb9-f2dd18e8f922,Manganese,007439-96-5,forestry,Emission to soil,kg,91.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,aa2d6624-ad64-4fff-9260-cb51500bba0d,Strontium,007440-24-6,forestry,Emission to soil,kg,"7,730"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,48dbf4b1-0b2a-4bf5-a190-2d7fc465bda4,Silver,007440-22-4,forestry,Emission to soil,kg,"10,100"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,39555a26-d28b-425f-993f-e8770ab7d9cf,Aluminium,007429-90-5,forestry,Emission to soil,kg,"276,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,689ffb9a-b596-4191-b458-2908dc2d075c,Vanadium,007440-62-2,forestry,Emission to soil,kg,581
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c983ad54-12e9-47a5-b747-5e5c448e58e2,Iron,007439-89-6,forestry,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1e19d86e-968d-4428-984f-70bfd843a8f4,Arsenic,007440-38-2,forestry,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ba785aad-0ee5-4bba-b049-e32bc31670cb,Titanium,007440-32-6,forestry,Emission to soil,kg,1.047
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1f3c2297-d652-468d-82e8-4fd59bf5b5b8,Molybdenum,007439-98-7,forestry,Emission to soil,kg,1.48
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8d226423-1351-4366-b09f-d16c9e38683c,Zinc,,forestry,Emission to soil,kg,730
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,01285299-c683-4e15-b654-201987a7a738,Chromium VI,018540-29-9,forestry,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b03642f4-8fa3-44df-ba91-7bcf5677d9a7,Cadmium,,forestry,Emission to soil,kg,"116,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5de1943f-b011-45a0-97d4-ed15eea6a382,Nickel,,forestry,Emission to soil,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,51814700-587c-4915-9ed2-c5a644f831d3,Thallium,007440-28-0,forestry,Emission to soil,kg,"1,760"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,47d20967-a49a-4fb3-881d-51956520449e,Selenium,007782-49-2,forestry,Emission to soil,kg,36.8
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,837083ce-41cd-49f3-a849-d79564dac238,Lead,,forestry,Emission to soil,kg,40.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c486d0f8-f2be-4c5e-b594-9fa5d6942f9e,Mercury,007439-97-6,forestry,Emission to soil,kg,"1,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,183f9856-03ab-464d-9366-8ef62077b510,Antimony,007440-36-0,forestry,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,85c40d9a-cbf0-44f0-a9a2-5b1edee4055a,Beryllium,007440-41-7,forestry,Emission to soil,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,237ca6bc-2f0a-4416-a0e3-bd512f038f2e,Copper,,forestry,Emission to soil,kg,"52,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c792edbf-a11f-459d-9d92-15ad0c2f0c3c,Barium,007440-39-3,forestry,Emission to soil,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,33e28042-7a6a-4b68-9923-2321cb738164,"Arsenic, ion",017428-41-0,forestry,Emission to soil,kg,"2,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c67e3ba8-ddce-4931-b4b0-f4f9a56ccf40,Tin,007440-31-5,forestry,Emission to soil,kg,171
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c58d25ad-30d2-4fac-a857-1fa6f67afe8a,Cobalt,007440-48-4,forestry,Emission to soil,kg,"6,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7f738c98-7e7d-3010-8ddd-78eb153a021d,Lithium,007439-93-2,agricultural,Emission to soil,kg,33.303
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1521d4a1-363c-3337-b228-d6ed8deeecf2,Arsenic III,022541-54-4,agricultural,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,62399986-3e4f-4522-b389-75eed416d838,Boron,,agricultural,Emission to soil,kg,2.1967
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d0b13a62-91a6-34d9-b875-e29ddd691a2d,Iron III,020074-52-6,agricultural,Emission to soil,kg,"1,880"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,81e65024-d6da-3e5d-b605-7e9f082be640,Antimony V,022537-51-5,agricultural,Emission to soil,kg,"9,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,878c1dbd-bda3-325d-a157-cbe008368df4,Iron II,015438-31-0,agricultural,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f16fa1da-e426-4820-bf9d-71595c22283b,Calcium,,agricultural,Emission to soil,kg,47.27
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e8475907-2081-4fd5-9526-bfcef88380db,Magnesium,,agricultural,Emission to soil,kg,0.36597
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,39f248d5-dd9b-4460-8f34-3415dc3f3e43,Silicon,,agricultural,Emission to soil,kg,0.00508
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,51acafad-76c1-3756-863e-51e43147cc74,Antimony III,023713-48-6,agricultural,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bc57204c-385e-3d17-a68b-edd4bbebd11f,Cesium,,agricultural,Emission to soil,kg,"2,120"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9ba8c05d-1593-45a5-8d3b-5c4f3e9fef32,Manganese,,agricultural,Emission to soil,kg,91.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7f0873fe-731e-4b99-a384-17f0ad36a318,Strontium,,agricultural,Emission to soil,kg,"7,730"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,db364689-e1a3-4629-8835-e6c59d6daf09,Iron,,agricultural,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e7881581-21b3-4f5c-bd63-6b0684b5e712,Chromium,,agricultural,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4673a799-36a5-4359-ac6a-fa933281bc93,Arsenic,,agricultural,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fce0b9ae-53c8-4ab0-9e7a-7f5c2ed2c856,Silver,,agricultural,Emission to soil,kg,"10,100"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2baa4381-b781-4f5e-90de-508b0fa3fd1f,Aluminium,,agricultural,Emission to soil,kg,"276,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,adfb11ec-7a41-47da-abc2-c92c59810e50,Vanadium,,agricultural,Emission to soil,kg,581
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,334f3d29-ec7d-4ca4-9e65-524c64c6649c,Titanium,,agricultural,Emission to soil,kg,1.047
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d4049741-cef2-4edd-a3af-9728b9e3a568,Sulfur,,agricultural,Emission to soil,kg,"20,911"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,01558950-c47c-34f9-b4f2-39ca1c809384,Chromium III,016065-83-1,agricultural,Emission to soil,kg,407
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9f79-0050c2490048,"Chromium, ion",016065-83-1,agricultural,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cef77e08-b1c6-4893-a8eb-be2ada072c7a,"Arsenic, ion",017428-41-0,agricultural,Emission to soil,kg,"2,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,84aa799e-9d98-4d34-85e0-516d28ab1be9,Zinc,,agricultural,Emission to soil,kg,730
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ed2d49f8-110d-4db4-9488-f61c349e6117,Mercury,,agricultural,Emission to soil,kg,"1,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7e66a41c-d311-4949-bdd8-eef09cdcfa47,Copper,,agricultural,Emission to soil,kg,"52,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,57a17022-7f17-4cdf-b0e8-184bc5c50d98,Thallium,007440-28-0,agricultural,Emission to soil,kg,"1,760"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,162b7095-c497-4b3c-a290-01ebe4bc9a08,Beryllium,007440-41-7,agricultural,Emission to soil,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b4580545-243d-48d2-a3a0-2633a4f46fb1,Nickel,,agricultural,Emission to soil,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e429b852-e421-4fcb-8a9b-b0241863bfb2,Cadmium,,agricultural,Emission to soil,kg,"116,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9cf3a683-ed3d-40e9-b039-7653e4fc9e20,Molybdenum,,agricultural,Emission to soil,kg,1.48
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f8199e39-7354-44ad-92d8-6a2cc3bac24e,Barium,,agricultural,Emission to soil,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f4cf8d5c-f030-4b55-a3af-e3c20b855ee8,Antimony,,agricultural,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4010918f-7fd0-4925-8fbb-8fd7a44a806c,Lead,,agricultural,Emission to soil,kg,40.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c6ce1ad0-d8da-41d0-8db1-cabc3760b422,Selenium,007782-49-2,agricultural,Emission to soil,kg,36.8
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,168c970b-91c9-4427-a3a0-6686ad6cc2c4,Tin,,agricultural,Emission to soil,kg,171
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9542444c-7c7a-48e2-bc9c-9c7c34fb7b3e,Cobalt,,agricultural,Emission to soil,kg,"6,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8ec83662-7c2b-4452-8acf-95a0bb94233c,Chromium VI,018540-29-9,agricultural,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e3b7b5aa-514e-430e-9544-07d8f5b8d494,Boron,,unspecified,Emission to soil,kg,1.9884
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dc075486-d663-3d68-8a96-baa763028ae9,Arsenic III,022541-54-4,unspecified,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,65373503-ed4d-3e32-b3d9-e97f4de03f03,Iron II,015438-31-0,unspecified,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,12e3d042-1791-38b9-9c53-f51ddd763977,Antimony V,022537-51-5,unspecified,Emission to soil,kg,"9,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,95f80b67-31fa-32fa-9105-f4fa9c237620,Antimony III,023713-48-6,unspecified,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6cd4ed76-161a-4d90-b275-dc74704ffd1d,Magnesium,,unspecified,Emission to soil,kg,0.36597
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e681e6ba-2d66-4f17-8812-e8c74bdcf7e8,Calcium,,unspecified,Emission to soil,kg,47.27
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,58bda952-4ced-325c-a010-0d93f8c0cd09,Iron III,020074-52-6,unspecified,Emission to soil,kg,"1,880"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6575edf4-826c-4e99-a21a-08a1afec1396,Silicon,,unspecified,Emission to soil,kg,0.00508
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,32451556-ee07-4e36-bd8a-09f8847f9c83,Sulfur,,unspecified,Emission to soil,kg,"20,911"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d42145ca-3a2c-3dca-9366-40944af620fd,Cesium,,unspecified,Emission to soil,kg,"2,120"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6230c099-a983-4d9d-98a8-a0697962bec3,Lithium,,unspecified,Emission to soil,kg,33.303
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e0401210-0377-4670-84af-12247ca20bed,Aluminium,,unspecified,Emission to soil,kg,"276,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6b7fbea6-4a86-40f9-954d-3c9b3611abfd,Manganese,,unspecified,Emission to soil,kg,91.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e0336c9b-a0ff-4ae3-b8bb-ca1e46bbbc11,Chromium,,unspecified,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fc84887d-158e-4067-80dc-9743165bd70d,Arsenic,,unspecified,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4122276a-89a6-4e31-ad7d-19568cecf9ce,Vanadium,,unspecified,Emission to soil,kg,581
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ce567bdc-76ec-4ca0-be79-8bb796e448b3,Iron,,unspecified,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4c0a6227-af22-45cb-b75b-b276ce0e4d47,Strontium,,unspecified,Emission to soil,kg,"7,730"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7da45a0b-0dcf-413c-8de0-44d8ebca9e6e,Silver,,unspecified,Emission to soil,kg,"10,100"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6bc9e39e-bfc5-4929-88d9-863684901143,Titanium,,unspecified,Emission to soil,kg,1.047
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,68ba2022-830e-45fb-8c85-b35e94754ae9,Chromium VI,,unspecified,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dbf49708-ee0c-44f2-8662-5edd89ad472b,Beryllium,,unspecified,Emission to soil,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,12d6029e-3801-42ee-a1bc-1ebf936884fc,Cadmium,,unspecified,Emission to soil,kg,"116,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,056fb035-70db-4dba-bff0-773a3da55b87,"Chromium, ion",016065-83-1,unspecified,Emission to soil,kg,407
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,45acd8c0-657f-46d3-8026-4b3c9fadaeb6,Selenium,,unspecified,Emission to soil,kg,36.8
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,77887584-ddca-4920-952c-3609730e0c13,Zinc,,unspecified,Emission to soil,kg,730
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f7eca11f-546f-4712-ad80-724254685596,Mercury,,unspecified,Emission to soil,kg,"1,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,44d3e792-7c9e-48ab-9de9-acfa2e097f26,Copper,,unspecified,Emission to soil,kg,"52,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2bcad3b3-5305-481c-a166-ad5e6eac2675,Nickel,,unspecified,Emission to soil,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,739234c8-5359-48b4-983f-9cb170d68c8d,Lead,,unspecified,Emission to soil,kg,40.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3256d56f-4ca3-4680-8cc1-0f8748e71373,"Arsenic, ion",017428-41-0,unspecified,Emission to soil,kg,"2,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,85a764f2-a810-4b20-bc86-a45604262fda,Tin,,unspecified,Emission to soil,kg,171
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ceb46204-2e85-32d2-a2de-67c3dc776d51,Chromium III,016065-83-1,unspecified,Emission to soil,kg,407
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,12051b95-831a-49c0-9a70-fbc0e8fb9af9,Cobalt,,unspecified,Emission to soil,kg,"6,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8b531ec0-ca7a-49cd-bef0-56f110112f34,Molybdenum,,unspecified,Emission to soil,kg,1.48
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,99cd88f6-16b7-4b28-895c-2f42101f634b,Barium,,unspecified,Emission to soil,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c49fb4cd-eed0-4438-9052-9612473cdbae,Antimony,,unspecified,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6fa8a7df-bd00-4b65-82bd-23b6a4cffe6a,Thallium,,unspecified,Emission to soil,kg,"1,760"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,581ddcdf-82b7-4f87-83ee-761a44fea7f7,Magnesium,,industrial,Emission to soil,kg,0.36597
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,60c851be-90e2-3de1-a5a3-9ffc8979a9c1,Chromium III,016065-83-1,industrial,Emission to soil,kg,407
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8338b7a8-d02b-44b0-a952-09504afd38d9,Antimony V,022537-51-5,industrial,Emission to soil,kg,"9,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,16f40b1c-f7c8-4100-9916-81a260493951,Sulfur,,industrial,Emission to soil,kg,"20,911"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7c683e8c-51da-4c65-bae9-28b59fd6b43b,Antimony III,023713-48-6,industrial,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,57117e3c-15aa-4b4d-b953-6d33986aa5aa,Calcium,,industrial,Emission to soil,kg,47.271
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,961160f8-e254-3dba-b74b-dfb7d98c8efe,Arsenic III,022541-54-4,industrial,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a57cb19d-f436-4c0c-a2ab-097c544bd95f,Silicon,,industrial,Emission to soil,kg,0.00508
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a1f121b6-59f1-3d8b-8a23-075ff1119d85,Lithium,007439-93-2,industrial,Emission to soil,kg,33.303
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,58a3086e-3ded-4751-a313-05608f725081,Boron,,industrial,Emission to soil,kg,2.1967
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ebc4c2a3-c004-4053-8048-f41fdd9324c8,Arsenic,,industrial,Emission to soil,kg,803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,765546a9-b056-4d27-ad14-2f016511bdcb,Aluminium,,industrial,Emission to soil,kg,"276,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e65a9c58-21f1-48b6-b738-d05a8f10e5f3,Chromium,,industrial,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ee018b5e-c9c3-486b-aeb4-ef045a4e3ccd,Strontium,,industrial,Emission to soil,kg,"7,730"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,16316600-f12a-410b-8726-3faee64de60a,Silver,,industrial,Emission to soil,kg,"10,100"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9c706cff-cb82-4207-a589-95896e04dc08,Manganese,,industrial,Emission to soil,kg,91.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9c2b7226-37a8-4958-bb1b-d7a062d9e509,"Chromium, ion",016065-83-1,industrial,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,41abb9cf-8e9a-40fe-895e-d491e32244b4,Titanium,,industrial,Emission to soil,kg,1.047
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,98693cdf-d9fc-43ed-bfe6-78dfe5742d33,Iron,,industrial,Emission to soil,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1a5850a0-0069-4b73-bb91-7a61e8d45ae5,Vanadium,,industrial,Emission to soil,kg,581
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c126f8a0-6bc4-42e6-9220-d6ccfef3f2ed,Molybdenum,,industrial,Emission to soil,kg,1.48
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0a5e8a67-f9ae-48b3-bfa7-e9d37c30a191,Copper,,industrial,Emission to soil,kg,"52,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2b2369a4-26bb-4b18-8479-752fdf7a5e7f,Antimony,,industrial,Emission to soil,kg,61.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b88999ec-84fd-462d-9dec-7e20a4636a58,Zinc,,industrial,Emission to soil,kg,730
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bc3d3e8d-249a-4e6d-85e8-3a003ca32776,Thallium,,industrial,Emission to soil,kg,"1,760"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b0758e8e-691c-4c96-8a90-4784c47cd962,Beryllium,,industrial,Emission to soil,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e2128dc4-e065-4030-81b3-c978d7bc48ec,Mercury,,industrial,Emission to soil,kg,"1,560"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e070bd24-fd16-4963-8f4d-78bb4c402400,Tin,,industrial,Emission to soil,kg,171
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,89721e33-60fa-4447-bfc6-2f27d44a7893,Cadmium,,industrial,Emission to soil,kg,"116,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a72a45ee-395a-4d25-b893-9d183e43e76e,Nickel,,industrial,Emission to soil,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0e907e32-c2f3-4cd6-a7e6-64363f82d635,"Arsenic, ion",017428-41-0,industrial,Emission to soil,kg,"2,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,58060894-19d9-4855-84d8-58935a5325f8,Chromium VI,018540-29-9,industrial,Emission to soil,kg,524
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,67652827-017f-4856-8d0a-c97bac4c6562,Lead,,industrial,Emission to soil,kg,40.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,381a22c9-3722-4378-810d-86958f7b6d32,Cobalt,,industrial,Emission to soil,kg,"6,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,56a24912-2d66-4124-87d8-f760c2fe3973,Selenium,,industrial,Emission to soil,kg,36.8
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5719929a-8c5b-48cc-a039-b11a9f380467,Barium,,industrial,Emission to soil,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,09585ed9-e4a1-41a4-8e1b-c5737cddd140,Antimony III,023713-48-6,"river, long-term",Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,69103329-9d2f-44d3-91c2-add278279ec4,Antimony V,022537-51-5,"river, long-term",Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2e941373-000c-4ca4-a679-9930bc5b0a3d,Strontium,007440-24-6,"river, long-term",Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dccdc30c-98b7-4533-b8f9-eb0e175f674f,Aluminium,007429-90-5,"river, long-term",Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f67c0d67-84c9-38f6-b0d2-b58afcf4b1a1,Chromium,007440-47-3,"river, long-term",Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6570b202-29b7-4525-ab23-c56f1913903d,Silver,007440-22-4,"river, long-term",Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d683ef13-3e94-48ac-af2f-f3149ddf2956,Manganese,007439-96-5,"river, long-term",Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dbbfcfc4-ec69-446b-a9f9-abb8e6821108,"Silver, ion",014701-21-4,"river, long-term",Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5455cadb-9c19-4d18-98b1-dbecd31aa6bd,"Chromium, ion",016065-83-1,"river, long-term",Emission to water,kg,809
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,45c69957-ff25-4e4d-9894-b759497781d8,Thallium,007440-28-0,"river, long-term",Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8eb5b448-5720-4a3c-9d64-ddc7be93e0e8,Nickel,007440-02-0,"river, long-term",Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,60d974d3-22dd-41ce-81f7-852ac047cf4f,Cobalt,007440-48-4,"river, long-term",Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,53105cc8-e936-48e9-bf05-1f5dee781f29,Tin,007440-31-5,"river, long-term",Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d5e69eb4-1122-4581-948e-153b7d6827bd,Selenium,007782-49-2,"river, long-term",Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,42dfec85-f0d3-4732-a197-78d9d55b70cb,"Copper, ion",017493-86-6,"river, long-term",Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,20e90ac1-05cc-41bc-9c04-4be2355edfb1,"Zinc, ion",023713-49-7,"river, long-term",Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2c3f15ac-9bdf-3b4f-86b5-a9744ae7cdf1,Vanadium,007440-62-2,"river, long-term",Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5781a5cb-067a-43e3-bd99-d4b1ec924498,Antimony,007440-36-0,"river, long-term",Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,79fdbb2d-a497-4198-9b2a-094f98b8aee6,"Cadmium, ion",022537-48-0,"river, long-term",Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b97aa4c6-fe99-4d4b-a2f9-7c6a9cb75d95,"Nickel, ion",014701-22-5,"river, long-term",Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,85925bc2-963a-4ae3-9a73-2d7f239a406b,"Vanadium, ion",022541-77-1,"river, long-term",Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,56c15bd9-e681-4184-98bc-5057588e670e,Mercury,007439-97-6,"river, long-term",Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ffde7d2d-3452-467c-affc-61bc9dde64c6,Beryllium,007440-41-7,"river, long-term",Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eb616bcb-7521-40a4-a2ac-0d33e30c2873,Cadmium,007440-43-9,"river, long-term",Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a00d65f2-63ec-48b4-8b1b-bb44822b88df,Molybdenum,007439-98-7,"river, long-term",Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6cefe674-1076-45e2-846d-af7ad46bcbcb,Chromium VI,018540-29-9,"river, long-term",Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5958a968-d153-415f-acbf-81719c1aa09f,Lead,007439-92-1,"river, long-term",Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,99a3ba49-0b5c-478d-886d-48c22fef6f95,Arsenic,007440-38-2,"river, long-term",Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63d2fc14-dbe8-40a8-8c0c-c4d6fe1b574a,Barium,007440-39-3,"river, long-term",Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f51079dc-faa8-4e54-a49f-a72a7db9d622,Zinc,007440-66-6,"river, long-term",Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ac21adcc-a2c2-4280-b981-76c8b968d535,"Tin, ion",022537-50-4,"river, long-term",Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,89c3976b-2221-4f92-b9fc-deef631691a6,Copper,007440-50-8,"river, long-term",Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08ba6a82-89d5-4cc6-bc09-b2aa18f9eda2,"Arsenic, ion",017428-41-0,"river, long-term",Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0b530ed2-fb82-4223-acdc-a16fd5e84f73,Antimony V,022537-51-5,"fresh water, long-term",Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b79ef202-b8bb-4912-a49a-383da0429d15,Antimony III,023713-48-6,"fresh water, long-term",Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,80d15ee0-eb53-47cb-b878-eab92424e5e5,Strontium,007440-24-6,"fresh water, long-term",Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,10f3d960-5ddd-4dc2-9a72-7d373c110cb4,Iron,007439-89-6,"fresh water, long-term",Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,711bb2fc-8e8f-4ffc-b14a-c9636ece9be5,Aluminium,007429-90-5,"fresh water, long-term",Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0264738d-175c-4a9f-bc9b-1970eba444de,Chromium,007440-47-3,"fresh water, long-term",Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9306591f-3d5d-493f-8d11-c5674d31bda6,Manganese,007439-96-5,"fresh water, long-term",Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5107a475-a750-4aa7-ac70-18011dec6982,"Chromium, ion",016065-83-1,"fresh water, long-term",Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dc7ad5fa-ced1-4071-ac0c-3a6c71880d5c,Silver,007440-22-4,"fresh water, long-term",Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1a002089-bf1f-497c-a4d8-336542f7b38d,Lead,007439-92-1,"fresh water, long-term",Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,557575d3-a808-4336-88d4-0e7b8b178f32,Cadmium,007440-43-9,"fresh water, long-term",Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8290a3c0-28a3-4a47-a4cd-5ced47819aec,Thallium,007440-28-0,"fresh water, long-term",Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7c54f98b-1317-4f0c-9cdf-f0cd92cc590f,Molybdenum,007439-98-7,"fresh water, long-term",Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d2823e63-e692-4fa3-b164-09e334237104,"Nickel, ion",014701-22-5,"fresh water, long-term",Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1fc9d052-d530-432a-a821-b592f9827707,Selenium,007782-49-2,"fresh water, long-term",Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,718c569c-39d3-475d-b76c-c6ea6cb3701b,Beryllium,007440-41-7,"fresh water, long-term",Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,222febff-5ded-473b-b911-d6a92ee0adf5,Zinc,007440-66-6,"fresh water, long-term",Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,de696a95-4a05-4d04-a8c9-a77af8a72e46,Cobalt,007440-48-4,"fresh water, long-term",Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,007d4ecd-0831-4984-b5e2-814d129c932b,Arsenic,007440-38-2,"fresh water, long-term",Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d3dd6e68-68b7-4dab-b420-8f6bc31ea886,"Zinc, ion",023713-49-7,"fresh water, long-term",Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,47061ba1-011a-4767-975e-dd77b9f45080,Tin,007440-31-5,"fresh water, long-term",Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,093b5695-c6be-4f8f-b2db-fadfc90d98c3,Nickel,007440-02-0,"fresh water, long-term",Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,522e7bd8-194b-4fa8-9f6a-6211958fc040,"Cadmium, ion",022537-48-0,"fresh water, long-term",Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8f77e0ae-424c-4c54-87cb-cfbf6fb5bd43,Chromium VI,018540-29-9,"fresh water, long-term",Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b431a676-72d3-4886-997b-58a176505ca4,"Arsenic, ion",017428-41-0,"fresh water, long-term",Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,82fc5b9e-549b-4a48-b058-22381ad98aa1,Antimony,007440-36-0,"fresh water, long-term",Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d69b6126-a8fb-4ab4-aefb-d69ec873f438,Copper,007440-50-8,"fresh water, long-term",Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d3288d36-4d7f-45e2-9018-9ec06fcc5439,Vanadium,007440-62-2,"fresh water, long-term",Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b106bea3-bc50-4fc1-a718-985f39bc9dc5,Barium,007440-39-3,"fresh water, long-term",Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ad1d7216-d970-47df-8dc5-137cdd4862b7,Mercury,007439-97-6,"fresh water, long-term",Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b41f85a9-a498-492e-a2f4-06ce7de72584,"Tin, ion",022537-50-4,"fresh water, long-term",Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,99a84731-da4e-487c-9dcf-087a665bfd1a,Antimony V,022537-51-5,fossil-,Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0bd5c5f2-103e-46f3-95fd-8007783246c3,Antimony III,023713-48-6,fossil-,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,96856aaf-c7c3-4eab-8646-37ce1a3b3307,Strontium,007440-24-6,fossil-,Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,92aa558e-3c07-4cd8-a9ae-fcb65a9b8e20,Aluminium,007429-90-5,fossil-,Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,32fddff1-b030-4cd2-a69c-4966c4caac1c,Silver,007440-22-4,fossil-,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,768b5d8f-44de-4a0e-960c-808d674ac03d,Manganese,007439-96-5,fossil-,Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a26fb2c7-190e-420f-b04a-4953f8b42846,"Silver, ion",014701-21-4,fossil-,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b0857ccc-858a-46ad-b31c-d0e9219034e7,Nickel,007440-02-0,fossil-,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b9480761-aec7-4984-aabd-3931311d401e,"Zinc, ion",023713-49-7,fossil-,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,494daccc-88c5-457d-b06d-c7581dc3b436,"Nickel, ion",014701-22-5,fossil-,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d8b1ac20-6009-4f3d-a023-a0ba210974b2,Zinc,007440-66-6,fossil-,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ac43097c-d2eb-4653-bbcc-49d703488d35,Cobalt,007440-48-4,fossil-,Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,41296cfa-6a26-44a0-9e32-7aeabd06b04d,Selenium,007782-49-2,fossil-,Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6f6a682f-7fa0-4b84-9fff-8c35aeea6b92,Thallium,007440-28-0,fossil-,Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8ccf40b6-eee0-4b71-9bc5-965328e2ef95,Lead,007439-92-1,fossil-,Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0dbc8bdf-90bd-4196-a995-70b86bc0c362,Vanadium,007440-62-2,fossil-,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1da8a53a-ea77-4a9a-8019-5e78c52ff45a,Tin,007440-31-5,fossil-,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a02d004c-73d9-439d-b8e4-796c19cb8581,Copper,007440-50-8,fossil-,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,692cad97-1c54-46eb-8053-ec38d294a125,"Copper, ion",017493-86-6,fossil-,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0084f973-7133-4d7a-9009-fa46c1f7460c,Antimony,007440-36-0,fossil-,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3ba19e4c-86c0-4f21-80d1-76bb21d59f22,Molybdenum,007439-98-7,fossil-,Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9a1fde6a-02bb-420f-9534-5b5fc63020e1,Mercury,007439-97-6,fossil-,Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9038efbe-6a55-4582-8637-02d7b5a10a8e,Chromium VI,018540-29-9,fossil-,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dca18eb9-ed7c-44e6-a571-7594440ad70e,"Arsenic, ion",017428-41-0,fossil-,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eb80c206-f7c4-4765-9b22-b61dcdb6f0be,Beryllium,007440-41-7,fossil-,Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,67b5b669-06b1-4be6-87bd-b68bbbe4bd5a,"Cadmium, ion",022537-48-0,fossil-,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3f8d0e17-8ca4-4841-b3c8-9f4642baa104,"Vanadium, ion",022541-77-1,fossil-,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eed61927-90e5-4e59-a0bb-6507551c835c,Cadmium,007440-43-9,fossil-,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,78788c80-dc2f-4822-9ecc-1fd41b62e9a6,Barium,007440-39-3,fossil-,Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0fd3a557-acc2-49fc-b914-864f475dca75,"Tin, ion",022537-50-4,fossil-,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,223c6940-52f1-45c9-9e53-19a3b83f3e57,Arsenic,007440-38-2,fossil-,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,10736191-06d0-4c0e-a0a2-3f8f51b109b2,Cesium,007440-46-2,fresh water,Emission to water,kg,"1,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e0f1f15f-dbfd-48bd-99ac-a46bd4f6489c,Antimony V,022537-51-5,fresh water,Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e5708525-624d-4472-b6c9-5578ce80e3fb,Antimony III,023713-48-6,fresh water,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,75603435-8540-4c39-b2bd-ffed0fdadee2,lithium,,fresh water,Emission to water,kg,76.907
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,549b1a2a-6675-4bf9-b0d7-47a5113a9787,Strontium,007440-24-6,fresh water,Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a86c05d6-fd47-4f0d-8ece-559afa4fd339,Titanium,007440-32-6,fresh water,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6c445f1d-db0f-431c-a2f0-d25aa28bdfd1,Iron,007439-89-6,fresh water,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5fb7fbc0-e7d1-4be5-a194-ec5ef5fb4f64,Aluminium,007429-90-5,fresh water,Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7c84d9a4-a5bb-4fe5-95ad-b51a096a255a,"Chromium, ion",016065-83-1,fresh water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7ec8c6c1-e62a-4000-a1f6-bce131634f1b,Chromium,007440-47-3,fresh water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d3a50c57-7caf-4400-87f5-b0c10d69e760,Manganese,007439-96-5,fresh water,Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,60d55006-b236-4d9d-8700-71e92bc401af,Silver,007440-22-4,fresh water,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cd26472d-d670-49fd-9df2-f689a14e9892,"Cadmium, ion",022537-48-0,fresh water,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,810b11b4-6438-4b30-b9a1-8202b2a53145,Cadmium,007440-43-9,fresh water,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,effc4859-28eb-4470-a839-d86491b9c12d,"Vanadium, ion",022541-77-1,fresh water,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,78443a3c-a25a-47bc-a1a1-48d2a57e04df,Arsenic,007440-38-2,fresh water,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f5aa8364-8feb-4e1b-a9d0-2ceffa388306,Antimony,007440-36-0,fresh water,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0ee08c3a-1553-4637-8f17-c486c115ef2b,Barium,007440-39-3,fresh water,Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,307c1028-7727-4627-ac0b-a3c14fef1d7a,Selenium,007782-49-2,fresh water,Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,670502ea-2788-438f-8d4d-779ade3290f3,"Arsenic, ion",017428-41-0,fresh water,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e69510c5-d9c6-42aa-a6cb-ff6336b3eae4,Cobalt,007440-48-4,fresh water,Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e2a4c2f8-3671-47e7-8649-f5e97a4ad32e,Copper,007440-50-8,fresh water,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,caa6bc06-e7e6-4f08-acd3-2163db51e395,Chromium VI,018540-29-9,fresh water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e529c930-e3c6-4d2d-8a96-f052ec23f2e7,Mercury,007439-97-6,fresh water,Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,04512c78-0228-4291-8c4d-7e64b6ad670c,Beryllium,007440-41-7,fresh water,Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5bff9173-4685-4759-990f-42bd508128b8,"Tin, ion",022537-50-4,fresh water,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cda76a7e-4758-4c58-99ce-f7d29afdd629,"Nickel, ion",014701-22-5,fresh water,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a708a1f6-7297-45ba-8fda-47a1ce6f11c3,Vanadium,007440-62-2,fresh water,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0eae0eb8-0cfb-4d67-9cc4-114fc67f1cfd,"Zinc, ion",023713-49-7,fresh water,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7213c990-49f1-4416-b154-64fba3771f50,Zinc,007440-66-6,fresh water,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,77b23aa4-9f0a-4d3f-8857-29ee054cdae1,Nickel,007440-02-0,fresh water,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,db652d59-898e-46f3-acce-b28596c26dc7,Thallium,007440-28-0,fresh water,Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,df28f5b4-4754-4e51-ac98-31238976d7c7,Tin,007440-31-5,fresh water,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,408b3ab9-9ef7-4535-b7eb-975d55b3c6b6,Molybdenum,007439-98-7,fresh water,Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,80b3c2a1-af98-4dde-b298-abf7e78e38ee,Lead,007439-92-1,fresh water,Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3a2c6485-82bd-3bb5-9025-b988207179be,Zirconium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1aafc673-19cc-3b72-b455-951a214ed1c4,Arsenic III,022541-54-4,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5b4f8cec-e890-3f9c-8a65-b3379767c48c,Iron III,020074-52-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ce9fd912-233a-4807-a33e-0323b1e4a7a2,Magnesium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6828b955-1aa9-35d3-92be-b86d16677590,Cerium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,061d04a0-af1d-4884-bdd3-997b6cd5550f,Boron,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ce88a9b6-0afa-4f68-9b32-8c3438bf4025,Silicon,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2267ffd7-fe74-441e-873b-dd66c26a5e9f,Cesium,007440-46-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3be783c5-8dde-4331-974e-c5df4624311b,Antimony V,022537-51-5,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,19998db8-a490-4ac5-8f13-d0e163012d26,Antimony III,023713-48-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f512d92c-5263-38e0-8185-988d0adf9107,Lithium,017341-24-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,10319ea8-90db-4340-be33-b7182dca01db,Tungsten,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,514a34f1-f7b0-330b-a4ea-984c265e4793,Chromium III,016065-83-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8b31d489-c85c-4cd6-bd7b-fc5599acc168,Sulfur,007704-34-9,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ae28c923-a4a3-4f00-b862-1ae6e748efb9,"Calcium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a2017716-a6ee-3c76-adf4-eab05dcfeb14,Calcium,007440-70-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a46e7f4-c66c-43e5-8a8a-d119c4098aff,"Titanium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9b6d6f07-ebc6-447d-a3c0-f2017d77d852,"Iron, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08fbcb07-e7a1-352c-b779-9d7c578059d5,Titanium,007440-32-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8f1b69d9-fc00-4b46-99f9-7a57fd71dad2,Strontium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ee428b94-c139-39d9-88cf-4317bb116e52,Iron,007439-89-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,01056d4b-f9b0-4dfc-b8d9-8407c8376efb,Aluminium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d9c23a8d-e7bf-4f70-8d22-b9ad8a653204,"Chromium, ion",016065-83-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,835d0907-a668-4d92-b6b6-7b56fa343713,Manganese,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,94426df9-63b1-4dc6-ad1b-3509e22f1154,"Silver, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,74779ab0-b20f-3061-882a-6c73e136fdef,Chromium,007440-47-3,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,efe1bd7c-da90-455e-bf61-24ed1fa7e241,Silver,007440-22-4,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,24e0a9cb-a789-46e2-a25c-0278a90d67e5,Beryllium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7e9baf19-8fa4-49c6-a3c2-2e875217e60b,Thallium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,238cb6c4-b307-4c7c-8c31-ef5d0f56a402,Copper,007440-50-8,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3184c902-c587-4fd7-bd89-769d3cf30072,Barium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bdce3a7c-e008-4391-be26-285f71a02453,"Zinc, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ef475b50-9cd0-4e7c-9c59-07868fe16e91,Chromium VI,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ef1d3f95-e337-490c-9b85-e563cef28f9b,Arsenic,007440-38-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9f69cb8e-51fe-447b-a1ac-4da74de8ebe4,"Nickel, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,60a6702f-20ad-444f-a6df-f6374f1e3183,"Tin, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4ce23896-a82f-49f1-a8e3-8848734805a3,"Cadmium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4d54a415-82d7-49ac-88e1-712bd0009363,Selenium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eca797dc-3334-44ce-aa9d-281d7f46563a,Zinc,007440-66-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d2d681fa-4109-4fcd-9261-7b47132ea417,Nickel,007440-02-0,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0ff15165-d761-48c9-9814-2d1dcdd56857,Lead,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1e904267-caa3-40e6-a3a0-fc104489770b,Cobalt,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c2e2b45b-c9f6-3bc9-8f4e-c2432a9eedce,Vanadium,007440-62-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0c5da324-34a7-4e38-98e5-18a8625a2b7c,Cadmium,007440-43-9,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,40f89b03-64f8-466d-9480-bca47d8a435c,Mercury,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7d3f7498-3596-478a-9fa1-72201ef94082,Molybdenum,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,41dbbe1f-06e1-4a34-8497-5986be8f9e51,"Vanadium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,83cf77ca-867b-4eef-b0f0-78d71b3d91d5,Antimony,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a1ae6502-81fb-4ce4-8c6d-2e82bdcd734b,Tin,007440-31-5,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,40229ebf-9346-4f20-910a-f8ea3bd88d44,"Copper, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e60edb16-3c74-415b-9aff-a22a6f49fecb,"Arsenic, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5ac2254e-6b60-45f5-a700-6e0b93f411c8,Sulfur,,unspecified,Emission to water,kg,"66,901"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ee0ce336-5e7a-3d98-9632-710d9861b64f,Antimony III,023713-48-6,unspecified,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b8823bae-a149-44d7-825b-30708a97cb5f,Silicon,,unspecified,Emission to water,kg,2.3463
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c11395e9-6db2-399b-a299-67c4ee672ffc,Antimony V,022537-51-5,unspecified,Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9783014c-4ec6-4c9c-84d7-d34c8b390a0b,Magnesium,,unspecified,Emission to water,kg,0.58961
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,49cecb9b-858e-33aa-a54e-2c0d5881a748,Iron III,020074-52-6,unspecified,Emission to water,kg,"1,725"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08151735-9d1b-4b1c-a8b1-f341ade54f2f,"Calcium, ion",,unspecified,Emission to water,kg,109.18
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,59570d74-fac9-446d-88a7-5c5b0a6139a7,Cesium,007440-46-2,unspecified,Emission to water,kg,"1,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1b7a743b-f3ab-4a26-9f83-7012ee6cc2f3,Tungsten,007440-33-7,unspecified,Emission to water,kg,40.263
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4a15cd40-96e6-4912-8298-c0fa8f9e2aee,Boron,,unspecified,Emission to water,kg,11.793
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a63690a-ff84-314b-b7b8-d34b6ff130bf,Cerium,,unspecified,Emission to water,kg,"1,960.9"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2feed42c-5c1a-4770-a233-6d4e0cf8f02e,Calcium,007440-70-2,unspecified,Emission to water,kg,109.18
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5d6c8d75-a2c4-362f-aa70-383d7c663ba9,Zirconium,,unspecified,Emission to water,kg,24.232
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bd1338f6-56b8-310d-907b-c823ca512d73,Arsenic III,022541-54-4,unspecified,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b26b758d-85cc-41b8-872c-3683caa638d1,Strontium,,unspecified,Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a4c31e2a-915e-4ab2-accd-d3ae93d2e01e,"Titanium, ion",,unspecified,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,47bf8e85-dd0a-4b61-b933-cf1e18f34d1e,Lithium,017341-24-1,unspecified,Emission to water,kg,76.907
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e7d74e-8549-11e0-9d78-0800200c9a66,Iron,007439-89-6,unspecified,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eb2bfdf1-1881-40e8-bebb-d674b2a79149,"Lithium, ion",,unspecified,Emission to water,kg,76.907
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,de444dc0-5964-4501-8367-50ba53bfc6b9,"Iron, ion",,unspecified,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6089e9e4-f382-4066-9968-fc7e42b51066,Titanium,007440-32-6,unspecified,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7880e65c-0321-4295-ba55-3186ad36e489,Aluminium,,unspecified,Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e82560-8549-11e0-9d78-0800200c9a66,Silver,007440-22-4,unspecified,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e7b036-8549-11e0-9d78-0800200c9a66,Chromium,007440-47-3,unspecified,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6aa8673f-f7e3-4270-93dc-e97b745fced7,"Silver, ion",,unspecified,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,10cbd2f7-c41b-4bb4-b636-d8fc15cf0282,Manganese,,unspecified,Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e1bd008f-c3c2-47f1-ab60-35e1a842acc0,"Arsenic, ion",,unspecified,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e7fe55-8549-11e0-9d78-0800200c9a66,Nickel,007440-02-0,unspecified,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,33627701-feca-434d-a192-674a450eaaf7,Cobalt,,unspecified,Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,20839113-fbf2-4d2f-bab8-66861f86bc60,"Vanadium, ion",,unspecified,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2f100cfa-4feb-45e9-a43a-357128228889,Copper,007440-50-8,unspecified,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b2dc8668-86de-4207-b20e-dc81dea63c98,Antimony,,unspecified,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e8256e-8549-11e0-9d78-0800200c9a66,Vanadium,007440-62-2,unspecified,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d5c40848-fc29-47fa-90a4-46db64a45a4e,"Tin, ion",,unspecified,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8a377f10-d147-41ff-b9ef-53fad50245ce,Arsenic,007440-38-2,unspecified,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,32fccda4-0d99-40ab-b65f-c7203080b62b,Thallium,,unspecified,Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6ec6cdaa-5a01-46d4-b716-1905e56690ea,"Nickel, ion",,unspecified,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e8256f-8549-11e0-9d78-0800200c9a66,Zinc,007440-66-6,unspecified,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0e1c17ae-8144-4714-a7cd-786a5480f423,Barium,,unspecified,Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a9ec0c9b-982a-4329-99ae-dab1f9fb62d3,Chromium VI,,unspecified,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,31c4d160-b21e-41b3-b9c1-3d7a72377653,Lead,,unspecified,Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2c7be02c-791f-4fef-b231-b90321bbeb30,"Zinc, ion",,unspecified,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2712fe5f-0d3c-4c8e-8bc4-26c604413849,"Cadmium, ion",,unspecified,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,615b1460-6860-4cf6-8678-ad92c03c5e8b,"Copper, ion",,unspecified,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,63e8256a-8549-11e0-9d78-0800200c9a66,Tin,007440-31-5,unspecified,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9325957a-bee5-4f2d-8bd1-458729c5e49e,Mercury,,unspecified,Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,30f484ee-dec4-47ae-8e92-d00d4b93fe05,"Chromium, ion",,unspecified,Emission to water,kg,404.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fdaaef05-0d10-4032-b2e7-85cae3c7bd5c,Molybdenum,,unspecified,Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6284e146-54b2-4067-a478-9b8ee24c6400,Selenium,,unspecified,Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c087ef23-4b5b-40f6-932a-7939b72386c4,Cadmium,007440-43-9,unspecified,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8d0ca1a5-6a40-4eda-861a-a0fccdc81b19,Beryllium,,unspecified,Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ea743905-23c7-32ff-b948-5f1373ea4f22,Iron III,020074-52-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,871b6f07-de14-48d4-b4aa-7745872c7e9a,Sulfur,,ocean,Emission to water,kg,153.76
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f2342fe7-5642-373f-a5e5-193efb5813b8,Zirconium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9234-0050c2490048,Calcium,007440-70-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bc2e0302-4ce2-3247-8234-3b77c53ea22f,Antimony III,023713-48-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5baed830-f676-4031-a036-8a9599bd7237,Boron,,ocean,Emission to water,kg,0.00019
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3086e663-637a-3d3a-a46f-6a58906dd3e5,Antimony V,022537-51-5,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e189eb4e-0f6a-4054-aaf8-47df28c87ec4,Cesium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,957120c7-cddd-39ce-a0b4-f2cba206d4aa,Arsenic III,022541-54-4,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,858db89d-e5e7-340d-a9cb-d8a5745dbc47,Cerium,,ocean,Emission to water,kg,0.08045
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5fefa2d0-133d-444f-b1fe-596d15f4673e,Silicon,,ocean,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,55bf893f-0d89-429c-be59-2f99b33ddb11,"Calcium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a431850e-e4d2-449e-b900-d44e948d489a,Tungsten,007440-33-7,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1a217018-e3e5-499c-9eb5-5aacb9e6ae9a,Magnesium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,836493d4-5c50-4713-b2a8-7979b830c1a5,Strontium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2c9a7182-37c8-4777-a37a-9a007c3edb2f,"Iron, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9599-0050c2490048,Iron,007439-89-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2beb46d1-2d1d-48ca-bf95-f0668fed29bf,"Titanium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6a0dcabc-a85c-4a90-a989-afaf85d095b9,Lithium,017341-24-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-999e-0050c2490048,Titanium,007440-32-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0ace7678-a181-48e8-8728-d912a8b56c57,Aluminium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,21c257b2-57ce-4a6e-b4bd-40f0f75f310f,"Silver, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9f77-0050c2490048,Chromium,007440-47-3,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c91fd4bf-ed70-4e2f-a34f-159773f981b6,Manganese,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4468e7d7-d456-4bad-aa43-b6ddd36b20bb,Silver,007440-22-4,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7ae387da-8a0f-4931-97d4-49e93c0f5482,Thallium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,62cc5e18-da24-4fb7-9f7c-1601fedba341,Selenium,007782-49-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e9e856c2-868e-435e-8425-8df1c9297cfc,Lead,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7805afa2-d93b-40bb-b841-325b98aec824,Antimony,007440-36-0,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d98f0ec0-bf19-4c90-a457-a8593dec497f,"Chromium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2eb62d45-c3b4-3a41-8a12-bdfb84684fb2,Chromium III,016065-83-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4d9a8790-3ddd-11dd-96d1-0050c2490048,Copper,007440-50-8,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-96d0-0050c2490048,Nickel,007440-02-0,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,163926e2-b4cc-42bb-ba7d-401028140985,Molybdenum,007439-98-7,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,23cb10a4-6228-4ce4-9fb5-7043bc31faec,"Nickel, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9993-0050c2490048,Tin,007440-31-5,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,95ad40ec-c34b-49fc-a7dc-0e13172ac105,Barium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,caf066cf-40ce-47a8-ba4c-969fcd6019c7,Cobalt,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dbdc3ea8-cc2b-4dbe-82b9-e954e333281d,"Vanadium, ion",022541-77-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d70b4182-d633-4178-84c0-8854f5f6594b,"Arsenic, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fd61d155-3b34-46d5-8769-efb3e806f545,Mercury,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,81b3321a-c9d8-4104-a974-5460f1bc5029,Chromium VI,018540-29-9,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-91e3-0050c2490048,Arsenic,007440-38-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-94eb-0050c2490048,Zinc,007440-66-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4d9a8790-3ddd-11dd-8dc2-0050c2490048,Vanadium,007440-62-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,62fcd384-906d-474f-a84b-9f944b78f804,"Cadmium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a992e5e-9f16-47b8-8bcb-733d00bed658,"Tin, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2195d86f-e4c8-4e86-9f18-b5b065b1df7e,"Zinc, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fe0acd60-3ddc-11dd-a294-0050c2490048,Cadmium,007440-43-9,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d8f9ccf6-fd32-4348-83c0-1cee724af9ae,"Copper, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7672267f-4541-4c9a-9ca0-ec2f41b95cbc,Beryllium,007440-41-7,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bed36a4a-bd80-4249-9f95-14f794a09092,Antimony III,023713-48-6,surface water,Emission to water,kg,122
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7673fea9-b4ab-403e-b011-f1fb5a74ea2a,Tungsten,,surface water,Emission to water,kg,80.527
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,96f0a692-ddb9-4a4c-8236-7c943929653d,Cesium,,surface water,Emission to water,kg,"3,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,16d8a28a-bf21-46ff-ae18-6da39e53fa17,Sulfur,,surface water,Emission to water,kg,"133,650"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7a381e55-0fde-41c3-95b7-63ef866271cc,Antimony V,022537-51-5,surface water,Emission to water,kg,"19,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7bdab722-11d0-4c42-a099-6f9ed510a44a,Magnesium,,surface water,Emission to water,kg,1.1792
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,94e22edc-fe4b-4bab-9a09-a081595389cc,Boron,,surface water,Emission to water,kg,23.585
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fc2371dc-5bff-41f6-a155-697fbf727b56,Silicon,,surface water,Emission to water,kg,4.6927
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ff36578b-f403-4656-b934-81d8d4e02dc8,"Titanium, ion",,surface water,Emission to water,kg,4.8369
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7c335b9c-a403-47a8-bb6d-2e7d3c3a230e,"Iron, ion",,surface water,Emission to water,kg,134
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e98084d6-88a2-48cf-9ad5-6462fe9cf857,"Lithium, ion",,surface water,Emission to water,kg,153.81
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4295ed5b-9824-4bbf-97a4-fc4cabd87f0d,Strontium,,surface water,Emission to water,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,97e498ec-f323-4ec6-bcc0-d8a4c853bae3,Aluminium,,surface water,Emission to water,kg,"409,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e34d3da4-a3d5-41be-84b5-458afe32c990,"Chromium, ion",,surface water,Emission to water,kg,"1,040"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,af9793ba-25a1-4928-a14a-4bcf7d5bd3f7,"Silver, ion",,surface water,Emission to water,kg,"19,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f532985c-90b7-46fc-aac9-b039b40e22f1,Manganese,,surface water,Emission to water,kg,164
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9798359e-a3ee-4362-a038-23a188582c6e,"Nickel, ion",,surface water,Emission to water,kg,"29,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8c8ffaa5-84ed-4668-ba7d-80fd0f47013f,"Arsenic, ion",,surface water,Emission to water,kg,"1,520"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,442511cc-a98b-4242-9229-5736cb9a9399,Molybdenum,,surface water,Emission to water,kg,2.95
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,66bfb434-78ab-4183-b1a7-7f87d08974fa,Mercury,,surface water,Emission to water,kg,"2,210"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,541b633c-17a3-4047-bce6-0c0e4fdb7c10,"Zinc, ion",,surface water,Emission to water,kg,"1,330"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6d9550e2-e670-44c1-bad8-c0c4975ffca7,"Copper, ion",,surface water,Emission to water,kg,"99,200"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d9008a06-991c-4acc-a33e-5483ffd2491e,Thallium,,surface water,Emission to water,kg,"3,530"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2c872773-0a29-4831-93b9-d49b116fa7d5,Barium,,surface water,Emission to water,kg,"3,140"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,544dbea9-1d18-44ff-b92b-7866e3baa6dd,Selenium,,surface water,Emission to water,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d4291dd5-dae8-47fa-bf06-466fcecbc210,Cobalt,,surface water,Emission to water,kg,"12,300"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3ddb2e36-bc1b-43a5-8ef4-cbcdbeeeea70,"Tin, ion",,surface water,Emission to water,kg,298
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,34b96163-a3df-4bc1-8224-e2a9fe01b23f,Antimony,,surface water,Emission to water,kg,122
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,af83b42f-a4e6-4457-be74-46a87798f82a,"Cadmium, ion",,surface water,Emission to water,kg,"229,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a46a250e-297d-43e9-b1c4-052cdcfb79c5,"Vanadium, ion",,surface water,Emission to water,kg,"1,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8216fc31-15a1-4d33-858f-e09650b14c63,Chromium VI,,surface water,Emission to water,kg,"1,040"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b3ebdcc3-c588-4997-95d2-9785b26b34e1,Lead,,surface water,Emission to water,kg,68.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,276e755c-ed57-466a-b555-4658c791f385,Beryllium,,surface water,Emission to water,kg,"1,380"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f792855f-4bfc-355d-81a2-380efcba15b7,Arsenic III,022541-54-4,river,Emission to water,kg,"1,520"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,83fc5b69-9794-48a8-8e6f-8288a1ec6735,Antimony III,023713-48-6,river,Emission to water,kg,122
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c7248271-14ab-47b8-a6b7-d17ab67395ab,Antimony V,022537-51-5,river,Emission to water,kg,"19,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d1577c55-4d45-4d29-b02b-e9f521d77943,Tungsten,007440-33-7,river,Emission to water,kg,80.527
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2bdc1594-1919-45f2-bfa1-fc205940c2db,Boron,007440-42-8,river,Emission to water,kg,23.585
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,23bf2438-5e56-36d2-95f8-4878c8727427,Iron III,020074-52-6,river,Emission to water,kg,"3,450"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9b79e20c-f793-4582-8cc7-e8add9c493db,Silicon,007440-21-3,river,Emission to water,kg,4.6927
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c742f0e8-d2a4-3e09-a5d8-57e01ad58e5d,Zirconium,,river,Emission to water,kg,48.463
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5c19fb6f-9712-482b-835b-e5174d31297d,Sulfur,007704-34-9,river,Emission to water,kg,"133,650"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8d53a7ce-1f74-3a82-9e4a-c1ce9e337cbe,Cerium,,river,Emission to water,kg,"3,921.7"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,21cd15ff-af33-3c01-99b1-8c01606f4743,Calcium,007440-70-2,river,Emission to water,kg,218.37
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,70a9a575-6faf-4f99-a4c1-5aed18a64517,Magnesium,007439-95-4,river,Emission to water,kg,1.1792
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,77c88d7f-2ab6-4227-943f-d607f7ca3428,Cesium,007440-46-2,river,Emission to water,kg,"3,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6dbe35bd-0739-3973-8fa6-70d5aeaf016a,Chromium III,016065-83-1,river,Emission to water,kg,809
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3d72ed91-3716-4fa8-9d7a-0f8a756fdd10,Strontium,007440-24-6,river,Emission to water,kg,"15,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,030145f6-dcf3-3230-9fb6-22a09b54d5bf,Titanium,007440-32-6,river,Emission to water,kg,4.8369
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cd4f291e-85cb-3296-8b50-8f412d9fc921,Iron,007439-89-6,river,Emission to water,kg,134
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6c29b24f-7c0e-3c4c-a561-462afd4d231f,Lithium,017341-24-1,river,Emission to water,kg,153.81
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3d1e4302-873a-4f92-9b51-84f9fd61655e,"Iron, ion",015438-31-0,river,Emission to water,kg,134
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f3f33ddd-2027-4f3e-b344-04d0714fc33d,"Titanium, ion",022541-75-9,river,Emission to water,kg,4.8369
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cecf6d85-fe49-4e9f-a325-884de9a9b3c8,"Lithium, ion",017341-24-1,river,Emission to water,kg,153.81
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a501e3f5-4da3-485f-8015-075b4a1aa4d6,Aluminium,007429-90-5,river,Emission to water,kg,"409,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9eacfa39-16cb-4f59-8b85-e43180324540,"Silver, ion",014701-21-4,river,Emission to water,kg,"19,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ec510d90-caf7-4369-a097-1578976d8db9,Manganese,007439-96-5,river,Emission to water,kg,164
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5449a4c7-1070-4026-94b3-c683f4dbefa7,"Chromium, ion",016065-83-1,river,Emission to water,kg,"1,040"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0d991622-f800-3963-a6bc-89747f06c8e0,Chromium,007440-47-3,river,Emission to water,kg,"1,040"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bd64d19f-fa5c-4147-b542-69bd9cd67d30,Silver,007440-22-4,river,Emission to water,kg,"19,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a9ab1b08-8512-4ccd-b83e-fece0692f21b,"Copper, ion",017493-86-6,river,Emission to water,kg,"99,200"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7424df82-43ca-4711-832a-436225fb560e,"Zinc, ion",023713-49-7,river,Emission to water,kg,"1,330"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,32683258-85cc-46d5-858e-8424581a824c,"Arsenic, ion",017428-41-0,river,Emission to water,kg,"1,520"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a32ecf8e-001d-4ec9-9aea-53766f935110,Mercury,007439-97-6,river,Emission to water,kg,"2,210"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,00946913-24e1-4db7-ab0f-940016ce2343,Copper,007440-50-8,river,Emission to water,kg,"99,200"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f420380c-b1b6-4ead-8a54-7d77e53379b7,Lead,007439-92-1,river,Emission to water,kg,68.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8041cd06-58ce-450d-9f44-40922eeafc29,Cadmium,007440-43-9,river,Emission to water,kg,"229,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d521430d-a084-43f6-894d-76e9da72da72,Zinc,007440-66-6,river,Emission to water,kg,"1,330"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a44ba5c-8591-44fb-b487-93c4e40bbce2,Cobalt,007440-48-4,river,Emission to water,kg,"12,300"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cc894b76-253b-4822-8fbf-55736cb8fd89,Barium,007440-39-3,river,Emission to water,kg,"3,140"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,809b4a53-e5eb-432a-bf42-64c49ca0892b,"Nickel, ion",014701-22-5,river,Emission to water,kg,"29,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3ad9cc7b-c8a2-49b1-8c07-2b45239e3cee,"Vanadium, ion",022541-77-1,river,Emission to water,kg,"1,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cf2982b6-13f2-4950-8d4e-d763d900b215,Nickel,007440-02-0,river,Emission to water,kg,"29,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6b2b001e-63b9-4a05-89bc-de549717f07b,Antimony,007440-36-0,river,Emission to water,kg,122
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6158a2f1-4da0-4930-8a0f-17cc32ad842f,Beryllium,007440-41-7,river,Emission to water,kg,"1,380"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7b8e28ba-424c-3744-98af-56f96ddc0c83,Vanadium,007440-62-2,river,Emission to water,kg,"1,130"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,91f895af-5063-4291-a255-0a2ce7708c4a,Thallium,007440-28-0,river,Emission to water,kg,"3,530"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,53c73c46-ea6b-41e9-a943-6356373e3697,Selenium,007782-49-2,river,Emission to water,kg,73.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dfcec3ef-d4c4-4e30-99fe-cd313a2f6b5e,"Tin, ion",022537-50-4,river,Emission to water,kg,298
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6f9b425f-2777-4705-94cc-4ab944d89fd4,Arsenic,007440-38-2,river,Emission to water,kg,"1,520"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fb27d408-4659-4ba5-9f29-e3b356074b1c,Chromium VI,018540-29-9,river,Emission to water,kg,"1,040"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6b7ef553-6e0b-481e-bbbd-c7ece8f92d7d,Molybdenum,007439-98-7,river,Emission to water,kg,2.95
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a17c19a8-97ce-416c-81f8-514c38254080,Tin,007440-31-5,river,Emission to water,kg,298
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,125349bb-041b-4de3-aa95-d4862eddcf52,"Cadmium, ion",022537-48-0,river,Emission to water,kg,"229,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,12fa7549-2732-470b-a17f-122dba2f6a2c,Antimony III,023713-48-6,lake,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2548b6e5-79c8-4851-b36b-98c2e90e557c,Antimony V,022537-51-5,lake,Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08ba90dc-28c6-4c48-8e90-51b61139734f,"Titanium, ion",022541-75-9,lake,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c52f2bc5-a1ad-456f-9f1d-a7c99095ef0d,Strontium,007440-24-6,lake,Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f2e69773-4a43-3c32-ad38-1c84101e32f5,Titanium,007440-32-6,lake,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3640ef93-b2d0-32ad-8f4a-cfc6f4ab3d84,Iron,007439-89-6,lake,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f36ddf83-47ca-4ad6-b247-29c83a3fae3b,"Iron, ion",015438-31-0,lake,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c3847064-fe28-4a8a-9ff1-d959b58c836c,Aluminium,007429-90-5,lake,Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e14e7084-544e-4898-b6e9-79c10ae82f7d,Manganese,007439-96-5,lake,Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,57f5082e-71dc-3cfa-ada2-3aa759cc3cba,Chromium,007440-47-3,lake,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,525d2bc8-8e04-4c3e-935f-91af31af1553,Silver,007440-22-4,lake,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a98a60b4-06ca-487f-bf25-fcc6147145df,"Silver, ion",014701-21-4,lake,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,066fe0d8-92d7-417c-8d3a-9ae8755258c8,Tin,007440-31-5,lake,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,27157a55-02d1-4f86-b3c0-69909cf433fe,Thallium,007440-28-0,lake,Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a2809853-b54e-47e3-b8c1-3e95c80532f9,Zinc,007440-66-6,lake,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9b8bcab2-3946-4a29-8db1-09dcdec1936b,Antimony,007440-36-0,lake,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,521a04ff-177c-457a-9285-bbb6005b3135,Barium,007440-39-3,lake,Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,58bf9dfe-8bbb-4970-8a62-1fc90606d402,"Chromium, ion",016065-83-1,lake,Emission to water,kg,404.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0cc4fa9c-ed07-4249-988d-6b2fe84b7dff,Arsenic,007440-38-2,lake,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,68701316-d3f5-4e08-8814-6b3b28712d85,Cadmium,007440-43-9,lake,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0c13ea54-879a-4580-ae50-23cd5a5cb535,"Tin, ion",022537-50-4,lake,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d4477f26-283d-492c-bc05-5252e09f9156,"Zinc, ion",023713-49-7,lake,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,645687e9-58d1-36bf-a28c-9fe0735146c5,Vanadium,007440-62-2,lake,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,142907e3-8285-4fd6-bef8-8101cb43e147,Molybdenum,007439-98-7,lake,Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ba29bfe3-17a6-4702-8b50-9b63884bf91c,"Cadmium, ion",022537-48-0,lake,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f6bbb331-7bb5-4513-9f44-a346bf0baf7f,Copper,007440-50-8,lake,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7fbd75df-f7eb-4671-b400-dc330cb7db43,Chromium VI,018540-29-9,lake,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7541d517-13b9-4224-a23a-24598abb26b9,"Vanadium, ion",022541-77-1,lake,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7aca2bc2-51ed-4ef5-b569-fb153216fea9,"Nickel, ion",014701-22-5,lake,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c0f8b131-19e5-4787-9c2d-142378b08c2a,"Arsenic, ion",017428-41-0,lake,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1499beff-e008-4efa-9e47-0f6095b0ffc4,Beryllium,007440-41-7,lake,Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,540106ac-eb8e-446b-91f5-3fdbad5a5886,Lead,007439-92-1,lake,Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c742a8cc-6f9c-4742-879c-a18be0d6e5ad,Nickel,007440-02-0,lake,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,aef694fb-8da8-4e26-8b7d-6769a6aa03a4,Mercury,007439-97-6,lake,Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,916801f0-3980-4408-a577-62b222aa1543,"Copper, ion",017493-86-6,lake,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9082553c-5565-485a-9f5e-8864dae563ab,Cobalt,007440-48-4,lake,Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d168ac51-3eb7-4944-8795-89f21c12c040,Selenium,007782-49-2,lake,Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9c0a3d9c-1a45-4846-8f99-d51e680e1adf,Antimony III,023713-48-6,ground water,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a5e13836-93f3-4a63-8e5e-944ac627bced,Cesium,007440-46-2,ground water,Emission to water,kg,"1,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1527dbe1-3437-4ae7-be71-47b56cb8dca9,Antimony V,022537-51-5,ground water,Emission to water,kg,"9,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,070f9c6e-584d-40ed-8b07-6b1f7f75dd3f,Strontium,,ground water,Emission to water,kg,"7,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,33fd8342-58e7-45c9-ad92-0951c002c403,"Iron, ion",,ground water,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e3043a7f-5347-4c7b-89ee-93f11b2f6d9b,Iron,,ground water,Emission to water,kg,67
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4569494e-085e-413a-8fef-63a3c419e0cf,Lithium,,ground water,Emission to water,kg,76.907
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,df8c7706-a6c7-37f7-81d6-5feb3dd08b92,Titanium,007440-32-6,ground water,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e2380d91-f278-41ee-9926-15272a7d1443,"Titanium, ion",,ground water,Emission to water,kg,2.4184
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2e0c9efa-d55c-49db-8be3-0376d5921ff4,Aluminium,,ground water,Emission to water,kg,"204,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e5465f7b-a0c5-3ae2-8066-14f52e4cf64d,Chromium,007440-47-3,ground water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,108a082e-3772-4a76-ac4b-659ffc001e53,Silver,007440-22-4,ground water,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,71cfe87c-ab80-421e-adba-afb7d5bd0861,"Silver, ion",,ground water,Emission to water,kg,"9,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1c87de06-e58f-4684-a54c-d29f1a251a87,"Chromium, ion",,ground water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,44f28e11-061d-44fd-8f25-dc62a9f1fa57,Manganese,,ground water,Emission to water,kg,82
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1be475e0-ccef-4145-98e0-0d47c570a71b,Selenium,,ground water,Emission to water,kg,36.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ea6de79e-ce2c-44b2-994e-d2ea0125732b,Copper,007440-50-8,ground water,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e1aa92d7-9297-452e-ade0-e5e2acc52ad7,Mercury,,ground water,Emission to water,kg,"1,105"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a3178646-f9e4-3a94-9988-e81e3935aea7,Vanadium,007440-62-2,ground water,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9bbae55a-35de-4eff-a219-814a9fec5ac2,Chromium VI,,ground water,Emission to water,kg,520
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ed1fd27e-014a-41cf-842f-7b2022b0be79,"Vanadium, ion",,ground water,Emission to water,kg,565
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e11cdec3-2f12-4888-8687-920f37a95de6,Arsenic,007440-38-2,ground water,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c3b659e5-35f1-408c-8cb5-b5f9b295c76e,"Copper, ion",,ground water,Emission to water,kg,"49,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1f607ae2-b42d-4411-90b8-e9bbac66a554,"Arsenic, ion",,ground water,Emission to water,kg,760
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7da26881-518f-4b1b-87bf-7d1f633a7c1a,Thallium,,ground water,Emission to water,kg,"1,765"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f73177d8-5e57-4f0d-ba34-6889cfdfed40,"Tin, ion",,ground water,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5df5cb9f-812c-4ce8-ab1c-df6ab4d31900,Antimony,,ground water,Emission to water,kg,61
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f0d1c319-249f-4a89-b0e7-3a5a90a54036,Cobalt,,ground water,Emission to water,kg,"6,150"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fa89c354-2263-4ed2-ac56-99946be5c665,Beryllium,,ground water,Emission to water,kg,690
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d68f41b3-6887-49a8-8efa-96812f8ec9f6,Barium,,ground water,Emission to water,kg,"1,570"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9500e0a4-a485-483e-ae55-3b99b4420cd2,Zinc,007440-66-6,ground water,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7e769b3e-03fb-4b53-be15-85a910dcfea9,"Zinc, ion",,ground water,Emission to water,kg,665
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7b66aae2-1d58-490b-8ee7-7677f93c4282,Tin,007440-31-5,ground water,Emission to water,kg,149
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3822809c-cc03-469d-ac2a-9f85842f8440,Molybdenum,,ground water,Emission to water,kg,1.475
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ddce052d-27c0-4b28-8bf6-d50d39e420b0,Cadmium,007440-43-9,ground water,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e030108f-2125-4bcb-a73b-ad72130fcca3,"Nickel, ion",,ground water,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,56815b4f-6138-4e0b-9fac-c94fd6b102b3,Nickel,,ground water,Emission to water,kg,"14,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3937f5a5-b4a4-434d-9fc3-1d29064fc3f8,"Cadmium, ion",,ground water,Emission to water,kg,"114,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c864aa15-0abc-41ad-9889-348106e485d8,Lead,,ground water,Emission to water,kg,34.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a912f450-5233-489b-a2e9-8c029fab480f,Calcium,,high population density,Emission to air,kg,36.998
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ebfe261d-ab0d-4ade-8743-183c8c6bdcc6,Magnesium,,high population density,Emission to air,kg,0.28582
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c30fa9a3-1d9c-30ac-bfb9-1ddd1662c5d2,Antimony III,023713-48-6,high population density,Emission to air,kg,43
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,215df313-4568-32c9-aa2f-9f6220f25ab3,Antimony V,022537-51-5,high population density,Emission to air,kg,"6,640"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b0aacabb-9b90-419d-844b-a2ed64ead80e,Tungsten,007440-33-7,high population density,Emission to air,kg,13.644
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,997dccfb-6574-46b8-ad93-7f31074abf9a,Silicon,,high population density,Emission to air,kg,0.24411
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e0cd789f-ccd1-371e-8d7b-5d15d817b610,Cesium,,high population density,Emission to air,kg,"1,460"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f7ae302c-add6-3d6a-813a-2c798f46f4d6,Iron III,020074-52-6,high population density,Emission to air,kg,"1,300"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e555dac0-9f60-3510-aca4-e7fdb0512561,Tellurium,013494-80-9,high population density,Emission to air,kg,93.109
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3e419ebc-c0f1-4f85-a544-cf3460a680b6,Boron,,high population density,Emission to air,kg,2.4803
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,914b6c95-c6c3-4dab-b75f-9ac6a6f78bfd,Zirconium,007440-67-7,high population density,Emission to air,kg,2.0118
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9c152d5a-fee3-36be-a208-e341a531e780,Chromium III,016065-83-1,high population density,Emission to air,kg,283
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2905ed32-6556-11dd-ad8b-0800200c9a66,Sulfur,007704-34-9,high population density,Emission to air,kg,"8,631.1"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7dfec63e-f049-335f-aa81-daf44824d40f,Arsenic III,022541-54-4,high population density,Emission to air,kg,556
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a1aba71f-76cd-3b2b-93e6-462d7dc9019b,Iron II,015438-31-0,high population density,Emission to air,kg,50.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,abb7f444-e74a-46b5-a6a5-080a847cbbc5,Strontium,,high population density,Emission to air,kg,"5,370"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,32cd0492-c0cb-4898-a2b1-675eedc5b688,Iron,,high population density,Emission to air,kg,50.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f8f772bc-7204-4fda-aa97-080fd0f1b34c,Titanium,,high population density,Emission to air,kg,0.90049
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,85466e0f-e5b5-4084-9338-59e317f7cb09,Lithium,,high population density,Emission to air,kg,26.065
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6f0b8b7c-3888-4174-b7e3-916d42d678ee,Aluminium,,high population density,Emission to air,kg,"187,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c6462d84-caa9-425a-a923-45238690c6f3,Silver,,high population density,Emission to air,kg,"7,010"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f4d0a2c8-efef-4188-85da-5801097389a2,Arsenic,,high population density,Emission to air,kg,556
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a60e0354-94a4-4377-8ded-21f5db15f753,"Chromium, ion",016065-83-1,high population density,Emission to air,kg,283
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b0546417-3064-4878-bd6f-2da75cefdf63,Manganese,,high population density,Emission to air,kg,63.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7705f0e1-5b14-44f4-b330-1245b5c7fc08,Chromium,,high population density,Emission to air,kg,364
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2cba713d-ab0b-44cb-babb-f8cac262554f,Vanadium,,high population density,Emission to air,kg,403
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1ef5b43a-c846-4942-ba9d-2d2686063eff,"Arsenic, ion",017428-41-0,high population density,Emission to air,kg,"1,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,19b6e569-85a4-4ea9-a590-d61a21e3c846,Tin,,high population density,Emission to air,kg,118
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e43a270f-4f88-4789-a0b8-7aba56677743,Nickel,,high population density,Emission to air,kg,"10,600"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,748f22a9-eba4-4726-bef5-92c7442ce189,Zinc,,high population density,Emission to air,kg,503
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c26d4716-ce1e-43da-a662-cd9498b1e8bc,Molybdenum,,high population density,Emission to air,kg,1.03
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5ffb3576-740f-41ba-814f-8538d83a4b3b,Barium,,high population density,Emission to air,kg,"1,090"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a79be2ee-ac83-4328-a136-a34ba1f99089,Selenium,,high population density,Emission to air,kg,25.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,88cde01c-df69-40bb-9b14-6eac71bea5b8,Copper,,high population density,Emission to air,kg,"36,300"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7a59e8d5-cd11-4ee7-b1ca-30979d2b0b3a,Chromium VI,,high population density,Emission to air,kg,364
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6a903634-c97f-4c49-a7c0-88f0e6ac7a23,Lead,,high population density,Emission to air,kg,27.9
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,Mercury,,high population density,Emission to air,kg,"1,060"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,19e97bd6-d0ae-4208-bd77-d58e5d46d827,Beryllium,,high population density,Emission to air,kg,525
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3ea5684a-6d64-4f96-8c09-1d90f997c9d4,Antimony,,high population density,Emission to air,kg,43
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,36e53653-1338-42c7-816c-f6667809e0b1,Cadmium,,high population density,Emission to air,kg,"80,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,50deb561-3de9-4b25-9b61-1695ad2dd136,Thallium,,high population density,Emission to air,kg,"1,230"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ca04300a-8338-4601-ba7c-66c10a4f6322,Cobalt,,high population density,Emission to air,kg,"4,480"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,512364ac-5bba-4b77-8712-981247617519,Boron,,low population density,Emission to air,kg,2.1967
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,52aba3b8-ed5a-3199-971a-fece27433425,Tellurium,013494-80-9,low population density,Emission to air,kg,89.153
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e6353416-21f7-34f6-b932-27fbe971e429,Iron II,015438-31-0,low population density,Emission to air,kg,50.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f06a20b5-fd2d-38c0-a509-fa4b3c34ae52,Cesium,,low population density,Emission to air,kg,"1,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,017c1ca1-8e93-3c85-b743-c8676bfd305a,Chromium III,016065-83-1,low population density,Emission to air,kg,284
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eebb4011-af1d-4a45-8bc5-a20b6c06fbf4,Zirconium,,low population density,Emission to air,kg,1.3066
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,479daf8f-657e-46a6-bdea-3cb2c61c44b1,Silicon,,low population density,Emission to air,kg,0.17374
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0437e787-ef47-4a50-b11f-df7c743e860c,Magnesium,,low population density,Emission to air,kg,0.28008
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2d0d7aea-c02b-32bc-900b-a6a7eac11a68,Antimony V,022537-51-5,low population density,Emission to air,kg,"6,660"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,89ca077d-583d-4293-8d32-248f12bd3e5b,Tungsten,,low population density,Emission to air,kg,13.089
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,15fd8f0f-c3c2-4f63-b8d0-86793a22aacd,Calcium,,low population density,Emission to air,kg,35.495
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c667d683-54a1-344a-9858-71d254f13af4,Iron III,020074-52-6,low population density,Emission to air,kg,"1,310"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a290bdd2-242b-3e80-9535-184152be389f,Arsenic III,022541-54-4,low population density,Emission to air,kg,558
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,edef4eae-b12d-3b84-9c9d-55c9ae8ed03c,Antimony III,023713-48-6,low population density,Emission to air,kg,43.1
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2ff28238-e40b-3cc9-8fdc-2c3b5c62971a,Sulfur,007704-34-9,low population density,Emission to air,kg,"8,517.3"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4a156a66-eb3e-4f87-90a2-ccd13bf942ff,Titanium,,low population density,Emission to air,kg,0.86698
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5d44305f-0af1-480d-911c-77a8dd2b361c,Lithium,007439-93-2,low population density,Emission to air,kg,25.006
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,890c2697-3463-4466-bebb-aecc1e1e730b,Strontium,,low population density,Emission to air,kg,"5,380"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,76152de4-9499-48f7-af98-a5d41842484a,Iron,,low population density,Emission to air,kg,50.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9c3bd678-1b2f-4b95-a245-d5c8a3fe326b,Aluminium,,low population density,Emission to air,kg,"189,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4d40d8e3-9bc7-4ab1-ac5c-4f4a76fda8e5,Chromium,,low population density,Emission to air,kg,365
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,481c0dd4-3ab2-47b5-94c4-b990e8a9dde5,Vanadium,,low population density,Emission to air,kg,404
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7348af7c-e102-4a03-a0df-efce16469eed,Arsenic,,low population density,Emission to air,kg,558
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d43572af-d023-443b-9fad-d56ffc0adc53,"Chromium, ion",016065-83-1,low population density,Emission to air,kg,284
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,35df5fe0-c90d-43b4-a35a-3d97022114d2,Silver,,low population density,Emission to air,kg,"7,030"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2460f868-54a9-404c-bec8-c809a44ae72c,Manganese,,low population density,Emission to air,kg,63.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e2d58f90-9aac-4ac4-87f7-bbd6cfc358e3,Cadmium,,low population density,Emission to air,kg,"80,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,24cf82f8-c517-4fef-8f93-17519adb855e,Barium,,low population density,Emission to air,kg,"1,090"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e6551223-73b6-4289-b841-c5cdeb25abd9,Selenium,,low population density,Emission to air,kg,25.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ada3ecfe-8244-4389-bcce-e83ca4f66e09,Zinc,,low population density,Emission to air,kg,506
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,03b279a7-4626-4703-a451-d0650599dbd9,Chromium VI,,low population density,Emission to air,kg,365
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9540d6dc-b589-4fbb-8260-1b6a88b8bf11,Thallium,,low population density,Emission to air,kg,"1,230"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,43b29ad9-26dd-4838-b931-6216e55a0120,Antimony,,low population density,Emission to air,kg,43.1
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5d4b497b-d265-42d1-a41a-113785a6d694,Beryllium,,low population density,Emission to air,kg,527
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e8fc62ba-678e-4706-97d2-b79d83e227d5,Nickel,,low population density,Emission to air,kg,"10,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,26da57a3-0cd5-4737-afe2-c1a950f971b1,"Arsenic, ion",017428-41-0,low population density,Emission to air,kg,"1,480"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b10faa87-2c1d-4f6e-aa65-9f80b376939a,Cobalt,,low population density,Emission to air,kg,"4,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f563b90e-a300-4403-b278-d2fdcd73e5a7,Tin,,low population density,Emission to air,kg,119
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2718482b-8399-442e-b89a-52fbcc22d2e6,Lead,,low population density,Emission to air,kg,28.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5ec9c16a-959d-44cd-be7d-a935727d2151,Mercury,,low population density,Emission to air,kg,"1,070"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e336eee7-148a-4d1c-8027-780cbfafa12b,Copper,,low population density,Emission to air,kg,"36,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5fa36ce3-aed0-443b-a09d-4cdf25b41995,Molybdenum,,low population density,Emission to air,kg,1.03
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9820d3d6-85d8-3ee7-a14d-93116535881f,Antimony III,023713-48-6,indoor,Emission to air,kg,43.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c67a294a-b7ba-33bc-a9c6-d43d6a0441a9,"Arsenic, ion",017428-41-0,indoor,Emission to air,kg,"1,480"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6f61c01f-376b-30db-9080-7fd3856ef7c1,Cesium,,indoor,Emission to air,kg,"1,465"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d231cfba-461b-3fc6-8173-5340a4255172,Calcium,007440-70-2,indoor,Emission to air,kg,36.472
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4f1ad6d5-6c88-3da1-843c-6d75c86e320f,Titanium,007440-32-6,indoor,Emission to air,kg,0.88876
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fdf441ad-34fd-3411-b14d-d75f377a0744,Iron III,020074-52-6,indoor,Emission to air,kg,"1,300"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e1571c08-36af-30a2-9b2e-cb2a01aee5d6,Silicon,007440-21-3,indoor,Emission to air,kg,0.21948
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,118abacf-6455-3fc0-865f-394cbafb473a,Boron,007440-42-8,indoor,Emission to air,kg,2.3811
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,bfe14c0f-a9c7-3eba-87a1-0aebc370fd84,Tungsten,007440-33-7,indoor,Emission to air,kg,13.45
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f6f97ae2-0c2a-372c-9ec3-310d15301a2f,Cobalt,007440-48-4,indoor,Emission to air,kg,"4,485"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cadd10d2-040e-31b3-bb2d-5e63aaea3a44,Sulfur,007704-34-9,indoor,Emission to air,kg,"8,591.3"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1e949ccc-9db6-32a1-a531-2ffebeca108a,Antimony V,022537-51-5,indoor,Emission to air,kg,"6,645"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,df8cc726-87c1-398d-8888-1f5c63c5ee20,Zirconium,007440-67-7,indoor,Emission to air,kg,1.765
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,71e5917d-3aa4-3c35-8dbf-84b725976cc8,Iron II,015438-31-0,indoor,Emission to air,kg,50.55
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,eddf2f57-57d3-3bfe-b1d1-599fba29b3c9,Tellurium,013494-80-9,indoor,Emission to air,kg,91.725
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,14236517-159d-3e39-b475-aa0ce3e86b90,Arsenic III,022541-54-4,indoor,Emission to air,kg,556.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1a322495-704a-3876-b8a2-152ad92d9ba9,Magnesium,007439-95-4,indoor,Emission to air,kg,0.28381
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,223a3b4a-6397-3197-83de-b0e073a39412,Iron,007439-89-6,indoor,Emission to air,kg,50.55
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,38355188-08ec-32ea-bb68-158c520d3aca,Strontium,007440-24-6,indoor,Emission to air,kg,"5,370"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2096b14d-663a-4501-9cd2-f6811dfd37a4,Lithium,007439-93-2,indoor,Emission to air,kg,25.694
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,4b1f4151-6a6e-3cf5-a468-1e08799fc2c4,Aluminium,007429-90-5,indoor,Emission to air,kg,"188,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9dbaaa6c-bd0a-3b47-9af6-7ae8f57f0785,Vanadium,007440-62-2,indoor,Emission to air,kg,403
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d09551cd-49f7-392a-b5d5-414d58d3b019,Manganese,007439-96-5,indoor,Emission to air,kg,63.25
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f4520cd4-2990-3c30-b9f7-7c4e4f1d853b,Chromium,007440-47-3,indoor,Emission to air,kg,364
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e8f3e708-19c1-37c0-9fdb-2c7884b4dad1,Arsenic,007440-38-2,indoor,Emission to air,kg,556.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,19ea58d3-ae9a-335f-990c-5bfe0d1b1d50,Silver,007440-22-4,indoor,Emission to air,kg,"7,015"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9a443fa8-a25f-35db-ae23-35397e6658a7,Antimony,007440-36-0,indoor,Emission to air,kg,43.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8f4bc5b2-fd6c-3a8e-be37-d211b126e6ba,Zinc,007440-66-6,indoor,Emission to air,kg,504
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fb8ccb75-e8ce-3805-af74-f642deea4b17,Copper,007440-50-8,indoor,Emission to air,kg,"36,350"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,656d6498-56ca-31b6-bc6a-5a24421b38be,Mercury,007439-97-6,indoor,Emission to air,kg,"1,060"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d8ecb4ef-c04c-32f9-b47e-75c8707069e1,Selenium,007782-49-2,indoor,Emission to air,kg,25.65
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ea046ae5-11db-3a6e-82d9-a7c110b8ebc7,Beryllium,007440-41-7,indoor,Emission to air,kg,525.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6ffc7b42-15a6-3634-ac89-314f972ff2ec,Barium,007440-39-3,indoor,Emission to air,kg,"1,090"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ab64f2a8-319d-3e5a-a2e9-219ead48a38e,Tin,007440-31-5,indoor,Emission to air,kg,118
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,537b6f85-23db-32ac-af6d-e9a166770bbb,Molybdenum,007439-98-7,indoor,Emission to air,kg,1.03
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fc4d79d7-9795-3307-b821-ee668a08a9e4,Lead,007439-92-1,indoor,Emission to air,kg,28.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0d1296aa-d946-3e5b-94a6-8dabb9a28dbe,Nickel,007440-02-0,indoor,Emission to air,kg,"10,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7f62be48-36bc-3dfe-a620-692c82cc70a9,Chromium VI,018540-29-9,indoor,Emission to air,kg,364
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,108fb709-3b97-35b6-a786-4e41510540ce,Chromium III,016065-83-1,indoor,Emission to air,kg,283
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,235b399e-3d90-38d0-8784-260a985b56b4,Thallium,007440-28-0,indoor,Emission to air,kg,"1,230"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3def807a-5e19-38d1-9cae-5b2034b907f1,Cadmium,007440-43-9,indoor,Emission to air,kg,"80,750"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b5d896e4-5035-4cf9-b06a-353a95ca2623,Zirconium,007440-67-7,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1edd2278-d064-337c-bee2-bb3239a12bb1,Antimony III,023713-48-6,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,59542265-cf1b-4ad9-8477-699179fe2b2b,Magnesium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,36573d07-abee-3671-a0e3-0863b6acf798,Iron III,020074-52-6,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cd718fb4-cd0e-34de-b2ed-2fc793bbed08,Iron II,015438-31-0,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cac53ea3-b11c-47a6-adfd-678672a088e6,Calcium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,aea5ecf7-6b02-39ce-8100-fdf43cdc395b,Sulfur,007704-34-9,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e033b79a-c76f-3c21-930a-737d4f60d029,Arsenic III,022541-54-4,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,266cc953-1762-3fd9-b7bf-66c50de0c405,Cesium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ab9c1b17-e9d8-3332-a53f-eb120eae10ac,Tellurium,013494-80-9,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6e646f0b-4f72-31da-8009-14d128bfc30b,Chromium III,016065-83-1,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2cea4705-5460-4f03-80ca-1aaf90f17c3a,Silicon,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,714958de-a211-4a3c-8dce-848ccb79b094,Tungsten,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0fbca534-f355-4477-b29f-7b5fc2fbce64,Boron,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,95971f92-b9b6-3ce3-9a28-1f965d8d28b6,Antimony V,022537-51-5,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b3701449-fe4b-4513-b4a4-065e62f03e5c,Titanium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e8bd2edd-f937-49f6-9e8b-9f445278775e,Iron,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ae2c3adf-7f7d-4973-a8e8-3fe1300f8183,Strontium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7c3924c6-a3a3-4a83-8406-83cc6bb48399,Lithium,007439-93-2,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,46e63323-cffd-4c46-829b-5f006b50fa9b,Aluminium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0af26a55-d357-469f-abad-8ced785cb4fb,Manganese,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ed751c30-a896-44f3-9a83-2a5328dde94d,Arsenic,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6b29d83a-c43c-484c-8e73-474a8a22d71e,Chromium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0ed1b1a1-e56d-4860-bac7-d76a39bde930,Silver,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b8de5961-4e83-4731-bac1-77a4d01234a4,Vanadium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f7af7269-1a06-455e-8a00-a04fff8e0a8e,"Chromium, ion",016065-83-1,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fa39136e-1ef6-43c1-af68-104da104568d,Antimony,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5457df7d-0461-407c-9f09-0338dbff77ef,Beryllium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,93e71b71-05d4-4a44-a85a-592a6f21cf0c,Selenium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8a422b03-1055-4bc8-b439-27bf8d7eef57,Tin,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f2f1a5eb-de1e-42fe-ad80-60a255185ba9,Thallium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cd5898ca-96ad-4038-b7ac-edf544d2800a,Barium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,23eaa36d-add4-4219-961e-ca7104dc0de9,Cadmium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dc90db73-6f27-403d-baf1-cb7e0b6cae31,Mercury,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,35b4d818-1019-413b-b99d-d351d8a67ac4,Molybdenum,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fd153f15-1d16-410a-91fa-04d205e36c43,Copper,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c2e854f9-fe22-4fe7-9083-cf6d0a8c7254,Chromium VI,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9ee7f4ab-b826-47ae-8623-e138f944b42e,Lead,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c89873de-cd23-4323-a948-f5cfeebd2fc9,Nickel,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ebaff3ef-9e70-4674-bf17-6273e1447246,"Arsenic, ion",017428-41-0,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,74eb3f02-09ec-46ce-8ee8-d67d0900136b,Cobalt,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8f871bab-96dc-49d9-bf08-12cdd0715901,Zinc,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e98b9661-2844-49dc-9ae4-855b9912c700,Silicon,,unspecified,Emission to air,kg,0.20893
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,354205b3-0be4-33fc-9a56-0e9974a934f1,Iron III,020074-52-6,unspecified,Emission to air,kg,"1,305"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,da5e6be3-ed71-48ac-9397-25bac666c7b7,Tungsten,007440-33-7,unspecified,Emission to air,kg,13.367
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c13fc7a0-f240-468b-aaf6-e781743a46d5,Zirconium,007440-67-7,unspecified,Emission to air,kg,1.6592
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d31dfb70-483c-3b9d-a2d6-7c3a58e185ff,Cesium,,unspecified,Emission to air,kg,"1,465"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,72564158-96dd-3e4c-b892-0bbbf04d5baf,Arsenic III,022541-54-4,unspecified,Emission to air,kg,557
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b85fe0b0-1700-348b-b4c2-508180aa7d03,Antimony III,023713-48-6,unspecified,Emission to air,kg,43.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,75f395bf-351b-4d95-9c9b-fdce145ae403,Sulfur,007704-34-9,unspecified,Emission to air,kg,"8,574.2"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,aeefa758-5f4f-4bb4-a28a-4075e81f2fde,Magnesium,,unspecified,Emission to air,kg,0.28295
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b8fc2875-a1ce-4a7c-a73d-6ba5b26319d3,Boron,,unspecified,Emission to air,kg,2.3385
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5bbc9552-6193-3c1b-99d7-104dc2497b44,Iron II,015438-31-0,unspecified,Emission to air,kg,50.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d6c784e7-4556-3888-9b9e-bb014b1a99f8,Antimony V,022537-51-5,unspecified,Emission to air,kg,"6,650"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c6379349-6cf0-54c9-8bfe-2ec812501fda,Tellurium,,unspecified,Emission to air,kg,91.131
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b87016c6-ac91-4414-98ce-fb665e0a6d2e,Calcium,,unspecified,Emission to air,kg,36.247
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0d9f52b2-f2d5-46a3-90a3-e22ef252cc37,Strontium,,unspecified,Emission to air,kg,"5,375"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5e834f38-a2f0-3a48-a17e-b5584cba24ae,Lithium,007439-93-2,unspecified,Emission to air,kg,25.535
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8dba66e2-0f2e-4038-84ef-1e40b4f573a6,Iron,,unspecified,Emission to air,kg,50.6
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b15d845f-810e-4614-8633-af8bab2014ee,Titanium,,unspecified,Emission to air,kg,0.88373
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ff65658c-2d39-44a2-b23e-7ec3c644f064,Aluminium,,unspecified,Emission to air,kg,"188,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ebb88ef4-50ab-4e3b-9251-c5fcdf6b4768,Silver,,unspecified,Emission to air,kg,"7,020"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e142b577-e934-4085-9a07-3983d4d92afb,Chromium,,unspecified,Emission to air,kg,364.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,591b0a62-8064-4697-86ed-47bfa1f8b5e6,Vanadium,,unspecified,Emission to air,kg,403.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,295060ba-3c3d-45e4-99ca-e17b1204b553,Manganese,,unspecified,Emission to air,kg,63.35
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dc6dbdaa-9f13-43a8-8af5-6603688c6ad0,Arsenic,,unspecified,Emission to air,kg,557
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,81e17d9a-3e0b-414e-9b2e-eca7e5b3bd4a,Chromium VI,,unspecified,Emission to air,kg,364.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7e246e3a-5cff-43fc-a8e6-02d191424559,Barium,,unspecified,Emission to air,kg,"1,090"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,08a91e70-3ddc-11dd-9f7b-0050c2490048,"Chromium, ion",016065-83-1,unspecified,Emission to air,kg,283.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a5506f4b-113f-4713-95c3-c819dde6e48b,Nickel,,unspecified,Emission to air,kg,"10,650"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,20e262b9-e0b6-3afc-9e0f-a669e78dcf5c,Chromium III,016065-83-1,unspecified,Emission to air,kg,283.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,f0e28a62-ddf9-4c93-af81-676a58c3f2d4,Cobalt,,unspecified,Emission to air,kg,"4,490"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a7b68ff-f12a-44c6-8b31-71ec91d29889,Tin,,unspecified,Emission to air,kg,118.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,20557d93-2b1c-49b5-b6c0-3528a8bbc307,Beryllium,,unspecified,Emission to air,kg,526
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,640e30d2-3158-4a1a-82ef-fd0c72922c9a,Molybdenum,,unspecified,Emission to air,kg,1.03
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,8e123669-94d3-41d8-9480-a79211fe7c43,Lead,,unspecified,Emission to air,kg,28.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,18aa2daa-0188-4328-b24b-1ad1398ecf81,Thallium,,unspecified,Emission to air,kg,"1,230"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,5ce378a0-b48d-471c-977d-79681521efde,Zinc,,unspecified,Emission to air,kg,504.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7cee74fc-6c4b-47c0-b624-2d12d9ea0619,"Arsenic, ion",017428-41-0,unspecified,Emission to air,kg,"1,475"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,454c61fd-c52b-4a04-9731-f141bb7b5264,Selenium,,unspecified,Emission to air,kg,25.65
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,77927dac-dea3-429d-a434-d5a71d92c4f7,Antimony,,unspecified,Emission to air,kg,43.05
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,ec8144d6-d123-43b1-9c17-a295422a0498,Copper,,unspecified,Emission to air,kg,"36,400"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,1c5a7322-9261-4d59-a692-adde6c12de92,Cadmium,,unspecified,Emission to air,kg,"80,800"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,71234253-b3a7-4dfe-b166-a484ad15bee7,Mercury,,unspecified,Emission to air,kg,"1,065"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,c7f705ec-b152-33eb-87f6-1a55169a5922,Iron II,015438-31-0,lower stratosphere + upper troposphere,Emission to air,kg,50.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,466854b3-23d1-341f-88d0-6ddbf4a939fa,Antimony V,022537-51-5,lower stratosphere + upper troposphere,Emission to air,kg,"6,660"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,24da5f03-1b1e-4a60-a925-248122c9d2a0,Magnesium,007439-95-4,lower stratosphere + upper troposphere,Emission to air,kg,0.28008
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6d155003-b13c-372b-bc7a-14c540f5c15c,Cesium,,lower stratosphere + upper troposphere,Emission to air,kg,"1,470"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,06b34514-8b22-3bcc-a537-3ff5c1205d1f,Iron III,020074-52-6,lower stratosphere + upper troposphere,Emission to air,kg,"1,310"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,18aecc35-b196-36a5-941e-969dcfc3536d,Tellurium,013494-80-9,lower stratosphere + upper troposphere,Emission to air,kg,89.153
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,550cbef4-790d-32ea-abe7-31cd598a24fd,Antimony III,023713-48-6,lower stratosphere + upper troposphere,Emission to air,kg,43.1
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e5573481-11b3-30b7-a589-d111ddeba843,Arsenic III,022541-54-4,lower stratosphere + upper troposphere,Emission to air,kg,558
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d68bd053-2f8c-4890-a0fd-771f4be30c14,Tungsten,007440-33-7,lower stratosphere + upper troposphere,Emission to air,kg,13.089
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,e6849199-0b26-30c5-a172-d9ed0dcdc6d8,Chromium III,016065-83-1,lower stratosphere + upper troposphere,Emission to air,kg,284
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0d7ef054-35e2-4d02-9113-574d7f022631,Silicon,007440-21-3,lower stratosphere + upper troposphere,Emission to air,kg,0.17374
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,7f06875b-9510-325b-bf13-ff0e7524dace,Sulfur,007704-34-9,lower stratosphere + upper troposphere,Emission to air,kg,"8,517.3"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,b24b66e6-633c-49bf-a6ce-1e81da0715ce,Calcium,007440-70-2,lower stratosphere + upper troposphere,Emission to air,kg,35.495
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,75af210f-0455-487e-ba2c-e9dd317af77c,Zirconium,007440-67-7,lower stratosphere + upper troposphere,Emission to air,kg,1.3066
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2ffd26c6-0d3d-4379-9da2-2b578807a14b,Boron,007440-42-8,lower stratosphere + upper troposphere,Emission to air,kg,2.1967
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a2698332-893b-40c9-9fe7-ad016cdd2605,Lithium,007439-93-2,lower stratosphere + upper troposphere,Emission to air,kg,25.006
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0dc0bbb0-1141-4dff-b6a2-8bd5368e14af,Iron,007439-89-6,lower stratosphere + upper troposphere,Emission to air,kg,50.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a5b82cff-6334-45a8-aef7-1761f2b83722,Titanium,007440-32-6,lower stratosphere + upper troposphere,Emission to air,kg,0.86698
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d6fba50b-3691-4101-9dae-6b7935cd1cd0,Strontium,007440-24-6,lower stratosphere + upper troposphere,Emission to air,kg,"5,380"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,d96403bf-902e-4b7a-8ffd-32fe09e4017f,Aluminium,007429-90-5,lower stratosphere + upper troposphere,Emission to air,kg,"189,000"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,cfce0b1a-2873-46fa-8e12-afb5a4213886,Arsenic,007440-38-2,lower stratosphere + upper troposphere,Emission to air,kg,558
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,2a5ed451-12a2-47db-b4dc-fa0bfbc01d79,Chromium,,lower stratosphere + upper troposphere,Emission to air,kg,365
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6e8a87bf-baea-4cd9-a967-932e750968d1,Silver,007440-22-4,lower stratosphere + upper troposphere,Emission to air,kg,"7,030"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,894bc050-7a50-4631-af1f-d5121e019f9f,"Chromium, ion",016065-83-1,lower stratosphere + upper troposphere,Emission to air,kg,284
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,42053ffb-9284-49cb-88f9-33ac5c77be4a,Manganese,007439-96-5,lower stratosphere + upper troposphere,Emission to air,kg,63.5
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9841f5a4-027e-4dbf-87fe-f0bcf56b91ab,Vanadium,007440-62-2,lower stratosphere + upper troposphere,Emission to air,kg,404
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,87a69874-34f9-4070-a525-aa301ab2634b,Zinc,,lower stratosphere + upper troposphere,Emission to air,kg,506
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,538d2c16-5f7d-498f-9782-168c70adcc20,"Arsenic, ion",017428-41-0,lower stratosphere + upper troposphere,Emission to air,kg,"1,480"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,48aa661d-be05-4c24-94fe-8d6feb3dcb31,Mercury,,lower stratosphere + upper troposphere,Emission to air,kg,"1,070"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9182d01f-27f3-4b65-a183-07508dfc5981,Thallium,007440-28-0,lower stratosphere + upper troposphere,Emission to air,kg,"1,230"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,697e8ecf-bdbe-4857-92c9-e01960c91db7,Molybdenum,007439-98-7,lower stratosphere + upper troposphere,Emission to air,kg,1.03
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,98267bbc-0591-4eb8-8581-2231208c548d,Barium,007440-39-3,lower stratosphere + upper troposphere,Emission to air,kg,"1,090"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,dd1bbaa1-d1f1-4584-aeb2-6f02bfb04e87,Cadmium,,lower stratosphere + upper troposphere,Emission to air,kg,"80,900"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,9ce88274-57b6-42ed-a78b-4abef2301865,Cobalt,007440-48-4,lower stratosphere + upper troposphere,Emission to air,kg,"4,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fbfabc26-84d9-46cd-9d1b-1a0060325b64,Selenium,,lower stratosphere + upper troposphere,Emission to air,kg,25.7
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,fe4613d7-1ed8-427d-9b06-c8e8f4f5e1b1,Lead,,lower stratosphere + upper troposphere,Emission to air,kg,28.2
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,a2b3bbb7-53ec-44e5-a184-9689f356235b,Beryllium,007440-41-7,lower stratosphere + upper troposphere,Emission to air,kg,527
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,0545c382-2312-43b6-9ec3-63dbb1438565,Nickel,,lower stratosphere + upper troposphere,Emission to air,kg,"10,700"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,6366d4ec-5ffc-4488-be51-0c239cdf535d,Tin,007440-31-5,lower stratosphere + upper troposphere,Emission to air,kg,119
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,abbd3b09-a7ec-435a-9d01-34cf8581739e,Chromium VI,018540-29-9,lower stratosphere + upper troposphere,Emission to air,kg,365
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,3573a5af-88f8-4f74-ade7-cd269cbc4e66,Copper,,lower stratosphere + upper troposphere,Emission to air,kg,"36,500"
+EF 3.0 Method (adapted),f22e8177-5b42-3686-b68f-bbf1325a7e30,"Ecotoxicity, freshwater - metals",CTUe,49803ad0-9ca2-4507-a5ea-f152d16c929d,Antimony,007440-36-0,lower stratosphere + upper troposphere,Emission to air,kg,43.1
