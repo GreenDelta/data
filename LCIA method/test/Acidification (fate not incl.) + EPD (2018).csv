@@ -1,0 +1,133 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,a2eac12b-6e59-4259-9f0b-766b6294ded3,Sulfuric acid,007664-93-9,forestry,Emission to soil,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,cacc22dc-2711-46a2-bdf3-7e25675ab3a7,Hydrogen fluoride,007664-39-3,forestry,Emission to soil,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9bb73c31-c01d-4384-b567-15c1544ae581,Sulfuric acid,,agricultural,Emission to soil,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,3096aade-6536-48d8-93da-fd41f5d6eebd,Hydrogen sulfide,007783-06-4,agricultural,Emission to soil,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e4d585b8-fc05-49ee-8fc8-ac05cdce6217,Hydrogen chloride,007647-01-0,agricultural,Emission to soil,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,40a40e1d-4c27-4735-8971-543c752abcdf,Hydrogen fluoride,007664-39-3,agricultural,Emission to soil,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2d098ca9-f784-4ee9-81fd-e65df70846c0,Phosphoric acid,007664-38-2,agricultural,Emission to soil,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4d768f3c-70e8-4317-b017-1bb491c2f90a,Nitric acid,007697-37-2,agricultural,Emission to soil,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,f42e87c1-7a10-4276-9862-a13ca1e5f4e2,Hydrogen chloride,007647-01-0,unspecified,Emission to soil,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,cc252d69-b850-4931-8085-11ed7e2355ea,Sulfuric acid,007664-93-9,unspecified,Emission to soil,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,59f8f8d9-c482-469d-b1c2-9825b8b33596,Hydrogen sulfide,007783-06-4,unspecified,Emission to soil,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,a19eb862-83bf-4380-ac8b-2843c75937c0,Hydrogen fluoride,007664-39-3,unspecified,Emission to soil,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,d501bed2-4ab9-47ff-baf7-cafbec9f10d2,Phosphoric acid,007664-38-2,unspecified,Emission to soil,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,aaa22d17-5c74-4b6f-bdaf-69b4b54e2480,Nitric acid,007697-37-2,unspecified,Emission to soil,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,70e4226d-3c91-45a6-9465-56b59d6f5b92,Hydrogen sulfide,007783-06-4,industrial,Emission to soil,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5e25c996-03b4-4a21-b79e-4d75f68f39c3,Hydrogen chloride,007647-01-0,industrial,Emission to soil,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e65b58c0-7a36-469a-9903-9d4ef1f020e6,Sulfuric acid,007664-93-9,industrial,Emission to soil,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,21ca555e-db01-497a-92ee-0bd0e32c345d,Hydrogen fluoride,007664-39-3,industrial,Emission to soil,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2354e2f3-5a4e-4d54-8183-4027fb64c4eb,Nitric acid,,industrial,Emission to soil,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5def994f-b874-463f-9129-4176dff192cc,Phosphoric acid,007664-38-2,industrial,Emission to soil,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,254da599-dd28-487e-92c7-4a4a9097e1dd,Hydrogen sulfide,007783-06-4,"river, long-term",Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,99d1b7d7-5493-486e-b339-58b34d814094,Sulfuric acid,007664-93-9,"river, long-term",Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,226fb7e6-0ee2-4e8a-9fac-67d83b77aa75,Phosphoric acid,007664-38-2,"river, long-term",Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8801b086-ff81-4387-80e1-45d8ed325d7b,Nitric acid,007697-37-2,"river, long-term",Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,22e61915-b24b-4d46-871c-fea928d9d719,Sulfuric acid,007664-93-9,"fresh water, long-term",Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,85f61963-86f4-4cc9-9521-8150b081fbc7,Hydrogen sulfide,007783-06-4,"fresh water, long-term",Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4fbdbf12-9a9d-40c9-8ca3-ba4effa9f1fb,Sulfuric acid,007664-93-9,fossil-,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,85447af9-07a4-4204-bfd4-2a90266e8769,Hydrogen sulfide,007783-06-4,fossil-,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e6f17d77-77a2-4651-ace9-dff1bd5d9d17,Hydrogen fluoride,007664-39-3,fossil-,Emission to water,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4ce8fa3f-77e7-4579-9867-a91a055f1835,Nitric acid,007697-37-2,fossil-,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,448934cb-8be4-4ae2-acdb-de9dec10459b,Phosphoric acid,007664-38-2,fossil-,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,cb3d04e3-6ab7-4eff-b9fc-db17802d7fc6,Sulfuric acid,007664-93-9,fresh water,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,ed9c7879-2c8f-47ab-943d-c4363cf08b5b,Hydrogen sulfide,007783-06-4,fresh water,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9f2d488e-c37a-4507-86c3-0b35f628ca30,Hydrogen chloride,007647-01-0,fresh water,Emission to water,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2ae53816-d258-4a14-83a6-ca8454eb361e,Hydrogen fluoride,007664-39-3,fresh water,Emission to water,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,dcd473f2-93b3-416b-8b97-d157b6ce1fe8,Phosphoric acid,007664-38-2,fresh water,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e7e827f3-b9a6-4c84-9089-2d49bb7e39da,Nitric acid,007697-37-2,fresh water,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,bc0c0b53-b132-4858-b006-e6baaa92e45a,Sulfuric acid,007664-93-9,"ground water, long-term",Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,554be2fb-9bb9-46c6-a4df-46df0d53cb65,Hydrogen sulfide,,"ground water, long-term",Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,43156184-3040-4095-9085-38d8895406cc,Phosphoric acid,007664-38-2,"ground water, long-term",Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,69545061-684c-49d0-9b49-43c3c341febb,Nitric acid,007697-37-2,"ground water, long-term",Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,f57bff83-4b49-463e-93af-f847eb76ce29,Hydrogen chloride,007647-01-0,unspecified,Emission to water,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,42d33bc4-cdea-4b1d-896c-090e792183be,Hydrogen sulfide,007783-06-4,unspecified,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,63e82565-8549-11e0-9d78-0800200c9a66,Sulfuric acid,007664-93-9,unspecified,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,7dd051f1-c653-44d9-90e4-828f144253c3,Hydrochloric acid,,unspecified,Emission to water,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,92ff45a8-b321-4f23-bfe0-f9f3af821d7f,Hydrogen fluoride,007664-39-3,unspecified,Emission to water,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,878e2773-1894-46c9-8fff-e19ba327f680,Nitric acid,007697-37-2,unspecified,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,cefa3637-739c-5e9f-99a6-2456e6a44772,Phosphoric acid,,unspecified,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8067bc7a-47a5-4f96-93b8-b83af0be6244,Sulfuric acid,007664-93-9,ocean,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5c8aac6d-7ae2-4b1b-825e-5ae19fd4aa9c,Hydrogen chloride,007647-01-0,ocean,Emission to water,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2cfea267-9965-411e-9381-4d32835b4ffe,Hydrogen sulfide,007783-06-4,ocean,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,29e55ef8-37ec-4cc4-9026-41329bb37011,Hydrogen fluoride,007664-39-3,ocean,Emission to water,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,6aedb6a7-a674-447e-b65a-853ef64743d7,Nitric acid,007697-37-2,ocean,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8775e96b-ad1e-4484-a4b3-5aa8e832650d,Phosphoric acid,007664-38-2,ocean,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,50790dc4-dd52-4811-b124-d9e9c920cd70,Hydrogen sulfide,,surface water,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,6ec8c964-83df-42f3-a1ae-35c1f905cfba,Sulfuric acid,,surface water,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e20d26af-8640-4fff-9547-a870825ca135,Hydrogen sulfide,007783-06-4,river,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2576dd06-b9dc-4853-af4f-78edb1d6bbc3,Sulfuric acid,007664-93-9,river,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4a5a08f6-51ab-41e7-809a-13d70b509740,Phosphoric acid,007664-38-2,river,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,321b06bb-7f99-45aa-b135-3888f81a2450,Nitric acid,007697-37-2,river,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5c27e147-a42e-4e7b-8dcf-bd68cb0c2558,Sulfuric acid,007664-93-9,lake,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9a390fb9-83ab-47c0-84db-2db6968d08c8,Hydrogen sulfide,007783-06-4,lake,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5687da3e-fa56-4ad0-81bc-a5f6d175433e,Phosphoric acid,007664-38-2,lake,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,75569dbe-1d4c-4b38-81df-4c65cadac3e3,Nitric acid,007697-37-2,lake,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,54bc4640-8f22-45d8-949c-45c432ee161f,Sulfuric acid,007664-93-9,ground water,Emission to water,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,53855d93-0731-34ea-b869-607a97a005be,Hydrogen chloride,007647-01-0,ground water,Emission to water,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,db945649-d0d5-4818-ab81-dc8579469a05,Hydrogen sulfide,,ground water,Emission to water,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,be063c73-d557-371a-99d5-0a9b254d6c8f,Hydrogen fluoride,007664-39-3,ground water,Emission to water,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,72d4fa64-0e38-4197-b72b-31936471db2b,Nitric acid,007697-37-2,ground water,Emission to water,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,0857999c-aaf4-41f9-b3cc-5cc56909ecaa,Phosphoric acid,007664-38-2,ground water,Emission to water,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,afcbd980-14c2-4e1d-a0aa-5f6464e5c76b,Hydrogen chloride,,high population density,Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,e3cfaa07-9b68-4461-a06f-a0e4e59d41d3,Hydrogen sulfide,,high population density,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,b00950bc-99cb-4ee2-bbc0-5f878ea170c3,Sulfur trioxide,,high population density,Emission to air,kg,0.8
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,7ecc2b66-8dde-4266-8832-f492f564377b,Sulfuric acid,,high population density,Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,257eacb9-96fe-4a3d-961a-f5e6c7823ff0,Hydrogen fluoride,,high population density,Emission to air,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5d0058e0-ad1b-4c15-b0ff-a665bb04154f,Phosphoric acid,,high population density,Emission to air,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,37d014cb-8c2d-4c98-ab5c-2d4550822c2f,Nitric acid,007697-37-2,high population density,Emission to air,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,1
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,68e32537-beae-41c2-be72-74df4d273c11,Hydrogen chloride,,low population density,Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,0b0ea9d1-9c54-4e23-bcfc-1b8fc2cf0358,Hydrogen sulfide,,low population density,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,5c9d8310-f7e1-4e98-8e73-7eece0435676,Sulfuric acid,,low population density,Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8b7dc667-f04e-492c-a161-80b1482126b0,Hydrogen fluoride,,low population density,Emission to air,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,0d1d9119-44bf-4c8e-a878-cdc78fd888ae,Nitric acid,007697-37-2,low population density,Emission to air,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,b0c3054b-6d71-42b1-8575-704c4d049180,Phosphoric acid,,low population density,Emission to air,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,1
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,64b8332b-b659-3e22-b06f-3f522ea9662c,Sulfuric acid,007664-93-9,indoor,Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,a2d4ebed-c96c-47c9-b469-018dd1ae58ce,Hydrogen sulfide,,"low population density, long-term",Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,97178ead-47ba-406f-bd68-27d5fc6aa6f8,Hydrogen chloride,,"low population density, long-term",Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,51f0e6bf-5824-4247-a0f0-7766035da159,Sulfuric acid,007664-93-9,"low population density, long-term",Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,13825fb9-6e24-409a-bfcd-5dc4fd61ef98,Sulfur trioxide,007446-11-9,"low population density, long-term",Emission to air,kg,0.8
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,ac15536a-92f5-48d7-9560-cba0ca43b526,Hydrogen fluoride,,"low population density, long-term",Emission to air,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,bcac684a-8868-4cd3-9063-3275dc831f91,Phosphoric acid,007664-38-2,"low population density, long-term",Emission to air,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2e493ad7-ff7f-47b8-9966-1d67e0323386,Nitric acid,007697-37-2,"low population density, long-term",Emission to air,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,1
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,20d4d821-f4f7-4017-8810-f822fcdf619e,Hydrogen sulfide,,unspecified,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,c941d6d0-a56c-4e6c-95de-ac685635218d,Hydrogen chloride,,unspecified,Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,c9a8073a-8a19-5b9b-a120-7d549563b67b,Hydrochloric acid,,unspecified,Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,3268d8df-59cc-4740-a89f-dee8355ad7c3,Sulfur trioxide,,unspecified,Emission to air,kg,0.8
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,99c65c6a-6871-40ba-af79-5bd6851688e4,Sulfuric acid,,unspecified,Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,24541c8c-9f11-49ae-9de5-456f238a3f5e,Hydrogen fluoride,,unspecified,Emission to air,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,dc084330-5108-4d9c-a7ed-eb3345507f13,Nitric acid,007697-37-2,unspecified,Emission to air,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,2257e9f9-f38c-494b-b99f-f49b4768b4b9,Phosphoric acid,007664-38-2,unspecified,Emission to air,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,1
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,50f3bc1e-fafc-44a2-9800-4468d8c3b643,Hydrogen chloride,007647-01-0,lower stratosphere + upper troposphere,Emission to air,kg,0.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,59281544-7c5a-4101-a972-10118e8df6aa,Hydrogen sulfide,007783-06-4,lower stratosphere + upper troposphere,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,3caec0e2-2d07-4463-abae-bef6a0d4bbdb,Sulfuric acid,007664-93-9,lower stratosphere + upper troposphere,Emission to air,kg,0.65
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,b1689d22-7f6d-432c-8948-13d8f6df8a27,Hydrogen fluoride,007664-39-3,lower stratosphere + upper troposphere,Emission to air,kg,1.6
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,1.88
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,1aa538b9-51eb-49fe-8904-de34e58945c7,Nitric acid,007697-37-2,lower stratosphere + upper troposphere,Emission to air,kg,0.51
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,13d2fabe-9282-4905-9dfc-5c859022835c,Phosphoric acid,007664-38-2,lower stratosphere + upper troposphere,Emission to air,kg,0.98
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.7
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,1.07
+EPD (2018),e0e59313-6064-3370-b421-fb41f7f47928,Acidification (fate not incl.),kg SO2 eq,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,1

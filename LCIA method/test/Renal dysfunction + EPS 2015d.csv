@@ -1,0 +1,44 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,79fdbb2d-a497-4198-9b2a-094f98b8aee6,"Cadmium, ion",022537-48-0,"river, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,eb616bcb-7521-40a4-a2ac-0d33e30c2873,Cadmium,007440-43-9,"river, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,6cefe674-1076-45e2-846d-af7ad46bcbcb,Chromium VI,018540-29-9,"river, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,5958a968-d153-415f-acbf-81719c1aa09f,Lead,007439-92-1,"river, long-term",Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,1a002089-bf1f-497c-a4d8-336542f7b38d,Lead,007439-92-1,"fresh water, long-term",Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,557575d3-a808-4336-88d4-0e7b8b178f32,Cadmium,007440-43-9,"fresh water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,522e7bd8-194b-4fa8-9f6a-6211958fc040,"Cadmium, ion",022537-48-0,"fresh water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,8f77e0ae-424c-4c54-87cb-cfbf6fb5bd43,Chromium VI,018540-29-9,"fresh water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,8ccf40b6-eee0-4b71-9bc5-965328e2ef95,Lead,007439-92-1,fossil-,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,9038efbe-6a55-4582-8637-02d7b5a10a8e,Chromium VI,018540-29-9,fossil-,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,67b5b669-06b1-4be6-87bd-b68bbbe4bd5a,"Cadmium, ion",022537-48-0,fossil-,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,eed61927-90e5-4e59-a0bb-6507551c835c,Cadmium,007440-43-9,fossil-,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,cd26472d-d670-49fd-9df2-f689a14e9892,"Cadmium, ion",022537-48-0,fresh water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,810b11b4-6438-4b30-b9a1-8202b2a53145,Cadmium,007440-43-9,fresh water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,caa6bc06-e7e6-4f08-acd3-2163db51e395,Chromium VI,018540-29-9,fresh water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,80b3c2a1-af98-4dde-b298-abf7e78e38ee,Lead,007439-92-1,fresh water,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,ef475b50-9cd0-4e7c-9c59-07868fe16e91,Chromium VI,,"ground water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,4ce23896-a82f-49f1-a8e3-8848734805a3,"Cadmium, ion",,"ground water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,0ff15165-d761-48c9-9814-2d1dcdd56857,Lead,,"ground water, long-term",Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,0c5da324-34a7-4e38-98e5-18a8625a2b7c,Cadmium,007440-43-9,"ground water, long-term",Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,a9ec0c9b-982a-4329-99ae-dab1f9fb62d3,Chromium VI,,unspecified,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,31c4d160-b21e-41b3-b9c1-3d7a72377653,Lead,,unspecified,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,2712fe5f-0d3c-4c8e-8bc4-26c604413849,"Cadmium, ion",,unspecified,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,c087ef23-4b5b-40f6-932a-7939b72386c4,Cadmium,007440-43-9,unspecified,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,e9e856c2-868e-435e-8425-8df1c9297cfc,Lead,,ocean,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,81b3321a-c9d8-4104-a974-5460f1bc5029,Chromium VI,018540-29-9,ocean,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,62fcd384-906d-474f-a84b-9f944b78f804,"Cadmium, ion",,ocean,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,fe0acd60-3ddc-11dd-a294-0050c2490048,Cadmium,007440-43-9,ocean,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,af83b42f-a4e6-4457-be74-46a87798f82a,"Cadmium, ion",,surface water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,8216fc31-15a1-4d33-858f-e09650b14c63,Chromium VI,,surface water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,b3ebdcc3-c588-4997-95d2-9785b26b34e1,Lead,,surface water,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,f420380c-b1b6-4ead-8a54-7d77e53379b7,Lead,007439-92-1,river,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,8041cd06-58ce-450d-9f44-40922eeafc29,Cadmium,007440-43-9,river,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,fb27d408-4659-4ba5-9f29-e3b356074b1c,Chromium VI,018540-29-9,river,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,125349bb-041b-4de3-aa95-d4862eddcf52,"Cadmium, ion",022537-48-0,river,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,68701316-d3f5-4e08-8814-6b3b28712d85,Cadmium,007440-43-9,lake,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,ba29bfe3-17a6-4702-8b50-9b63884bf91c,"Cadmium, ion",022537-48-0,lake,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,7fbd75df-f7eb-4671-b400-dc330cb7db43,Chromium VI,018540-29-9,lake,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,540106ac-eb8e-446b-91f5-3fdbad5a5886,Lead,007439-92-1,lake,Emission to water,kg,0.00001
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,9bbae55a-35de-4eff-a219-814a9fec5ac2,Chromium VI,,ground water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,ddce052d-27c0-4b28-8bf6-d50d39e420b0,Cadmium,007440-43-9,ground water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,3937f5a5-b4a4-434d-9fc3-1d29064fc3f8,"Cadmium, ion",,ground water,Emission to water,kg,0
+EPS 2015d,c26489d8-cbb4-3944-962b-81d2aeeea488,Renal dysfunction,case,c864aa15-0abc-41ad-9889-348106e485d8,Lead,,ground water,Emission to water,kg,0.00001

@@ -1,0 +1,4 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Exergy Demand,4c575d90-e089-3fa4-bfc3-798849f03109,"Renewable , biomass",MJ,b2e8e329-f643-3fa0-8af9-95afa9347bbd,"Energy, from wood",,biotic,Resource,MJ,1.05
+Cumulative Exergy Demand,4c575d90-e089-3fa4-bfc3-798849f03109,"Renewable , biomass",MJ,01c12fca-ad8b-4902-8b48-2d5afe3d3a0f,"Energy, gross calorific value, in biomass",,biotic,Resource,MJ,1.05
+Cumulative Exergy Demand,4c575d90-e089-3fa4-bfc3-798849f03109,"Renewable , biomass",MJ,5224d6af-147e-3506-b9e4-60b8eb3a9f82,"Energy, from biomass",,biotic,Resource,MJ,1.05

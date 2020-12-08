@@ -1,0 +1,13 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,356a46e6-4149-3c1e-9576-262aa3766f8e,Fly ash,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,78c49707-31d5-3e22-8a37-5a444bc2a894,Soot,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,e2ec0a8e-84af-3789-8c3e-68b31c7df8c0,Slags and ashes,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,f21f1a46-1f0d-3c42-a13e-d885149d6769,Slags,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,ecafa64a-5267-3665-9176-f684dd0f50cb,Coal ash,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,b417665b-91e7-3e73-88df-1bc8e4fe3266,Slags and ashes,,unspecified,Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,f840dcb2-a718-3158-a735-febece8784a9,Soot,,unspecified,Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,999c67f3-8bf6-31d2-ad92-74c2287adc7f,Fly ash,,unspecified,Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,3a16d0ae-4e4c-3dfe-9508-f1d5989c056c,Coal ash,,unspecified,Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,ee68cb3c-70b2-3da4-8824-4ffd72135300,Slags,,unspecified,Waste,kg,1
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,d73b27a2-81bd-4264-baa5-ce4aca3545be,"Transformation, to dump site, slag compartment",,land,Resource,m2,"22,500"
+EDIP 2003,93a66862-1283-3605-ac69-d940914bfa66,Slags/ashes,kg,60fbcca2-15a2-4791-ab89-09921211487f,"Transformation, to dump site, slag compartment",,unspecified,Resource,m2,"22,500"

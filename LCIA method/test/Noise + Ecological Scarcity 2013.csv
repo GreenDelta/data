@@ -1,0 +1,7 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,c24e2dc2-b141-376b-b4da-5d3d3b35c768,"Noise, rail, freight train",,unspecified,Immaterial emission,t*km,15
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,fc4dbb89-5363-37ee-bbac-7a8d0bf53426,"Noise, aircraft, freight",,unspecified,Immaterial emission,t*km,14
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,dc398ffd-a5a1-3803-9b09-fb9ea5304d18,"Noise, rail, passenger train, average",,unspecified,Immaterial emission,p*km,5.2
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,6fa59153-aeea-33db-89a5-dc8f2672908b,"Noise, road, passenger car, average",,unspecified,Immaterial emission,km,21
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,e0a1cf01-4d3a-3333-bb55-33dafa357fd3,"Noise, aircraft, passenger",,unspecified,Immaterial emission,p*km,1.4
+Ecological Scarcity 2013,39495a77-7953-3046-a608-1e024bcf6a1a,Noise,UBP,307a17c2-6434-3cf4-9527-2bd1c2288f3e,"Noise, road, lorry, average",,unspecified,Immaterial emission,km,210

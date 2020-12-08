@@ -1,0 +1,161 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,70c4c6d8-ed81-4763-ae6d-39e54ef0b1fa,"Occupation, seabed, drilling and mining",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9db06277-b6d9-4c48-8cfb-de342e928a50,"Occupation, seabed, infrastructure",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,d903114a-8c2c-3649-ab5b-22f404fc4646,"Occupation, annual crop, reduced tillage",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ded8e6ec-41f4-3417-8fee-a44d8a35bd77,"Occupation, annual crop, conventional tillage",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,dbc67ab5-f891-33ff-b1f2-eed940a1205b,"Occupation, annual crop, conservation tillage",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,248bf3d1-f5c5-3783-b8b0-7bd58af34bf1,"Occupation, annual crop, integrated",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5dbd8205-fa09-3895-90d3-5e1d7406c179,"Occupation, agriculture",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,190d9910-5d04-4c97-abea-3b39682b7ed6,"Occupation, urban, green area",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,061259d7-7bcc-4298-af3a-63d084191988,"Occupation, unspecified, natural (non-use)",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,d36dd104-5214-4ca2-b1ab-c878987a42fe,"Transformation, to wetland, inland (non-use)",,land,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,70aa745b-8bc5-4433-b2f5-d1da652ba166,"Occupation, urban/industrial fallow (non-use)",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ff6dccc1-5ebd-42c3-9fd9-3d73db7a3dd2,"Transformation, to forest, secondary (non-use)",,land,Resource,m2,-36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,84b11d12-a078-44e7-9d6e-7675a0e23c4d,"Occupation, forest, secondary (non-use)",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,0782d8ff-80e5-47a7-a2ba-3ba40ab60b60,"Transformation, from wetland, inland (non-use)",,land,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,e780232c-898f-4606-8d21-f8589801ebe6,"Occupation, grassland, natural, for livestock grazing",,land,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9d136389-8670-45ae-ad1d-a06848a1fd1d,"Transformation, from forest, primary (non-use)",,land,Resource,m2,36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3e7f1605-9451-4e53-9690-ab5318033227,"Occupation, traffic area",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,0f923637-e322-44d8-9ff2-9c765d75e253,"Occupation, forest, primary (non-use)",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9e80f7cd-47fa-4c7f-8f2c-bdb9731b3196,"Occupation, annual crop, greenhouse",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9cc80820-fcf9-4ea9-8e67-0aa423eba6a4,"Transformation, from forest, secondary (non-use)",,land,Resource,m2,36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b905c2e0-a0db-4e66-80d2-8bdfc93c6218,"Transformation, from grassland, natural (non-use)",,land,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,7956039f-1181-42ab-b03b-ba9992733394,"Occupation, annual crop, flooded crop",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,fe17e7c1-9574-4880-b7e6-ec09c2e3ae5d,"Transformation, to grassland, natural (non-use)",,land,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2b8a0f87-bd2a-4b10-8dd9-714487f59fc9,"Occupation, grassland, natural (non-use)",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,8c173ca1-5f74-4a6e-89e5-dd18e0f18d1a,"Occupation, arable land, unspecified use",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,7e7d6ebb-8c9c-4ecb-b64b-23a8c2c908c4,"Occupation, permanent crop, fruit, extensive",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c14ea750-4a9f-41fa-bcc1-4a1d84466f43,"Occupation, river, artificial",,land,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,f318deb8-ac36-47c0-bb00-e3022b583c7e,"Occupation, permanent crop, vine, extensive",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,18636f13-f552-4136-a353-3b5a8e5f87d1,"Occupation, permanent crop, non-irrigated",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,17a5a406-333f-4b9e-8852-c2de50bc9585,"Transformation, from shrub land, sclerophyllous",,land,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9089d7ad-09b1-4174-a188-8844ebde2d5d,"Transformation, to shrub land, sclerophyllous",,land,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,1b0a8570-eab4-46c2-9b67-c9b918e75676,"Occupation, annual crop, non-irrigated, extensive",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,e063ee9c-9850-42b5-b01e-4cc9b5ad7152,"Occupation, annual crop, non-irrigated, intensive",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c4a82f46-381f-474c-a362-3363064b9c33,"Occupation, annual crop, irrigated",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c7cb5880-4219-4051-9357-10fdd08c6f2b,"Occupation, unspecified",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,23309f61-c8db-3224-abcc-d65ae4800611,"Occupation, annual crop, organic",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,59734866-f67e-3c7e-a2de-6d269f99788c,"Occupation, pasture, man made, organic",,land,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9fd128fe-d8c5-476f-af42-2795d5f5d227,"Occupation, annual crop, irrigated, intensive",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c199261c-8234-43c5-b906-5b67707e4395,"Occupation, shrub land, sclerophyllous",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,379ba5c9-5c3a-43d0-8e2d-605ad9c39e46,"Occupation, mineral extraction site",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,4b6b9b76-3199-4bd0-b11d-f8f2efbeac4e,"Occupation, construction site",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2925111b-3464-4e34-9d02-b73c1c033e91,"Occupation, forest, extensive",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,fe9c3a98-a6d2-452d-a9a4-a13e64f1b95b,"Occupation, industrial area",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3afbc2d8-1b51-4d43-87a7-e68291c1e999,"Occupation, permanent crop, irrigated, intensive",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,aca1714f-0040-4a65-a73a-0e38aa9f50f4,"Occupation, forest, intensive",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,26efe47c-92a5-4dea-b4d0-eac13e418a58,"Occupation, traffic area, road network",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,e9007a6f-7244-44d4-a561-91ae1b6c6cfc,"Occupation, permanent crop",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,56ec994a-eb96-42e8-93eb-4970e30e6362,"Occupation, urban, discontinuously built",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, rail/road embankment",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c9461a73-d00a-4fc7-a890-a9eda6af3185,"Occupation, permanent crop, non-irrigated, intensive",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,1896b498-8d13-4f58-8c17-21fe57740158,"Occupation, permanent crop, irrigated",,land,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a6889a22-e99e-42ea-85cd-4a68d7975dcd,"Occupation, annual crop, non-irrigated",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,250de680-25a7-4a3b-93c9-a9ed44bb4e0c,"Occupation, forest, intensive, clear-cutting",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b91d0527-9a01-4a86-b420-c62b70629ba4,"Occupation, forest, unspecified",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,44ea6f89-8780-45b4-a80a-cfc3abcfef5f,"Occupation, industrial area, vegetation",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,1eaa9ea4-40b8-414a-b198-5626400372e1,"Occupation, dump site",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,77e63dc5-3fbd-3535-90cb-18fdcb6bad17,"Occupation, annual crop, non-irrigated, monotone-intensive",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,59ded913-17fe-4b3e-80cb-79b97cdbef9a,"Occupation, pasture, man made",,land,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c5aafa60-495c-461c-a1d4-b262a34c45b9,"Occupation, annual crop",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,fc924940-e7cd-3238-9d9c-cdb1b59c6aec,"Occupation, forest, intensive, normal",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3b4db191-9634-4a01-a873-f3cb234785e4,"Occupation, urban, continuously built",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,98b723d4-3362-4b38-8b1e-1bedacfd5e27,"Occupation, pasture, man made, intensive",,land,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a923740c-61a1-380c-9501-8edda44211e4,"Occupation, annual crop, non-irrigated, fallow",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,19f84b2e-e6ff-4351-ba3a-8b650fc20d14,"Occupation, pasture, man made, extensive",,land,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,04eb6f40-8671-3a31-b27b-ef82f04be46f,"Occupation, annual crop, non-irrigated, diverse-intensive",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,062a6faf-b1a5-4a6a-aa02-47ae3ec566a8,"Occupation, traffic area, rail network",,land,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,bafff3e8-f51e-42d6-8924-dcab1098c8ef,"Occupation, forest, intensive, short-cycle",,land,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,69c7d771-04fc-499e-84f8-6c7b923b8ced,"Occupation, heterogeneous, agricultural",,land,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,f37246ae-19df-3043-8fae-0013e8e16330,"Occupation, seabed, infrastructure",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,d5bb94d9-1426-3366-ad9c-2facec6e4f12,"Occupation, seabed, drilling and mining",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,bd8b5007-b9c9-3821-83ed-eb587def77f7,"Occupation, annual crop, integrated",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,74db152d-7ea2-3563-b2f0-25de8fb6c647,"Occupation, annual crop, conventional tillage",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3c578bf7-6ce7-365b-835a-a8c385fe94aa,"Occupation, annual crop, conservation tillage",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b3619a10-80f9-312b-a6ca-5263f580c89c,"Occupation, sparsely vegetated areas, steppe, tundra, badlands",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,7f52bb75-5d74-338f-b69b-815161f57c07,"Occupation, annual crop, reduced tillage",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,4dce5be4-9605-316c-ba72-b102e6545075,"Occupation, artificial areas",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,759324e5-0469-376f-8e45-7a910659b20c,"Occupation, annual crop, flooded crop",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,6d957f85-fc93-36f1-9da3-397da3140eb9,"Occupation, unspecified, natural (non-use)",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,d3157d98-2297-32bd-93c5-125d4c6c5226,"Occupation, grassland",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,895e2457-4921-360d-a896-4ca3ad621fe3,"Occupation, permanent crop, irrigated, extensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,e74b6885-3e05-3650-b6f5-49e8d6ab4c70,"Occupation, forest, used",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,06037f74-fb71-3996-bdd1-2c5ef86bc048,"Transformation, from forest, primary (non-use)",,unspecified,Resource,m2,36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2b1ded62-11d4-3758-a70e-0a58e428cebe,"Occupation, grassland, natural, for livestock grazing",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,74212326-ca29-46f8-a600-4e45b0ad688e,"Occupation, traffic area",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,f719f0bd-9e4e-3749-9649-b2d0058600e5,"Occupation, permanent crop, irrigated",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,4bf710db-8c17-35e3-a99b-9a3466ee3747,"Occupation, arable land, unspecified use",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2a57a86c-5738-3540-b510-5d5f9e8ff229,"Occupation, urban/industrial fallow (non-use)",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5ce41517-25bb-4da6-b839-5fd0f00baff1,"Occupation, urban, green areas",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,9b30fc5f-510b-3a46-8dc1-79735508e830,"Transformation, from wetland, inland (non-use)",,unspecified,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,63cf5ffa-3b2c-3ab8-b726-0bab20804237,"Occupation, unspecified, used",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,acc1b9bf-3182-377c-adb3-ff4e1a585e29,"Occupation, annual crop, irrigated, extensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,d1a2f79b-02cf-3e39-b509-b0a61673875a,"Occupation, permanent crop, irrigated, intensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a4df741b-b8d9-375e-9270-cde81c40d2b8,"Transformation, to wetland, inland (non-use)",,unspecified,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,6cd668d2-f1ee-3c26-b493-a7e13c4a1c02,"Occupation, forest, secondary (non-use)",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,89823c78-b1cc-398f-946e-36a47fdac7cb,"Occupation, urban",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,75686134-3d16-3df6-b14a-ce7b95b5fcc8,"Occupation, cropland fallow (non-use)",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2ace3064-cca0-3e0a-9d58-dccf3055c990,"Transformation, from forest, secondary (non-use)",,unspecified,Resource,m2,36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,310b68ea-1ea1-385f-add3-b49c49ac7293,"Occupation, agriculture, mosaic",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,40cbd1bc-c1fd-33c2-9dcf-f5692a76adf8,"Occupation, annual crop, greenhouse",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,96dfe449-1f1f-3bda-bf53-cf7c68c1affe,"Transformation, to grassland, natural (non-use)",,unspecified,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,bbcc1fd7-e640-3b3d-ad3b-1d8afcc8b439,"Transformation, from grassland, natural (non-use)",,unspecified,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ad672604-b795-3595-a97d-e062d8c5c245,"Transformation, to forest, secondary (non-use)",,unspecified,Resource,m2,-36.8
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c07f2328-335a-3db4-8d9e-1b085d702e35,"Occupation, permanent crop, non-irrigated, extensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ea0068d8-f3da-3242-a991-7ad2753bae1d,"Occupation, permanent crop, non-irrigated",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c2c796a7-b75e-3f60-a9d6-15199e4c9540,"Occupation, grassland, natural (non-use)",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a57da54a-a2f2-3c3d-be95-238f564da562,"Occupation, grassland/pasture/meadow",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,bd2930c1-0d30-32b5-bad0-141cd84a086e,"Occupation, forest, natural",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,6b1224cf-6a9d-37f3-9092-c289e700560f,"Occupation, forest, primary (non-use)",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5f3dc1cd-12c9-35c8-80be-bc3d389ff825,"Occupation, permanent crop, non-irrigated, intensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,eb5ff341-705e-3416-9e25-3c9a46490335,"Occupation, agriculture",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a47cd00c-476b-4f73-a0a0-46dc11638699,"Occupation, water courses, artificial",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b0828a29-0261-4a12-a5d3-9e72c7e89619,"Occupation, industrial area, benthos",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b9a35003-86ed-45d8-b616-ef6859087b40,"Occupation, water bodies, artificial",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,258ade11-47cc-48fd-b49f-767a2f123cd6,"Transformation, to shrub land, sclerophyllous",,unspecified,Resource,m2,-3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,df1c10b2-021a-4db8-af05-267ceee43385,"Transformation, from shrub land, sclerophyllous",,unspecified,Resource,m2,3.75
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2c701803-1116-3c24-ae30-a3aeabea7d74,"Occupation, annual crop, organic",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ca69a1af-870b-318a-b22b-370d7e0ecb15,"Occupation, annual crop, non-irrigated, extensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,11b3f160-360b-3d4d-8481-e32dd5113c14,"Occupation, annual crop, non-irrigated, intensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5d369409-5f43-30e4-9f98-eb99ba5fcd79,"Occupation, annual crop, irrigated",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,fce3535d-e90e-3d99-9d7a-efe48ed7c9ce,"Occupation, annual crop, irrigated, intensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,6f3af90a-61f9-3dcf-90d7-a4fdabe343df,"Occupation, pasture, man made, organic",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,c033dd2f-87a4-435d-a7cb-477b15310066,"Occupation, dump site, benthos",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,080bf4c6-fab3-4e21-88c7-20b435aa42e8,"Occupation, urban, discontinuously built",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,36e3de27-9337-37bb-8e42-6402adc97f58,"Occupation, annual crop, non-irrigated, monotone-intensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,dde38771-435a-4f90-ad87-fd944f90b437,"Occupation, industrial area, vegetation",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ab295ced-caf0-4281-96a2-7ebc2203c508,"Occupation, shrub land, sclerophyllous",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5db2250f-278c-4b47-8c45-561ae9ff448d,"Occupation, permanent crop, fruit, extensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3259f9e3-8108-444b-9521-de12e53f6e35,"Occupation, dump site",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,26586deb-0d0d-42b7-ae01-e6e517a743cb,"Occupation, construction site",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,4498615d-0ed6-4ca4-8a87-267f31f624b0,"Occupation, forest, intensive, normal",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5ba2a89f-819f-358d-ab0d-bfcd70083e3d,"Occupation, annual crop, non-irrigated, diverse-intensive",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,135816ab-f119-4a64-b608-a61cb788af7d,"Occupation, forest, extensive",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,45091000-d7e1-459f-bac5-38b51efb4d63,"Occupation, urban, continuously built",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,5826d648-5ff2-31e1-9b9e-b193d406c44e,"Occupation, annual crop, non-irrigated, fallow",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,72745257-3534-4ca3-adfa-a2eb63f1e7d9,"Occupation, traffic area, road network",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,b8210d24-4b65-3710-846b-d24edffb5f89,"Occupation, traffic area, rail/road embankment",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,f2311a45-8789-472c-8aba-416e8621bb4c,"Occupation, permanent crop, vine",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,7d6baa46-6ac9-4f04-9bcb-abc382574260,"Occupation, mineral extraction site",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2997b0b4-f6ec-4df0-9481-4bdab4e86507,"Occupation, permanent crop, fruit, intensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a4c4b2e8-7611-4690-b00f-80789d4eb9fe,"Occupation, tropical rain forest",,unspecified,Resource,m2*a,0
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,67884dbf-8895-42ca-9a2a-37aef1189d3b,"Occupation, permanent crop, fruit",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,3295a31d-855c-4ed1-ace4-e81d0a7f04c6,"Occupation, permanent crop, vine, extensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,377086c9-230f-3b09-acb6-512f046e4b74,"Occupation, pasture, man made",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2843362e-6942-48fb-acdc-cea07d6e08cc,"Occupation, forest, intensive, clear-cutting",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,a029c026-6970-40a0-b597-5ebd8dfbaa97,"Occupation, forest, intensive, short-cycle",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,1a01977a-d170-4ac1-86df-aae792cbeb8f,"Occupation, permanent crop",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,2aa913a6-41a4-47cd-83bd-58cc5e1b11a5,"Occupation, traffic area, rail network",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,0b71699f-f013-3465-b171-b25083c0c257,"Occupation, pasture, man made, extensive",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,92f8f25e-135a-48df-b90c-c6c4547fe94d,"Occupation, forest, intensive",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,680016d9-59a9-37ad-9e51-8a476db6b732,"Occupation, pasture, man made, intensive",,unspecified,Resource,m2*a,0.55
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,cf39ec61-e779-4614-97b7-ec622556040d,"Occupation, industrial area, built up",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,16835899-c22f-4e78-8076-0d4d340c6f60,"Occupation, permanent crop, vine, intensive",,unspecified,Resource,m2*a,0.7
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,14b92328-e08d-4fac-b16a-da5dcd0e5627,"Occupation, traffic area, road embankment",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,34b81b2a-3230-3939-879c-1559f65badf7,"Occupation, annual crop",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,45e60c3e-a8ac-3d36-a6d2-ef0e4dc1f160,"Occupation, forest, unspecified",,unspecified,Resource,m2*a,0.3
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,faa01bcb-884e-4c79-9ea2-16da6596c6a6,"Occupation, industrial area",,unspecified,Resource,m2*a,0.73
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,7d143ee5-e848-47d0-91e8-f10f7c86963d,"Occupation, heterogeneous, agricultural",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,50b14562-ddeb-49d7-899c-dcbf9dfed004,"Occupation, unknown",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,42d9ad9b-d218-3047-a014-6a2c14e554c2,"Occupation, annual crop, non-irrigated",,unspecified,Resource,m2*a,1
+ReCiPe 2016 Midpoint (E),651f27b9-2b47-3913-b3a6-e63871db2475,Land use,m2a crop eq,ece7e2b1-d93f-3f83-ae39-e3b49527e594,"Occupation, mineral extraction site",,in water,Resource,m2*a,0.73

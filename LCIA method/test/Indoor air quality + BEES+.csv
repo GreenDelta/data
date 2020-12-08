@@ -1,0 +1,3 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,9edd1ed0-2a89-3747-8456-474ac409aa1f,Indoor air quality,g TVOC eq,b4c7ead9-5c44-3bbc-a2a5-8bebecde02a5,"VOC, volatile organic compounds as C",,indoor,Emission to air,g,1
+BEES+,9edd1ed0-2a89-3747-8456-474ac409aa1f,Indoor air quality,g TVOC eq,1543193e-ce22-35b3-bd7d-a98c19216edd,"VOC, volatile organic compounds, unspecified origin",,indoor,Emission to air,kg,1

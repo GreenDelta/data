@@ -1,0 +1,126 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,6dc7167c-d1a5-4a11-a350-7d378f0771f6,Copper ore (1.2%),,in ground,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7ae398b1-8532-11e0-9d78-0800200c9a66,Copper ore,,in ground,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e60f5975-8d1a-4ea9-a644-291ecb00c75c,Nickel ore,,in ground,Resource,kg,0.356
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,9877acaf-a633-411c-a815-22263c193ac1,Manganese ore,,in ground,Resource,kg,0.141
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,195e2726-7b5e-4320-bf1e-990d0a22fd18,"Copper ore, 0.14%",,in ground,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7ae398b5-8532-11e0-9d78-0800200c9a66,Iron ore,,in ground,Resource,kg,0.029
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,ef750016-62c6-46ed-83c0-1a07b1f20008,"Nickel ore, 1.6%",,in ground,Resource,kg,0.356
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,52730d7f-5d94-49e0-81a3-b73603ebb14c,"Copper ore, 4%",,in ground,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8bc65fca-548d-4831-b102-391bbdd6bc8c,"Aluminium, 24% in bauxite, 11% in crude ore",001318-16-7,in ground,Resource,kg,0.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,733b2c7c-60ef-4c1b-b9cb-c010e3fd2275,Bauxite,001318-16-7,in ground,Resource,kg,0.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,d4893aa1-64a5-3a22-8efc-f442e522ec41,Zinc ore,,in ground,Resource,kg,0.0164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,0b5f0a27-ef5b-41ad-985e-3f7d85ecfa5f,"Zinc ore, 12.6%",,in ground,Resource,kg,0.0164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a0012e5b-d088-4452-960f-90624c2f01d8,"Zinc ore, 8%",,in ground,Resource,kg,0.0164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,4390a7a6-ede6-4e7c-8176-7a348493c0d0,Chromium ore,,in ground,Resource,kg,0.275
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,aaceb467-2e6a-464e-9a0f-2545e31850ba,Pyrolusite,014854-26-3,in ground,Resource,kg,0.313
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,15545dca-018d-4f7f-aa1f-796b707180af,Cinnabar,023333-45-1,in ground,Resource,kg,165.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,30fed59d-d722-482f-be4f-f3d93bdd2527,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore",007439-98-7,in ground,Resource,kg,186
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e47e4e5f-6528-413d-a8fb-1cd1875fbd73,"Nickel, 1.98% in silicates, 1.04% in crude ore",007440-02-0,in ground,Resource,kg,34.2
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,5afa470c-ab8c-4ec3-8a18-5c0bed973571,"Copper, Cu 0.38%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Pb 0.014%, in ore",007440-50-8,in ground,Resource,kg,106.4
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,fb68c411-dc39-40d4-b237-5f97eb47151c,"Zinc 9%, Lead 5%, in sulfide",007440-66-6,in ground,Resource,kg,3.8367
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,719def62-0941-4264-bc54-97093d847d7a,"Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore",007439-98-7,in ground,Resource,kg,164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c3b2ba62-b158-47b1-8e1e-e76156e5292a,"Zinc, Zn 3.1%, in mixed ore",007440-66-6,in ground,Resource,kg,2.6
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,704399e3-cf6b-483d-84f5-466e91a9d17c,"Copper, Cu 0.2%, in mixed ore",007440-50-8,in ground,Resource,kg,70.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,31b4eea9-640e-4056-ac2f-0555627af18a,"Tin, 79% in cassiterite, 0.1% in crude ore",007440-31-5,in ground,Resource,kg,600
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,be73218b-18af-492e-96e6-addd309d1e32,"Zinc, in ground",,in ground,Resource,kg,4.09
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c8f18160-6937-4bb9-ad0c-dffa942ca41e,"Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,29.2
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a45cd247-3532-4e27-bddc-b519fdb5e08f,"Aluminium, in ground",,in ground,Resource,kg,2.38
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e729d80a-bb6d-400a-a8a9-55b6fa0e4aaf,"Nickel, 1.13% in sulfides, 0.76% in crude ore",007440-02-0,in ground,Resource,kg,46.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,f77aacc3-2c22-4bda-99ab-fe1110a1b891,"Iron, 46% in ore, 25% in crude ore",007439-89-6,in ground,Resource,kg,0.051
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,f77aacc3-2c22-4bda-99ab-fe1110a1b891,"Iron, 46% in ore, 25% in crude ore",007439-89-6,in ground,Resource,kg,0.029
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,4f701354-38fd-40b0-8c90-4c1df36ec45a,"Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In",007439-92-1,in ground,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,1b35070a-eb57-4f0f-a27f-5ba181ff0d4d,"Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,70.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,eda28c96-8899-4d84-bf18-35c3f1de518e,"Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore",007439-98-7,in ground,Resource,kg,41
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,06874cbb-2daf-4981-a55e-2c38be5b7277,"Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore",007439-98-7,in ground,Resource,kg,410
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c2586875-bb56-4b1e-84c5-5ff255a1108b,"Manganese, in ground",,in ground,Resource,kg,0.313
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,fbcb9c7a-eea7-4694-ba6c-568e01d28883,"Lead, in ground",,in ground,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,3faef344-9e52-47a3-a317-e17b824cc540,"Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In",007440-66-6,in ground,Resource,kg,4.09
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,73b7f080-b7ae-417c-b740-b4c9eabfb35a,"Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore",007440-50-8,in ground,Resource,kg,13
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,17f04213-ecb8-3561-aac6-0fdb3295777a,"Nickel, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore",007440-02-0,in ground,Resource,kg,962
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,9f9f1f14-6eee-4067-b4a5-80e75fc7b295,"Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore",007439-96-5,in ground,Resource,kg,0.313
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,5514ccd2-469f-4074-9905-529154e7f742,"Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore",007439-98-7,in ground,Resource,kg,293
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,2d9f9c6b-8dca-4641-8ff9-53cb8beabd13,"Lead, Pb 0.014%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, in ore",007439-92-1,in ground,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,ef6dd09f-bddc-49b4-a207-dbaec2f07bb5,"Chromium, 25.5% in chromite, 11.6% in crude ore",007440-47-3,in ground,Resource,kg,0.9165
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,dca6a0a7-b5b1-3786-bc10-a2aaddcece9b,"Copper, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore",007440-50-8,in ground,Resource,kg,13
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,54b9cbd0-65df-4fd3-8a19-dd3b8eccc619,"Mercury, in ground",,in ground,Resource,kg,165.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a76cf135-2be1-4e53-9423-9211acd100f1,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore",007439-98-7,in ground,Resource,kg,186
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,86c6e6cd-c2f5-4977-bad6-ce9cd48cf721,"Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore",007440-02-0,in ground,Resource,kg,46.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8af4ac5f-0cad-36b9-8d28-ffa45ed4f7f2,"Molybdenum, 0.11% in sulfide, Mo 0.41% and Cu 0.36% in crude ore",007439-98-7,in ground,Resource,kg,37.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,4df0eac4-44bb-46b6-b588-e3513a1ead2f,"Lead, Pb 3.6E-1%, in mixed ore",007439-92-1,in ground,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,ed5ace5c-a203-4816-b33b-9fe0c5f0f519,"Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore",007440-50-8,in ground,Resource,kg,36.7
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,4a89f19c-ac7d-3ca8-ad96-72c4c5f779bf,"Copper, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore",007440-50-8,in ground,Resource,kg,798
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,1aee4aa7-32e0-48e7-a6b5-73d8acf672d3,"Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,79.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,31998285-fb5c-411d-b853-ce78be2a0b49,"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,35.2
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,ac8571b8-b00b-479d-93cf-b9374feaee05,"Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore",007439-98-7,in ground,Resource,kg,256
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,f8f1ba14-9934-4678-8a78-e2cf1fce7775,"Zinc, Zn 0.63%, Au 9.7E-4%, Ag 9.7E-4%, Cu 0.38%, Pb 0.014%, in ore",007440-66-6,in ground,Resource,kg,2.6
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,974213ef-1ba0-40e5-bc7b-52ef099e9e09,"Nickel, in ground",,in ground,Resource,kg,23.75
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,febbfa6e-44d4-42a0-abcd-aec8a428f75e,"Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore",007440-02-0,in ground,Resource,kg,962
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8508a83c-6a37-4159-93cc-21a2645390ab,"Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore",007440-50-8,in ground,Resource,kg,798
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,b569dc97-52fe-4e39-9627-183b1002c287,"Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,18.9
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e5a3dff5-72dc-5287-893c-597dd4a19566,"Molybdenum, in ground",007439-98-7,in ground,Resource,kg,41
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,53d5ef26-66d8-4536-afa2-2f6b114189ba,"Tin, in ground",,in ground,Resource,kg,600
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8ce3ff02-7a1e-48e3-881e-3248b944f28a,"Iron, in ground",,in ground,Resource,kg,0.051
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,79df5650-160a-4ab7-a14f-cc8162877f4a,"Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore",007440-50-8,in ground,Resource,kg,41.9
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,19988f5b-a9a6-48f3-9e8e-150b66a1bf12,"Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore",007440-50-8,in ground,Resource,kg,41.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a9ac40a0-9bea-4c48-afa7-66aa6eb90624,"Copper, in ground",,in ground,Resource,kg,36.7
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,99c56f25-9ebb-4e6a-a3e2-e4dc61e9d697,"Iron, 72% in magnetite, 14% in crude ore",,in ground,Resource,kg,0.051
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,99c56f25-9ebb-4e6a-a3e2-e4dc61e9d697,"Iron, 72% in magnetite, 14% in crude ore",,in ground,Resource,kg,0.029
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,fe0acd60-3ddc-11dd-a2be-0050c2490048,Molybdenum,007439-98-7,in ground,Resource,kg,41
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e189e2d4-3d3f-4ada-b302-91611784311f,"Chromium, in ground",,in ground,Resource,kg,0.9165
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,510eb79b-c7a2-3835-a8ab-61a80f72cbeb,Manganese ore,,unspecified,Resource,kg,0.141
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,22ddd3d2-bea3-3561-981d-08cb5d548926,Lead ore,,unspecified,Resource,kg,0.368
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,ce35e758-3ed3-4e29-a356-72621c58b2ed,Copper ore (1.2%),,unspecified,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,5ddeb8af-dd60-4aee-b86a-270f53fb6881,Copper ore,,unspecified,Resource,kg,0.415
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7c8a8335-4b99-3a8f-ac94-beed5b348090,Molybdenum ore,,unspecified,Resource,kg,0.041
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,59a26d2b-a03e-401f-a168-d6013960f96e,Iron ore,,unspecified,Resource,kg,0.029
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,9b164273-f036-3132-82d5-835ed345bbbe,Tin ore,,unspecified,Resource,kg,0.06
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,9c0b2617-bd91-4544-b742-df48c76c3cb6,"Manganese ore, in ground",,unspecified,Resource,kg,0.141
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,808d9309-9af4-35e7-99ab-e13c86a6ad5f,Nickel ore,,unspecified,Resource,kg,0.356
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c0b3cfc5-8179-4e84-9eb0-c0d21536eae0,Bauxite,001318-16-7,unspecified,Resource,kg,0.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,90077a83-ea91-412d-b52d-1b212b3cfbc9,Zinc ore,,unspecified,Resource,kg,0.0164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,51b312fe-07c1-4974-86a6-6a8cbd29a983,Tungsten ore,,unspecified,Resource,kg,0.927
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,eb0c7cc8-6439-34b0-ab9a-d033b3230775,Chromium ore,,unspecified,Resource,kg,0.275
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,397289f3-474e-4711-92d5-157942f488a4,"Chromium ore, in ground",,unspecified,Resource,kg,0.275
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,f6b655a3-b1b6-3abb-9291-2eedb764ab9d,Pyrolusite,014854-26-3,unspecified,Resource,kg,0.313
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,b6d072c3-eda6-35d3-a3de-4ac95ecae331,Cinnabar,023333-45-1,unspecified,Resource,kg,165.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,969bbecd-29ae-3dfa-a52e-c7e75cdaa069,"Copper, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore",007440-50-8,unspecified,Resource,kg,13
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8fda8d30-04fe-45c8-8a4f-48ec4cdae6a3,Mercury,007439-97-6,unspecified,Resource,kg,165.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c26360fc-8a3a-4b16-b311-2b087365ad92,"Zinc 9%, Lead 5%, in sulfide",007440-66-6,unspecified,Resource,kg,3.8367
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,2737dccb-d7b8-4002-a3f5-1ab6e1c6515e,Manganese,007439-96-5,unspecified,Resource,kg,0.313
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,22c4fde1-3c61-33f6-80d6-a575560c85ee,"Nickel, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore",007440-02-0,unspecified,Resource,kg,962
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,64b9a86e-2342-35b8-8deb-97fa27e1dd83,"Copper, Cu 0.2%, in mixed ore",007440-50-8,unspecified,Resource,kg,70.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,60f595cf-f180-419a-b86c-49de660d6295,"Copper, Cu 0.38%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Pb 0.014%, in ore",007440-50-8,unspecified,Resource,kg,106.4
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,bcd7879c-1e11-4265-889a-dbdacbe6e72a,"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,35.2
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,d771d695-92b5-4378-87c8-5b9acbd037b9,"Nickel, 1.98% in silicates, 1.04% in crude ore",007440-02-0,unspecified,Resource,kg,34.2
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8dc2a251-ffb4-4131-b3ad-54eaf3a71afe,"Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,79.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,17dfe28e-1351-4223-9329-819c1ba6904e,Tin,007440-31-5,unspecified,Resource,kg,600
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,296a7d5b-e4b0-468d-9032-73e97cf86a7e,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore",007439-98-7,unspecified,Resource,kg,186
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,4382a809-3099-4528-bbbf-5f6b1b3e719d,"Lead, Pb 0.014%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, in ore",007439-92-1,unspecified,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,0305b169-255d-4041-8f5d-6e095bcb6358,Aluminium,007429-90-5,unspecified,Resource,kg,2.38
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,8e3f0f3b-6e78-3b08-892c-b4bc02eee99e,"Molybdenum, 0.11% in sulfide, Mo 0.41% and Cu 0.36% in crude ore",007439-98-7,unspecified,Resource,kg,37.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,deee5b4a-14dd-4600-ba18-48221882d9b9,"Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore",007440-50-8,unspecified,Resource,kg,36.7
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,2a73815a-9774-35ed-a8fa-6952fa17a3e0,"Lead, Pb 3.6E-1%, in mixed ore",007439-92-1,unspecified,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7df8baae-5dc8-4e19-9114-7abc9a792f80,"Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,18.9
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7f33171b-d351-479a-8074-f3d8db3ad50a,Chromium,007440-47-3,unspecified,Resource,kg,0.9165
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,cd4e4de1-1231-3bc3-82f1-5aa1f46bc1b0,"Zinc, Zn 3.1%, in mixed ore",007440-66-6,unspecified,Resource,kg,2.6
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a1569b7b-2b28-43ab-81fd-19795ba7aea3,Zinc,007440-66-6,unspecified,Resource,kg,4.09
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,3ae47837-9e71-410d-9d93-7caea4f0e54b,"Zinc, Zn 0.63%, Au 9.7E-4%, Ag 9.7E-4%, Cu 0.38%, Pb 0.014%, in ore",007440-66-6,unspecified,Resource,kg,2.6
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,b3b72095-a965-49a2-b47e-7acb8f2388e8,"Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,41.9
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,7cf24ec7-f96e-43d4-8da1-23afa56f4168,"Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore",007439-98-7,unspecified,Resource,kg,256
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,38cd88d2-3834-4763-9ed3-31adce2bdfbb,"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore",007439-98-7,unspecified,Resource,kg,186
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,1812b512-f2ea-43b7-a68d-8ec8eb1f0c44,"Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore",007439-98-7,unspecified,Resource,kg,410
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,79dcb82b-db11-4410-a858-e47706c97cca,"Nickel, 1.13% in sulfides, 0.76% in crude ore",007440-02-0,unspecified,Resource,kg,46.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,b58a44f8-6381-4e60-bc45-33b85b77ccfb,"Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore",007440-50-8,unspecified,Resource,kg,41.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,58f64002-e4a0-48d8-865a-893f02cec62f,Molybdenum,007439-98-7,unspecified,Resource,kg,41
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,10e3b9bc-648f-4321-be48-5df740b07e04,Lead,007439-92-1,unspecified,Resource,kg,7.35
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,5bfe61f2-cefc-47e6-9704-3fab3ebbd4c9,Copper,007440-50-8,unspecified,Resource,kg,36.7
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,5323c0ed-4b57-46b5-8c13-1491b18e1080,"Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore",007439-98-7,unspecified,Resource,kg,293
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,3f891fb6-cf17-484d-a1a2-e63b45245648,Iron,007439-89-6,unspecified,Resource,kg,0.051
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,a5225551-19c9-3874-883a-e3c78c403e04,"Copper, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore",007440-50-8,unspecified,Resource,kg,798
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,c9b0bd9b-662c-481c-8848-cf93f9ff1f3d,"Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore",007440-02-0,unspecified,Resource,kg,46.8
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,0995f4ad-2655-43a3-b98e-65d08af753a5,Nickel,007440-02-0,unspecified,Resource,kg,23.75
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,d58b689c-e3bd-43ae-b102-1b7c305f2d92,"Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,70.3
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,363646d2-999e-4a69-a8b4-7ccfa4ec3790,"Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore",007439-98-7,unspecified,Resource,kg,164
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,e63d51b1-5e9d-3db8-8d1f-2b72a4010636,"Nickel, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore",007440-02-0,unspecified,Resource,kg,15.5
+IMPACT 2002+,a3ba16ba-0377-3317-a297-af193740c39c,Mineral extraction,MJ surplus,fbf5d421-6486-49dd-a0bd-77012568cd97,"Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,29.2

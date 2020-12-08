@@ -1,0 +1,5 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,1c53472d-b8a1-36a1-aedb-a0d658a5e0d5,Cadmium,kg,b03642f4-8fa3-44df-ba91-7bcf5677d9a7,Cadmium,,forestry,Emission to soil,kg,1
+Selected LCI results,1c53472d-b8a1-36a1-aedb-a0d658a5e0d5,Cadmium,kg,e429b852-e421-4fcb-8a9b-b0241863bfb2,Cadmium,,agricultural,Emission to soil,kg,1
+Selected LCI results,1c53472d-b8a1-36a1-aedb-a0d658a5e0d5,Cadmium,kg,12d6029e-3801-42ee-a1bc-1ebf936884fc,Cadmium,,unspecified,Emission to soil,kg,1
+Selected LCI results,1c53472d-b8a1-36a1-aedb-a0d658a5e0d5,Cadmium,kg,89721e33-60fa-4447-bfc6-2f27d44a7893,Cadmium,,industrial,Emission to soil,kg,1
