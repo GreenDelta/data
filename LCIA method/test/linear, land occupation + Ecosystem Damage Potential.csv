@@ -1,0 +1,45 @@
+﻿IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,a6889a22-e99e-42ea-85cd-4a68d7975dcd,"Occupation, annual crop, non-irrigated",,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,379ba5c9-5c3a-43d0-8e2d-605ad9c39e46,"Occupation, mineral extraction site",,land,Resource,m2*a,0.7
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,81e07a67-28e0-4392-a553-d86e54a9b8a9,"Occupation, arable, reduced tillage (obsolete)",NULL,land,Resource,m2,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,fc924940-e7cd-3238-9d9c-cdb1b59c6aec,"Occupation, forest, intensive, normal",,land,Resource,m2*a,0.73
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,98b723d4-3362-4b38-8b1e-1bedacfd5e27,"Occupation, pasture, man made, intensive",,land,Resource,m2*a,0.52
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,99218db8-68a3-3c8e-8b6c-debde88fe6b2,"Occupation, industrial area, built up",,land,Resource,m2*a,0.8
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,f318deb8-ac36-47c0-bb00-e3022b583c7e,"Occupation, permanent crop, non-irrigated, extensive",NULL,land,Resource,m2*a,0.42
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,a923740c-61a1-380c-9501-8edda44211e4,"Occupation, annual crop, non-irrigated, fallow",NULL,land,Resource,m2*a,-0.11
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,2925111b-3464-4e34-9d02-b73c1c033e91,"Occupation, forest, extensive",,land,Resource,m2*a,0.29
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,18636f13-f552-4136-a353-3b5a8e5f87d1,"Occupation, permanent crop, non-irrigated",,land,Resource,m2*a,0.57
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,04eb6f40-8671-3a31-b27b-ef82f04be46f,"Occupation, annual crop, non-irrigated, diverse-intensive",NULL,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,3c7127de-ae00-3e7a-93f1-381ce4bbd1c0,"Occupation, permanent crop, fruit",,land,Resource,m2*a,0.57
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,26efe47c-92a5-4dea-b4d0-eac13e418a58,"Occupation, traffic area, road network",,land,Resource,m2*a,0.59
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,2de93f82-a786-3c64-8e96-336206de6603,"Occupation, dump site, benthos",,land,Resource,m2*a,0.7
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,59ded913-17fe-4b3e-80cb-79b97cdbef9a,"Occupation, pasture, man made",,land,Resource,m2*a,0.52
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,5e8698aa-12e4-3c91-b331-fcebbe9122c2,"Occupation, permanent crop, vine, intensive",,land,Resource,m2*a,0.57
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,3b4db191-9634-4a01-a873-f3cb234785e4,"Occupation, urban, continuously built",,land,Resource,m2*a,0.7
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,aca1714f-0040-4a65-a73a-0e38aa9f50f4,"Occupation, forest, intensive",,land,Resource,m2*a,0.63
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,19f84b2e-e6ff-4351-ba3a-8b650fc20d14,"Occupation, pasture, man made, extensive",,land,Resource,m2*a,0.52
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,c5fb404a-6aeb-3ca1-9734-5868c9f205d7,"Occupation, tropical rain forest",,land,Resource,m2*a,-0.76
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,56ec994a-eb96-42e8-93eb-4970e30e6362,"Occupation, urban, discontinuously built",,land,Resource,m2*a,0.3
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,fdb1b2d0-f537-401e-b845-1d93da512174,"Occupation, arable, conservation tillage (obsolete)",NULL,land,Resource,m2,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,c589d77a-29b7-318f-9086-b4f24191adfb,"Occupation, industrial area, benthos",,land,Resource,m2*a,0.8
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,69c7d771-04fc-499e-84f8-6c7b923b8ced,"Occupation, heterogeneous, agricultural",,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,44ea6f89-8780-45b4-a80a-cfc3abcfef5f,"Occupation, industrial area, vegetation",NULL,land,Resource,m2*a,0.39
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,bafff3e8-f51e-42d6-8924-dcab1098c8ef,"Occupation, forest, intensive, short-cycle",NULL,land,Resource,m2*a,0.73
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,e489cce4-a80f-417d-9ae6-9fc14cc7dd49,"Occupation, arable, conventional tillage (obsolete)",NULL,land,Resource,m2,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,c7cb5880-4219-4051-9357-10fdd08c6f2b,"Occupation, unspecified",,land,Resource,m2*a,0.63
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,c5aafa60-495c-461c-a1d4-b262a34c45b9,"Occupation, annual crop",,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,c199261c-8234-43c5-b906-5b67707e4395,"Occupation, shrub land, sclerophyllous",,land,Resource,m2*a,-0.26
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,77e63dc5-3fbd-3535-90cb-18fdcb6bad17,"Occupation, annual crop, non-irrigated, monotone-intensive",NULL,land,Resource,m2*a,0.74
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,062a6faf-b1a5-4a6a-aa02-47ae3ec566a8,"Occupation, traffic area, rail network",,land,Resource,m2*a,0.59
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,609d10b5-0468-313f-8057-97d1e05172c3,"Occupation, permanent crop, fruit, intensive",,land,Resource,m2*a,0.57
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, road embankment",,land,Resource,m2*a,0.59
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, road embankment",,land,Resource,m2*a,0.1
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,69dfa439-8e4e-4cae-bb0c-85a8aa8b9a73,"Occupation, lake, artificial",,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,e9007a6f-7244-44d4-a561-91ae1b6c6cfc,"Occupation, permanent crop",,land,Resource,m2*a,0.57
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,54f5960a-97d0-3622-b8ce-0bb1cf7b8850,"Occupation, water courses, artificial",,land,Resource,m2*a,0.61
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,7e7d6ebb-8c9c-4ecb-b64b-23a8c2c908c4,"Occupation, permanent crop, irrigated, extensive",NULL,land,Resource,m2*a,0.42
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,fe9c3a98-a6d2-452d-a9a4-a13e64f1b95b,"Occupation, industrial area",,land,Resource,m2*a,0.8
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,250de680-25a7-4a3b-93c9-a9ed44bb4e0c,"Occupation, forest, intensive, clear-cutting",NULL,land,Resource,m2*a,0.73
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,1eaa9ea4-40b8-414a-b198-5626400372e1,"Occupation, dump site",,land,Resource,m2*a,0.7
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,b91d0527-9a01-4a86-b420-c62b70629ba4,"Occupation, forest, unspecified",,land,Resource,m2*a,0.49
+Ecosystem Damage Potential,13ea40f6-e3c9-3ac4-aace-6e5734293396,"linear, land occupation",points,4b6b9b76-3199-4bd0-b11d-f8f2efbeac4e,"Occupation, construction site",,land,Resource,m2*a,0.7

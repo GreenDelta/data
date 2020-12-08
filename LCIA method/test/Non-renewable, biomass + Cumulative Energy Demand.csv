@@ -1,0 +1,3 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Energy Demand,be18d2fc-0ec1-3a93-9e92-efb4edb04adc,"Non-renewable, biomass",MJ,8842042d-7f07-45f8-bf43-fa83833d75de,"Energy, gross calorific value, in biomass, primary forest",,biotic,Resource,MJ,1
+Cumulative Energy Demand,be18d2fc-0ec1-3a93-9e92-efb4edb04adc,"Non-renewable, biomass",MJ,f5e85aac-ba83-4875-9bcb-d30d1683fe64,"Energy, gross calorific value, in biomass, primary forest",,unspecified,Resource,MJ,1

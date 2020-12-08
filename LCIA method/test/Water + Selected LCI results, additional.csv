@@ -1,0 +1,77 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,433b7ce7-5c2d-41c3-80ef-ead7f45c8699,"Water, process, unspecified natural origin",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,12604ba6-b7a1-4036-885c-72704b029906,"Water, process, drinking",,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,12604ba6-b7a1-4036-885c-72704b029906,"Water, process, drinking",,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,0c6d244f-6086-3c6e-bd96-f287f8bb74f7,"Water, cooling, unspecified natural origin/m3",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,0c6d244f-6086-3c6e-bd96-f287f8bb74f7,"Water, cooling, unspecified natural origin/m3",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,2e2c9e13-2197-33a0-8cdb-6a24f4c0f973,"Water, process, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,2e2c9e13-2197-33a0-8cdb-6a24f4c0f973,"Water, process, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,c0f39d6f-dd5a-4465-9dee-b0c5f897d175,"Water, process and cooling, unspecified natural origin",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,c0f39d6f-dd5a-4465-9dee-b0c5f897d175,"Water, process and cooling, unspecified natural origin",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,629ffbca-ca71-4e4b-a006-ca9bdd9cd1df,"Water, salt, ocean",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,629ffbca-ca71-4e4b-a006-ca9bdd9cd1df,"Water, salt, ocean",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,cce37357-b138-3933-b89c-d9e42500195f,"Water, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,cce37357-b138-3933-b89c-d9e42500195f,"Water, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,17f97e13-8812-3fd3-81c9-a7c355f258bf,"Water, cooling, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,17f97e13-8812-3fd3-81c9-a7c355f258bf,"Water, cooling, unspecified natural origin/kg",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,a5e216e9-1b15-3a08-ae24-8f8ad8e44f29,"Water, process, surface",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,a5e216e9-1b15-3a08-ae24-8f8ad8e44f29,"Water, process, surface",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,fc1c42ce-a759-49fa-b987-f1ec5e503db1,"Water, cooling, unspecified natural origin",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,fc1c42ce-a759-49fa-b987-f1ec5e503db1,"Water, cooling, unspecified natural origin",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,f838aec9-cb26-4597-bb6f-478cdf32e32a,Water Cooling fresh,,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,aa5b5285-4914-316e-babc-95007e28bc5d,"Water, process, well",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,aa5b5285-4914-316e-babc-95007e28bc5d,"Water, process, well",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,3e4d9e9e-6556-11dd-ad8b-0800200c9a66,Water,007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,ec735bee-9e15-3d89-a3e4-26e633949cb0,"Water, cooling, surface",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,ec735bee-9e15-3d89-a3e4-26e633949cb0,"Water, cooling, surface",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,0609bdf8-819f-4556-8686-94e3a2476f2e,Water (fresh water),,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,831f249e-53f2-49cf-a93c-7cee105f048e,"Water, unspecified natural origin",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,831f249e-53f2-49cf-a93c-7cee105f048e,"Water, unspecified natural origin",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,1acb026e-9de6-48fe-9e0d-be4d24125bbc,"Water, lake",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,1acb026e-9de6-48fe-9e0d-be4d24125bbc,"Water, lake",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,fe0acd60-3ddc-11dd-ae59-0050c2490048,"Water, ground",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,b91a1be8-51c0-33f2-a578-61786d9adfc1,"Water, fresh",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,b91a1be8-51c0-33f2-a578-61786d9adfc1,"Water, fresh",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,79238018-8ec1-4615-9469-2b0df95a43c3,"Water, salt, sole",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,79238018-8ec1-4615-9469-2b0df95a43c3,"Water, salt, sole",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,19aab6f1-1672-3234-8388-12b718220714,"Water, unspecified natural origin/m3",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,19aab6f1-1672-3234-8388-12b718220714,"Water, unspecified natural origin/m3",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,ed378a66-92b6-39bf-93e4-5b6a6b2b4fae,"Water, cooling, drinking",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,ed378a66-92b6-39bf-93e4-5b6a6b2b4fae,"Water, cooling, drinking",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,67c40aae-d403-464d-9649-c12695e43ad8,"Water, well",,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,68ee3cd2-e897-3388-b259-38ece38752f2,"Water, process, unspecified natural origin/m3",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,68ee3cd2-e897-3388-b259-38ece38752f2,"Water, process, unspecified natural origin/m3",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,8c75e7ab-8ab8-41e4-b394-c166ff5b050d,"Water, river",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,8c75e7ab-8ab8-41e4-b394-c166ff5b050d,"Water, river",007732-18-5,in water,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,1d158fc5-859b-3507-ae79-94b101c29655,"Water, cooling, well",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,1d158fc5-859b-3507-ae79-94b101c29655,"Water, cooling, well",007732-18-5,in water,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,31417daa-cd7a-4920-9c73-708b68d494ad,"Water, in air",,in air,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,2a380e4d-c06a-3a4c-8475-07885c3aa047,"Water, cooling, well",007732-18-5,in ground,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,478e8437-1c21-4032-8438-872a6b5ddcdf,"Water, unspecified natural origin",,in ground,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,478e8437-1c21-4032-8438-872a6b5ddcdf,"Water, unspecified natural origin",,in ground,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,30aa8b31-d824-4c3a-b6b3-d141f710b63f,"Water, river",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,c56bfea1-912d-468f-ba43-bef7c14c8c1e,"Water, process and cooling, unspecified natural origin",,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,ce73afe2-f94d-3224-ba60-2f6f13bf909d,"Water, unspecified natural origin/kg",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,a2a9cda7-9dd0-4a39-b422-f45298906dd8,"Water, unspecified natural origin",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,20a57f2b-2d7c-341a-b04a-8957bd33d97f,"Water, salt, sole",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,7c0da4f3-d0f3-33c2-b2ae-1da5f9954dda,"Water, unspecified natural origin/m3",,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,27b915f1-b59f-35b9-a698-90d3b717da9c,"Water, cooling, well",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,96ad8bf8-e303-4034-a27c-631b5115fa4c,"Water, cooling, well, in ground",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,31950f2d-17c2-469f-9066-0f6dbb76ce7a,"Water, cooling, surface",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,7ed8789d-5282-4cb9-901a-cdf5433c2dec,"Water, ground",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,27b6f884-cc33-4496-8652-b889a2bf8ad1,"Water, process, salt, ocean",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,28182006-69ba-388d-9289-00d649518c9d,"Water, process, unspecified natural origin/m3",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,f31750b0-268a-4d18-b694-8e79e91aff86,"Water, cooling, unspecified natural origin",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,1fef4759-76ce-4443-9a0e-cfa38c4ce14a,"Water, process, drinking",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,164673ff-3f7d-3587-af97-ccc3503195f9,"Water, fresh",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,4deca3ec-ae40-460b-b063-35934d4fc936,"Water, well, unspecified",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,d2fc8c70-6510-3f1f-933a-39f3a263c609,"Water, process, unspecified natural origin/kg",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,6efff6a9-428a-4062-b415-3950e32c1dab,"Water, process, well",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,640abc29-56f4-39cb-8dcb-287b03adc19c,"Water, cooling, salt, ocean",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,e0e6bb44-1b7b-4d85-a3f8-1ee6a1e983d4,"Water, lake",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,a945fa6e-b056-4eec-b684-cf42e461d64c,"Water, process, surface",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,4dbbc4de-4e1b-4b19-b6e4-d89f39a4dd80,"Water, process, unspecified natural origin",007732-18-5,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,4dc484bb-ecba-3137-9f58-27ff8edfd2cd,"Water, salt, ocean",,unspecified,Resource,m3,1
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,895fa4b4-dc58-3158-8337-1c442a693d65,"Water, cooling, unspecified natural origin/kg",007732-18-5,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,3c27fe4e-eec8-4bea-91cd-afc0b0ab138f,"Water, cooling, drinking",,unspecified,Resource,kg,0.001
+"Selected LCI results, additional",a7bc896a-34da-3b02-a648-6a8da0a40d8e,Water,m3,d68c92f6-2a11-37ce-a1a3-ea95daea1d42,"Water, cooling, unspecified natural origin/m3",007732-18-5,unspecified,Resource,m3,1

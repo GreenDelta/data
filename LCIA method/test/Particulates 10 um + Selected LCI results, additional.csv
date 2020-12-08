@@ -1,0 +1,6 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,7678cec7-b8e1-439d-8242-99cd452834b1,"Particulates, > 10 um",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,e22e8f39-d8f2-4702-bed3-0b95babb7788,"Particulates, > 10 um",,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,66020d27-7ae4-4e59-83a3-89214b72c40a,"Particulates, > 10 um",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,1eb1b94c-e9d8-47ab-969b-9cca920157d8,"Particulates, > 10 um",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",48a7333a-83da-3c92-8d14-185b6fb4dfda,Particulates >10 um,kg,b001715e-60e4-4f1d-949d-1acfab65bd8f,"Particulates, > 10 um",,"low population density, long-term",Emission to air,kg,1
