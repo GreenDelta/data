@@ -1,6 +1,8 @@
 IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
-CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,36a3d172-7373-507f-85bd-12b8ba31a6d4,Iodine,014362-44-8,in water,Resource,kg,0.0031
-CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,7de77239-7074-4443-9dc9-4492c5e2ef35,"Iodine, 0.03% in water",007553-56-2,in water,Resource,kg,0.0031
+CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,36a3d172-7373-507f-85bd-12b8ba31a6d4,1,014362-44-8,in water,Resource,kg,2
+CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,7de77239-7074-4443-9dc9-4492c5e2ef35,1,007553-56-2,in water,Resource,kg,2
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,080132f4-d8a5-4ff3-b926-c85847efd77c,Yttrium,007440-65-5,in ground,Resource,kg,0.423
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,fcee6eab-e906-4ddf-bc14-2b131b937893,"Zirconium, 50% in zircon, 0.39% in crude ore",007440-67-7,in ground,Resource,kg,0.023
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,e373f7b4-42e9-4cc7-a73c-f87bec88008b,Potassium,007440-09-7,in ground,Resource,kg,0.00002
@@ -230,4 +232,4 @@ CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (ele
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,bcd7879c-1e11-4265-889a-dbdacbe6e72a,"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore",007440-50-8,unspecified,Resource,kg,0.00394
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,b0352caa-91bc-4a56-99a1-5fe16f11ef1d,Thallium,007440-28-0,unspecified,Resource,kg,"3,750"
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,54f30d85-f262-42d9-a6a2-59d03df4196f,Antimony,007440-36-0,unspecified,Resource,kg,1
-CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,a7405163-762c-3b09-9dc6-b0a757bd3083,"Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore",007440-22-4,unspecified,Resource,kg,8.16
+CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,a7405163-762c-3b09-9dc6-b0a757bd3083,1,007440-22-4,unspecified,Resource,kg,2
