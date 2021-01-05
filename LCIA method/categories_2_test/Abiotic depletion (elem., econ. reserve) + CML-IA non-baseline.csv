@@ -1,6 +1,7 @@
 IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,36a3d172-7373-507f-85bd-12b8ba31a6d4,1,014362-44-8,in water,Resource,kg,1
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,7de77239-7074-4443-9dc9-4492c5e2ef35,1,007553-56-2,in water,Resource,kg,1
+1,1,1,1,1,1,1,1,1,1,1
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,080132f4-d8a5-4ff3-b926-c85847efd77c,Yttrium,007440-65-5,in ground,Resource,kg,0.423
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,fcee6eab-e906-4ddf-bc14-2b131b937893,"Zirconium, 50% in zircon, 0.39% in crude ore",007440-67-7,in ground,Resource,kg,0.023
 CML-IA non-baseline,7a914e6b-7c5a-316c-aab4-333c674ef723,"Abiotic depletion (elem., econ. reserve)",kg Sb eq,e373f7b4-42e9-4cc7-a73c-f87bec88008b,Potassium,007440-09-7,in ground,Resource,kg,0.00002
