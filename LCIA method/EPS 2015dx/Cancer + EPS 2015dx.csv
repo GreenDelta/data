@@ -1,0 +1,86 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,f4d0a2c8-efef-4188-85da-5801097389a2,Arsenic,,high population density,Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,a60e0354-94a4-4377-8ded-21f5db15f753,"Chromium, ion",016065-83-1,high population density,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,7705f0e1-5b14-44f4-b330-1245b5c7fc08,Chromium,,high population density,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,ab046420-da89-48e5-9e05-2a2b703eb2fe,Polonium-210,,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,543421e8-f0b3-45a2-b0ed-03489e878138,Uranium-238,,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,aa50ed3e-1b1d-46ac-b882-c0a69a764735,Krypton-85,013983-27-2,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,c314e244-baef-48fb-b4f6-ca5e5a0de545,Thorium-230,014269-63-7,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,05bd7a83-0c53-4e95-b1eb-1140742f4176,Iodine-129,015046-84-1,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,2f38ead0-f60f-4a9b-a7ca-31219c1a2f65,Uranium-234,013966-29-5,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,b772118d-cb3e-4330-aa01-317b04703cb2,"Hydrogen-3, Tritium",010028-17-8,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,93add24b-0bbf-4903-b3c1-3c695f597c63,Carbon-14,014762-75-5,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,356c6086-4835-4a0d-b1f2-10f8b6656d23,Lead-210,,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,1c02cff4-e852-489b-893c-d3ed30eb8ca5,Radium-226,,high population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,9d1efa17-070a-4602-a65f-daf5056b0647,"PAH, polycyclic aromatic hydrocarbons",,high population density,Emission to air,kg,0.00002
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e43a270f-4f88-4789-a0b8-7aba56677743,Nickel,,high population density,Emission to air,kg,0.00001
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,36e53653-1338-42c7-816c-f6667809e0b1,Cadmium,,high population density,Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,4d40d8e3-9bc7-4ab1-ac5c-4f4a76fda8e5,Chromium,,low population density,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,7348af7c-e102-4a03-a0df-efce16469eed,Arsenic,,low population density,Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,d43572af-d023-443b-9fad-d56ffc0adc53,"Chromium, ion",016065-83-1,low population density,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,ac98d2a4-4985-49f9-b4e2-fc896ef145b6,Uranium-234,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e6aafd63-a6d5-41f7-9b82-45f791c7037c,Uranium-238,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,d1679eda-eac2-4be4-876f-3be480c53dc4,Radium-226,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,4649902d-edc5-4d34-ae55-59993fe732d9,Iodine-129,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,4eb24f81-0468-4b92-bae3-8b12dfc90438,Thorium-230,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e8783a01-d3f5-4c08-b7b0-12af0f33c20d,Lead-210,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,28be1d65-6b09-4ebd-8599-4366c3c2abab,Krypton-85,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,44dd80c7-9960-4881-8431-939509b81f53,Polonium-210,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,0cdaaa7e-3c23-419d-8ad5-12dc93c2e1e3,"Hydrogen-3, Tritium",,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,19256c0f-bea8-4e61-9499-8cc2f84953f8,Carbon-14,,low population density,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,13d898ac-b9be-4723-a153-565e2a9144ac,"PAH, polycyclic aromatic hydrocarbons",,low population density,Emission to air,kg,0.00002
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e2d58f90-9aac-4ac4-87f7-bbd6cfc358e3,Cadmium,,low population density,Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e8fc62ba-678e-4706-97d2-b79d83e227d5,Nickel,,low population density,Emission to air,kg,0.00001
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,f4520cd4-2990-3c30-b9f7-7c4e4f1d853b,Chromium,007440-47-3,indoor,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e8f3e708-19c1-37c0-9fdb-2c7884b4dad1,Arsenic,007440-38-2,indoor,Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,0d1296aa-d946-3e5b-94a6-8dabb9a28dbe,Nickel,007440-02-0,indoor,Emission to air,kg,0.00001
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,3def807a-5e19-38d1-9cae-5b2034b907f1,Cadmium,007440-43-9,indoor,Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,ed751c30-a896-44f3-9a83-2a5328dde94d,Arsenic,,"low population density, long-term",Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,6b29d83a-c43c-484c-8e73-474a8a22d71e,Chromium,,"low population density, long-term",Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,f7af7269-1a06-455e-8a00-a04fff8e0a8e,"Chromium, ion",016065-83-1,"low population density, long-term",Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,6d8bddf2-fb89-466b-bbb5-0a3b4ee5df81,Polonium-210,013981-52-7,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,92b83fcf-1eef-43b8-b1bb-168a0f6896bf,Uranium-234,013966-29-5,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,284a896f-2aca-496e-9ab2-845525fbbc53,Carbon-14,014762-75-5,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,3c5a2d44-0206-427c-b34e-3b871077bd40,Uranium-238,007440-61-1,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,dfcd04d5-e7d9-4965-b62a-f272f40831f1,Radium-226,013982-63-3,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,046887e9-5de9-44c0-8461-3c6da8e9e4b1,Thorium-230,014269-63-7,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,141ec03e-9ec3-4cfe-853d-37cc66e1c333,Lead-210,014255-04-0,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,b082e84d-001a-4154-be49-5851cfa68ddf,"Hydrogen-3, Tritium",010028-17-8,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,4809b1f7-9973-476f-90cc-465067d834f3,Iodine-129,015046-84-1,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,93a5cd9d-5cb4-4f3a-9d72-8d3216160cd6,Krypton-85,013983-27-2,"low population density, long-term",Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,641ba62d-63a4-451c-bff0-aa5c08965393,"PAH, polycyclic aromatic hydrocarbons",130498-29-2,"low population density, long-term",Emission to air,kg,0.00002
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,23eaa36d-add4-4219-961e-ca7104dc0de9,Cadmium,,"low population density, long-term",Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,c89873de-cd23-4323-a948-f5cfeebd2fc9,Nickel,,"low population density, long-term",Emission to air,kg,0.00001
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,540e9a7b-5eef-3d5e-a50d-4424df3b693a,Radon-226,,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,e142b577-e934-4085-9a07-3983d4d92afb,Chromium,,unspecified,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,dc6dbdaa-9f13-43a8-8af5-6603688c6ad0,Arsenic,,unspecified,Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,13738d15-2256-40f6-99da-d802e5f4c747,Polonium-210,,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,106689fa-52d8-4f7d-aa5b-920122aaf1aa,Iodine-129,015046-84-1,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,00e73fdb-98df-4a03-8290-79931cddfd12,Lead-210,,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,b912f4b4-34ac-4ec1-aba1-01b9c83683e5,Radium-226,,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,8653eab9-c010-4d0b-ae9f-71694cb5291f,Krypton-85,013983-27-2,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,bf112355-f868-42b8-8f39-6f2901cc38b9,Uranium-234,013966-29-5,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,22d1736f-baa9-481e-9583-42654a6a7c26,Thorium-230,014269-63-7,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,bfc66f26-0b11-4e6e-9e8c-2bfde24dc23c,Carbon-14,014762-75-5,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,c36056d2-5101-4198-b13b-fdc0a8cf27ee,Uranium-238,,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,22043b06-1981-45a5-bfbb-20ae6f253191,"Hydrogen-3, Tritium",010028-17-8,unspecified,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,3e5d7d91-67d7-4afb-91dd-36fab58e4685,"PAH, polycyclic aromatic hydrocarbons",,unspecified,Emission to air,kg,0.00002
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,08a91e70-3ddc-11dd-9f7b-0050c2490048,"Chromium, ion",016065-83-1,unspecified,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,a5506f4b-113f-4713-95c3-c819dde6e48b,Nickel,,unspecified,Emission to air,kg,0.00001
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,1c5a7322-9261-4d59-a692-adde6c12de92,Cadmium,,unspecified,Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,cfce0b1a-2873-46fa-8e12-afb5a4213886,Arsenic,007440-38-2,lower stratosphere + upper troposphere,Emission to air,kg,0.00442
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,2a5ed451-12a2-47db-b4dc-fa0bfbc01d79,Chromium,,lower stratosphere + upper troposphere,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,894bc050-7a50-4631-af1f-d5121e019f9f,"Chromium, ion",016065-83-1,lower stratosphere + upper troposphere,Emission to air,kg,0.00022
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,0bd4b5ea-feb6-47d4-a657-c5b33b26fded,Iodine-129,015046-84-1,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,6e7276bb-64f5-4421-8696-b0103b687ddd,Carbon-14,014762-75-5,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,a511d493-3360-4de9-9d43-e9a52e586579,Polonium-210,013981-52-7,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,f707adbb-1784-42ec-8970-6efa10cd790e,Lead-210,014255-04-0,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,7bc25bb7-caa5-45cf-bbf0-889879173590,Thorium-230,014269-63-7,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,4e079e10-cee0-4afe-bf91-e7d8b23f6a94,Uranium-238,007440-61-1,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,3616e7c0-d323-4dc7-96aa-e06ac7fd808b,Krypton-85,013983-27-2,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,bf75c125-b39c-49d3-b06e-83153db03bd8,"Hydrogen-3, Tritium",010028-17-8,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,2eb231c3-447f-42e3-bcb6-fdcbdb8ee915,Radium-226,013982-63-3,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,521cd1c6-03bb-4608-8f6f-8bc289a11306,Uranium-234,013966-29-5,lower stratosphere + upper troposphere,Emission to air,kBq,0
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,1f5330ac-e81c-45f2-8c9c-335b531faab0,"PAH, polycyclic aromatic hydrocarbons",130498-29-2,lower stratosphere + upper troposphere,Emission to air,kg,0.00002
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,dd1bbaa1-d1f1-4584-aeb2-6f02bfb04e87,Cadmium,,lower stratosphere + upper troposphere,Emission to air,kg,0.00004
+EPS 2015dx,6630c690-9848-3363-9720-5978af1aa02a,Cancer,PersonYr,0545c382-2312-43b6-9ec3-63dbb1438565,Nickel,,lower stratosphere + upper troposphere,Emission to air,kg,0.00001

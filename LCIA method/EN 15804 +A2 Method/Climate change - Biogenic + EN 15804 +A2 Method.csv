@@ -1,0 +1,23 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,cc6a1abb-b123-4ca6-8f16-38209df609be,"Carbon dioxide, in air",,in air,Resource,kg,-1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,8ffbf5bb-f236-49ec-bb37-55b3561798ea,"Carbon dioxide, in air",000124-38-9,unspecified,Resource,kg,-1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,73ed05cc-9727-4abf-9516-4b5c0fe54a16,"Carbon dioxide, non-fossil",,high population density,Emission to air,kg,1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,baf58fc9-573c-419c-8c16-831ac03203b9,"Methane, non-fossil",,high population density,Emission to air,kg,36.75
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,550eaab3-16d8-3b28-a1a1-5aa018fd394c,"Carbon monoxide, biogenic",000630-08-0,high population density,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,9afa0173-ecbd-4f2c-9c5c-b3128a032812,"Carbon monoxide, non-fossil",,high population density,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,d6235194-e4e6-4548-bfa3-ac095131aef4,"Carbon dioxide, non-fossil",,low population density,Emission to air,kg,1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,b58c0d57-fecb-3079-aaf3-49e239bca4cb,"Carbon monoxide, biogenic",000630-08-0,low population density,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,57bdb443-d4a6-423d-8024-959b8261d02e,"Methane, non-fossil",,low population density,Emission to air,kg,36.75
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,"Carbon monoxide, non-fossil",,low population density,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,"Carbon monoxide, non-fossil",,low population density,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,7b44cf6c-867f-34a0-b632-024664899e21,"Methane, biogenic",000074-82-8,indoor,Emission to air,kg,36.75
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,28e1e2d6-97ad-4dfd-932a-9edad36dcab9,"Carbon dioxide, biogenic",000124-38-9,"low population density, long-term",Emission to air,kg,1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,588356df-f3b4-43a7-a76e-c47175a7eae0,"Carbon monoxide, biogenic",000630-08-0,"low population density, long-term",Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,6c977009-5c4e-4901-a4c1-ab20389cb972,"Methane, biogenic",000074-82-8,"low population density, long-term",Emission to air,kg,36.75
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,eba59fd6-f37e-41dc-9ca3-c7ea22d602c7,"Carbon dioxide, non-fossil",,unspecified,Emission to air,kg,1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,da1157e2-7593-4dfd-80dd-a3449b37a4d8,"Methane, non-fossil",,unspecified,Emission to air,kg,36.75
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,2cb2333c-1599-46cf-8435-3dffce627524,"Carbon monoxide, non-fossil",,unspecified,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,d6703e06-c8e7-3783-8a84-95a1560f8e9c,"Carbon monoxide, biogenic",000630-08-0,unspecified,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,4e1f0bb0-2703-4303-bf86-972d810612cf,"Carbon dioxide, biogenic",000124-38-9,lower stratosphere + upper troposphere,Emission to air,kg,1
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,968495ec-1000-438a-9e11-467776ebb54e,"Carbon monoxide, biogenic",000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,1.57
+EN 15804 +A2 Method,e8a3e30f-1253-3ed0-a13c-6c95e18385af,Climate change - Biogenic,kg CO2 eq,258263a0-6be3-4439-bd84-efee0498b849,"Methane, biogenic",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,36.75

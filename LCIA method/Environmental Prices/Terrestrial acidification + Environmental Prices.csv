@@ -1,0 +1,31 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,675d7403-504b-422c-aa11-7dc8e79e4486,Sulfur oxides,,high population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,2.45
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,8c356c12-29dd-3a6d-9f9d-d3ebd106db5b,Sulfur monoxide,,high population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,65e1e004-ceed-4b40-ab2b-5f34b07fdb99,Sulfur oxides,,low population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,2.45
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,e0994a6e-9a9f-4a17-9f02-d85937d01028,Sulfur monoxide,,low population density,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,65634b3e-5481-4e61-b4fa-b67cb7c4ffc3,Sulfur oxides,,"low population density, long-term",Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,2.45
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,1275ddeb-f87b-3f52-94a4-1eb8e2ac6c06,Sulfur monoxide,,"low population density, long-term",Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd,Sulfur oxides,,unspecified,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,2.45
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,b1124d65-6c5a-4530-a5e5-0c9726eb524c,Sulfur monoxide,,unspecified,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,0c143a06-6761-3c47-8006-ffcad7b58a10,Sulfur oxides,,lower stratosphere + upper troposphere,Emission to air,kg,1
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,2.45
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.56
+Environmental Prices,dc1a8101-a0f0-3f4f-9b1a-388edda0c826,Terrestrial acidification,kg SO2 eq,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,1

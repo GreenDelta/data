@@ -1,0 +1,46 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,1eb1b94c-e9d8-47ab-969b-9cca920157d8,"Particulates, > 10 um",,high population density,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,32295152-7da7-47cb-b4a2-60ca4f246a80,"Particulates, < 10 um",,high population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,230d8a0a-517c-43fe-8357-1818dd12997a,"Particulates, < 2.5 um",,high population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,ccb169c3-8aae-4727-89bb-a7dd122946f3,"Particulates, > 2.5 um, and < 10um",,high population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,8c356c12-29dd-3a6d-9f9d-d3ebd106db5b,Sulfur monoxide,,high population density,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,7678cec7-b8e1-439d-8242-99cd452834b1,"Particulates, > 10 um",,low population density,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,7ae398c2-8532-11e0-9d78-0800200c9a66,"Particulates, unspecified",,low population density,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,295c9740-6fdb-4676-9eb8-15e3786f713d,"Particulates, > 2.5 um, and < 10um",,low population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,d42f8d08-08f6-42ef-ae04-dc2025462880,"Particulates, < 10 um",,low population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,66f50b33-fd62-4fdd-a373-c5b0de7de00d,"Particulates, < 2.5 um",,low population density,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,e0994a6e-9a9f-4a17-9f02-d85937d01028,Sulfur monoxide,,low population density,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,f80eead1-54c8-3530-a8be-7a9e2394edd0,Particulates,,"low population density, long-term",Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,b001715e-60e4-4f1d-949d-1acfab65bd8f,"Particulates, > 10 um",,"low population density, long-term",Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,933aa823-4d33-3059-9123-99f772115ad5,"Particulates, unspecified",,"low population density, long-term",Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,051aaf7a-6c1a-4e86-999f-85d5f0830df6,"Particulates, < 2.5 um",,"low population density, long-term",Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,c1f89bab-74fe-4995-9ed4-72bb73ca45f1,"Particulates, < 10 um",,"low population density, long-term",Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,5716c728-bd33-414d-8691-16e5534f5d37,"Particulates, > 2.5 um, and < 10um",,"low population density, long-term",Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,1275ddeb-f87b-3f52-94a4-1eb8e2ac6c06,Sulfur monoxide,,"low population density, long-term",Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,252c2e43-c6e3-3010-b045-72aa0e172abb,Particulates,,unspecified,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,66020d27-7ae4-4e59-83a3-89214b72c40a,"Particulates, > 10 um",,unspecified,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,7ae398c3-8532-11e0-9d78-0800200c9a66,"Particulates, unspecified",,unspecified,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,08a91e70-3ddc-11dd-91be-0050c2490048,"Particulates, < 10 um",,unspecified,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,21e46cb8-6233-4c99-bac3-c41d2ab99498,"Particulates, < 2.5 um",,unspecified,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,b967e1bf-f09b-4c89-8740-ace21db47bba,"Particulates, > 2.5 um, and < 10um",,unspecified,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,b1124d65-6c5a-4530-a5e5-0c9726eb524c,Sulfur monoxide,,unspecified,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,g,0.0139
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,e22e8f39-d8f2-4702-bed3-0b95babb7788,"Particulates, > 10 um",,lower stratosphere + upper troposphere,Emission to air,g,0.0459
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,ddd99a3a-be86-423d-b36a-a9dc8af1b1f8,"Particulates, < 2.5 um",,lower stratosphere + upper troposphere,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,604f9273-f26b-46be-83a7-3a65280011d1,"Particulates, > 2.5 um, and < 10um",,lower stratosphere + upper troposphere,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,0245b0e3-f250-3fac-aea1-26a7d949926d,"Particulates, < 10 um",,lower stratosphere + upper troposphere,Emission to air,g,0.0834
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,g,0.00221
+BEES+,077620f4-b37c-361f-b873-090e6b2dacbd,HH criteria air pollutants,microDALYs,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,g,0.0139

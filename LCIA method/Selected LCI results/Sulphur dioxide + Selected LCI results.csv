@@ -1,0 +1,6 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,1
+Selected LCI results,362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,1
+Selected LCI results,362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,1
+Selected LCI results,362e8400-55b5-392e-9d14-e346b739e550,Sulphur dioxide,kg,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,1

@@ -1,0 +1,19 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,1fdca295-07cb-4797-8fc8-2bd8ba79514f,"Heat, waste",,forestry,Emission to soil,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,7966394e-6a5b-4069-97a1-1b99f8b7bcb0,"Heat, waste",,agricultural,Emission to soil,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,dfbe093a-f470-4ae7-a207-50444f1f23f1,"Heat, waste",,unspecified,Emission to soil,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,dab33577-e9d4-4f6d-b141-a456521d4c1b,"Heat, waste",,industrial,Emission to soil,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,e8a4b3be-2907-4992-895f-f9cddf5c9d32,"Heat, waste",,"river, long-term",Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,d49843c0-1a40-462f-bebc-a4d0e8573e7e,"Heat, waste",,fossil-,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,dca43ede-b779-47a7-b2e7-cb4e7b12c3da,"Heat, waste",,"ground water, long-term",Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,9b83f2bb-7d61-4e55-b37a-443f164c5f30,"Heat, waste",,unspecified,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,a649f89b-2e2a-48e9-9677-b85b4cbcc30c,"Heat, waste",,ocean,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,152e5a83-96e8-4f54-af42-4f0925a771ac,"Heat, waste",,surface water,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,a0db2cd9-48ae-4f4b-a3ef-98c94038f9e1,"Heat, waste",,river,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,6c25a476-4506-4003-8f8e-567eebfa27ae,"Heat, waste",,lake,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,3d3321d4-8082-4e31-a4be-6c9789f8701d,"Heat, waste",,ground water,Emission to water,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,b411ec8b-c60a-4235-a3b2-8bf8443cbc55,"Heat, waste",,high population density,Emission to air,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,07f704a2-2746-4364-bcfd-606cefc30715,"Heat, waste",,low population density,Emission to air,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,c377b25d-c52c-4b0f-aa2a-8c51ff1dab31,"Heat, waste",,"low population density, long-term",Emission to air,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,f2d84834-d0b3-42e5-b41a-f04cc80337a4,"Heat, waste",,unspecified,Emission to air,MJ,1
+"Selected LCI results, additional",6d496006-362c-30fe-a634-ab12a3ceb382,"Heat, waste",MJ,ef7b0b7e-16e2-4e14-af28-94d9dd3c675d,"Heat, waste",,lower stratosphere + upper troposphere,Emission to air,MJ,1

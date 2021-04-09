@@ -1,0 +1,11 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,620bc2f6-cf71-4dde-bba9-c6e8fdec5e23,Carbon monoxide,000630-08-0,high population density,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,6edcc2df-88a3-48e1-83d8-ffc38d31c35b,"Carbon monoxide, fossil",,high population density,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,7ae371ab-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,low population density,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,099b36ab-4c03-4587-87f4-2f81e337afb8,"Carbon monoxide, fossil",,low population density,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,49c594c6-b6a8-42a3-95c5-cca812fda80b,"Carbon monoxide, fossil",000630-08-0,"low population density, long-term",Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,e462d2ef-2da9-4b99-9e16-f4cd181a91da,Carbon monoxide,000630-08-0,"low population density, long-term",Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,ba2f3f82-c93a-47a5-822a-37ec97495275,"Carbon monoxide, fossil",,unspecified,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,7ae371ac-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,unspecified,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,08a91e70-3ddc-11dd-9252-0050c2490048,Carbon monoxide,000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,0
+EPS 2015dx,5858e6dc-0584-32b7-963d-2518c033be93,Gravation of angina pectoris,PersonYr,a3beb5ac-5149-47f6-a035-53fc5030f10a,"Carbon monoxide, fossil",,lower stratosphere + upper troposphere,Emission to air,kg,0

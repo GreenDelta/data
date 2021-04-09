@@ -1,0 +1,13 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,6c4a3fb1-813d-33f2-87e7-157699f2a835,"Transformation, to dump site, benthos",,land,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,90a5a447-af6f-421a-8201-011f07ad1150,"Transformation, to dump site",,land,Resource,m2,-0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,d73b27a2-81bd-4264-baa5-ce4aca3545be,"Transformation, to dump site, slag compartment",,land,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,1a568858-efa8-4c2a-b46e-82b6e66b6072,"Transformation, to dump site, sanitary landfill",,land,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,d10b390c-9d0c-4f59-b31d-3d0d70e77a35,"Transformation, to dump site, inert material landfill",,land,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,8f5c8cb3-dccd-45da-9f1f-d1c61cd789c3,"Transformation, to dump site, residual material landfill",,land,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,60fbcca2-15a2-4791-ab89-09921211487f,"Transformation, to dump site, slag compartment",,unspecified,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,3abec56e-98ea-44d2-b91d-7ae9bcd2141d,"Transformation, to dump site",,unspecified,Resource,m2,-0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,c8c9bc86-8649-4637-a435-c2b52d5e1ddf,"Transformation, to dump site, residual material landfill",,unspecified,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,267ca4fd-2526-451e-86e0-796318d509b6,"Transformation, to dump site, inert material landfill",,unspecified,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,5cf68994-cf11-4e37-9834-1f0e1c382fa5,"Transformation, to dump site, sanitary landfill",,unspecified,Resource,m2,0
+BEES+,9dab4ab4-3696-39ad-ab1a-527600c29cb4,Habitat alteration,T&E count,92138f4d-5e83-41fb-a202-6d59c36d5231,"Transformation, to dump site, benthos",,unspecified,Resource,m2,0

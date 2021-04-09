@@ -1,0 +1,5 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Ecological Scarcity 2013,a8115b34-9a65-39b9-8dd1-277236b9addc,Radioactive waste to deposit,UBP,f6df5030-8e06-4276-bfeb-219db8dab104,"Volume occupied, final repository for low-active radioactive waste",,in ground,Resource,m3,"2,100,000"
+Ecological Scarcity 2013,a8115b34-9a65-39b9-8dd1-277236b9addc,Radioactive waste to deposit,UBP,adb4b590-7fb2-47b6-84e7-d4746a94c7b5,"Volume occupied, final repository for radioactive waste",,in ground,Resource,m3,"35,000,000,000"
+Ecological Scarcity 2013,a8115b34-9a65-39b9-8dd1-277236b9addc,Radioactive waste to deposit,UBP,52db6bae-e4ff-32a8-8bce-92214ec88f1a,"Volume occupied, final repository for low-active radioactive waste",,unspecified,Resource,m3,"2,100,000"
+Ecological Scarcity 2013,a8115b34-9a65-39b9-8dd1-277236b9addc,Radioactive waste to deposit,UBP,61600b44-7753-36dd-a5e9-81cb1a1b0004,"Volume occupied, final repository for radioactive waste",,unspecified,Resource,m3,"35,000,000,000"

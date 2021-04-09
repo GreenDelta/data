@@ -1,0 +1,24 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,5958a968-d153-415f-acbf-81719c1aa09f,Lead,007439-92-1,"river, long-term",Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,1a002089-bf1f-497c-a4d8-336542f7b38d,Lead,007439-92-1,"fresh water, long-term",Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,8ccf40b6-eee0-4b71-9bc5-965328e2ef95,Lead,007439-92-1,fossil-,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,80b3c2a1-af98-4dde-b298-abf7e78e38ee,Lead,007439-92-1,fresh water,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,0ff15165-d761-48c9-9814-2d1dcdd56857,Lead,,"ground water, long-term",Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,31c4d160-b21e-41b3-b9c1-3d7a72377653,Lead,,unspecified,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,e9e856c2-868e-435e-8425-8df1c9297cfc,Lead,,ocean,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,b3ebdcc3-c588-4997-95d2-9785b26b34e1,Lead,,surface water,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,f420380c-b1b6-4ead-8a54-7d77e53379b7,Lead,007439-92-1,river,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,540106ac-eb8e-446b-91f5-3fdbad5a5886,Lead,007439-92-1,lake,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,c864aa15-0abc-41ad-9889-348106e485d8,Lead,,ground water,Emission to water,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,6a903634-c97f-4c49-a7c0-88f0e6ac7a23,Lead,,high population density,Emission to air,kg,0.00323
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,Mercury,,high population density,Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,2718482b-8399-442e-b89a-52fbcc22d2e6,Lead,,low population density,Emission to air,kg,0.00323
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,5ec9c16a-959d-44cd-be7d-a935727d2151,Mercury,,low population density,Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,656d6498-56ca-31b6-bc6a-5a24421b38be,Mercury,007439-97-6,indoor,Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,fc4d79d7-9795-3307-b821-ee668a08a9e4,Lead,007439-92-1,indoor,Emission to air,kg,0.00323
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,dc90db73-6f27-403d-baf1-cb7e0b6cae31,Mercury,,"low population density, long-term",Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,9ee7f4ab-b826-47ae-8623-e138f944b42e,Lead,,"low population density, long-term",Emission to air,kg,0.00323
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,8e123669-94d3-41d8-9480-a79211fe7c43,Lead,,unspecified,Emission to air,kg,0.00323
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,71234253-b3a7-4dfe-b166-a484ad15bee7,Mercury,,unspecified,Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,48aa661d-be05-4c24-94fe-8d6feb3dcb31,Mercury,,lower stratosphere + upper troposphere,Emission to air,kg,0.0131
+EPS 2015dx,4bb8f430-76e8-3598-ac85-8dec4fe035e7,Intellectual disability: mild,PersonYr,fe4613d7-1ed8-427d-9b06-c8e8f4f5e1b1,Lead,,lower stratosphere + upper troposphere,Emission to air,kg,0.00323

@@ -1,0 +1,76 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,de2d220b-9fe8-4c39-bef7-a76c00d6ff33,"Fluorspar, 92%",014542-23-5,in ground,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,a4bab069-74a9-5b4c-8d6e-5ca984cd9ecd,"Magnesite, in ground",,in ground,Resource,kg,1.05
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,9877ce00-65f8-4c0c-9fcf-92aa53a2c9c0,"Diatomite, in ground",,in ground,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,5bbcdc6d-b1a7-4b63-b625-76060c767de7,"Sodium sulphate, various forms, in ground",,in ground,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,0b9159dd-305d-4add-802f-f7b780ed0289,"Sodium chloride, in ground",,in ground,Resource,kg,0.25
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,7ae3bfc0-8532-11e0-9d78-0800200c9a66,"Sand, quartz",014808-60-7,in ground,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,aaceb467-2e6a-464e-9a0f-2545e31850ba,Pyrolusite,014854-26-3,in ground,Resource,kg,0.31
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,c13beafb-2aed-4a52-b09a-78d28913b6ce,"Barite, 15% in crude ore",007727-34-7,in ground,Resource,kg,4.2
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,81ff5c0b-c44f-534e-a55e-8fc017e33dd2,"Kaolinite, in ground",,in ground,Resource,kg,2.63
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,f3380341-7f76-5423-9704-c25ccf777a39,"Kieserite, in ground",,in ground,Resource,kg,2.52
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,041ff934-6556-11dd-ad8b-0800200c9a66,Potassium chloride,007447-40-7,in ground,Resource,kg,0.99
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,5666353e-2db2-41d3-8414-404709151422,"Metamorphous rock, graphite containing, in ground",,in ground,Resource,kg,1.09
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,bea19217-6a28-4711-8142-2e71090c0b46,"Vermiculite, in ground",,in ground,Resource,kg,0.039
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,c73e75dc-c02d-4192-ab43-faf29c119fae,"Pyrite, in ground",,in ground,Resource,kg,11.91
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,d80610f2-df83-4e2a-9dc3-f74fced6577f,"Sylvite, 25 % in sylvinite",007447-40-7,in ground,Resource,kg,0.99
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,0fa4f51e-b0dc-5d11-84d3-b32f0f3c88d5,"Fluorspar, in ground",,in ground,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,99ee393d-4bd1-4cc8-b0a0-d956865fb7bf,"Calcite, in ground",,in ground,Resource,kg,0.01
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,15545dca-018d-4f7f-aa1f-796b707180af,Cinnabar,023333-45-1,in ground,Resource,kg,2.9
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,f7519ca9-5ffc-41c3-a33e-806da82cfc0e,"Clay, unspecified, in ground",,in ground,Resource,kg,0.57
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,38eff837-5465-47a9-a1c9-e1edd70922ef,"Kieserite, 25% in crude ore",014567-64-7,in ground,Resource,kg,2.52
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,4402f445-984c-4728-be22-6f9aea1146b9,"Pumice, in ground",,in ground,Resource,kg,0.6
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,ac3a8914-35f0-4c34-a956-f26b3a053e4a,"Basalt, in ground",,in ground,Resource,kg,0.28
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,d7cadc9a-f42c-4711-a8e2-0b626c0a4c7a,"Olivine, in ground",,in ground,Resource,kg,0.78
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,d2bf022d-9cbf-4f19-a8ec-7f507746942b,"Magnesite, 60% in crude ore",000546-93-0,in ground,Resource,kg,1.05
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,e5fadc0b-1d79-4604-ac32-fd3321f27933,"Fluorine, 4.5% in apatite, 1% in crude ore",007782-41-4,in ground,Resource,kg,21
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,a4375a18-172c-4f82-90b7-bca972f75548,"Granite, in ground",,in ground,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,93806a54-46f5-409c-99c5-4144a1e73b5d,"Clay, bentonite, in ground",,in ground,Resource,kg,0.059
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,08a91e70-3ddc-11dd-97f9-0050c2490048,Barite,013462-86-7,in ground,Resource,kg,4.2
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,355785ee-56e0-455b-aaa6-bee43c82b49c,"Fluorine, 4.5% in apatite, 3% in crude ore",007782-41-4,in ground,Resource,kg,21
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,09a68c14-01f6-4dee-ba29-8b7f400b72b5,"Perlite, in ground",,in ground,Resource,kg,0.6
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,ee540366-b970-46af-94d8-4c253ded5577,"Kaolinite, 24% in crude ore",,in ground,Resource,kg,2.63
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,c5f5aeb8-7558-4a0c-9594-27621b9cfbc5,"Chrysotile, in ground",,in ground,Resource,kg,0.14
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,238f8ea9-98df-41dc-ab93-ea5b549a0b96,"Gravel, in ground",,in ground,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,9e9b6792-40e6-4d62-a3e0-ebebc0c65166,"Shale, in ground",,in ground,Resource,kg,0.57
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,5324b57a-96f1-4dc3-9dc5-544881960f4f,"Spodumene, in ground",,in ground,Resource,kg,0.35
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,6df9ea09-115a-4678-9f30-d92c877a46ec,"Anhydrite, in ground",,in ground,Resource,kg,0.06
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,c7aee986-b7d8-4ad9-ad45-1ac0d68e6b78,"Dolomite, in ground",,in ground,Resource,kg,0.082
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,bc97531c-12d8-4113-bcb2-663a47d12d0f,"Talc, in ground",,in ground,Resource,kg,0.039
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,423ef039-6057-4f63-94bd-e9410d024bd0,"Sand, unspecified, in ground",,in ground,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,fc565b76-6962-336e-9fe3-86eb874c167b,Sodium sulfate,007757-82-6,in ground,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,26296ec9-ff93-41e6-bbbf-6175af04284d,"Feldspar, in ground",,in ground,Resource,kg,0.14
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,3048af84-1d72-5e3f-a739-b2d7fa7d4773,"Fluorine, in ground",,in ground,Resource,kg,63
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,11a2a7b1-ab2f-47b8-9e29-6f33d5207fa6,"Gypsum, in ground",,in ground,Resource,kg,0.045
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,19fafab5-f4a8-380e-9d9d-1b873e20cfee,Sand,014808-60-7,in ground,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,483ae3c5-4eb0-46e4-b811-a72ad391716b,"Phosphorus, in ground",,in ground,Resource,kg,5.25
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,a64e65fe-3c33-44f1-bd2d-ab7fac07653f,"Phosphorus, 18% in apatite, 12% in crude ore",007723-14-0,in ground,Resource,kg,5.25
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,852281f6-db73-4250-84d3-86b569fce0c1,"Sulfur, in ground",,in ground,Resource,kg,19.01
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,9a7380d1-6e23-48ad-b35a-14bd1ecb3133,"Phosphorus, 18% in apatite, 4% in crude ore",007723-14-0,in ground,Resource,kg,15.75
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,5d2edcdd-d168-3685-a21c-dcba715ee2ad,Pumice,001332-09-8,unspecified,Resource,kg,0.6
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,d6cd3bd1-f1c4-422a-8011-80bc5efddd3a,"Clay, unspecified",,unspecified,Resource,kg,0.57
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,d5bdcbda-4230-3e6b-a083-2a1ada33922d,Vermiculite,001318-00-9,unspecified,Resource,kg,0.039
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,e503857c-f617-3f3d-962a-3098e6c96a1e,Talc,014807-96-6,unspecified,Resource,kg,0.039
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,f943b094-3282-37d7-a084-005f4d4f4b20,Perlite,093763-70-3,unspecified,Resource,kg,0.6
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,c0e4c5de-b81c-3e0f-9957-894b63f04736,Barite,013462-86-7,unspecified,Resource,kg,4.2
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,10a562b0-cd0f-3982-8ec4-77bb135a8311,Diatomite,068855-54-9,unspecified,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,73739d9c-564a-323a-878d-360193fc91e2,Sodium sulfate,007757-82-6,unspecified,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,04350548-ad35-334a-9f1b-3bf65abd6b98,Sand,014808-60-7,unspecified,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,44683a74-a8de-3420-96a5-daf3c47d7ad1,Feldspar,068476-25-5,unspecified,Resource,kg,0.14
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,26b8e3e5-9d2c-3498-8227-e1509f4bac2a,Chrysotile,012001-29-5,unspecified,Resource,kg,0.14
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,871f62dd-2c0b-3e35-80ca-e7fb919e6778,Pyrite,001309-36-0,unspecified,Resource,kg,11.91
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,67347b73-1ca4-3c23-880b-0245e3d4b680,"Clay, bentonite",,unspecified,Resource,kg,0.059
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,37b99563-7e18-3370-b06c-7c837167af51,"Fluorine, 4.5% in apatite, 3% in crude ore",007782-41-4,unspecified,Resource,kg,21
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,3f0c029d-42ee-37ee-841b-de0a0dc8c254,Kieserite,014567-64-7,unspecified,Resource,kg,2.52
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,f6c31640-a78e-4666-b1a1-a3eb174523d2,Sodium chloride,007647-14-5,unspecified,Resource,kg,0.25
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,65be7568-d671-3361-b58f-eaee6b39f956,Gypsum,013397-24-5,unspecified,Resource,kg,0.045
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,a53dfac6-0dba-30c4-aa61-9eddc3d51677,Fluorspar,014542-23-5,unspecified,Resource,kg,0.15
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,2853f8f9-26c5-42a2-a30a-e473b8ffbac0,Potassium chloride,007447-40-7,unspecified,Resource,kg,0.99
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,0fb193f7-7db9-3ca2-975f-592cf7be941a,Magnesite,000546-93-0,unspecified,Resource,kg,1.05
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,f6b655a3-b1b6-3abb-9291-2eedb764ab9d,Pyrolusite,014854-26-3,unspecified,Resource,kg,0.31
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,751ab159-5683-3a47-bbc6-5b5bcf4bbdc8,Gravel,,unspecified,Resource,kg,0.068
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,b6d072c3-eda6-35d3-a3de-4ac95ecae331,Cinnabar,023333-45-1,unspecified,Resource,kg,2.9
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,8db12ace-9708-3989-a5d1-a9bf411450fd,Fluorine,014762-94-8,unspecified,Resource,kg,63
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,a2bb0239-156c-43d3-a41c-b5b4140785ec,Sulfur,007704-34-9,unspecified,Resource,kg,19.01
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,7044c00f-1e27-4080-aaa2-c582c51fb8b3,Phosphorus,007723-14-0,unspecified,Resource,kg,5.25
+Cumulative Exergy Demand,72575de8-6756-3f4b-a471-aa406b665afb,"Non renewable, minerals",MJ,2ee5e952-3cf2-354d-945a-e1471754c2c8,"Phosphorus, 18% in apatite, 4% in crude ore",007723-14-0,unspecified,Resource,kg,15.75

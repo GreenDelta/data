@@ -1,0 +1,34 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,70c4c6d8-ed81-4763-ae6d-39e54ef0b1fa,"Occupation, seabed, drilling and mining",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,9db06277-b6d9-4c48-8cfb-de342e928a50,"Occupation, seabed, infrastructure",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,190d9910-5d04-4c97-abea-3b39682b7ed6,"Occupation, urban, green area",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,3e7f1605-9451-4e53-9690-ab5318033227,"Occupation, traffic area",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,c7cb5880-4219-4051-9357-10fdd08c6f2b,"Occupation, unspecified",,land,Resource,m2*a,0.6
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,379ba5c9-5c3a-43d0-8e2d-605ad9c39e46,"Occupation, mineral extraction site",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,4b6b9b76-3199-4bd0-b11d-f8f2efbeac4e,"Occupation, construction site",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,fe9c3a98-a6d2-452d-a9a4-a13e64f1b95b,"Occupation, industrial area",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,26efe47c-92a5-4dea-b4d0-eac13e418a58,"Occupation, traffic area, road network",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,56ec994a-eb96-42e8-93eb-4970e30e6362,"Occupation, urban, discontinuously built",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,956c5f83-65c8-4607-9749-147cfb9c8f70,"Occupation, traffic area, rail/road embankment",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,44ea6f89-8780-45b4-a80a-cfc3abcfef5f,"Occupation, industrial area, vegetation",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,1eaa9ea4-40b8-414a-b198-5626400372e1,"Occupation, dump site",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,3b4db191-9634-4a01-a873-f3cb234785e4,"Occupation, urban, continuously built",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,062a6faf-b1a5-4a6a-aa02-47ae3ec566a8,"Occupation, traffic area, rail network",,land,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,d5bb94d9-1426-3366-ad9c-2facec6e4f12,"Occupation, seabed, drilling and mining",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,74212326-ca29-46f8-a600-4e45b0ad688e,"Occupation, traffic area",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,5ce41517-25bb-4da6-b839-5fd0f00baff1,"Occupation, urban, green areas",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,b0828a29-0261-4a12-a5d3-9e72c7e89619,"Occupation, industrial area, benthos",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,c033dd2f-87a4-435d-a7cb-477b15310066,"Occupation, dump site, benthos",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,080bf4c6-fab3-4e21-88c7-20b435aa42e8,"Occupation, urban, discontinuously built",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,dde38771-435a-4f90-ad87-fd944f90b437,"Occupation, industrial area, vegetation",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,3259f9e3-8108-444b-9521-de12e53f6e35,"Occupation, dump site",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,26586deb-0d0d-42b7-ae01-e6e517a743cb,"Occupation, construction site",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,45091000-d7e1-459f-bac5-38b51efb4d63,"Occupation, urban, continuously built",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,72745257-3534-4ca3-adfa-a2eb63f1e7d9,"Occupation, traffic area, road network",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,b8210d24-4b65-3710-846b-d24edffb5f89,"Occupation, traffic area, rail/road embankment",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,7d6baa46-6ac9-4f04-9bcb-abc382574260,"Occupation, mineral extraction site",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,2aa913a6-41a4-47cd-83bd-58cc5e1b11a5,"Occupation, traffic area, rail network",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,cf39ec61-e779-4614-97b7-ec622556040d,"Occupation, industrial area, built up",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,14b92328-e08d-4fac-b16a-da5dcd0e5627,"Occupation, traffic area, road embankment",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,faa01bcb-884e-4c79-9ea2-16da6596c6a6,"Occupation, industrial area",,unspecified,Resource,m2*a,1
+Environmental Prices,ad0660c4-968e-3272-96f8-a68b41bfb5e9,Urban land occupation,m2a,50b14562-ddeb-49d7-899c-dcbf9dfed004,"Occupation, unknown",,unspecified,Resource,m2*a,0.6

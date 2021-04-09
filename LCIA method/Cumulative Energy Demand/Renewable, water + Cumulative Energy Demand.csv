@@ -1,0 +1,9 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,b281f40a-9bd2-3973-b92d-a03734b4a506,"Energy, from hydro power",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,62c6f0b4-0d4c-35ff-8233-b422f1312961,"Energy, from hydrogen",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,c69c1aac-2cd0-4bcf-8c98-434ef19d3a88,"Energy, potential (in hydropower reservoir), converted",,unspecified,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,47ede456-cb14-44fd-bc8e-01cb1bee4af1,"Water, barrage",007732-18-5,unspecified,Resource,kg,0.01
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,75625969-b305-3a79-a8cb-b69adf1ce153,"Energy, from hydrogen",,in water,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,c0dd7ccd-9e7a-42b3-b899-dfd18c2150ca,"Energy, potential (in hydropower reservoir), converted",,in water,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,c3ae56cd-b714-330e-a5f5-bfba53fd3b06,"Energy, from hydro power",,in water,Resource,MJ,1
+Cumulative Energy Demand,388e9af0-004b-33fb-bf91-90dded0001cc,"Renewable, water",MJ,d340bcfb-77bb-34f2-8052-b598a2cdf17e,"Water, barrage",007732-18-5,in water,Resource,kg,0.01

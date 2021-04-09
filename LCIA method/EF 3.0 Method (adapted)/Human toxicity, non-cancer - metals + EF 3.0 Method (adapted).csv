@@ -1,0 +1,662 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1a313b30-7156-4bc3-9f3b-54faa4b742b6,Antimony V,022537-51-5,forestry,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1173fbf5-c554-4ffc-8168-aadb0f823b40,Antimony III,023713-48-6,forestry,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,591de726-f2c7-43ba-8e22-15fd08acc8dc,Chromium,,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,48dbf4b1-0b2a-4bf5-a190-2d7fc465bda4,Silver,007440-22-4,forestry,Emission to soil,kg,0.00566
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,39555a26-d28b-425f-993f-e8770ab7d9cf,Aluminium,007429-90-5,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,689ffb9a-b596-4191-b458-2908dc2d075c,Vanadium,007440-62-2,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1e19d86e-968d-4428-984f-70bfd843a8f4,Arsenic,007440-38-2,forestry,Emission to soil,kg,0.00278
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ba785aad-0ee5-4bba-b049-e32bc31670cb,Titanium,007440-32-6,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1f3c2297-d652-468d-82e8-4fd59bf5b5b8,Molybdenum,007439-98-7,forestry,Emission to soil,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8d226423-1351-4366-b09f-d16c9e38683c,Zinc,,forestry,Emission to soil,kg,0.0001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,01285299-c683-4e15-b654-201987a7a738,Chromium VI,018540-29-9,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b03642f4-8fa3-44df-ba91-7bcf5677d9a7,Cadmium,,forestry,Emission to soil,kg,0.01219
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5de1943f-b011-45a0-97d4-ed15eea6a382,Nickel,,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,51814700-587c-4915-9ed2-c5a644f831d3,Thallium,007440-28-0,forestry,Emission to soil,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,47d20967-a49a-4fb3-881d-51956520449e,Selenium,007782-49-2,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,837083ce-41cd-49f3-a849-d79564dac238,Lead,,forestry,Emission to soil,kg,0.00269
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c486d0f8-f2be-4c5e-b594-9fa5d6942f9e,Mercury,007439-97-6,forestry,Emission to soil,kg,0.21659
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,183f9856-03ab-464d-9366-8ef62077b510,Antimony,007440-36-0,forestry,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,85c40d9a-cbf0-44f0-a9a2-5b1edee4055a,Beryllium,007440-41-7,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,237ca6bc-2f0a-4416-a0e3-bd512f038f2e,Copper,,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c792edbf-a11f-459d-9d92-15ad0c2f0c3c,Barium,007440-39-3,forestry,Emission to soil,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,33e28042-7a6a-4b68-9923-2321cb738164,"Arsenic, ion",017428-41-0,forestry,Emission to soil,kg,0.00278
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c58d25ad-30d2-4fac-a857-1fa6f67afe8a,Cobalt,007440-48-4,forestry,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7f738c98-7e7d-3010-8ddd-78eb153a021d,Lithium,007439-93-2,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1521d4a1-363c-3337-b228-d6ed8deeecf2,Arsenic III,022541-54-4,agricultural,Emission to soil,kg,0.00421
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,81e65024-d6da-3e5d-b605-7e9f082be640,Antimony V,022537-51-5,agricultural,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e8475907-2081-4fd5-9526-bfcef88380db,Magnesium,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,39f248d5-dd9b-4460-8f34-3415dc3f3e43,Silicon,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,51acafad-76c1-3756-863e-51e43147cc74,Antimony III,023713-48-6,agricultural,Emission to soil,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e7881581-21b3-4f5c-bd63-6b0684b5e712,Chromium,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4673a799-36a5-4359-ac6a-fa933281bc93,Arsenic,,agricultural,Emission to soil,kg,0.00421
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fce0b9ae-53c8-4ab0-9e7a-7f5c2ed2c856,Silver,,agricultural,Emission to soil,kg,0.0113
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2baa4381-b781-4f5e-90de-508b0fa3fd1f,Aluminium,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,adfb11ec-7a41-47da-abc2-c92c59810e50,Vanadium,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,334f3d29-ec7d-4ca4-9e65-524c64c6649c,Titanium,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d4049741-cef2-4edd-a3af-9728b9e3a568,Sulfur,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,01558950-c47c-34f9-b4f2-39ca1c809384,Chromium III,016065-83-1,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-9f79-0050c2490048,"Chromium, ion",016065-83-1,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cef77e08-b1c6-4893-a8eb-be2ada072c7a,"Arsenic, ion",017428-41-0,agricultural,Emission to soil,kg,0.00421
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,84aa799e-9d98-4d34-85e0-516d28ab1be9,Zinc,,agricultural,Emission to soil,kg,0.0002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ed2d49f8-110d-4db4-9488-f61c349e6117,Mercury,,agricultural,Emission to soil,kg,0.43191
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7e66a41c-d311-4949-bdd8-eef09cdcfa47,Copper,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,57a17022-7f17-4cdf-b0e8-184bc5c50d98,Thallium,007440-28-0,agricultural,Emission to soil,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,162b7095-c497-4b3c-a290-01ebe4bc9a08,Beryllium,007440-41-7,agricultural,Emission to soil,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b4580545-243d-48d2-a3a0-2633a4f46fb1,Nickel,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e429b852-e421-4fcb-8a9b-b0241863bfb2,Cadmium,,agricultural,Emission to soil,kg,0.02415
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9cf3a683-ed3d-40e9-b039-7653e4fc9e20,Molybdenum,,agricultural,Emission to soil,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f8199e39-7354-44ad-92d8-6a2cc3bac24e,Barium,,agricultural,Emission to soil,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f4cf8d5c-f030-4b55-a3af-e3c20b855ee8,Antimony,,agricultural,Emission to soil,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4010918f-7fd0-4925-8fbb-8fd7a44a806c,Lead,,agricultural,Emission to soil,kg,0.00537
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c6ce1ad0-d8da-41d0-8db1-cabc3760b422,Selenium,007782-49-2,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9542444c-7c7a-48e2-bc9c-9c7c34fb7b3e,Cobalt,,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8ec83662-7c2b-4452-8acf-95a0bb94233c,Chromium VI,018540-29-9,agricultural,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dc075486-d663-3d68-8a96-baa763028ae9,Arsenic III,022541-54-4,unspecified,Emission to soil,kg,0.00278
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,12e3d042-1791-38b9-9c53-f51ddd763977,Antimony V,022537-51-5,unspecified,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,95f80b67-31fa-32fa-9105-f4fa9c237620,Antimony III,023713-48-6,unspecified,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6cd4ed76-161a-4d90-b275-dc74704ffd1d,Magnesium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6575edf4-826c-4e99-a21a-08a1afec1396,Silicon,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,32451556-ee07-4e36-bd8a-09f8847f9c83,Sulfur,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6230c099-a983-4d9d-98a8-a0697962bec3,Lithium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e0401210-0377-4670-84af-12247ca20bed,Aluminium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e0336c9b-a0ff-4ae3-b8bb-ca1e46bbbc11,Chromium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fc84887d-158e-4067-80dc-9743165bd70d,Arsenic,,unspecified,Emission to soil,kg,0.00278
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4122276a-89a6-4e31-ad7d-19568cecf9ce,Vanadium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7da45a0b-0dcf-413c-8de0-44d8ebca9e6e,Silver,,unspecified,Emission to soil,kg,0.00566
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6bc9e39e-bfc5-4929-88d9-863684901143,Titanium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,68ba2022-830e-45fb-8c85-b35e94754ae9,Chromium VI,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dbf49708-ee0c-44f2-8662-5edd89ad472b,Beryllium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,12d6029e-3801-42ee-a1bc-1ebf936884fc,Cadmium,,unspecified,Emission to soil,kg,0.01219
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,056fb035-70db-4dba-bff0-773a3da55b87,"Chromium, ion",016065-83-1,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,45acd8c0-657f-46d3-8026-4b3c9fadaeb6,Selenium,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,77887584-ddca-4920-952c-3609730e0c13,Zinc,,unspecified,Emission to soil,kg,0.0001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f7eca11f-546f-4712-ad80-724254685596,Mercury,,unspecified,Emission to soil,kg,0.21659
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,44d3e792-7c9e-48ab-9de9-acfa2e097f26,Copper,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2bcad3b3-5305-481c-a166-ad5e6eac2675,Nickel,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,739234c8-5359-48b4-983f-9cb170d68c8d,Lead,,unspecified,Emission to soil,kg,0.00269
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3256d56f-4ca3-4680-8cc1-0f8748e71373,"Arsenic, ion",017428-41-0,unspecified,Emission to soil,kg,0.00278
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ceb46204-2e85-32d2-a2de-67c3dc776d51,Chromium III,016065-83-1,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,12051b95-831a-49c0-9a70-fbc0e8fb9af9,Cobalt,,unspecified,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8b531ec0-ca7a-49cd-bef0-56f110112f34,Molybdenum,,unspecified,Emission to soil,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,99cd88f6-16b7-4b28-895c-2f42101f634b,Barium,,unspecified,Emission to soil,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c49fb4cd-eed0-4438-9052-9612473cdbae,Antimony,,unspecified,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6fa8a7df-bd00-4b65-82bd-23b6a4cffe6a,Thallium,,unspecified,Emission to soil,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,581ddcdf-82b7-4f87-83ee-761a44fea7f7,Magnesium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,60c851be-90e2-3de1-a5a3-9ffc8979a9c1,Chromium III,016065-83-1,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8338b7a8-d02b-44b0-a952-09504afd38d9,Antimony V,022537-51-5,industrial,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,16f40b1c-f7c8-4100-9916-81a260493951,Sulfur,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7c683e8c-51da-4c65-bae9-28b59fd6b43b,Antimony III,023713-48-6,industrial,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,961160f8-e254-3dba-b74b-dfb7d98c8efe,Arsenic III,022541-54-4,industrial,Emission to soil,kg,0.00134
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a57cb19d-f436-4c0c-a2ab-097c544bd95f,Silicon,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a1f121b6-59f1-3d8b-8a23-075ff1119d85,Lithium,007439-93-2,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ebc4c2a3-c004-4053-8048-f41fdd9324c8,Arsenic,,industrial,Emission to soil,kg,0.00134
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,765546a9-b056-4d27-ad14-2f016511bdcb,Aluminium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e65a9c58-21f1-48b6-b738-d05a8f10e5f3,Chromium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,16316600-f12a-410b-8726-3faee64de60a,Silver,,industrial,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9c2b7226-37a8-4958-bb1b-d7a062d9e509,"Chromium, ion",016065-83-1,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,41abb9cf-8e9a-40fe-895e-d491e32244b4,Titanium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1a5850a0-0069-4b73-bb91-7a61e8d45ae5,Vanadium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c126f8a0-6bc4-42e6-9220-d6ccfef3f2ed,Molybdenum,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0a5e8a67-f9ae-48b3-bfa7-e9d37c30a191,Copper,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2b2369a4-26bb-4b18-8479-752fdf7a5e7f,Antimony,,industrial,Emission to soil,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b88999ec-84fd-462d-9dec-7e20a4636a58,Zinc,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bc3d3e8d-249a-4e6d-85e8-3a003ca32776,Thallium,,industrial,Emission to soil,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b0758e8e-691c-4c96-8a90-4784c47cd962,Beryllium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e2128dc4-e065-4030-81b3-c978d7bc48ec,Mercury,,industrial,Emission to soil,kg,0.00127
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,89721e33-60fa-4447-bfc6-2f27d44a7893,Cadmium,,industrial,Emission to soil,kg,0.00024
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a72a45ee-395a-4d25-b893-9d183e43e76e,Nickel,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0e907e32-c2f3-4cd6-a7e6-64363f82d635,"Arsenic, ion",017428-41-0,industrial,Emission to soil,kg,0.00134
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,58060894-19d9-4855-84d8-58935a5325f8,Chromium VI,018540-29-9,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,67652827-017f-4856-8d0a-c97bac4c6562,Lead,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,381a22c9-3722-4378-810d-86958f7b6d32,Cobalt,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,56a24912-2d66-4124-87d8-f760c2fe3973,Selenium,,industrial,Emission to soil,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5719929a-8c5b-48cc-a039-b11a9f380467,Barium,,industrial,Emission to soil,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,09585ed9-e4a1-41a4-8e1b-c5737cddd140,Antimony III,023713-48-6,"river, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,69103329-9d2f-44d3-91c2-add278279ec4,Antimony V,022537-51-5,"river, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dccdc30c-98b7-4533-b8f9-eb0e175f674f,Aluminium,007429-90-5,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f67c0d67-84c9-38f6-b0d2-b58afcf4b1a1,Chromium,007440-47-3,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6570b202-29b7-4525-ab23-c56f1913903d,Silver,007440-22-4,"river, long-term",Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dbbfcfc4-ec69-446b-a9f9-abb8e6821108,"Silver, ion",014701-21-4,"river, long-term",Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5455cadb-9c19-4d18-98b1-dbecd31aa6bd,"Chromium, ion",016065-83-1,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,45c69957-ff25-4e4d-9894-b759497781d8,Thallium,007440-28-0,"river, long-term",Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8eb5b448-5720-4a3c-9d64-ddc7be93e0e8,Nickel,007440-02-0,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,60d974d3-22dd-41ce-81f7-852ac047cf4f,Cobalt,007440-48-4,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d5e69eb4-1122-4581-948e-153b7d6827bd,Selenium,007782-49-2,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,42dfec85-f0d3-4732-a197-78d9d55b70cb,"Copper, ion",017493-86-6,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,20e90ac1-05cc-41bc-9c04-4be2355edfb1,"Zinc, ion",023713-49-7,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2c3f15ac-9bdf-3b4f-86b5-a9744ae7cdf1,Vanadium,007440-62-2,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5781a5cb-067a-43e3-bd99-d4b1ec924498,Antimony,007440-36-0,"river, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,79fdbb2d-a497-4198-9b2a-094f98b8aee6,"Cadmium, ion",022537-48-0,"river, long-term",Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b97aa4c6-fe99-4d4b-a2f9-7c6a9cb75d95,"Nickel, ion",014701-22-5,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,85925bc2-963a-4ae3-9a73-2d7f239a406b,"Vanadium, ion",022541-77-1,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,56c15bd9-e681-4184-98bc-5057588e670e,Mercury,007439-97-6,"river, long-term",Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ffde7d2d-3452-467c-affc-61bc9dde64c6,Beryllium,007440-41-7,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eb616bcb-7521-40a4-a2ac-0d33e30c2873,Cadmium,007440-43-9,"river, long-term",Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a00d65f2-63ec-48b4-8b1b-bb44822b88df,Molybdenum,007439-98-7,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6cefe674-1076-45e2-846d-af7ad46bcbcb,Chromium VI,018540-29-9,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5958a968-d153-415f-acbf-81719c1aa09f,Lead,007439-92-1,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,99a3ba49-0b5c-478d-886d-48c22fef6f95,Arsenic,007440-38-2,"river, long-term",Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63d2fc14-dbe8-40a8-8c0c-c4d6fe1b574a,Barium,007440-39-3,"river, long-term",Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f51079dc-faa8-4e54-a49f-a72a7db9d622,Zinc,007440-66-6,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,89c3976b-2221-4f92-b9fc-deef631691a6,Copper,007440-50-8,"river, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08ba6a82-89d5-4cc6-bc09-b2aa18f9eda2,"Arsenic, ion",017428-41-0,"river, long-term",Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0b530ed2-fb82-4223-acdc-a16fd5e84f73,Antimony V,022537-51-5,"fresh water, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b79ef202-b8bb-4912-a49a-383da0429d15,Antimony III,023713-48-6,"fresh water, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,711bb2fc-8e8f-4ffc-b14a-c9636ece9be5,Aluminium,007429-90-5,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0264738d-175c-4a9f-bc9b-1970eba444de,Chromium,007440-47-3,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5107a475-a750-4aa7-ac70-18011dec6982,"Chromium, ion",016065-83-1,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dc7ad5fa-ced1-4071-ac0c-3a6c71880d5c,Silver,007440-22-4,"fresh water, long-term",Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1a002089-bf1f-497c-a4d8-336542f7b38d,Lead,007439-92-1,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,557575d3-a808-4336-88d4-0e7b8b178f32,Cadmium,007440-43-9,"fresh water, long-term",Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8290a3c0-28a3-4a47-a4cd-5ced47819aec,Thallium,007440-28-0,"fresh water, long-term",Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7c54f98b-1317-4f0c-9cdf-f0cd92cc590f,Molybdenum,007439-98-7,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d2823e63-e692-4fa3-b164-09e334237104,"Nickel, ion",014701-22-5,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1fc9d052-d530-432a-a821-b592f9827707,Selenium,007782-49-2,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,718c569c-39d3-475d-b76c-c6ea6cb3701b,Beryllium,007440-41-7,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,222febff-5ded-473b-b911-d6a92ee0adf5,Zinc,007440-66-6,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,de696a95-4a05-4d04-a8c9-a77af8a72e46,Cobalt,007440-48-4,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,007d4ecd-0831-4984-b5e2-814d129c932b,Arsenic,007440-38-2,"fresh water, long-term",Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d3dd6e68-68b7-4dab-b420-8f6bc31ea886,"Zinc, ion",023713-49-7,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,093b5695-c6be-4f8f-b2db-fadfc90d98c3,Nickel,007440-02-0,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,522e7bd8-194b-4fa8-9f6a-6211958fc040,"Cadmium, ion",022537-48-0,"fresh water, long-term",Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8f77e0ae-424c-4c54-87cb-cfbf6fb5bd43,Chromium VI,018540-29-9,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b431a676-72d3-4886-997b-58a176505ca4,"Arsenic, ion",017428-41-0,"fresh water, long-term",Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,82fc5b9e-549b-4a48-b058-22381ad98aa1,Antimony,007440-36-0,"fresh water, long-term",Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d69b6126-a8fb-4ab4-aefb-d69ec873f438,Copper,007440-50-8,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d3288d36-4d7f-45e2-9018-9ec06fcc5439,Vanadium,007440-62-2,"fresh water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b106bea3-bc50-4fc1-a718-985f39bc9dc5,Barium,007440-39-3,"fresh water, long-term",Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ad1d7216-d970-47df-8dc5-137cdd4862b7,Mercury,007439-97-6,"fresh water, long-term",Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,99a84731-da4e-487c-9dcf-087a665bfd1a,Antimony V,022537-51-5,fossil-,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0bd5c5f2-103e-46f3-95fd-8007783246c3,Antimony III,023713-48-6,fossil-,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,92aa558e-3c07-4cd8-a9ae-fcb65a9b8e20,Aluminium,007429-90-5,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,32fddff1-b030-4cd2-a69c-4966c4caac1c,Silver,007440-22-4,fossil-,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a26fb2c7-190e-420f-b04a-4953f8b42846,"Silver, ion",014701-21-4,fossil-,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b0857ccc-858a-46ad-b31c-d0e9219034e7,Nickel,007440-02-0,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b9480761-aec7-4984-aabd-3931311d401e,"Zinc, ion",023713-49-7,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,494daccc-88c5-457d-b06d-c7581dc3b436,"Nickel, ion",014701-22-5,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d8b1ac20-6009-4f3d-a023-a0ba210974b2,Zinc,007440-66-6,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ac43097c-d2eb-4653-bbcc-49d703488d35,Cobalt,007440-48-4,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,41296cfa-6a26-44a0-9e32-7aeabd06b04d,Selenium,007782-49-2,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6f6a682f-7fa0-4b84-9fff-8c35aeea6b92,Thallium,007440-28-0,fossil-,Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8ccf40b6-eee0-4b71-9bc5-965328e2ef95,Lead,007439-92-1,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0dbc8bdf-90bd-4196-a995-70b86bc0c362,Vanadium,007440-62-2,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a02d004c-73d9-439d-b8e4-796c19cb8581,Copper,007440-50-8,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,692cad97-1c54-46eb-8053-ec38d294a125,"Copper, ion",017493-86-6,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0084f973-7133-4d7a-9009-fa46c1f7460c,Antimony,007440-36-0,fossil-,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3ba19e4c-86c0-4f21-80d1-76bb21d59f22,Molybdenum,007439-98-7,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9a1fde6a-02bb-420f-9534-5b5fc63020e1,Mercury,007439-97-6,fossil-,Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9038efbe-6a55-4582-8637-02d7b5a10a8e,Chromium VI,018540-29-9,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dca18eb9-ed7c-44e6-a571-7594440ad70e,"Arsenic, ion",017428-41-0,fossil-,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eb80c206-f7c4-4765-9b22-b61dcdb6f0be,Beryllium,007440-41-7,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,67b5b669-06b1-4be6-87bd-b68bbbe4bd5a,"Cadmium, ion",022537-48-0,fossil-,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3f8d0e17-8ca4-4841-b3c8-9f4642baa104,"Vanadium, ion",022541-77-1,fossil-,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eed61927-90e5-4e59-a0bb-6507551c835c,Cadmium,007440-43-9,fossil-,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,78788c80-dc2f-4822-9ecc-1fd41b62e9a6,Barium,007440-39-3,fossil-,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,223c6940-52f1-45c9-9e53-19a3b83f3e57,Arsenic,007440-38-2,fossil-,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e0f1f15f-dbfd-48bd-99ac-a46bd4f6489c,Antimony V,022537-51-5,fresh water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e5708525-624d-4472-b6c9-5578ce80e3fb,Antimony III,023713-48-6,fresh water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,75603435-8540-4c39-b2bd-ffed0fdadee2,lithium,,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a86c05d6-fd47-4f0d-8ece-559afa4fd339,Titanium,007440-32-6,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5fb7fbc0-e7d1-4be5-a194-ec5ef5fb4f64,Aluminium,007429-90-5,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7c84d9a4-a5bb-4fe5-95ad-b51a096a255a,"Chromium, ion",016065-83-1,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7ec8c6c1-e62a-4000-a1f6-bce131634f1b,Chromium,007440-47-3,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,60d55006-b236-4d9d-8700-71e92bc401af,Silver,007440-22-4,fresh water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cd26472d-d670-49fd-9df2-f689a14e9892,"Cadmium, ion",022537-48-0,fresh water,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,810b11b4-6438-4b30-b9a1-8202b2a53145,Cadmium,007440-43-9,fresh water,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,effc4859-28eb-4470-a839-d86491b9c12d,"Vanadium, ion",022541-77-1,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,78443a3c-a25a-47bc-a1a1-48d2a57e04df,Arsenic,007440-38-2,fresh water,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f5aa8364-8feb-4e1b-a9d0-2ceffa388306,Antimony,007440-36-0,fresh water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0ee08c3a-1553-4637-8f17-c486c115ef2b,Barium,007440-39-3,fresh water,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,307c1028-7727-4627-ac0b-a3c14fef1d7a,Selenium,007782-49-2,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,670502ea-2788-438f-8d4d-779ade3290f3,"Arsenic, ion",017428-41-0,fresh water,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e69510c5-d9c6-42aa-a6cb-ff6336b3eae4,Cobalt,007440-48-4,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e2a4c2f8-3671-47e7-8649-f5e97a4ad32e,Copper,007440-50-8,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,caa6bc06-e7e6-4f08-acd3-2163db51e395,Chromium VI,018540-29-9,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e529c930-e3c6-4d2d-8a96-f052ec23f2e7,Mercury,007439-97-6,fresh water,Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,04512c78-0228-4291-8c4d-7e64b6ad670c,Beryllium,007440-41-7,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cda76a7e-4758-4c58-99ce-f7d29afdd629,"Nickel, ion",014701-22-5,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a708a1f6-7297-45ba-8fda-47a1ce6f11c3,Vanadium,007440-62-2,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0eae0eb8-0cfb-4d67-9cc4-114fc67f1cfd,"Zinc, ion",023713-49-7,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7213c990-49f1-4416-b154-64fba3771f50,Zinc,007440-66-6,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,77b23aa4-9f0a-4d3f-8857-29ee054cdae1,Nickel,007440-02-0,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,db652d59-898e-46f3-acce-b28596c26dc7,Thallium,007440-28-0,fresh water,Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,408b3ab9-9ef7-4535-b7eb-975d55b3c6b6,Molybdenum,007439-98-7,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,80b3c2a1-af98-4dde-b298-abf7e78e38ee,Lead,007439-92-1,fresh water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3a2c6485-82bd-3bb5-9025-b988207179be,Zirconium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1aafc673-19cc-3b72-b455-951a214ed1c4,Arsenic III,022541-54-4,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ce9fd912-233a-4807-a33e-0323b1e4a7a2,Magnesium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6828b955-1aa9-35d3-92be-b86d16677590,Cerium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ce88a9b6-0afa-4f68-9b32-8c3438bf4025,Silicon,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3be783c5-8dde-4331-974e-c5df4624311b,Antimony V,022537-51-5,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,19998db8-a490-4ac5-8f13-d0e163012d26,Antimony III,023713-48-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f512d92c-5263-38e0-8185-988d0adf9107,Lithium,017341-24-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,514a34f1-f7b0-330b-a4ea-984c265e4793,Chromium III,016065-83-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8b31d489-c85c-4cd6-bd7b-fc5599acc168,Sulfur,007704-34-9,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2a46e7f4-c66c-43e5-8a8a-d119c4098aff,"Titanium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08fbcb07-e7a1-352c-b779-9d7c578059d5,Titanium,007440-32-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,01056d4b-f9b0-4dfc-b8d9-8407c8376efb,Aluminium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d9c23a8d-e7bf-4f70-8d22-b9ad8a653204,"Chromium, ion",016065-83-1,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,94426df9-63b1-4dc6-ad1b-3509e22f1154,"Silver, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,74779ab0-b20f-3061-882a-6c73e136fdef,Chromium,007440-47-3,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,efe1bd7c-da90-455e-bf61-24ed1fa7e241,Silver,007440-22-4,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,24e0a9cb-a789-46e2-a25c-0278a90d67e5,Beryllium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7e9baf19-8fa4-49c6-a3c2-2e875217e60b,Thallium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,238cb6c4-b307-4c7c-8c31-ef5d0f56a402,Copper,007440-50-8,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3184c902-c587-4fd7-bd89-769d3cf30072,Barium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bdce3a7c-e008-4391-be26-285f71a02453,"Zinc, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ef475b50-9cd0-4e7c-9c59-07868fe16e91,Chromium VI,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ef1d3f95-e337-490c-9b85-e563cef28f9b,Arsenic,007440-38-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9f69cb8e-51fe-447b-a1ac-4da74de8ebe4,"Nickel, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4ce23896-a82f-49f1-a8e3-8848734805a3,"Cadmium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4d54a415-82d7-49ac-88e1-712bd0009363,Selenium,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eca797dc-3334-44ce-aa9d-281d7f46563a,Zinc,007440-66-6,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d2d681fa-4109-4fcd-9261-7b47132ea417,Nickel,007440-02-0,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0ff15165-d761-48c9-9814-2d1dcdd56857,Lead,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1e904267-caa3-40e6-a3a0-fc104489770b,Cobalt,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c2e2b45b-c9f6-3bc9-8f4e-c2432a9eedce,Vanadium,007440-62-2,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0c5da324-34a7-4e38-98e5-18a8625a2b7c,Cadmium,007440-43-9,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,40f89b03-64f8-466d-9480-bca47d8a435c,Mercury,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7d3f7498-3596-478a-9fa1-72201ef94082,Molybdenum,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,41dbbe1f-06e1-4a34-8497-5986be8f9e51,"Vanadium, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,83cf77ca-867b-4eef-b0f0-78d71b3d91d5,Antimony,,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,40229ebf-9346-4f20-910a-f8ea3bd88d44,"Copper, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e60edb16-3c74-415b-9aff-a22a6f49fecb,"Arsenic, ion",,"ground water, long-term",Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5ac2254e-6b60-45f5-a700-6e0b93f411c8,Sulfur,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ee0ce336-5e7a-3d98-9632-710d9861b64f,Antimony III,023713-48-6,unspecified,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b8823bae-a149-44d7-825b-30708a97cb5f,Silicon,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c11395e9-6db2-399b-a299-67c4ee672ffc,Antimony V,022537-51-5,unspecified,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9783014c-4ec6-4c9c-84d7-d34c8b390a0b,Magnesium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2a63690a-ff84-314b-b7b8-d34b6ff130bf,Cerium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5d6c8d75-a2c4-362f-aa70-383d7c663ba9,Zirconium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bd1338f6-56b8-310d-907b-c823ca512d73,Arsenic III,022541-54-4,unspecified,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a4c31e2a-915e-4ab2-accd-d3ae93d2e01e,"Titanium, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,47bf8e85-dd0a-4b61-b933-cf1e18f34d1e,Lithium,017341-24-1,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eb2bfdf1-1881-40e8-bebb-d674b2a79149,"Lithium, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6089e9e4-f382-4066-9968-fc7e42b51066,Titanium,007440-32-6,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7880e65c-0321-4295-ba55-3186ad36e489,Aluminium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63e82560-8549-11e0-9d78-0800200c9a66,Silver,007440-22-4,unspecified,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63e7b036-8549-11e0-9d78-0800200c9a66,Chromium,007440-47-3,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6aa8673f-f7e3-4270-93dc-e97b745fced7,"Silver, ion",,unspecified,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e1bd008f-c3c2-47f1-ab60-35e1a842acc0,"Arsenic, ion",,unspecified,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63e7fe55-8549-11e0-9d78-0800200c9a66,Nickel,007440-02-0,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,33627701-feca-434d-a192-674a450eaaf7,Cobalt,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,20839113-fbf2-4d2f-bab8-66861f86bc60,"Vanadium, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2f100cfa-4feb-45e9-a43a-357128228889,Copper,007440-50-8,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b2dc8668-86de-4207-b20e-dc81dea63c98,Antimony,,unspecified,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63e8256e-8549-11e0-9d78-0800200c9a66,Vanadium,007440-62-2,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8a377f10-d147-41ff-b9ef-53fad50245ce,Arsenic,007440-38-2,unspecified,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,32fccda4-0d99-40ab-b65f-c7203080b62b,Thallium,,unspecified,Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6ec6cdaa-5a01-46d4-b716-1905e56690ea,"Nickel, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,63e8256f-8549-11e0-9d78-0800200c9a66,Zinc,007440-66-6,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0e1c17ae-8144-4714-a7cd-786a5480f423,Barium,,unspecified,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a9ec0c9b-982a-4329-99ae-dab1f9fb62d3,Chromium VI,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,31c4d160-b21e-41b3-b9c1-3d7a72377653,Lead,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2c7be02c-791f-4fef-b231-b90321bbeb30,"Zinc, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2712fe5f-0d3c-4c8e-8bc4-26c604413849,"Cadmium, ion",,unspecified,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,615b1460-6860-4cf6-8678-ad92c03c5e8b,"Copper, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9325957a-bee5-4f2d-8bd1-458729c5e49e,Mercury,,unspecified,Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,30f484ee-dec4-47ae-8e92-d00d4b93fe05,"Chromium, ion",,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fdaaef05-0d10-4032-b2e7-85cae3c7bd5c,Molybdenum,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6284e146-54b2-4067-a478-9b8ee24c6400,Selenium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c087ef23-4b5b-40f6-932a-7939b72386c4,Cadmium,007440-43-9,unspecified,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8d0ca1a5-6a40-4eda-861a-a0fccdc81b19,Beryllium,,unspecified,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,871b6f07-de14-48d4-b4aa-7745872c7e9a,Sulfur,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f2342fe7-5642-373f-a5e5-193efb5813b8,Zirconium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bc2e0302-4ce2-3247-8234-3b77c53ea22f,Antimony III,023713-48-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3086e663-637a-3d3a-a46f-6a58906dd3e5,Antimony V,022537-51-5,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,957120c7-cddd-39ce-a0b4-f2cba206d4aa,Arsenic III,022541-54-4,ocean,Emission to water,kg,0.00022
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,858db89d-e5e7-340d-a9cb-d8a5745dbc47,Cerium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5fefa2d0-133d-444f-b1fe-596d15f4673e,Silicon,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1a217018-e3e5-499c-9eb5-5aacb9e6ae9a,Magnesium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2beb46d1-2d1d-48ca-bf95-f0668fed29bf,"Titanium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6a0dcabc-a85c-4a90-a989-afaf85d095b9,Lithium,017341-24-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-999e-0050c2490048,Titanium,007440-32-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0ace7678-a181-48e8-8728-d912a8b56c57,Aluminium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,21c257b2-57ce-4a6e-b4bd-40f0f75f310f,"Silver, ion",,ocean,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-9f77-0050c2490048,Chromium,007440-47-3,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4468e7d7-d456-4bad-aa43-b6ddd36b20bb,Silver,007440-22-4,ocean,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7ae387da-8a0f-4931-97d4-49e93c0f5482,Thallium,,ocean,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,62cc5e18-da24-4fb7-9f7c-1601fedba341,Selenium,007782-49-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e9e856c2-868e-435e-8425-8df1c9297cfc,Lead,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7805afa2-d93b-40bb-b841-325b98aec824,Antimony,007440-36-0,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d98f0ec0-bf19-4c90-a457-a8593dec497f,"Chromium, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2eb62d45-c3b4-3a41-8a12-bdfb84684fb2,Chromium III,016065-83-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4d9a8790-3ddd-11dd-96d1-0050c2490048,Copper,007440-50-8,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-96d0-0050c2490048,Nickel,007440-02-0,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,163926e2-b4cc-42bb-ba7d-401028140985,Molybdenum,007439-98-7,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,23cb10a4-6228-4ce4-9fb5-7043bc31faec,"Nickel, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,95ad40ec-c34b-49fc-a7dc-0e13172ac105,Barium,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,caf066cf-40ce-47a8-ba4c-969fcd6019c7,Cobalt,,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dbdc3ea8-cc2b-4dbe-82b9-e954e333281d,"Vanadium, ion",022541-77-1,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d70b4182-d633-4178-84c0-8854f5f6594b,"Arsenic, ion",,ocean,Emission to water,kg,0.00022
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fd61d155-3b34-46d5-8769-efb3e806f545,Mercury,,ocean,Emission to water,kg,0.00114
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,81b3321a-c9d8-4104-a974-5460f1bc5029,Chromium VI,018540-29-9,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-91e3-0050c2490048,Arsenic,007440-38-2,ocean,Emission to water,kg,0.00022
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-94eb-0050c2490048,Zinc,007440-66-6,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4d9a8790-3ddd-11dd-8dc2-0050c2490048,Vanadium,007440-62-2,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,62fcd384-906d-474f-a84b-9f944b78f804,"Cadmium, ion",,ocean,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2195d86f-e4c8-4e86-9f18-b5b065b1df7e,"Zinc, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fe0acd60-3ddc-11dd-a294-0050c2490048,Cadmium,007440-43-9,ocean,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d8f9ccf6-fd32-4348-83c0-1cee724af9ae,"Copper, ion",,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7672267f-4541-4c9a-9ca0-ec2f41b95cbc,Beryllium,007440-41-7,ocean,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bed36a4a-bd80-4249-9f95-14f794a09092,Antimony III,023713-48-6,surface water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,16d8a28a-bf21-46ff-ae18-6da39e53fa17,Sulfur,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7a381e55-0fde-41c3-95b7-63ef866271cc,Antimony V,022537-51-5,surface water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7bdab722-11d0-4c42-a099-6f9ed510a44a,Magnesium,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fc2371dc-5bff-41f6-a155-697fbf727b56,Silicon,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ff36578b-f403-4656-b934-81d8d4e02dc8,"Titanium, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e98084d6-88a2-48cf-9ad5-6462fe9cf857,"Lithium, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,97e498ec-f323-4ec6-bcc0-d8a4c853bae3,Aluminium,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e34d3da4-a3d5-41be-84b5-458afe32c990,"Chromium, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,af9793ba-25a1-4928-a14a-4bcf7d5bd3f7,"Silver, ion",,surface water,Emission to water,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9798359e-a3ee-4362-a038-23a188582c6e,"Nickel, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8c8ffaa5-84ed-4668-ba7d-80fd0f47013f,"Arsenic, ion",,surface water,Emission to water,kg,0.00253
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,442511cc-a98b-4242-9229-5736cb9a9399,Molybdenum,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,66bfb434-78ab-4183-b1a7-7f87d08974fa,Mercury,,surface water,Emission to water,kg,0.00179
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,541b633c-17a3-4047-bce6-0c0e4fdb7c10,"Zinc, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6d9550e2-e670-44c1-bad8-c0c4975ffca7,"Copper, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d9008a06-991c-4acc-a33e-5483ffd2491e,Thallium,,surface water,Emission to water,kg,0.00016
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2c872773-0a29-4831-93b9-d49b116fa7d5,Barium,,surface water,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,544dbea9-1d18-44ff-b92b-7866e3baa6dd,Selenium,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d4291dd5-dae8-47fa-bf06-466fcecbc210,Cobalt,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,34b96163-a3df-4bc1-8224-e2a9fe01b23f,Antimony,,surface water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,af83b42f-a4e6-4457-be74-46a87798f82a,"Cadmium, ion",,surface water,Emission to water,kg,0.00047
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a46a250e-297d-43e9-b1c4-052cdcfb79c5,"Vanadium, ion",,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8216fc31-15a1-4d33-858f-e09650b14c63,Chromium VI,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b3ebdcc3-c588-4997-95d2-9785b26b34e1,Lead,,surface water,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,276e755c-ed57-466a-b555-4658c791f385,Beryllium,,surface water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f792855f-4bfc-355d-81a2-380efcba15b7,Arsenic III,022541-54-4,river,Emission to water,kg,0.00253
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,83fc5b69-9794-48a8-8e6f-8288a1ec6735,Antimony III,023713-48-6,river,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c7248271-14ab-47b8-a6b7-d17ab67395ab,Antimony V,022537-51-5,river,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9b79e20c-f793-4582-8cc7-e8add9c493db,Silicon,007440-21-3,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c742f0e8-d2a4-3e09-a5d8-57e01ad58e5d,Zirconium,,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5c19fb6f-9712-482b-835b-e5174d31297d,Sulfur,007704-34-9,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8d53a7ce-1f74-3a82-9e4a-c1ce9e337cbe,Cerium,,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,70a9a575-6faf-4f99-a4c1-5aed18a64517,Magnesium,007439-95-4,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6dbe35bd-0739-3973-8fa6-70d5aeaf016a,Chromium III,016065-83-1,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,030145f6-dcf3-3230-9fb6-22a09b54d5bf,Titanium,007440-32-6,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6c29b24f-7c0e-3c4c-a561-462afd4d231f,Lithium,017341-24-1,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f3f33ddd-2027-4f3e-b344-04d0714fc33d,"Titanium, ion",022541-75-9,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cecf6d85-fe49-4e9f-a325-884de9a9b3c8,"Lithium, ion",017341-24-1,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a501e3f5-4da3-485f-8015-075b4a1aa4d6,Aluminium,007429-90-5,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9eacfa39-16cb-4f59-8b85-e43180324540,"Silver, ion",014701-21-4,river,Emission to water,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5449a4c7-1070-4026-94b3-c683f4dbefa7,"Chromium, ion",016065-83-1,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0d991622-f800-3963-a6bc-89747f06c8e0,Chromium,007440-47-3,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,bd64d19f-fa5c-4147-b542-69bd9cd67d30,Silver,007440-22-4,river,Emission to water,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a9ab1b08-8512-4ccd-b83e-fece0692f21b,"Copper, ion",017493-86-6,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7424df82-43ca-4711-832a-436225fb560e,"Zinc, ion",023713-49-7,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,32683258-85cc-46d5-858e-8424581a824c,"Arsenic, ion",017428-41-0,river,Emission to water,kg,0.00253
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a32ecf8e-001d-4ec9-9aea-53766f935110,Mercury,007439-97-6,river,Emission to water,kg,0.00179
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,00946913-24e1-4db7-ab0f-940016ce2343,Copper,007440-50-8,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f420380c-b1b6-4ead-8a54-7d77e53379b7,Lead,007439-92-1,river,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8041cd06-58ce-450d-9f44-40922eeafc29,Cadmium,007440-43-9,river,Emission to water,kg,0.00047
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d521430d-a084-43f6-894d-76e9da72da72,Zinc,007440-66-6,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2a44ba5c-8591-44fb-b487-93c4e40bbce2,Cobalt,007440-48-4,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cc894b76-253b-4822-8fbf-55736cb8fd89,Barium,007440-39-3,river,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,809b4a53-e5eb-432a-bf42-64c49ca0892b,"Nickel, ion",014701-22-5,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3ad9cc7b-c8a2-49b1-8c07-2b45239e3cee,"Vanadium, ion",022541-77-1,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cf2982b6-13f2-4950-8d4e-d763d900b215,Nickel,007440-02-0,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6b2b001e-63b9-4a05-89bc-de549717f07b,Antimony,007440-36-0,river,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6158a2f1-4da0-4930-8a0f-17cc32ad842f,Beryllium,007440-41-7,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7b8e28ba-424c-3744-98af-56f96ddc0c83,Vanadium,007440-62-2,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,91f895af-5063-4291-a255-0a2ce7708c4a,Thallium,007440-28-0,river,Emission to water,kg,0.00016
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,53c73c46-ea6b-41e9-a943-6356373e3697,Selenium,007782-49-2,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6f9b425f-2777-4705-94cc-4ab944d89fd4,Arsenic,007440-38-2,river,Emission to water,kg,0.00253
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fb27d408-4659-4ba5-9f29-e3b356074b1c,Chromium VI,018540-29-9,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6b7ef553-6e0b-481e-bbbd-c7ece8f92d7d,Molybdenum,007439-98-7,river,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,125349bb-041b-4de3-aa95-d4862eddcf52,"Cadmium, ion",022537-48-0,river,Emission to water,kg,0.00047
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,12fa7549-2732-470b-a17f-122dba2f6a2c,Antimony III,023713-48-6,lake,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2548b6e5-79c8-4851-b36b-98c2e90e557c,Antimony V,022537-51-5,lake,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08ba90dc-28c6-4c48-8e90-51b61139734f,"Titanium, ion",022541-75-9,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f2e69773-4a43-3c32-ad38-1c84101e32f5,Titanium,007440-32-6,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c3847064-fe28-4a8a-9ff1-d959b58c836c,Aluminium,007429-90-5,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,57f5082e-71dc-3cfa-ada2-3aa759cc3cba,Chromium,007440-47-3,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,525d2bc8-8e04-4c3e-935f-91af31af1553,Silver,007440-22-4,lake,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a98a60b4-06ca-487f-bf25-fcc6147145df,"Silver, ion",014701-21-4,lake,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,27157a55-02d1-4f86-b3c0-69909cf433fe,Thallium,007440-28-0,lake,Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a2809853-b54e-47e3-b8c1-3e95c80532f9,Zinc,007440-66-6,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9b8bcab2-3946-4a29-8db1-09dcdec1936b,Antimony,007440-36-0,lake,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,521a04ff-177c-457a-9285-bbb6005b3135,Barium,007440-39-3,lake,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,58bf9dfe-8bbb-4970-8a62-1fc90606d402,"Chromium, ion",016065-83-1,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0cc4fa9c-ed07-4249-988d-6b2fe84b7dff,Arsenic,007440-38-2,lake,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,68701316-d3f5-4e08-8814-6b3b28712d85,Cadmium,007440-43-9,lake,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d4477f26-283d-492c-bc05-5252e09f9156,"Zinc, ion",023713-49-7,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,645687e9-58d1-36bf-a28c-9fe0735146c5,Vanadium,007440-62-2,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,142907e3-8285-4fd6-bef8-8101cb43e147,Molybdenum,007439-98-7,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ba29bfe3-17a6-4702-8b50-9b63884bf91c,"Cadmium, ion",022537-48-0,lake,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f6bbb331-7bb5-4513-9f44-a346bf0baf7f,Copper,007440-50-8,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7fbd75df-f7eb-4671-b400-dc330cb7db43,Chromium VI,018540-29-9,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7541d517-13b9-4224-a23a-24598abb26b9,"Vanadium, ion",022541-77-1,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7aca2bc2-51ed-4ef5-b569-fb153216fea9,"Nickel, ion",014701-22-5,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c0f8b131-19e5-4787-9c2d-142378b08c2a,"Arsenic, ion",017428-41-0,lake,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1499beff-e008-4efa-9e47-0f6095b0ffc4,Beryllium,007440-41-7,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,540106ac-eb8e-446b-91f5-3fdbad5a5886,Lead,007439-92-1,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c742a8cc-6f9c-4742-879c-a18be0d6e5ad,Nickel,007440-02-0,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,aef694fb-8da8-4e26-8b7d-6769a6aa03a4,Mercury,007439-97-6,lake,Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,916801f0-3980-4408-a577-62b222aa1543,"Copper, ion",017493-86-6,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9082553c-5565-485a-9f5e-8864dae563ab,Cobalt,007440-48-4,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d168ac51-3eb7-4944-8795-89f21c12c040,Selenium,007782-49-2,lake,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9c0a3d9c-1a45-4846-8f99-d51e680e1adf,Antimony III,023713-48-6,ground water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1527dbe1-3437-4ae7-be71-47b56cb8dca9,Antimony V,022537-51-5,ground water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4569494e-085e-413a-8fef-63a3c419e0cf,Lithium,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,df8c7706-a6c7-37f7-81d6-5feb3dd08b92,Titanium,007440-32-6,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e2380d91-f278-41ee-9926-15272a7d1443,"Titanium, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2e0c9efa-d55c-49db-8be3-0376d5921ff4,Aluminium,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e5465f7b-a0c5-3ae2-8066-14f52e4cf64d,Chromium,007440-47-3,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,108a082e-3772-4a76-ac4b-659ffc001e53,Silver,007440-22-4,ground water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,71cfe87c-ab80-421e-adba-afb7d5bd0861,"Silver, ion",,ground water,Emission to water,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1c87de06-e58f-4684-a54c-d29f1a251a87,"Chromium, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1be475e0-ccef-4145-98e0-0d47c570a71b,Selenium,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ea6de79e-ce2c-44b2-994e-d2ea0125732b,Copper,007440-50-8,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e1aa92d7-9297-452e-ade0-e5e2acc52ad7,Mercury,,ground water,Emission to water,kg,0.00147
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a3178646-f9e4-3a94-9988-e81e3935aea7,Vanadium,007440-62-2,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9bbae55a-35de-4eff-a219-814a9fec5ac2,Chromium VI,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ed1fd27e-014a-41cf-842f-7b2022b0be79,"Vanadium, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e11cdec3-2f12-4888-8687-920f37a95de6,Arsenic,007440-38-2,ground water,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c3b659e5-35f1-408c-8cb5-b5f9b295c76e,"Copper, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1f607ae2-b42d-4411-90b8-e9bbac66a554,"Arsenic, ion",,ground water,Emission to water,kg,0.00138
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7da26881-518f-4b1b-87bf-7d1f633a7c1a,Thallium,,ground water,Emission to water,kg,0.00009
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5df5cb9f-812c-4ce8-ab1c-df6ab4d31900,Antimony,,ground water,Emission to water,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f0d1c319-249f-4a89-b0e7-3a5a90a54036,Cobalt,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fa89c354-2263-4ed2-ac56-99946be5c665,Beryllium,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d68f41b3-6887-49a8-8efa-96812f8ec9f6,Barium,,ground water,Emission to water,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9500e0a4-a485-483e-ae55-3b99b4420cd2,Zinc,007440-66-6,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7e769b3e-03fb-4b53-be15-85a910dcfea9,"Zinc, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3822809c-cc03-469d-ac2a-9f85842f8440,Molybdenum,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ddce052d-27c0-4b28-8bf6-d50d39e420b0,Cadmium,007440-43-9,ground water,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e030108f-2125-4bcb-a73b-ad72130fcca3,"Nickel, ion",,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,56815b4f-6138-4e0b-9fac-c94fd6b102b3,Nickel,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3937f5a5-b4a4-434d-9fc3-1d29064fc3f8,"Cadmium, ion",,ground water,Emission to water,kg,0.00025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c864aa15-0abc-41ad-9889-348106e485d8,Lead,,ground water,Emission to water,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ebfe261d-ab0d-4ade-8743-183c8c6bdcc6,Magnesium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c30fa9a3-1d9c-30ac-bfb9-1ddd1662c5d2,Antimony III,023713-48-6,high population density,Emission to air,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,215df313-4568-32c9-aa2f-9f6220f25ab3,Antimony V,022537-51-5,high population density,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,997dccfb-6574-46b8-ad93-7f31074abf9a,Silicon,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e555dac0-9f60-3510-aca4-e7fdb0512561,Tellurium,013494-80-9,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,914b6c95-c6c3-4dab-b75f-9ac6a6f78bfd,Zirconium,007440-67-7,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9c152d5a-fee3-36be-a208-e341a531e780,Chromium III,016065-83-1,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2905ed32-6556-11dd-ad8b-0800200c9a66,Sulfur,007704-34-9,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7dfec63e-f049-335f-aa81-daf44824d40f,Arsenic III,022541-54-4,high population density,Emission to air,kg,0.0025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f8f772bc-7204-4fda-aa97-080fd0f1b34c,Titanium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,85466e0f-e5b5-4084-9338-59e317f7cb09,Lithium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6f0b8b7c-3888-4174-b7e3-916d42d678ee,Aluminium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c6462d84-caa9-425a-a923-45238690c6f3,Silver,,high population density,Emission to air,kg,0.00346
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f4d0a2c8-efef-4188-85da-5801097389a2,Arsenic,,high population density,Emission to air,kg,0.0025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a60e0354-94a4-4377-8ded-21f5db15f753,"Chromium, ion",016065-83-1,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7705f0e1-5b14-44f4-b330-1245b5c7fc08,Chromium,,high population density,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2cba713d-ab0b-44cb-babb-f8cac262554f,Vanadium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1ef5b43a-c846-4942-ba9d-2d2686063eff,"Arsenic, ion",017428-41-0,high population density,Emission to air,kg,0.0025
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e43a270f-4f88-4789-a0b8-7aba56677743,Nickel,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,748f22a9-eba4-4726-bef5-92c7442ce189,Zinc,,high population density,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c26d4716-ce1e-43da-a662-cd9498b1e8bc,Molybdenum,,high population density,Emission to air,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5ffb3576-740f-41ba-814f-8538d83a4b3b,Barium,,high population density,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a79be2ee-ac83-4328-a136-a34ba1f99089,Selenium,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,88cde01c-df69-40bb-9b14-6eac71bea5b8,Copper,,high population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7a59e8d5-cd11-4ee7-b1ca-30979d2b0b3a,Chromium VI,,high population density,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6a903634-c97f-4c49-a7c0-88f0e6ac7a23,Lead,,high population density,Emission to air,kg,0.00172
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,Mercury,,high population density,Emission to air,kg,0.12501
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,19e97bd6-d0ae-4208-bd77-d58e5d46d827,Beryllium,,high population density,Emission to air,kg,0.00848
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3ea5684a-6d64-4f96-8c09-1d90f997c9d4,Antimony,,high population density,Emission to air,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,36e53653-1338-42c7-816c-f6667809e0b1,Cadmium,,high population density,Emission to air,kg,0.00714
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,50deb561-3de9-4b25-9b61-1695ad2dd136,Thallium,,high population density,Emission to air,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ca04300a-8338-4601-ba7c-66c10a4f6322,Cobalt,,high population density,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,52aba3b8-ed5a-3199-971a-fece27433425,Tellurium,013494-80-9,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,017c1ca1-8e93-3c85-b743-c8676bfd305a,Chromium III,016065-83-1,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eebb4011-af1d-4a45-8bc5-a20b6c06fbf4,Zirconium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,479daf8f-657e-46a6-bdea-3cb2c61c44b1,Silicon,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0437e787-ef47-4a50-b11f-df7c743e860c,Magnesium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2d0d7aea-c02b-32bc-900b-a6a7eac11a68,Antimony V,022537-51-5,low population density,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a290bdd2-242b-3e80-9535-184152be389f,Arsenic III,022541-54-4,low population density,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,edef4eae-b12d-3b84-9c9d-55c9ae8ed03c,Antimony III,023713-48-6,low population density,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2ff28238-e40b-3cc9-8fdc-2c3b5c62971a,Sulfur,007704-34-9,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4a156a66-eb3e-4f87-90a2-ccd13bf942ff,Titanium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5d44305f-0af1-480d-911c-77a8dd2b361c,Lithium,007439-93-2,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9c3bd678-1b2f-4b95-a245-d5c8a3fe326b,Aluminium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4d40d8e3-9bc7-4ab1-ac5c-4f4a76fda8e5,Chromium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,481c0dd4-3ab2-47b5-94c4-b990e8a9dde5,Vanadium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7348af7c-e102-4a03-a0df-efce16469eed,Arsenic,,low population density,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d43572af-d023-443b-9fad-d56ffc0adc53,"Chromium, ion",016065-83-1,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,35df5fe0-c90d-43b4-a35a-3d97022114d2,Silver,,low population density,Emission to air,kg,0.00359
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e2d58f90-9aac-4ac4-87f7-bbd6cfc358e3,Cadmium,,low population density,Emission to air,kg,0.00742
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,24cf82f8-c517-4fef-8f93-17519adb855e,Barium,,low population density,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e6551223-73b6-4289-b841-c5cdeb25abd9,Selenium,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ada3ecfe-8244-4389-bcce-e83ca4f66e09,Zinc,,low population density,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,03b279a7-4626-4703-a451-d0650599dbd9,Chromium VI,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9540d6dc-b589-4fbb-8260-1b6a88b8bf11,Thallium,,low population density,Emission to air,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,43b29ad9-26dd-4838-b931-6216e55a0120,Antimony,,low population density,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5d4b497b-d265-42d1-a41a-113785a6d694,Beryllium,,low population density,Emission to air,kg,0.00071
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e8fc62ba-678e-4706-97d2-b79d83e227d5,Nickel,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,26da57a3-0cd5-4737-afe2-c1a950f971b1,"Arsenic, ion",017428-41-0,low population density,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b10faa87-2c1d-4f6e-aa65-9f80b376939a,Cobalt,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2718482b-8399-442e-b89a-52fbcc22d2e6,Lead,,low population density,Emission to air,kg,0.00177
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5ec9c16a-959d-44cd-be7d-a935727d2151,Mercury,,low population density,Emission to air,kg,0.13017
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e336eee7-148a-4d1c-8027-780cbfafa12b,Copper,,low population density,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5fa36ce3-aed0-443b-a09d-4cdf25b41995,Molybdenum,,low population density,Emission to air,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9820d3d6-85d8-3ee7-a14d-93116535881f,Antimony III,023713-48-6,indoor,Emission to air,kg,0.00036
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c67a294a-b7ba-33bc-a9c6-d43d6a0441a9,"Arsenic, ion",017428-41-0,indoor,Emission to air,kg,0.01095
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4f1ad6d5-6c88-3da1-843c-6d75c86e320f,Titanium,007440-32-6,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e1571c08-36af-30a2-9b2e-cb2a01aee5d6,Silicon,007440-21-3,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f6f97ae2-0c2a-372c-9ec3-310d15301a2f,Cobalt,007440-48-4,indoor,Emission to air,kg,0.00048
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cadd10d2-040e-31b3-bb2d-5e63aaea3a44,Sulfur,007704-34-9,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1e949ccc-9db6-32a1-a531-2ffebeca108a,Antimony V,022537-51-5,indoor,Emission to air,kg,0.00036
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,df8cc726-87c1-398d-8888-1f5c63c5ee20,Zirconium,007440-67-7,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,eddf2f57-57d3-3bfe-b1d1-599fba29b3c9,Tellurium,013494-80-9,indoor,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,14236517-159d-3e39-b475-aa0ce3e86b90,Arsenic III,022541-54-4,indoor,Emission to air,kg,0.01095
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1a322495-704a-3876-b8a2-152ad92d9ba9,Magnesium,007439-95-4,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2096b14d-663a-4501-9cd2-f6811dfd37a4,Lithium,007439-93-2,indoor,Emission to air,kg,0.00002
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,4b1f4151-6a6e-3cf5-a468-1e08799fc2c4,Aluminium,007429-90-5,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9dbaaa6c-bd0a-3b47-9af6-7ae8f57f0785,Vanadium,007440-62-2,indoor,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f4520cd4-2990-3c30-b9f7-7c4e4f1d853b,Chromium,007440-47-3,indoor,Emission to air,kg,0.00064
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e8f3e708-19c1-37c0-9fdb-2c7884b4dad1,Arsenic,007440-38-2,indoor,Emission to air,kg,0.01095
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,19ea58d3-ae9a-335f-990c-5bfe0d1b1d50,Silver,007440-22-4,indoor,Emission to air,kg,0.00544
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9a443fa8-a25f-35db-ae23-35397e6658a7,Antimony,007440-36-0,indoor,Emission to air,kg,0.00036
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8f4bc5b2-fd6c-3a8e-be37-d211b126e6ba,Zinc,007440-66-6,indoor,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fb8ccb75-e8ce-3805-af74-f642deea4b17,Copper,007440-50-8,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,656d6498-56ca-31b6-bc6a-5a24421b38be,Mercury,007439-97-6,indoor,Emission to air,kg,0.13265
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d8ecb4ef-c04c-32f9-b47e-75c8707069e1,Selenium,007782-49-2,indoor,Emission to air,kg,0.00014
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ea046ae5-11db-3a6e-82d9-a7c110b8ebc7,Beryllium,007440-41-7,indoor,Emission to air,kg,0.73478
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6ffc7b42-15a6-3634-ac89-314f972ff2ec,Barium,007440-39-3,indoor,Emission to air,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,537b6f85-23db-32ac-af6d-e9a166770bbb,Molybdenum,007439-98-7,indoor,Emission to air,kg,0.00005
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fc4d79d7-9795-3307-b821-ee668a08a9e4,Lead,007439-92-1,indoor,Emission to air,kg,0.00362
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0d1296aa-d946-3e5b-94a6-8dabb9a28dbe,Nickel,007440-02-0,indoor,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7f62be48-36bc-3dfe-a620-692c82cc70a9,Chromium VI,018540-29-9,indoor,Emission to air,kg,0.00064
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,108fb709-3b97-35b6-a786-4e41510540ce,Chromium III,016065-83-1,indoor,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,235b399e-3d90-38d0-8784-260a985b56b4,Thallium,007440-28-0,indoor,Emission to air,kg,0.00036
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3def807a-5e19-38d1-9cae-5b2034b907f1,Cadmium,007440-43-9,indoor,Emission to air,kg,0.0086
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b5d896e4-5035-4cf9-b06a-353a95ca2623,Zirconium,007440-67-7,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1edd2278-d064-337c-bee2-bb3239a12bb1,Antimony III,023713-48-6,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,59542265-cf1b-4ad9-8477-699179fe2b2b,Magnesium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,aea5ecf7-6b02-39ce-8100-fdf43cdc395b,Sulfur,007704-34-9,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e033b79a-c76f-3c21-930a-737d4f60d029,Arsenic III,022541-54-4,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ab9c1b17-e9d8-3332-a53f-eb120eae10ac,Tellurium,013494-80-9,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6e646f0b-4f72-31da-8009-14d128bfc30b,Chromium III,016065-83-1,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2cea4705-5460-4f03-80ca-1aaf90f17c3a,Silicon,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,95971f92-b9b6-3ce3-9a28-1f965d8d28b6,Antimony V,022537-51-5,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b3701449-fe4b-4513-b4a4-065e62f03e5c,Titanium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7c3924c6-a3a3-4a83-8406-83cc6bb48399,Lithium,007439-93-2,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,46e63323-cffd-4c46-829b-5f006b50fa9b,Aluminium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ed751c30-a896-44f3-9a83-2a5328dde94d,Arsenic,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6b29d83a-c43c-484c-8e73-474a8a22d71e,Chromium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0ed1b1a1-e56d-4860-bac7-d76a39bde930,Silver,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b8de5961-4e83-4731-bac1-77a4d01234a4,Vanadium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f7af7269-1a06-455e-8a00-a04fff8e0a8e,"Chromium, ion",016065-83-1,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fa39136e-1ef6-43c1-af68-104da104568d,Antimony,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5457df7d-0461-407c-9f09-0338dbff77ef,Beryllium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,93e71b71-05d4-4a44-a85a-592a6f21cf0c,Selenium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f2f1a5eb-de1e-42fe-ad80-60a255185ba9,Thallium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cd5898ca-96ad-4038-b7ac-edf544d2800a,Barium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,23eaa36d-add4-4219-961e-ca7104dc0de9,Cadmium,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dc90db73-6f27-403d-baf1-cb7e0b6cae31,Mercury,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,35b4d818-1019-413b-b99d-d351d8a67ac4,Molybdenum,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fd153f15-1d16-410a-91fa-04d205e36c43,Copper,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c2e854f9-fe22-4fe7-9083-cf6d0a8c7254,Chromium VI,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9ee7f4ab-b826-47ae-8623-e138f944b42e,Lead,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c89873de-cd23-4323-a948-f5cfeebd2fc9,Nickel,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ebaff3ef-9e70-4674-bf17-6273e1447246,"Arsenic, ion",017428-41-0,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,74eb3f02-09ec-46ce-8ee8-d67d0900136b,Cobalt,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8f871bab-96dc-49d9-bf08-12cdd0715901,Zinc,,"low population density, long-term",Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e98b9661-2844-49dc-9ae4-855b9912c700,Silicon,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c13fc7a0-f240-468b-aaf6-e781743a46d5,Zirconium,007440-67-7,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,72564158-96dd-3e4c-b892-0bbbf04d5baf,Arsenic III,022541-54-4,unspecified,Emission to air,kg,0.00249
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b85fe0b0-1700-348b-b4c2-508180aa7d03,Antimony III,023713-48-6,unspecified,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,75f395bf-351b-4d95-9c9b-fdce145ae403,Sulfur,007704-34-9,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,aeefa758-5f4f-4bb4-a28a-4075e81f2fde,Magnesium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d6c784e7-4556-3888-9b9e-bb014b1a99f8,Antimony V,022537-51-5,unspecified,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,c6379349-6cf0-54c9-8bfe-2ec812501fda,Tellurium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5e834f38-a2f0-3a48-a17e-b5584cba24ae,Lithium,007439-93-2,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,b15d845f-810e-4614-8633-af8bab2014ee,Titanium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ff65658c-2d39-44a2-b23e-7ec3c644f064,Aluminium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ebb88ef4-50ab-4e3b-9251-c5fcdf6b4768,Silver,,unspecified,Emission to air,kg,0.00352
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e142b577-e934-4085-9a07-3983d4d92afb,Chromium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,591b0a62-8064-4697-86ed-47bfa1f8b5e6,Vanadium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dc6dbdaa-9f13-43a8-8af5-6603688c6ad0,Arsenic,,unspecified,Emission to air,kg,0.00249
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,81e17d9a-3e0b-414e-9b2e-eca7e5b3bd4a,Chromium VI,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7e246e3a-5cff-43fc-a8e6-02d191424559,Barium,,unspecified,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,08a91e70-3ddc-11dd-9f7b-0050c2490048,"Chromium, ion",016065-83-1,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a5506f4b-113f-4713-95c3-c819dde6e48b,Nickel,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,20e262b9-e0b6-3afc-9e0f-a669e78dcf5c,Chromium III,016065-83-1,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,f0e28a62-ddf9-4c93-af81-676a58c3f2d4,Cobalt,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,20557d93-2b1c-49b5-b6c0-3528a8bbc307,Beryllium,,unspecified,Emission to air,kg,0.0046
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,640e30d2-3158-4a1a-82ef-fd0c72922c9a,Molybdenum,,unspecified,Emission to air,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,8e123669-94d3-41d8-9480-a79211fe7c43,Lead,,unspecified,Emission to air,kg,0.00174
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,18aa2daa-0188-4328-b24b-1ad1398ecf81,Thallium,,unspecified,Emission to air,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,5ce378a0-b48d-471c-977d-79681521efde,Zinc,,unspecified,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7cee74fc-6c4b-47c0-b624-2d12d9ea0619,"Arsenic, ion",017428-41-0,unspecified,Emission to air,kg,0.00249
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,454c61fd-c52b-4a04-9731-f141bb7b5264,Selenium,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,77927dac-dea3-429d-a434-d5a71d92c4f7,Antimony,,unspecified,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,ec8144d6-d123-43b1-9c17-a295422a0498,Copper,,unspecified,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,1c5a7322-9261-4d59-a692-adde6c12de92,Cadmium,,unspecified,Emission to air,kg,0.00728
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,71234253-b3a7-4dfe-b166-a484ad15bee7,Mercury,,unspecified,Emission to air,kg,0.12759
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,466854b3-23d1-341f-88d0-6ddbf4a939fa,Antimony V,022537-51-5,lower stratosphere + upper troposphere,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,24da5f03-1b1e-4a60-a925-248122c9d2a0,Magnesium,007439-95-4,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,18aecc35-b196-36a5-941e-969dcfc3536d,Tellurium,013494-80-9,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,550cbef4-790d-32ea-abe7-31cd598a24fd,Antimony III,023713-48-6,lower stratosphere + upper troposphere,Emission to air,kg,0.00004
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e5573481-11b3-30b7-a589-d111ddeba843,Arsenic III,022541-54-4,lower stratosphere + upper troposphere,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,e6849199-0b26-30c5-a172-d9ed0dcdc6d8,Chromium III,016065-83-1,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0d7ef054-35e2-4d02-9113-574d7f022631,Silicon,007440-21-3,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,7f06875b-9510-325b-bf13-ff0e7524dace,Sulfur,007704-34-9,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,75af210f-0455-487e-ba2c-e9dd317af77c,Zirconium,007440-67-7,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a2698332-893b-40c9-9fe7-ad016cdd2605,Lithium,007439-93-2,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a5b82cff-6334-45a8-aef7-1761f2b83722,Titanium,007440-32-6,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,d96403bf-902e-4b7a-8ffd-32fe09e4017f,Aluminium,007429-90-5,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,cfce0b1a-2873-46fa-8e12-afb5a4213886,Arsenic,007440-38-2,lower stratosphere + upper troposphere,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,2a5ed451-12a2-47db-b4dc-fa0bfbc01d79,Chromium,,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,6e8a87bf-baea-4cd9-a967-932e750968d1,Silver,007440-22-4,lower stratosphere + upper troposphere,Emission to air,kg,0.00359
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,894bc050-7a50-4631-af1f-d5121e019f9f,"Chromium, ion",016065-83-1,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9841f5a4-027e-4dbf-87fe-f0bcf56b91ab,Vanadium,007440-62-2,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,87a69874-34f9-4070-a525-aa301ab2634b,Zinc,,lower stratosphere + upper troposphere,Emission to air,kg,0.00006
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,538d2c16-5f7d-498f-9782-168c70adcc20,"Arsenic, ion",017428-41-0,lower stratosphere + upper troposphere,Emission to air,kg,0.00248
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,48aa661d-be05-4c24-94fe-8d6feb3dcb31,Mercury,,lower stratosphere + upper troposphere,Emission to air,kg,0.13017
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9182d01f-27f3-4b65-a183-07508dfc5981,Thallium,007440-28-0,lower stratosphere + upper troposphere,Emission to air,kg,0.00008
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,697e8ecf-bdbe-4857-92c9-e01960c91db7,Molybdenum,007439-98-7,lower stratosphere + upper troposphere,Emission to air,kg,0.00003
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,98267bbc-0591-4eb8-8581-2231208c548d,Barium,007440-39-3,lower stratosphere + upper troposphere,Emission to air,kg,0.00001
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,dd1bbaa1-d1f1-4584-aeb2-6f02bfb04e87,Cadmium,,lower stratosphere + upper troposphere,Emission to air,kg,0.00742
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,9ce88274-57b6-42ed-a78b-4abef2301865,Cobalt,007440-48-4,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fbfabc26-84d9-46cd-9d1b-1a0060325b64,Selenium,,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,fe4613d7-1ed8-427d-9b06-c8e8f4f5e1b1,Lead,,lower stratosphere + upper troposphere,Emission to air,kg,0.00177
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,a2b3bbb7-53ec-44e5-a184-9689f356235b,Beryllium,007440-41-7,lower stratosphere + upper troposphere,Emission to air,kg,0.00071
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,0545c382-2312-43b6-9ec3-63dbb1438565,Nickel,,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,abbd3b09-a7ec-435a-9d01-34cf8581739e,Chromium VI,018540-29-9,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,3573a5af-88f8-4f74-ade7-cd269cbc4e66,Copper,,lower stratosphere + upper troposphere,Emission to air,kg,0
+EF 3.0 Method (adapted),7c535cfd-1efb-3d8c-8ed3-9732fb78dfed,"Human toxicity, non-cancer - metals",CTUh,49803ad0-9ca2-4507-a5ea-f152d16c929d,Antimony,007440-36-0,lower stratosphere + upper troposphere,Emission to air,kg,0.00004

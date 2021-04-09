@@ -1,0 +1,19 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,620bc2f6-cf71-4dde-bba9-c6e8fdec5e23,Carbon monoxide,000630-08-0,high population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,6edcc2df-88a3-48e1-83d8-ffc38d31c35b,"Carbon monoxide, fossil",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,550eaab3-16d8-3b28-a1a1-5aa018fd394c,"Carbon monoxide, biogenic",000630-08-0,high population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,9afa0173-ecbd-4f2c-9c5c-b3128a032812,"Carbon monoxide, non-fossil",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,b58c0d57-fecb-3079-aaf3-49e239bca4cb,"Carbon monoxide, biogenic",000630-08-0,low population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,7ae371ab-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,low population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,099b36ab-4c03-4587-87f4-2f81e337afb8,"Carbon monoxide, fossil",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,"Carbon monoxide, non-fossil",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,49c594c6-b6a8-42a3-95c5-cca812fda80b,"Carbon monoxide, fossil",000630-08-0,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,e462d2ef-2da9-4b99-9e16-f4cd181a91da,Carbon monoxide,000630-08-0,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,588356df-f3b4-43a7-a76e-c47175a7eae0,"Carbon monoxide, biogenic",000630-08-0,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,2cb2333c-1599-46cf-8435-3dffce627524,"Carbon monoxide, non-fossil",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,ba2f3f82-c93a-47a5-822a-37ec97495275,"Carbon monoxide, fossil",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,7ae371ac-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,d6703e06-c8e7-3783-8a84-95a1560f8e9c,"Carbon monoxide, biogenic",000630-08-0,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,968495ec-1000-438a-9e11-467776ebb54e,"Carbon monoxide, biogenic",000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,08a91e70-3ddc-11dd-9252-0050c2490048,Carbon monoxide,000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",143e71a6-7c8b-352e-a1dd-09bf34b4677b,Carbon monoxide,kg,a3beb5ac-5149-47f6-a035-53fc5030f10a,"Carbon monoxide, fossil",,lower stratosphere + upper troposphere,Emission to air,kg,1

@@ -1,0 +1,14 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,70b8b9fc-c695-3f45-b5b9-79d7d762fa49,"Uranium ore, 1.11 GJ per kg",,in ground,Resource,kg,"1,110"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,d3d3143a-93e0-346f-b750-7b8057c48b4c,"Energy, from uranium",,in ground,Resource,MJ,1
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,7c9b9a1e-ec16-3541-8c16-85bd263f4693,"Uranium, 560 GJ per kg",007440-61-1,in ground,Resource,kg,"560,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,b85f6025-577e-3936-9569-14f021652fd7,"Uranium, 2291 GJ per kg",007440-61-1,in ground,Resource,kg,"2,291,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,2d75f8a4-4792-3f17-bd60-013a9fcd6e9a,"Uranium, 451 GJ per kg",007440-61-1,in ground,Resource,kg,"451,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,2ba5e39b-adb6-4767-a51d-90c1cf32fe98,"Uranium, in ground",,in ground,Resource,kg,"560,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,7ae3bfc2-8532-11e0-9d78-0800200c9a66,"Uranium, 2291 GJ per kg, in ground",007440-61-1,in ground,Resource,kg,"451,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,761ac87a-d818-4f18-9a25-32a16d7bfbfb,"Energy, from uranium",,unspecified,Resource,MJ,1
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,b4afc09d-7159-4ced-8416-1cbf390c3b86,"Uranium ore, 1.11 GJ per kg",,unspecified,Resource,kg,"1,110"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,b46ecf0a-7bf5-313d-9aad-7e1f30f59302,"Uranium, 2291 GJ per kg",007440-61-1,unspecified,Resource,kg,"2,291,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,ed65c408-2351-4f62-8430-dcd2f62ab70e,Uranium,007440-61-1,unspecified,Resource,kg,"560,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,2c3bad90-9c15-3c4c-9ef7-8517678060a5,"Uranium, 560 GJ per kg",007440-61-1,unspecified,Resource,kg,"560,000"
+Cumulative Energy Demand (LHV),dc1221e8-aedb-39de-b9c7-561cb1772b25,"Non-renewable, nuclear",MJ,32f08265-1b69-3a19-bc52-0956124570cc,"Uranium, 451 GJ per kg",007440-61-1,unspecified,Resource,kg,"451,000"

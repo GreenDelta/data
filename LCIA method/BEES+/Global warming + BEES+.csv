@@ -1,0 +1,105 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,8ae4d8bb-3e4b-4825-8325-94696d7a64fd,"Carbon dioxide, to soil or biomass stock",,forestry,Emission to soil,kg,-1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,259cf8d6-6ea8-4ccf-84b7-23c930a5b2b3,"Carbon dioxide, to soil or biomass stock",,agricultural,Emission to soil,kg,-1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,375bc95e-6596-4aa1-9716-80ff51b9da77,"Carbon dioxide, to soil or biomass stock",,unspecified,Emission to soil,kg,-1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,60d424f7-d5a9-4549-9540-da06684bc3bb,"Carbon dioxide, to soil or biomass stock",,industrial,Emission to soil,kg,-1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,4bf1c333-419b-4278-ac14-247c8bf563d6,"Methane, bromo-, Halon 1001",,high population density,Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e8fbe6ea-f909-4e26-8a7e-e91defa89cf7,"Methane, land transformation",000074-82-8,high population density,Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e8787b5e-d927-446d-81a9-f56977bbfeb4,"Carbon dioxide, land transformation",000124-38-9,high population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,dfe1da1e-7756-4f7e-a393-6d5e2342a962,"Methane, tetrafluoro-, R-14",,high population density,Emission to air,g,"5,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,31a3e44c-4098-461e-aba2-f79540e05087,"Methane, dichlorodifluoro-, CFC-12",,high population density,Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,643975a8-03da-44bb-873f-4fe8e7740fe6,Carbon dioxide,000124-38-9,high population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f9749677-9c9f-4678-ab55-c607dfdc2cb9,"Carbon dioxide, fossil",,high population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,8ca6c84b-7f56-47e6-8d17-4f2dbc49a943,"Methane, chlorodifluoro-, HCFC-22",,high population density,Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,"Methane, tetrachloro-, R-10",,high population density,Emission to air,g,"1,800"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e3787169-170a-3047-a5f2-16e292861643,"Methane, tetrachloro-, CFC-10",000056-23-5,high population density,Emission to air,g,"1,800"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,18ddd879-5496-4419-8ab7-e0d3864d977d,"Methane, bromotrifluoro-, Halon 1301",,high population density,Emission to air,g,"6,900"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6dc1b46f-ee89-4495-95c4-b8a637bcd6cb,Dinitrogen monoxide,,high population density,Emission to air,g,296
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,370447a7-70d1-47bd-8577-0a32c4f53570,"Methane, monochloro-, R-40",000074-87-3,high population density,Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,baf58fc9-573c-419c-8c16-831ac03203b9,"Methane, non-fossil",,high population density,Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,4cadbc9f-0472-4bb9-a942-df5b90e37878,Chloroform,,high population density,Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,2716807d-0266-48ff-bb7a-6e6c5fbfd5c5,"Methane, dichloro-, HCC-30",,high population density,Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,818cee9e-231c-4b53-8ed2-47a0001802d5,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,high population density,Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,b53d3744-3629-4219-be20-980865e54031,Methane,,high population density,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,5f7aad3d-566c-4d0d-ad59-e765f971aa0f,"Methane, fossil",,high population density,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,82957257-07f3-4536-ac8b-175cb2353c75,"Methane, bromotrifluoro-, Halon 1301",,low population density,Emission to air,g,"6,900"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,78eb1859-abd9-44c6-9ce3-f3b5b33d619c,"Carbon dioxide, from soil or biomass stock",,low population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e93ba406-3df8-4e34-be54-0d556b2bb629,"Methane, dichlorodifluoro-, CFC-12",,low population density,Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,56b7d3b6-83d7-42b0-a65b-5ad23e29db47,"Methane, chlorodifluoro-, HCFC-22",,low population density,Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,bd5b337a-9db1-3077-9278-ab8c0a6c46fd,"Methane, land transformation",000074-82-8,low population density,Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,701cda28-4722-431c-b52f-05a735ef5ed3,"Methane, bromo-, Halon 1001",000074-83-9,low population density,Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,aa7cac3a-3625-41d4-bc54-33e2cf11ec46,"Carbon dioxide, fossil",,low population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,7ae371a9-8532-11e0-9d78-0800200c9a66,Carbon dioxide,000124-38-9,low population density,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,b353e7d2-5b94-4b6e-a3e5-de0a10bef851,"Methane, tetrafluoro-, R-14",000075-73-0,low population density,Emission to air,g,"5,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,afd6d670-bbb0-4625-9730-04088a5b035e,Dinitrogen monoxide,,low population density,Emission to air,g,296
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,d4b61c6c-a620-4a91-afc6-ca87ef97b55a,"Methane, dichloro-, HCC-30",,low population density,Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,ed63abd0-7cc6-4825-8759-b367e560fe95,"Methane, monochloro-, R-40",,low population density,Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,fa9b9736-6de8-4bd6-ba22-1bd78c798373,Chloroform,,low population density,Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,99585564-bfce-4845-9aaa-2f24b8f26a41,"Ethane, 1,1,1-trichloro-, HCFC-140",,low population density,Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,20408dd0-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,low population density,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,57bdb443-d4a6-423d-8024-959b8261d02e,"Methane, non-fossil",,low population density,Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,70ef743b-3ed5-4a6d-b192-fb6d62378555,"Methane, fossil",,low population density,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,5188df39-2bb8-4826-b469-fa9f86bacc09,"Carbon dioxide, from soil or biomass stock",,indoor,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,46d70535-e74d-3c0e-8aa9-d52233b755d6,"Methane, bromo-, Halon 1001",000074-83-9,indoor,Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,81e9632c-4b9e-3f1c-b431-c4f0f6b4034d,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,indoor,Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,393ca39a-30ba-47ca-9d30-9ddc9c1c81ff,"Methane, land transformation",000074-82-8,indoor,Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e5716f7d-435d-35b2-8f23-49ab146b45b3,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,indoor,Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,9cad9d36-b3ed-3822-9932-2ba6258a5a32,"Methane, tetrachloro-, CFC-10",000056-23-5,indoor,Emission to air,g,"1,800"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,a93b9ed6-405e-3c97-840f-53427af913e8,"Methane, dichloro-, HCC-30",000075-09-2,indoor,Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,45d459a5-33fc-37fa-bcfa-16cc05ebe2b1,"Methane, monochloro-, R-40",000074-87-3,indoor,Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,dc01172a-4aba-3b14-8c6f-92b0e8f456a6,Chloroform,000067-66-3,indoor,Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,7b44cf6c-867f-34a0-b632-024664899e21,"Methane, biogenic",000074-82-8,indoor,Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,926e91c7-69bb-3673-a488-72bae997734c,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,indoor,Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,53487f42-0668-400b-be1f-19f3dd46709c,Carbon dioxide,,"low population density, long-term",Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,31f8976a-6f7d-487e-a850-eb495dbf0351,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,"low population density, long-term",Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,96b52062-5e2f-40de-921a-f443c08862e4,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,"low population density, long-term",Emission to air,g,"6,900"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,9b505d7c-4239-40e0-9dbe-55d38f3b85b3,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,"low population density, long-term",Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e259263c-d1f1-449f-bb9b-73c6d0a32a00,"Carbon dioxide, fossil",,"low population density, long-term",Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e1c597cc-14cb-4ebb-af07-7a93a5b77d34,"Carbon dioxide, land transformation",000124-38-9,"low population density, long-term",Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,09e231fa-b1c2-4d63-9c57-7ea0e2210858,"Methane, bromo-, Halon 1001",000074-83-9,"low population density, long-term",Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,1f38a629-a382-3721-a74c-637283828233,"Methane, land transformation",000074-82-8,"low population density, long-term",Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e59a199f-d4ed-4d43-82b1-71c4a8fae867,"Methane, tetrafluoro-, R-14",000075-73-0,"low population density, long-term",Emission to air,g,"5,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,81305cda-63f1-4c1a-99c6-2c2568550ec4,Dinitrogen monoxide,,"low population density, long-term",Emission to air,g,296
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,ad2358fd-bdb0-44eb-aa84-dc9e358323d9,Methane,000074-82-8,"low population density, long-term",Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f8ee4881-a003-4e18-aa2a-d9daf97d76f7,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,"low population density, long-term",Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,78259cf2-1bb2-41ec-941c-9d70909df094,Chloroform,000067-66-3,"low population density, long-term",Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,246c87af-4495-4977-8d39-eae397c1c8f1,"Methane, monochloro-, R-40",000074-87-3,"low population density, long-term",Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6c977009-5c4e-4901-a4c1-ab20389cb972,"Methane, biogenic",000074-82-8,"low population density, long-term",Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f903c2fb-71bf-4568-99fc-6aa7ed7bc922,"Methane, dichloro-, HCC-30",000075-09-2,"low population density, long-term",Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f3bd723a-5276-4ae8-9860-b89537351a90,"Methane, fossil",,"low population density, long-term",Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,349b29d1-3e58-4c66-98b9-9d1a076efd2e,"Carbon dioxide, fossil",,unspecified,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,e4e9febc-07c1-403d-8d3a-6707bb4d96e6,"Carbon dioxide, from soil or biomass stock",,unspecified,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,86d12e70-0c64-4ecf-ba52-114fa0c5d402,"Methane, tetrachloro-, R-10",,unspecified,Emission to air,g,"1,800"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,4ac2ffc3-312e-4e2d-88c4-2630d4a73d8c,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,unspecified,Emission to air,g,"6,900"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,33681770-a0e1-4ce8-93c3-941fd607fa5f,"Methane, tetrafluoro-, R-14",,unspecified,Emission to air,g,"5,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,18c582fe-7336-4138-8797-2db8b7a754c7,"Methane, chlorodifluoro-, HCFC-22",,unspecified,Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,c0e8ec60-a5ae-432e-97a5-cf76b6247a00,"Methane, dichlorodifluoro-, CFC-12",,unspecified,Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,8c283de2-50d3-40c8-8bff-1e172c3398f8,"Methane, bromo-, Halon 1001",,unspecified,Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,7ae371aa-8532-11e0-9d78-0800200c9a66,Carbon dioxide,000124-38-9,unspecified,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,1b64f908-e50e-31db-bb12-b1de3d9755f7,"Methane, land transformation",000074-82-8,unspecified,Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f2cb5577-b802-3bca-bd0a-502374b83e41,"Methane, tetrachloro-, CFC-10",000056-23-5,unspecified,Emission to air,g,"1,800"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,20185046-64bb-4c09-a8e7-e8a9e144ca98,Dinitrogen monoxide,,unspecified,Emission to air,g,296
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,432a3326-73f8-4752-bc4d-06b7b4b1243c,"Methane, dichloro-, HCC-30",,unspecified,Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,20408dd1-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,unspecified,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,da1157e2-7593-4dfd-80dd-a3449b37a4d8,"Methane, non-fossil",,unspecified,Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,fbf6ab3a-74e3-4cbe-b61d-959728bdce46,Chloroform,,unspecified,Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,18ea247b-edc2-43fe-89bd-cedd04102bcc,"Methane, monochloro-, R-40",,unspecified,Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,0795345f-c7ae-410c-ad25-1845784c75f5,"Methane, fossil",,unspecified,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,ce6294f5-2ed7-46ee-a967-33e265e34455,"Ethane, 1,1,1-trichloro-, HCFC-140",,unspecified,Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,16eeda8a-1ea2-408e-ab37-2648495058dd,"Carbon dioxide, fossil",,lower stratosphere + upper troposphere,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,26991da1-c263-4707-9f85-78685acc94dc,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,lower stratosphere + upper troposphere,Emission to air,g,"1,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,39ab6025-5ecb-4042-a2a0-e594a0526d63,"Methane, land transformation",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6bdb666d-e227-4f57-9b1d-d25009d3c44b,"Methane, bromo-, Halon 1001",000074-83-9,lower stratosphere + upper troposphere,Emission to air,g,5
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6d023c39-c04e-4305-b2e4-adc89b53e708,"Methane, tetrafluoro-, R-14",000075-73-0,lower stratosphere + upper troposphere,Emission to air,g,"5,700"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,1013b9ec-a7b5-459c-be3d-74f61b9ce06e,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,lower stratosphere + upper troposphere,Emission to air,g,"10,600"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,cf719b78-9834-4649-a1dd-8554c366c83f,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,lower stratosphere + upper troposphere,Emission to air,g,"6,900"
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6d89125e-e9b7-4d7e-a1fc-ada45dbd8815,"Carbon dioxide, land transformation",000124-38-9,lower stratosphere + upper troposphere,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,f8b49a6e-fac7-4373-97fb-8ddf3bbb27f5,Carbon dioxide,,lower stratosphere + upper troposphere,Emission to air,g,1
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,473826ae-125a-4b02-8c8e-c84322491d80,Dinitrogen monoxide,010024-97-2,lower stratosphere + upper troposphere,Emission to air,g,296
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,98af3079-fb76-488d-8afe-713814e14d36,Chloroform,000067-66-3,lower stratosphere + upper troposphere,Emission to air,g,30
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,b328d33e-9a9f-407d-a767-5c64ccdc163f,"Methane, dichloro-, HCC-30",000075-09-2,lower stratosphere + upper troposphere,Emission to air,g,10
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,0f70e720-127e-44dc-bb85-438158235ab6,"Methane, monochloro-, R-40",000074-87-3,lower stratosphere + upper troposphere,Emission to air,g,16
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,6b1b495b-70ee-4be6-b1c2-3031aa4d6add,"Methane, fossil",000074-82-8,lower stratosphere + upper troposphere,Emission to air,g,23
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,258263a0-6be3-4439-bd84-efee0498b849,"Methane, biogenic",000074-82-8,lower stratosphere + upper troposphere,Emission to air,g,20
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,lower stratosphere + upper troposphere,Emission to air,g,140
+BEES+,99ed6201-5759-315b-b42e-d189feb8f562,Global warming,g CO2 eq,711fd742-d357-4291-a133-adb5ca979a21,Methane,000074-82-8,lower stratosphere + upper troposphere,Emission to air,g,23

@@ -1,0 +1,17 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,e8787b5e-d927-446d-81a9-f56977bbfeb4,"Carbon dioxide, land transformation",000124-38-9,high population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,643975a8-03da-44bb-873f-4fe8e7740fe6,Carbon dioxide,000124-38-9,high population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,f9749677-9c9f-4678-ab55-c607dfdc2cb9,"Carbon dioxide, fossil",,high population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,78eb1859-abd9-44c6-9ce3-f3b5b33d619c,"Carbon dioxide, from soil or biomass stock",,low population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,aa7cac3a-3625-41d4-bc54-33e2cf11ec46,"Carbon dioxide, fossil",,low population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,7ae371a9-8532-11e0-9d78-0800200c9a66,Carbon dioxide,000124-38-9,low population density,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,5188df39-2bb8-4826-b469-fa9f86bacc09,"Carbon dioxide, from soil or biomass stock",,indoor,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,53487f42-0668-400b-be1f-19f3dd46709c,Carbon dioxide,,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,e259263c-d1f1-449f-bb9b-73c6d0a32a00,"Carbon dioxide, fossil",,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,e1c597cc-14cb-4ebb-af07-7a93a5b77d34,"Carbon dioxide, land transformation",000124-38-9,"low population density, long-term",Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,349b29d1-3e58-4c66-98b9-9d1a076efd2e,"Carbon dioxide, fossil",,unspecified,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,e4e9febc-07c1-403d-8d3a-6707bb4d96e6,"Carbon dioxide, from soil or biomass stock",,unspecified,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,7ae371aa-8532-11e0-9d78-0800200c9a66,Carbon dioxide,000124-38-9,unspecified,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,16eeda8a-1ea2-408e-ab37-2648495058dd,"Carbon dioxide, fossil",,lower stratosphere + upper troposphere,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,6d89125e-e9b7-4d7e-a1fc-ada45dbd8815,"Carbon dioxide, land transformation",000124-38-9,lower stratosphere + upper troposphere,Emission to air,kg,1
+Selected LCI results,be35f2f6-399f-3b5a-b7c5-efd23a90d10c,"Carbon dioxide, fossil",kg,f8b49a6e-fac7-4373-97fb-8ddf3bbb27f5,Carbon dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,1

@@ -1,0 +1,96 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b8d87129-1f6e-4411-8ff8-72bc5f64830c,"Fertiliser, applied (N component)",,unspecified,Emission to soil,kg,0.073
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,216f4b84-9df0-3713-949b-02c7a135c60f,"Fertiliser, applied (N component)",,agricultural,Emission to soil,kg,0.073
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b41fb350-17b1-3d5b-a0cc-ddfb604b999d,"Manure, applied (N component)",,unspecified,Emission to soil,kg,0.079
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,daa95851-b101-39b1-bfc5-e380ee4f3378,"Manure, applied (N component)",,agricultural,Emission to soil,kg,0.079
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,dbd2b874-9a81-3ff0-b633-f5dfa8fa3411,"Nitrogen, total",,"ground water, long-term",Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,20f29bd4-6e59-4955-ac42-6f6e4a7335d6,"Nitrogen, total",,ocean,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9539fcaa-e792-3181-8825-03c8eb6afea4,"Nitrogen, total",,river,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,34a99cf0-860e-11e0-9d78-0800200c9a66,"Nitrogen, total",,unspecified,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9e51dd9d-5a91-3084-bceb-8f86e7d89407,"Nitrogen, total",,ground water,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,23b8eca0-0a02-45f7-a77a-b2a60e46c74d,"Nitrogen, total",,fresh water,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,f5d022f1-c26d-4044-ac88-d7c5bbff83c4,Nitrite,,"ground water, long-term",Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,0017271e-7df5-40bc-833a-36110c1fe5d5,Nitrite,,surface water,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,2f19a0af-a516-4f89-88ba-4c6b7cd52650,Nitrite,,ocean,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,09257c34-f323-436a-81be-ef90e9171ed2,Nitrite,014797-65-0,fresh water,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,1550e897-623b-4f0a-9c90-10f88b4850e3,Nitrite,014797-65-0,lake,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,80a0931d-d592-400a-8314-d85bdc5dbccf,Nitrite,014797-65-0,"river, long-term",Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,946c1ab0-3308-466a-8c56-54182159a3c6,Nitrite,014797-65-0,fossil-,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9f5bfac4-cbb6-4b38-afb9-cf563fc5ca15,Nitrite,,unspecified,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,10d61f4b-01ce-4f02-8140-a0d22777b405,Nitrite,014797-65-0,river,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,066872fe-7faf-4fa1-b6b7-a347c395976f,Nitrite,014797-65-0,"fresh water, long-term",Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9a98be81-7711-4a1b-adc0-8e65acf05d62,Nitrite,,ground water,Emission to water,kg,0.304
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,42eeb663-34dc-4394-8a07-e4d8e45a7e2d,Nitrogen,007727-37-9,"ground water, long-term",Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,f1fd2d13-7b1d-43bc-9294-8c5a1db02ac4,"Ammonium, ion",014798-03-9,"river, long-term",Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,14855254-9651-473b-92a2-1d0e4438ddbd,Nitrogen,007727-37-9,fresh water,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,fb005c47-7b90-41f3-a5ca-f0eb11db354a,"Ammonium, ion",,unspecified,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,dcfe0815-6fa3-4e1d-a55e-155b29904f1d,Nitrogen,,unspecified,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,887bfb8e-44de-4de0-b47d-bc49db8adec1,"Ammonium, ion",014798-03-9,high population density,Emission to air,kg,0.087
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,996829cc-2d40-418a-beda-7c50399952f9,Nitrogen,,ocean,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,08a91e70-3ddc-11dd-954d-0050c2490048,"Ammonium, ion",014798-03-9,unspecified,Emission to air,kg,0.087
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,130cedc6-f6ed-4f1b-bd1e-881177f79e74,"Ammonium, ion",,"ground water, long-term",Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,cbd70647-6237-462a-9d01-d197a8b08506,Nitrate,,low population density,Emission to air,kg,0.028
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,930e0aba-b5e3-426e-a182-bfb2ae961bc4,Nitrate,014797-55-8,"river, long-term",Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,41eb549e-df64-4f94-9403-b54012b99c3e,Nitrogen,007727-37-9,lake,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,a858cb45-50f3-46c6-abd6-f801ba201f53,Ammonia,007664-41-7,"ground water, long-term",Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,59e8b3a7-3862-4388-905a-73b35b93c6d4,"Ammonium, ion",014798-03-9,lake,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,0.092
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,615c56b4-3328-43b3-b1cd-feb6b6a5d99c,"Ammonium, ion",014798-03-9,"low population density, long-term",Emission to air,kg,0.087
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,51b06290-9a7f-4750-86bc-d1db0dd503a7,Ammonia,007664-41-7,"river, long-term",Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,7ce56135-2ca5-4fba-ad52-d62a34bfeb35,Nitrate,,surface water,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,ae70ca6c-807a-482b-9ddc-e449b4893fe3,Nitrogen,,surface water,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,0.092
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,0.092
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,4b81a3e2-b3fc-4e2f-81aa-5a68d11084c8,Ammonia,007664-41-7,fresh water,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,ebcf2be7-e222-412d-a59e-5b5f13334a35,Ammonia,007664-41-7,lake,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,13331e67-6006-48c4-bdb4-340c12010036,"Ammonium, ion",,surface water,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,2ccfa703-d0fe-4d27-9220-ba5ef2e97c6e,Nitrate,014797-55-8,lake,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,e1f2ab0a-6d4e-4705-9e8c-db67155d14f6,"Ammonium, ion",014798-03-9,lower stratosphere + upper troposphere,Emission to air,kg,0.087
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,f3b31b38-bc7b-4054-99ea-0180796d5c5b,Ammonia,007664-41-7,ground water,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,f85bf23d-cf72-4ca7-b33f-3b1ee02a1f4c,"Ammonium, ion",014798-03-9,"fresh water, long-term",Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,08a91e70-3ddc-11dd-954c-0050c2490048,Ammonia,007664-41-7,ocean,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,a6fa3c5f-5323-487e-afba-12740ca8ea70,Ammonia,007664-41-7,fossil-,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,921a8f84-63fd-4d1c-81be-bce6bd840e13,Nitrogen,007727-37-9,fossil-,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,180520a0-34e8-4058-bac9-27cbbb32c527,Nitrate,014797-55-8,fresh water,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,5189de76-6bbb-44ba-8c42-5714f1b4371f,Nitrate,,unspecified,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,3ae8c924-dc92-4971-a415-4b82261842f3,Nitrate,014797-55-8,fossil-,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,6bb60b06-5b1f-4d8c-9782-e18a7f11bc5c,Nitrate,014797-55-8,river,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,bc069d24-fbbd-4c05-8b6e-4089dc8249ae,"Ammonium, ion",,ocean,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,0.092
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,cd68d2a8-b0aa-492a-9972-f9a67eaa5355,Nitrate,014797-55-8,"fresh water, long-term",Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b9291c72-4b1d-4275-8068-4c707dc3ce33,Nitrate,,ground water,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,736f52e8-9703-4076-8909-7ae80a7f8005,"Ammonium, ion",,ground water,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,e1d913d8-214c-4957-b3e5-36ccc50f3724,"Ammonium, ion",014798-03-9,low population density,Emission to air,kg,0.087
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b4f5586e-4589-4482-bfc7-5efdf9bcbf19,Nitrogen,007727-37-9,river,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,43c700bb-0b3b-4fb1-8bd1-3d1da82b6844,Nitrate,,ocean,Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,5e7cf95c-9cc3-4479-89af-55377b3db99c,Nitrate,,unspecified,Emission to air,kg,0.028
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,0.092
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,63e78926-8549-11e0-9d78-0800200c9a66,Ammonia,007664-41-7,unspecified,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,15ca802b-f541-44aa-bd33-35560a053193,Nitrate,,high population density,Emission to air,kg,0.028
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,26fd0df4-74ca-4144-b632-6e6f5f6d07b1,"Ammonium, ion",014798-03-9,fresh water,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,64b758fe-fbf2-4bdb-85f6-eab48e2ad2e4,Ammonia,007664-41-7,river,Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,90b08e70-9da2-4e91-a18c-73def7cf2b94,Ammonia,007664-41-7,"fresh water, long-term",Emission to water,kg,0.824
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,4588adc5-e56e-443c-ade5-6645219b53cd,"Ammonium, ion",014798-03-9,river,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,0c150bb4-fd1a-43f8-b6c9-5dfda8dadb6c,Nitrogen,,ground water,Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,0e9e6b81-0a68-4350-8368-566c083bd3e0,Nitrate,014797-55-8,lower stratosphere + upper troposphere,Emission to air,kg,0.028
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,c04ef26d-7a0b-4ef4-a79f-d64a840866bc,"Ammonium, ion",014798-03-9,fossil-,Emission to water,kg,0.778
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b61057a3-a0bc-4158-882e-b819c4797419,Nitrate,,"ground water, long-term",Emission to water,kg,0.226
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,205617ae-ebc5-4245-8df6-8710d5d40615,Nitrate,,"low population density, long-term",Emission to air,kg,0.028
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9b8188d5-294f-4ea5-aeda-4e572490a51e,Nitrogen,007727-37-9,"river, long-term",Emission to water,kg,1
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,0.596
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,0.596
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,0.596
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,0.596
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,0.596
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,0.389
+ILCD 2011 Midpoint+,7292c216-0cee-3a5f-96c3-cf389ee89db5,Marine eutrophication,kg N eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,0.596

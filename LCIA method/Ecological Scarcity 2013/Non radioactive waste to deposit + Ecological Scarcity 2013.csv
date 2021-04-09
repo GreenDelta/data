@@ -1,0 +1,5 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Ecological Scarcity 2013,ea84db17-6890-380f-a807-52f0b5c493c7,Non radioactive waste to deposit,UBP,8bd1295e-4af1-4177-88a2-6f56ac8e4546,"Volume occupied, underground deposit",,in ground,Resource,m3,"43,000,000"
+Ecological Scarcity 2013,ea84db17-6890-380f-a807-52f0b5c493c7,Non radioactive waste to deposit,UBP,a4d0f936-822b-305e-b006-06142c251afe,"Volume occupied, underground deposit",,unspecified,Resource,m3,"43,000,000"
+Ecological Scarcity 2013,ea84db17-6890-380f-a807-52f0b5c493c7,Non radioactive waste to deposit,UBP,8734eb08-50cf-4f5a-8d1a-db76d38efe3c,"TOC, Total Organic Carbon",,"ground water, long-term",Emission to water,kg,"8,400"
+Ecological Scarcity 2013,ea84db17-6890-380f-a807-52f0b5c493c7,Non radioactive waste to deposit,UBP,8f4d3ffb-8ce3-3c10-909a-74e7eb398ce0,"TOC, Total Organic Carbon, from sanitary landfill",,"ground water, long-term",Emission to water,kg,"22,000"

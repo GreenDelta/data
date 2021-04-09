@@ -1,0 +1,3 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+IPCC 2013 GWP 100a (incl. CO2 uptake),a891234c-c5a0-454a-a6c3-c3d5054ba576,Climate change - CO2 uptake,kg CO2 eq,cc6a1abb-b123-4ca6-8f16-38209df609be,"Carbon dioxide, in air",,in air,Resource,kg,-1
+IPCC 2013 GWP 100a (incl. CO2 uptake),a891234c-c5a0-454a-a6c3-c3d5054ba576,Climate change - CO2 uptake,kg CO2 eq,8ffbf5bb-f236-49ec-bb37-55b3561798ea,"Carbon dioxide, in air",000124-38-9,unspecified,Resource,kg,-1

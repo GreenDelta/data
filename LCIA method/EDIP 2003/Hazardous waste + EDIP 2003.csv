@@ -1,0 +1,27 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,2a6b34cd-08f2-3c6e-ae3f-342e957cfde0,"Waste, from incinerator",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,905e5fa3-2f02-3d5e-9c78-654f1a332509,Welding dust,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,525454d8-2703-3ebb-8a8a-0379c7d7fd31,"Chemical waste, inert",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,15e28a77-38c2-3e15-972a-43c8d47cba26,"Chemical waste, regulated",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,1e1b97ad-dbdc-307e-ab22-3542c6bf96d8,Oil waste,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,8e95647c-5a4b-38fe-81e8-792b99f35220,"Waste, toxic",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,b9ade741-a130-3a0a-ac20-4d8cd65b42a0,Bilge oil,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,17bcc63b-dab7-30fa-b7a2-814eed9b65e0,Asbestos,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,fb8ce04a-4b7c-3eb9-bd2c-6875e6a349c6,Electrostatic filter dust,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,ddb4b7e8-5259-3f2c-baf5-2935e35578ee,"Chemical waste, unspecified",,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,4c74db94-155d-3e9e-9107-f5d01cdafed4,Oil separator sludge,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,123ca625-2743-3fa5-8d00-90ed05c0f9c4,Refinery sludge,,"ecopoints 97, CH",Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,36d26020-74dd-3bf9-9ef6-55da78d1e430,"Chemical waste, regulated",,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,603b66f2-ef46-3411-a39e-1050292c863f,Oil waste,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,d25c0f0d-e6ca-30e0-90c0-34dc5b76a50a,Electrostatic filter dust,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,049dea16-329c-3047-9d0a-d4003dfeb2f0,Asbestos,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,1e9c49cf-4cb8-396e-bc7f-bd1f51cdb5a0,"Waste, toxic",,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,3811e08a-d742-32a5-b2a2-6508ef1417ff,"Chemical waste, unspecified",,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,f25fdf2c-716f-3a3d-a3f8-86d94ab82d89,"Chemical waste, inert",,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,f4a5dc3d-3db5-3964-83ef-06440d298df7,Oil separator sludge,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,8fb7ee00-88e5-3e6a-96d3-3b9cc0425a76,Bilge oil,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,fd265cb4-b88a-3aa8-9b63-c338f1894c31,"Waste, from incinerator",,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,15264e41-3747-36df-8964-834c3e107736,Welding dust,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,faef29a9-45bd-36c8-925f-31fd0237f7bc,Refinery sludge,,unspecified,Waste,kg,1
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,8bd1295e-4af1-4177-88a2-6f56ac8e4546,"Volume occupied, underground deposit",,in ground,Resource,m3,"1,600"
+EDIP 2003,aeb965a8-6d8f-3393-a3de-7d4170830685,Hazardous waste,kg,a4d0f936-822b-305e-b006-06142c251afe,"Volume occupied, underground deposit",,unspecified,Resource,m3,"1,600"

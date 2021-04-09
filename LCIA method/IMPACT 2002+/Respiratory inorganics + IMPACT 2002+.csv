@@ -1,0 +1,63 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,82acf258-a5f4-3813-85d7-9070c470bd13,"Particulates, < 10 um (stationary)",,high population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,6f93e5a6-5040-36e2-aa7d-195f56eef1ce,"Particulates, < 10 um (mobile)",,high population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,32295152-7da7-47cb-b4a2-60ca4f246a80,"Particulates, < 10 um",,high population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,230d8a0a-517c-43fe-8357-1818dd12997a,"Particulates, < 2.5 um",,high population density,Emission to air,kg,1
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,b00950bc-99cb-4ee2-bbc0-5f878ea170c3,Sulfur trioxide,,high population density,Emission to air,kg,0.06243
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,0.12143
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,620bc2f6-cf71-4dde-bba9-c6e8fdec5e23,Carbon monoxide,000630-08-0,high population density,Emission to air,kg,0.00104
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,8c356c12-29dd-3a6d-9f9d-d3ebd106db5b,Sulfur monoxide,,high population density,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,8c52f40c-69b7-4538-8923-b371523c71f5,Sulfur dioxide,,high population density,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,912bc031-a78d-3288-b2d4-5d41dd037df2,"Particulates, < 10 um (stationary)",,low population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,d42f8d08-08f6-42ef-ae04-dc2025462880,"Particulates, < 10 um",,low population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,cbe8b27c-ecac-3475-b1b0-5f0abc3dda9e,"Particulates, < 10 um (mobile)",,low population density,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,66f50b33-fd62-4fdd-a373-c5b0de7de00d,"Particulates, < 2.5 um",,low population density,Emission to air,kg,1
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,0.12143
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,7ae371ab-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,low population density,Emission to air,kg,0.00104
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,78c3efe4-421c-4d30-82e4-b97ac5124993,Sulfur dioxide,,low population density,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,e0994a6e-9a9f-4a17-9f02-d85937d01028,Sulfur monoxide,,low population density,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,f80eead1-54c8-3530-a8be-7a9e2394edd0,Particulates,,"low population density, long-term",Emission to air,kg,0.15714
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,051aaf7a-6c1a-4e86-999f-85d5f0830df6,"Particulates, < 2.5 um",,"low population density, long-term",Emission to air,kg,1
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,a8694654-e98f-3a45-b8d2-4da938b70331,"Particulates, < 10 um (mobile)",,"low population density, long-term",Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,c1f89bab-74fe-4995-9ed4-72bb73ca45f1,"Particulates, < 10 um",,"low population density, long-term",Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,56ffbc8c-bf1b-3466-b5bf-f53effa642a5,"Particulates, < 10 um (stationary)",,"low population density, long-term",Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,13825fb9-6e24-409a-bfcd-5dc4fd61ef98,Sulfur trioxide,007446-11-9,"low population density, long-term",Emission to air,kg,0.06243
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,0.12143
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,e462d2ef-2da9-4b99-9e16-f4cd181a91da,Carbon monoxide,000630-08-0,"low population density, long-term",Emission to air,kg,0.00104
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,1275ddeb-f87b-3f52-94a4-1eb8e2ac6c06,Sulfur monoxide,,"low population density, long-term",Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,6ce44f77-d181-4396-8fa2-2276eeeb4c08,Sulfur dioxide,,"low population density, long-term",Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,8eaa293f-a369-3f64-b83d-cef73818df61,TSP,012789-66-1,unspecified,Emission to air,kg,0.15714
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,252c2e43-c6e3-3010-b045-72aa0e172abb,Particulates,,unspecified,Emission to air,kg,0.15714
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,08a91e70-3ddc-11dd-91be-0050c2490048,"Particulates, < 10 um",,unspecified,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,2071631d-7d90-4040-ac40-1829af0bd3c2,"Particulates, < 10 um (stationary)",,unspecified,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,21e46cb8-6233-4c99-bac3-c41d2ab99498,"Particulates, < 2.5 um",,unspecified,Emission to air,kg,1
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,67b5f511-45bc-4612-8bbb-282b83eb725a,"Particulates, < 10 um (mobile)",,unspecified,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,3268d8df-59cc-4740-a89f-dee8355ad7c3,Sulfur trioxide,,unspecified,Emission to air,kg,0.06243
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,0.12143
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,b1124d65-6c5a-4530-a5e5-0c9726eb524c,Sulfur monoxide,,unspecified,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,fd7aa71c-508c-480d-81a6-8052aad92646,Sulfur dioxide,,unspecified,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,7ae371ac-8532-11e0-9d78-0800200c9a66,Carbon monoxide,000630-08-0,unspecified,Emission to air,kg,0.00104
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,20267798-78eb-3957-a510-19ebf3525a9e,"Particulates, < 10 um (stationary)",,lower stratosphere + upper troposphere,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,ddd99a3a-be86-423d-b36a-a9dc8af1b1f8,"Particulates, < 2.5 um",,lower stratosphere + upper troposphere,Emission to air,kg,1
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,4f0f45e0-b6ed-3927-9eac-55897e58fff3,"Particulates, < 10 um (mobile)",,lower stratosphere + upper troposphere,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,0245b0e3-f250-3fac-aea1-26a7d949926d,"Particulates, < 10 um",,lower stratosphere + upper troposphere,Emission to air,kg,0.53571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,0.12143
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,0.12729
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,0.19571
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,16521d00-4b6f-464f-b5dd-8da4a27b15ca,Sulfur dioxide,,lower stratosphere + upper troposphere,Emission to air,kg,0.078
+IMPACT 2002+,fbada988-bc86-32bb-bba2-f2650093e7c6,Respiratory inorganics,kg PM2.5 eq,08a91e70-3ddc-11dd-9252-0050c2490048,Carbon monoxide,000630-08-0,lower stratosphere + upper troposphere,Emission to air,kg,0.00104

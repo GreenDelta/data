@@ -1,0 +1,17 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,baf58fc9-573c-419c-8c16-831ac03203b9,"Methane, non-fossil",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,b53d3744-3629-4219-be20-980865e54031,Methane,,high population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,5f7aad3d-566c-4d0d-ad59-e765f971aa0f,"Methane, fossil",,high population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,20408dd0-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,low population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,57bdb443-d4a6-423d-8024-959b8261d02e,"Methane, non-fossil",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,70ef743b-3ed5-4a6d-b192-fb6d62378555,"Methane, fossil",,low population density,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,7b44cf6c-867f-34a0-b632-024664899e21,"Methane, biogenic",000074-82-8,indoor,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,ad2358fd-bdb0-44eb-aa84-dc9e358323d9,Methane,000074-82-8,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,6c977009-5c4e-4901-a4c1-ab20389cb972,"Methane, biogenic",000074-82-8,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,f3bd723a-5276-4ae8-9860-b89537351a90,"Methane, fossil",,"low population density, long-term",Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,20408dd1-8534-11e0-9d78-0800200c9a66,Methane,000074-82-8,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,da1157e2-7593-4dfd-80dd-a3449b37a4d8,"Methane, non-fossil",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,0795345f-c7ae-410c-ad25-1845784c75f5,"Methane, fossil",,unspecified,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,6b1b495b-70ee-4be6-b1c2-3031aa4d6add,"Methane, fossil",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,258263a0-6be3-4439-bd84-efee0498b849,"Methane, biogenic",000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,1
+"Selected LCI results, additional",f8dcd63c-cb6b-319d-8860-c81b6b969b46,Methane,kg,711fd742-d357-4291-a133-adb5ca979a21,Methane,000074-82-8,lower stratosphere + upper troposphere,Emission to air,kg,1

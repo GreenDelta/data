@@ -1,0 +1,6 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+EDIP 2003,f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,59866d0b-d253-3cb3-8ce6-e909fd91dede,"Waste, nuclear, unspecified/kg",,unspecified,Waste,kg,1
+EDIP 2003,f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,f6df5030-8e06-4276-bfeb-219db8dab104,"Volume occupied, final repository for low-active radioactive waste",,in ground,Resource,m3,"2,500"
+EDIP 2003,f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,adb4b590-7fb2-47b6-84e7-d4746a94c7b5,"Volume occupied, final repository for radioactive waste",,in ground,Resource,m3,"5,400"
+EDIP 2003,f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,52db6bae-e4ff-32a8-8bce-92214ec88f1a,"Volume occupied, final repository for low-active radioactive waste",,unspecified,Resource,m3,"2,500"
+EDIP 2003,f0deb3a9-1782-3e2d-9d4b-8a3ecf39835b,Radioactive waste,kg,61600b44-7753-36dd-a5e9-81cb1a1b0004,"Volume occupied, final repository for radioactive waste",,unspecified,Resource,m3,"5,400"

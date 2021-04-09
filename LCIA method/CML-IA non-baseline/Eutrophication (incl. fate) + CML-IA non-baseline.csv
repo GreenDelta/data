@@ -1,0 +1,23 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,b285ccbd-7703-39d9-9f66-20451f18d99f,Nitrogen dioxide,010102-44-0,stratosphere,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,751d9555-8e2e-30e8-9c64-dc1b09681bba,Nitrogen monoxide,010102-43-9,stratosphere,Emission to air,kg,1.84
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,9990b51b-7023-4700-bca0-1a32ef921f74,Ammonia,,high population density,Emission to air,kg,4.3
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,d068f3e2-b033-417b-a359-ca4f25da9731,Nitrogen oxides,,high population density,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,ca31b010-acd3-4736-a76c-e4a900ae4809,Nitrogen monoxide,010102-43-9,high population density,Emission to air,kg,1.84
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,d9945575-a965-4bf3-9cd7-584263172abd,Nitrogen dioxide,010102-44-0,high population density,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,0f440cc0-0f74-446d-99d6-8ff0e97a2444,Ammonia,,low population density,Emission to air,kg,4.3
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,77357947-ccc5-438e-9996-95e65e1e1bce,Nitrogen oxides,,low population density,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,003697f1-54e9-409e-8179-23a95e99e4d7,Nitrogen dioxide,010102-44-0,low population density,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,fe02b51d-7a59-4015-ba12-d32da63ac7d9,Nitrogen monoxide,010102-43-9,low population density,Emission to air,kg,1.84
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,2b50f643-216a-412b-a0e5-5946867aa2ed,Ammonia,,"low population density, long-term",Emission to air,kg,4.3
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,9115356e-a534-4329-9ec6-d9208720241b,Nitrogen oxides,,"low population density, long-term",Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,b7e78e2a-dff8-49e8-b72c-c9157183860d,Nitrogen monoxide,010102-43-9,"low population density, long-term",Emission to air,kg,1.84
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,9fb048e8-b1c4-4b1a-b536-5467d511f75a,Nitrogen dioxide,010102-44-0,"low population density, long-term",Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,87883a4e-1e3e-4c9d-90c0-f1bea36f8014,Ammonia,,unspecified,Emission to air,kg,4.3
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,c1b91234-6f24-417b-8309-46111d09c457,Nitrogen oxides,,unspecified,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,17f7e776-7934-54af-8c3c-ed0247cb697b,Nitric oxide,,unspecified,Emission to air,kg,1.84
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,0b7e10a8-6ca0-4a50-a39b-f2a019cb3610,Nitrogen dioxide,010102-44-0,unspecified,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,4841a0fe-c250-4a39-94a1-1bc31426c0f1,Nitrogen oxides,,lower stratosphere + upper troposphere,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,8494ed3c-0416-4aa5-b100-51a2b2bcadbd,Ammonia,007664-41-7,lower stratosphere + upper troposphere,Emission to air,kg,4.3
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,4490af97-53d7-4849-aa85-34b5a50e516b,Nitrogen dioxide,010102-44-0,lower stratosphere + upper troposphere,Emission to air,kg,1.2
+CML-IA non-baseline,d1182b60-6721-3b9c-8d06-86e96cbf5b72,Eutrophication (incl. fate),kg PO4--- eq,9d0b18e8-484d-4d28-bca4-2db8023def45,Nitrogen monoxide,010102-43-9,lower stratosphere + upper troposphere,Emission to air,kg,1.84

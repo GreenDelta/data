@@ -1,0 +1,35 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,4bf1c333-419b-4278-ac14-247c8bf563d6,"Methane, bromo-, Halon 1001",,high population density,Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,31a3e44c-4098-461e-aba2-f79540e05087,"Methane, dichlorodifluoro-, CFC-12",,high population density,Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,8ca6c84b-7f56-47e6-8d17-4f2dbc49a943,"Methane, chlorodifluoro-, HCFC-22",,high population density,Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,5c97dd6c-aaa5-4477-aaf8-dbd0674499c4,"Methane, tetrachloro-, R-10",,high population density,Emission to air,g,1.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,e3787169-170a-3047-a5f2-16e292861643,"Methane, tetrachloro-, CFC-10",000056-23-5,high population density,Emission to air,g,1.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,18ddd879-5496-4419-8ab7-e0d3864d977d,"Methane, bromotrifluoro-, Halon 1301",,high population density,Emission to air,g,10
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,818cee9e-231c-4b53-8ed2-47a0001802d5,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,high population density,Emission to air,g,0.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,82957257-07f3-4536-ac8b-175cb2353c75,"Methane, bromotrifluoro-, Halon 1301",,low population density,Emission to air,g,10
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,e93ba406-3df8-4e34-be54-0d556b2bb629,"Methane, dichlorodifluoro-, CFC-12",,low population density,Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,56b7d3b6-83d7-42b0-a65b-5ad23e29db47,"Methane, chlorodifluoro-, HCFC-22",,low population density,Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,701cda28-4722-431c-b52f-05a735ef5ed3,"Methane, bromo-, Halon 1001",000074-83-9,low population density,Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,99585564-bfce-4845-9aaa-2f24b8f26a41,"Ethane, 1,1,1-trichloro-, HCFC-140",,low population density,Emission to air,g,0.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,46d70535-e74d-3c0e-8aa9-d52233b755d6,"Methane, bromo-, Halon 1001",000074-83-9,indoor,Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,81e9632c-4b9e-3f1c-b431-c4f0f6b4034d,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,indoor,Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,e5716f7d-435d-35b2-8f23-49ab146b45b3,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,indoor,Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,9cad9d36-b3ed-3822-9932-2ba6258a5a32,"Methane, tetrachloro-, CFC-10",000056-23-5,indoor,Emission to air,g,1.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,926e91c7-69bb-3673-a488-72bae997734c,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,indoor,Emission to air,g,0.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,31f8976a-6f7d-487e-a850-eb495dbf0351,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,"low population density, long-term",Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,96b52062-5e2f-40de-921a-f443c08862e4,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,"low population density, long-term",Emission to air,g,10
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,9b505d7c-4239-40e0-9dbe-55d38f3b85b3,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,"low population density, long-term",Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,09e231fa-b1c2-4d63-9c57-7ea0e2210858,"Methane, bromo-, Halon 1001",000074-83-9,"low population density, long-term",Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,f8ee4881-a003-4e18-aa2a-d9daf97d76f7,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,"low population density, long-term",Emission to air,g,0.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,86d12e70-0c64-4ecf-ba52-114fa0c5d402,"Methane, tetrachloro-, R-10",,unspecified,Emission to air,g,1.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,4ac2ffc3-312e-4e2d-88c4-2630d4a73d8c,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,unspecified,Emission to air,g,10
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,18c582fe-7336-4138-8797-2db8b7a754c7,"Methane, chlorodifluoro-, HCFC-22",,unspecified,Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,c0e8ec60-a5ae-432e-97a5-cf76b6247a00,"Methane, dichlorodifluoro-, CFC-12",,unspecified,Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,8c283de2-50d3-40c8-8bff-1e172c3398f8,"Methane, bromo-, Halon 1001",,unspecified,Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,f2cb5577-b802-3bca-bd0a-502374b83e41,"Methane, tetrachloro-, CFC-10",000056-23-5,unspecified,Emission to air,g,1.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,ce6294f5-2ed7-46ee-a967-33e265e34455,"Ethane, 1,1,1-trichloro-, HCFC-140",,unspecified,Emission to air,g,0.1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,26991da1-c263-4707-9f85-78685acc94dc,"Methane, chlorodifluoro-, HCFC-22",000075-45-6,lower stratosphere + upper troposphere,Emission to air,g,0.055
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,6bdb666d-e227-4f57-9b1d-d25009d3c44b,"Methane, bromo-, Halon 1001",000074-83-9,lower stratosphere + upper troposphere,Emission to air,g,0.6
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,1013b9ec-a7b5-459c-be3d-74f61b9ce06e,"Methane, dichlorodifluoro-, CFC-12",000075-71-8,lower stratosphere + upper troposphere,Emission to air,g,1
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,cf719b78-9834-4649-a1dd-8554c366c83f,"Methane, bromotrifluoro-, Halon 1301",000075-63-8,lower stratosphere + upper troposphere,Emission to air,g,10
+BEES+,4ac6c32d-e63a-378e-be67-1f0f7f474d09,Ozone depletion,g CFC-11 eq,9e7d019f-c8c0-4631-9bbb-ced3e081c90d,"Ethane, 1,1,1-trichloro-, HCFC-140",000071-55-6,lower stratosphere + upper troposphere,Emission to air,g,0.1

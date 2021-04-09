@@ -1,0 +1,2 @@
+IMPACT_METHOD,IMPACT_CATEGORY_UUID,IMPACT_CATEGORY,REFERENCE_UNIT,FLOW_UUID,FLOW,CAS_NUMBER,SUBCATEGORY,CATEGORY,UNIT,VALUE
+Cumulative Exergy Demand,9a619559-e7da-3481-bb8b-1fe5b91b4a7f,"Renewable, kinetic",MJ,57c71b25-4663-4fad-9167-7ce5be3e8268,"Energy, kinetic (in wind), converted",,in air,Resource,MJ,1
