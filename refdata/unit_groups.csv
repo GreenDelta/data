@@ -1,3 +1,4 @@
+ID,Name,Description,Category,Default flow property,Reference unit
 11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,Units of person transport,,Technical unit groups,8766e10f-9f41-4db0-8173-ad0d002a5b98,fe8da65d-f0ea-4496-b13e-1955aaa412d7
 258d6abd-14f2-4484-956c-c88e8f6fd8ed,Units of energy/mass*time,,Technical unit groups,c6984745-192d-416f-9728-d6169ba6267f,94dcd768-ea3e-47da-ba1b-11fea4b5f4cc
 326eb58b-e5b3-4cea-b45a-2398c25109f8,Units of length*time,,Technical unit groups,b7ffb330-95a8-4815-a78c-47fcdee3b768,f7fe0af2-e764-4984-bb9f-2cbff6cd2f18
