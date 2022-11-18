@@ -1,34 +1,34 @@
 ID,Name,Description,Category,Unit group,Property type
-01846770-4cfe-4a25-8ad9-919d8d378345,Number of items,,Technical flow properties,5beb6eed-33a9-47b8-9ede-1dfe8f679159,physical
-05e42ba1-dbcd-4dc2-b735-a2f17dd211ae,Mechanical Filtration (Transf.),,Technical flow properties,f2275057-f8be-4db9-bb78-5dfc276967a0,physical
-0ddc622a-bc4a-4cf8-a551-9e112864b77f,Items*Length,,Technical flow properties,5454b231-270e-45e6-89b2-7f4f3e482245,physical
-27f62f94-3fe1-4df5-9693-9112b832decb,Erosion Resistance (Transf.),,Technical flow properties,c28831de-8759-43da-98bd-05617cb1722d,physical
-2d9d802c-002d-4018-a702-d2d46e78625a,Biotic Production (Occ.),,Technical flow properties,93a60a57-a4c8-11da-a746-0800200c9a66,physical
-441238a3-ba09-46ec-b35b-c30cfba746d1,Volume*time,,Technical flow properties,93a60a57-a3c8-23da-a746-0800200c9a66,physical
-45915a2c-6ee8-45bd-8a46-070a7261558e,Groundwater Replenishment (Occ.),,Technical flow properties,36932b14-ba61-417b-a80c-eb9935d193f1,physical
-4e10f566-0358-489a-8e3a-d687b66c50e6,Mass*time,,Technical flow properties,59f191d6-5dd3-4553-af88-1a32accfe308,physical
-58ea2de8-1f31-4248-9b03-18ec5d8db13b,Groundwater Replenishment (Transf.),,Technical flow properties,9e5a91be-b3d1-4268-8e7d-e5e93f6a75d4,physical
-64771383-534c-4051-84ca-e195564d5425,Volume*Length,,Technical flow properties,ff8ed45d-bbfb-4531-8c7b-9b95e52bd41d,physical
-838aaa20-0117-11db-92e3-0800200c9a66,Goods transport (mass*distance),,Technical flow properties,838aaa21-0117-11db-92e3-0800200c9a66,physical
-838aaa23-0117-11db-92e3-0800200c9a66,Length,,Technical flow properties,838aaa22-0117-11db-92e3-0800200c9a66,physical
-8766e10f-9f41-4db0-8173-ad0d002a5b98,Person transport,,Technical flow properties,11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,physical
-8a9107c2-62a2-4997-95b0-6944c80b774e,Physicochemical Filtration (Occ.),,Technical flow properties,a6941776-ee4b-40fe-9a05-e19faac45240,physical
-93a60a56-a3c8-11da-a746-0800200b9a66,Mass,,Technical flow properties,93a60a57-a4c8-11da-a746-0800200c9a66,physical
-93a60a56-a3c8-11da-a746-0800200c9a66,Net calorific value,,Technical flow properties,93a60a57-a3c8-11da-a746-0800200c9a66,physical
-93a60a56-a3c8-13da-a746-0800200c9a66,Normal Volume,,Technical flow properties,93a60a57-a3c8-12da-a746-0800200c9a66,physical
-93a60a56-a3c8-14da-a746-0800200c9a66,Gross calorific value,,Technical flow properties,93a60a57-a3c8-11da-a746-0800200c9a66,physical
-93a60a56-a3c8-17da-a746-0800200c9a66,Radioactivity,,Technical flow properties,93a60a57-a3c8-16da-a746-0800200c9a66,physical
-93a60a56-a3c8-19da-a746-0800200c9a66,Area,,Technical flow properties,93a60a57-a3c8-18da-a746-0800200c9a66,physical
-93a60a56-a3c8-21da-a746-0800200c9a66,Area*time,,Technical flow properties,93a60a57-a3c8-20da-a746-0800200c9a66,physical
-93a60a56-a3c8-22da-a746-0800200c9a66,Volume,,Technical flow properties,93a60a57-a3c8-12da-a746-0800200c9a66,physical
-a819760a-7651-4579-a786-842f7575df60,Erosion Resistance (Occ.),,Technical flow properties,93a60a57-a4c8-11da-a746-0800200c9a66,physical
-ac95ed26-5038-4862-8b82-94f1412875cd,Physicochemical Filtration (Transf.),,Technical flow properties,3dbb60e1-edde-49f7-b28d-f34b4af727b3,physical
-b7ffb330-95a8-4815-a78c-47fcdee3b768,Length*time,,Technical flow properties,326eb58b-e5b3-4cea-b45a-2398c25109f8,physical
-c0447923-0e60-4b3c-97c2-a86dddd9eea5,Duration,,Technical flow properties,af638906-3ec7-4314-8de7-f76039f2dd01,physical
-c6984745-192d-416f-9728-d6169ba6267f,Energy/mass*time,,Technical flow properties,258d6abd-14f2-4484-956c-c88e8f6fd8ed,physical
-e0d963f9-d6a4-42a5-90e9-fff8452aa2af,Mechanical Filtration (Occ.),,Technical flow properties,59f6a0a2-731f-41c3-86df-d383dc673dfe,physical
-e2f7001e-a331-4fc7-8052-c0b9bcf6a05f,Energy/area*time,,Technical flow properties,876adcd3-29e6-44e2-acdd-11be304ae654,physical
-ecbe0a5d-f397-4b74-993d-32d231e4bcf9,Vehicle transport,,Technical flow properties,af16ae7e-3e04-408a-b8ae-5b3666dbe7f9,physical
-f6811440-ee37-11de-8a39-0800200c9a66,Energy,,Technical flow properties,93a60a57-a3c8-11da-a746-0800200c9a66,physical
-fd9a098b-253e-4f1e-986d-76a775c51722,Biotic Production (Transf.),,Technical flow properties,c28831de-8759-43da-98bd-05617cb1722d,physical
-fdfecf14-ff8a-4e17-b2b2-f938c4b5cc27,"Market value, bulk prices",,Economic flow properties,da299c4d-1741-4da8-9fbd-5ccfb5e1d688,economic
+93a60a56-a3c8-19da-a746-0800200c9a66,Area,,Technical flow properties,Units of area,physical
+93a60a56-a3c8-21da-a746-0800200c9a66,Area*time,,Technical flow properties,Units of area*time,physical
+2d9d802c-002d-4018-a702-d2d46e78625a,Biotic Production (Occ.),,Technical flow properties,Units of mass,physical
+fd9a098b-253e-4f1e-986d-76a775c51722,Biotic Production (Transf.),,Technical flow properties,Units of mass/time,physical
+c0447923-0e60-4b3c-97c2-a86dddd9eea5,Duration,,Technical flow properties,Units of time,physical
+f6811440-ee37-11de-8a39-0800200c9a66,Energy,,Technical flow properties,Units of energy,physical
+e2f7001e-a331-4fc7-8052-c0b9bcf6a05f,Energy/area*time,,Technical flow properties,Units of energy/area*time,physical
+c6984745-192d-416f-9728-d6169ba6267f,Energy/mass*time,,Technical flow properties,Units of energy/mass*time,physical
+a819760a-7651-4579-a786-842f7575df60,Erosion Resistance (Occ.),,Technical flow properties,Units of mass,physical
+27f62f94-3fe1-4df5-9693-9112b832decb,Erosion Resistance (Transf.),,Technical flow properties,Units of mass/time,physical
+838aaa20-0117-11db-92e3-0800200c9a66,Goods transport (mass*distance),,Technical flow properties,Units of mass*length,physical
+93a60a56-a3c8-14da-a746-0800200c9a66,Gross calorific value,,Technical flow properties,Units of energy,physical
+45915a2c-6ee8-45bd-8a46-070a7261558e,Groundwater Replenishment (Occ.),,Technical flow properties,Units of length*area,physical
+58ea2de8-1f31-4248-9b03-18ec5d8db13b,Groundwater Replenishment (Transf.),,Technical flow properties,Units of groundwater replenishment (transf.),physical
+0ddc622a-bc4a-4cf8-a551-9e112864b77f,Items*Length,,Technical flow properties,Units of items*length,physical
+838aaa23-0117-11db-92e3-0800200c9a66,Length,,Technical flow properties,Units of length,physical
+b7ffb330-95a8-4815-a78c-47fcdee3b768,Length*time,,Technical flow properties,Units of length*time,physical
+fdfecf14-ff8a-4e17-b2b2-f938c4b5cc27,"Market value, bulk prices",,Economic flow properties,Units of currency,economic
+93a60a56-a3c8-11da-a746-0800200b9a66,Mass,,Technical flow properties,Units of mass,physical
+4e10f566-0358-489a-8e3a-d687b66c50e6,Mass*time,,Technical flow properties,Units of mass*time,physical
+e0d963f9-d6a4-42a5-90e9-fff8452aa2af,Mechanical Filtration (Occ.),,Technical flow properties,Units of mechanical filtration (occ.),physical
+05e42ba1-dbcd-4dc2-b735-a2f17dd211ae,Mechanical Filtration (Transf.),,Technical flow properties,Units of length*area/time,physical
+93a60a56-a3c8-11da-a746-0800200c9a66,Net calorific value,,Technical flow properties,Units of energy,physical
+93a60a56-a3c8-13da-a746-0800200c9a66,Normal Volume,,Technical flow properties,Units of volume,physical
+01846770-4cfe-4a25-8ad9-919d8d378345,Number of items,,Technical flow properties,Units of items,physical
+8766e10f-9f41-4db0-8173-ad0d002a5b98,Person transport,,Technical flow properties,Units of person transport,physical
+8a9107c2-62a2-4997-95b0-6944c80b774e,Physicochemical Filtration (Occ.),,Technical flow properties,Units of mole*area*time/mass,physical
+ac95ed26-5038-4862-8b82-94f1412875cd,Physicochemical Filtration (Transf.),,Technical flow properties,Units of mole*area/mass,physical
+93a60a56-a3c8-17da-a746-0800200c9a66,Radioactivity,,Technical flow properties,Units of radioactivity,physical
+ecbe0a5d-f397-4b74-993d-32d231e4bcf9,Vehicle transport,,Technical flow properties,Units of vehicle transport,physical
+93a60a56-a3c8-22da-a746-0800200c9a66,Volume,,Technical flow properties,Units of volume,physical
+64771383-534c-4051-84ca-e195564d5425,Volume*Length,,Technical flow properties,Units of volume*length,physical
+441238a3-ba09-46ec-b35b-c30cfba746d1,Volume*time,,Technical flow properties,Units of volume*time,physical

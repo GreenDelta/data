@@ -3,8 +3,8 @@ import csv
 from typing import Dict, Iterator, List
 
 
-def read_csv(path: str, separator=';', skip_first=False) -> Iterator[List[str]]:
-    with open(path, 'r', encoding='utf-8') as stream:
+def read_csv(path: str, separator=";", skip_first=False) -> Iterator[List[str]]:
+    with open(path, "r", encoding="utf-8") as stream:
         reader = csv.reader(stream, delimiter=separator)
         if skip_first:
             next(reader)
@@ -14,7 +14,7 @@ def read_csv(path: str, separator=';', skip_first=False) -> Iterator[List[str]]:
 
 def read_category_paths() -> Dict[str, str]:
     cats = {}
-    for cat in read_csv('./refdata/categories.csv'):
+    for cat in read_csv("./refdata/categories.csv"):
         cats[cat[0]] = cat
 
     paths = {}
@@ -22,10 +22,10 @@ def read_category_paths() -> Dict[str, str]:
         path = cat[1]
         parent = cats.get(cat[4])
         while parent is not None:
-            path = parent[1] + '/' + path
+            path = parent[1] + "/" + path
             parent = cats.get(parent[4])
 
-        if path.startswith('Elementary flows/'):
+        if path.startswith("Elementary flows/"):
             path = path[17:]
         paths[cat[0]] = path
 
@@ -35,13 +35,13 @@ def read_category_paths() -> Dict[str, str]:
 if __name__ == "__main__":
     category_paths = read_category_paths()
     props = {}
-    for prop in read_csv('./refdata/flow_properties.csv'):
+    for prop in read_csv("./refdata/flow_properties.csv"):
         props[prop[0]] = prop
 
-    flows = [flow for flow in read_csv('./refdata/flows.csv')]
+    flows = [flow for flow in read_csv("./refdata/flows.csv")]
     flows.sort(key=lambda flow: flow[1])
 
-    text = '''
+    text = """
     <!DOCTYPE html>
     <html lang="en">
 
@@ -77,18 +77,22 @@ if __name__ == "__main__":
                 </tr>
             </thead>
             <tbody>
-    '''.strip()
+    """.strip()
     i = 0
     for flow in flows:
         if i % 2 == 0:
             text += '<tr class="even">'
         else:
-            text += '<tr>'
-        text += '<td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>' % (
-            flow[1], category_paths.get(flow[3]), flow[5], flow[6],
-            props.get(flow[7])[1])
+            text += "<tr>"
+        text += "<td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (
+            flow[1],
+            category_paths.get(flow[3]),
+            flow[5],
+            flow[6],
+            props.get(flow[7])[1],
+        )
         i += 1
-    text += '</tbody></table></body></html>'
+    text += "</tbody></table></body></html>"
 
-    with open('flows.html', 'w', encoding='utf-8') as stream:
+    with open("flows.html", "w", encoding="utf-8") as stream:
         stream.write(text)

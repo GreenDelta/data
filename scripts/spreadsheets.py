@@ -9,8 +9,8 @@ class Unit:
     empty = None
 
     def __init__(self):
-        self.uid = ''
-        self.name = ''
+        self.uid = ""
+        self.name = ""
         self.factor = 1.0
 
 
@@ -22,8 +22,8 @@ class UnitGroup:
     empty = None
 
     def __init__(self):
-        self.uid = ''
-        self.name = ''
+        self.uid = ""
+        self.name = ""
         self.ref_unit = Unit.empty
         self.units = []  # type: List[Unit]
 
@@ -36,8 +36,8 @@ class FlowProperty:
     empty = None
 
     def __init__(self):
-        self.uid = ''
-        self.name = ''
+        self.uid = ""
+        self.name = ""
         self.unit_group = UnitGroup.empty
 
 
@@ -49,19 +49,19 @@ class Flow:
     empty = None
 
     def __init__(self):
-        self.uid = ''
-        self.name = ''
-        self.category = ''
-        self.cas = ''
-        self.formula = ''
+        self.uid = ""
+        self.name = ""
+        self.category = ""
+        self.cas = ""
+        self.formula = ""
         self.ref_flow_property = FlowProperty.empty
 
     def unit(self) -> str:
         if self.ref_flow_property is None:
-            return ''
+            return ""
         ug = self.ref_flow_property.unit_group
         if ug is None or ug.ref_unit is None:
-            return ''
+            return ""
         return ug.ref_unit.name
 
 
@@ -69,26 +69,23 @@ Flow.empty = Flow()
 
 
 class ImpactFactor:
-
     def __init__(self):
         self.flow = Flow.empty
         self.factor = 1.0
 
 
 class Impact:
-
     def __init__(self):
-        self.uid = ''
-        self.name = ''
-        self.unit = ''
+        self.uid = ""
+        self.name = ""
+        self.unit = ""
         self.factors = []  # type: List[ImpactFactor]
 
 
 class Method:
-
     def __init__(self):
-        self.uid = ''
-        self.name = ''
+        self.uid = ""
+        self.name = ""
         self.impacts = []  # type: List[Impact]
 
 
@@ -96,21 +93,21 @@ def read_unit_groups() -> Dict[str, UnitGroup]:
 
     groups = {}
     ref_units = {}
-    for row in read_csv('./refdata/unit_groups.csv'):
+    for row in read_csv("./refdata/unit_groups.csv"):
         group = UnitGroup()
         group.uid = row[0]
         group.name = row[1]
         groups[group.uid] = group
         ref_units[group.uid] = row[5]
 
-    for row in read_csv('./refdata/units.csv'):
+    for row in read_csv("./refdata/units.csv"):
         unit = Unit()
         unit.uid = row[0]
         unit.name = row[1]
         unit.factor = float(row[3])
         group = groups.get(row[5])
         if group is None:
-            print('Unknown group for unit %s' % unit.name)
+            print("Unknown group for unit %s" % unit.name)
             continue
         group.units.append(unit)
         ref_unit = ref_units[group.uid]
@@ -123,7 +120,7 @@ def read_unit_groups() -> Dict[str, UnitGroup]:
 def read_flow_properties() -> Dict[str, FlowProperty]:
     unit_groups = read_unit_groups()
     props = {}
-    for row in read_csv('./refdata/flow_properties.csv'):
+    for row in read_csv("./refdata/flow_properties.csv"):
         prop = FlowProperty()
         prop.uid = row[0]
         prop.name = row[1]
@@ -136,11 +133,11 @@ def read_flows() -> Dict[str, Flow]:
     paths = read_category_paths()
     flow_props = read_flow_properties()
     flows = {}
-    for row in read_csv('./refdata/flows.csv'):
+    for row in read_csv("./refdata/flows.csv"):
         flow = Flow()
         flow.uid = row[0]
         flow.name = row[1]
-        flow.category = paths.get(row[3], '')
+        flow.category = paths.get(row[3], "")
         flow.cas = row[5]
         flow.formula = row[6]
         flow.ref_flow_property = flow_props.get(row[7], FlowProperty.empty)
@@ -150,8 +147,9 @@ def read_flows() -> Dict[str, Flow]:
 
 def read_impact_methods(flows: Dict[str, Flow]) -> Dict[str, Method]:
     methods = {}
-    method_rows = read_csv('./impact_data/olca_LCIA_IM_table.csv',
-                           separator=',', skip_first=True)
+    method_rows = read_csv(
+        "./impact_data/olca_LCIA_IM_table.csv", separator=",", skip_first=True
+    )
     for row in method_rows:
         method = Method()
         method.uid = row[0]
@@ -159,8 +157,9 @@ def read_impact_methods(flows: Dict[str, Flow]) -> Dict[str, Method]:
         methods[method.uid] = method
 
     impacts = {}
-    impact_rows = read_csv('./impact_data/olca_LCIA_IC_table.csv',
-                           separator=',', skip_first=True)
+    impact_rows = read_csv(
+        "./impact_data/olca_LCIA_IC_table.csv", separator=",", skip_first=True
+    )
     for row in impact_rows:
         impact = Impact()
         impact.uid = row[0]
@@ -172,11 +171,12 @@ def read_impact_methods(flows: Dict[str, Flow]) -> Dict[str, Method]:
             continue
         method.impacts.append(impact)
 
-    factor_rows = read_csv('./impact_data/olca_LCIA_IF_table.csv',
-                           separator=',', skip_first=True)
+    factor_rows = read_csv(
+        "./impact_data/olca_LCIA_IF_table.csv", separator=",", skip_first=True
+    )
     for row in factor_rows:
         val = row[2]
-        if val == '0':
+        if val == "0":
             continue
         impact = impacts.get(row[0])
         if impact is None:
@@ -192,9 +192,9 @@ def read_impact_methods(flows: Dict[str, Flow]) -> Dict[str, Method]:
     return methods
 
 
-def read_csv(path: str, separator=';', skip_first=False) -> list:
+def read_csv(path: str, separator=";", skip_first=False) -> list:
     rows = []
-    with open(path, 'r', encoding='utf-8') as stream:
+    with open(path, "r", encoding="utf-8") as stream:
         reader = csv.reader(stream, delimiter=separator)
         if skip_first:
             next(reader)
@@ -205,7 +205,7 @@ def read_csv(path: str, separator=';', skip_first=False) -> list:
 
 def read_category_paths() -> Dict[str, str]:
     cats = {}
-    for cat in read_csv('./refdata/categories.csv'):
+    for cat in read_csv("./refdata/categories.csv"):
         cats[cat[0]] = cat
 
     paths = {}
@@ -213,10 +213,10 @@ def read_category_paths() -> Dict[str, str]:
         path = cat[1]
         parent = cats.get(cat[4])
         while parent is not None:
-            path = parent[1] + '/' + path
+            path = parent[1] + "/" + path
             parent = cats.get(parent[4])
 
-        if path.startswith('Elementary flows/'):
+        if path.startswith("Elementary flows/"):
             path = path[17:]
         paths[cat[0]] = path
 
@@ -224,56 +224,56 @@ def read_category_paths() -> Dict[str, str]:
 
 
 def as_file_name(s: str) -> str:
-    fname = ''
-    last = ''
+    fname = ""
+    last = ""
     for char in s:
-        c = char if char.isalnum() else '_'
-        if c == '_' and last == '_':
+        c = char if char.isalnum() else "_"
+        if c == "_" and last == "_":
             continue
         last = c
         fname += c
-    return fname.strip('_')
+    return fname.strip("_")
 
 
 def write_flow_sheet(flows: List[Flow]):
-    with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
+    with open("./scripts/spreadsheet.html", "r", encoding="utf-8") as f:
         template = f.read()
-        template = template.replace('/*title*/', 'Reference flows')
+        template = template.replace("/*title*/", "Reference flows")
         data = {
-            'name': 'Flows',
-            'freeze': 'A2',
-            'rows': {
-                'len': len(flows) + 1,
+            "name": "Flows",
+            "freeze": "A2",
+            "rows": {
+                "len": len(flows) + 1,
                 0: {
-                    'cells': {
-                        0: {'text': 'UUID'},
-                        1: {'text': 'Category'},
-                        2: {'text': 'Name'},
-                        3: {'text': 'Ref. flow property'},
-                        4: {'text': 'Ref. unit'},
-                        5: {'text': 'CAS'},
-                        6: {'text': 'Formula'},
+                    "cells": {
+                        0: {"text": "UUID"},
+                        1: {"text": "Category"},
+                        2: {"text": "Name"},
+                        3: {"text": "Ref. flow property"},
+                        4: {"text": "Ref. unit"},
+                        5: {"text": "CAS"},
+                        6: {"text": "Formula"},
                     }
-                }
-            }
+                },
+            },
         }
-        rows = data['rows']
+        rows = data["rows"]
         for i in range(0, len(flows)):
             flow = flows[i]
             cells = {
-                0: {'text': flow.uid},
-                1: {'text': flow.category},
-                2: {'text': flow.name},
-                3: {'text': flow.ref_flow_property.name},
-                4: {'text': flow.unit()},
-                5: {'text': flow.cas},
-                6: {'text': flow.formula},
+                0: {"text": flow.uid},
+                1: {"text": flow.category},
+                2: {"text": flow.name},
+                3: {"text": flow.ref_flow_property.name},
+                4: {"text": flow.unit()},
+                5: {"text": flow.cas},
+                6: {"text": flow.formula},
             }
-            rows[i + 1] = {'cells': cells}
+            rows[i + 1] = {"cells": cells}
 
-        call = 'xs.loadData([%s]);' % json.dumps(data)
-        template = template.replace('/*data-call*/', call)
-        with open('./build/flows.html', 'w', encoding='utf-8') as out:
+        call = "xs.loadData([%s]);" % json.dumps(data)
+        template = template.replace("/*data-call*/", call)
+        with open("./build/flows.html", "w", encoding="utf-8") as out:
             out.write(template)
 
 
@@ -282,39 +282,39 @@ def write_method_sheets(methods: List[Method]):
         sheets = []
         for impact in method.impacts:
             data = {
-                'name': impact.name,
-                'freeze': 'A2',
-                'rows': {
-                    'len': len(impact.factors) + 1,
+                "name": impact.name,
+                "freeze": "A2",
+                "rows": {
+                    "len": len(impact.factors) + 1,
                     0: {
-                        'cells': {
-                            0: {'text': 'Category'},
-                            1: {'text': 'Flow'},
-                            2: {'text': 'Factor'},
-                            3: {'text': 'Unit'},
+                        "cells": {
+                            0: {"text": "Category"},
+                            1: {"text": "Flow"},
+                            2: {"text": "Factor"},
+                            3: {"text": "Unit"},
                         }
-                    }
-                }
+                    },
+                },
             }
-            rows = data['rows']
+            rows = data["rows"]
             for i in range(0, len(impact.factors)):
                 factor = impact.factors[i]
                 cells = {
-                    0: {'text': factor.flow.category},
-                    1: {'text': factor.flow.name},
-                    2: {'text': factor.factor},
-                    3: {'text': impact.unit + '/' + factor.flow.unit()},
+                    0: {"text": factor.flow.category},
+                    1: {"text": factor.flow.name},
+                    2: {"text": factor.factor},
+                    3: {"text": impact.unit + "/" + factor.flow.unit()},
                 }
-                rows[i + 1] = {'cells': cells}
+                rows[i + 1] = {"cells": cells}
             sheets.append(data)
 
-        with open('./scripts/spreadsheet.html', 'r', encoding='utf-8') as f:
+        with open("./scripts/spreadsheet.html", "r", encoding="utf-8") as f:
             template = f.read()
-            template = template.replace('/*title*/', method.name)
-            call = 'xs.loadData(%s);' % json.dumps(sheets)
-            template = template.replace('/*data-call*/', call)
-            target = './build/%s.html' % as_file_name(method.name)
-            with open(target, 'w', encoding='utf-8') as out:
+            template = template.replace("/*title*/", method.name)
+            call = "xs.loadData(%s);" % json.dumps(sheets)
+            template = template.replace("/*data-call*/", call)
+            target = "./build/%s.html" % as_file_name(method.name)
+            with open(target, "w", encoding="utf-8") as out:
                 out.write(template)
 
 
@@ -330,7 +330,7 @@ if __name__ == "__main__":
 
     # write index.html
     print("write the index.html file")
-    index = '''<!DOCTYPE html>
+    index = """<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -340,16 +340,18 @@ if __name__ == "__main__":
         <h1>openLCA LCIA methods and reference data</h1>
         <ul>
             <li><a href="./flows.html" target="_blank">Reference flows</a></li>
-    '''
+    """
 
     for method in methods:
         index += '<li><a href="./%s.html" target="_blank">%s</a></li>' % (
-            as_file_name(method.name), method.name)
+            as_file_name(method.name),
+            method.name,
+        )
 
-    index += '''
+    index += """
         </ul>
     </body>
-    </html>'''
+    </html>"""
 
-    with open('./build/index.html', 'w', encoding='utf-8') as out:
+    with open("./build/index.html", "w", encoding="utf-8") as out:
         out.write(index)
