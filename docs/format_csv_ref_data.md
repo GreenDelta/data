@@ -134,7 +134,7 @@ we typically take the first part of the uuid of an LCIA category for this.
 1 | Flow          | required | uuid
 2 | Flow property | required | uuid or name
 3 | Flow unit     | required | uuid or name
-4 | Location      | required | uuid or name
+4 | Location      | optional | uuid or name
 5 | Factor        | required | double or formula
 ```
 

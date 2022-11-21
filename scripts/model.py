@@ -37,7 +37,8 @@ class RefData:
         _locations_into(data)
         if subset == RefDataSet.FLOWS:
             return data
-        _impacts_into(data)
+        _impact_categories_into(data)
+        _impact_methods_into(data)
         return data
 
 
@@ -186,8 +187,109 @@ def _locations_into(data: RefData):
         loc.longitude = float(row[6])
 
 
-def _impacts_into(data: RefData):
-    pass
+def _impact_categories_into(data: RefData):
+
+    for row in _csv("lcia_categories.csv"):
+        impact = lca.ImpactCategory()
+        (imp_id, _) = _fill_head(impact, row)
+        impact.ref_unit = _opt(row[4])
+        data.impact_categories[imp_id] = impact
+
+    for path in (_ref_dir / "lcia_factors").iterdir():
+        for row in _csv(path):
+            impact = data.impact_categories.get(row[0])
+            if impact is None:
+                log.error("invalid impact category %s", row[0])
+                continue
+            flow = data.flows.get(row[1])
+            if flow is None:
+                log.error("invalid flow %s", row[1])
+                continue
+            prop = data.flow_properties.get(row[2])
+            if prop is None:
+                log.error("invalid flow property %s", row[2])
+                continue
+            unit = data.units.get(row[3])
+            if unit is None:
+                log.error("invalid unit %s", row[3])
+                continue
+
+            loc_id = _opt(row[4])
+            location = data.locations.get(loc_id) if loc_id else None
+            factor = lca.ImpactFactor(
+                flow=_ref_of(flow),
+                flow_property=_ref_of(prop),
+                unit=lca.Ref(id=unit.id, name=unit.name, model_type="Unit"),
+                location=_ref_of(location) if location else None,
+            )
+            try:
+                factor.value = float(row[5])
+            except:
+                factor.formula = row[5]
+
+            if impact.impact_factors is None:
+                impact.impact_factors = [factor]
+            else:
+                impact.impact_factors.append(factor)
+
+
+def _impact_methods_into(data: RefData):
+
+    for row in _csv("lcia_methods.csv"):
+        method = lca.ImpactMethod()
+        ids = _fill_head(method, row)
+        for method_id in ids:
+            data.impact_methods[method_id] = method
+
+    for row in _csv("lcia_method_categories.csv"):
+        method = data.impact_methods.get(row[0])
+        if method is None:
+            log.error("invalid LCIA method %s", row[0])
+            continue
+        impact = data.impact_categories.get(row[1])
+        if impact is None:
+            log.error("incalid LCIA category %s", row[1])
+            continue
+        if method.impact_categories is None:
+            method.impact_categories = [_ref_of(impact)]
+        else:
+            method.impact_categories.append(_ref_of(impact))
+
+    for row in _csv("lcia_method_nw_sets.csv"):
+        method = data.impact_methods.get(row[0])
+        if method is None:
+            log.error("invalid LCIA method %s", row[0])
+            continue
+
+        nw_set: lca.NwSet | None = None
+        if method.nw_sets is None:
+            method.nw_sets = []
+        for nws in method.nw_sets:
+            if nws.id == row[1]:
+                nw_set = nws
+                break
+        if nw_set is None:
+            nw_set = lca.NwSet(
+                id=row[1],
+                name=row[2],
+                weighted_score_unit=_opt(row[6]),
+            )
+            method.nw_sets.append(nw_set)
+
+        impact = data.impact_categories.get(row[3])
+        if impact is None:
+            log.error("incalid LCIA category %s", row[3])
+            continue
+
+        factor = lca.NwFactor(
+            impact_category=_ref_of(impact),
+            normalisation_factor=_opt_num(row[4]),
+            weighting_factor=_opt_num(row[5]),
+        )
+        if nw_set.factors is None:
+            nw_set.factors = [factor]
+        else:
+            nw_set.factors.append(factor)
 
 
 def _flow_type_of(s: str) -> lca.FlowType | None:
@@ -210,8 +312,8 @@ def _fill_head(e: lca.RootEntity, row: list[str]) -> tuple[str, str]:
     return (e.id, e.name)
 
 
-def _csv(file: str) -> Iterable[list[str]]:
-    path = _ref_dir / file
+def _csv(file: str | Path) -> Iterable[list[str]]:
+    path = _ref_dir / file if isinstance(file, str) else file
     if not path.exists():
         return
     with open(path, "r", encoding="utf-8") as inp:
@@ -221,10 +323,19 @@ def _csv(file: str) -> Iterable[list[str]]:
             yield row
 
 
-def _opt(s: str) -> Optional[str]:
+def _opt(s: str) -> str | None:
     if s is None or s.strip() == "":
         return s
     return s
+
+
+def _opt_num(s: str) -> float | None:
+    if s is None or s.strip() == "":
+        return None
+    try:
+        return float(s)
+    except:
+        return None
 
 
 def _ref_of(entity: lca.RootEntity) -> lca.Ref:
