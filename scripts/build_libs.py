@@ -13,13 +13,32 @@ VERSION = "2.0.0"
 _BUILD_DIR = Path(__file__).parent.parent / "build"
 E = TypeVar("E", bound=lca.RootEntity)
 _UNITS = f"openLCA ref. units {VERSION}"
+_FLOWS = f"openLCA ref. flows {VERSION}"
 
 
 def main():
     if not _BUILD_DIR.exists():
         _BUILD_DIR.mkdir(parents=True)
+    _write_flow_lib()
 
-    data = model.RefData.read(model.RefDataSet.UNITS)
+def _write_flow_lib(data: model.RefData | None = None):
+    if data is None:
+        d = model.RefData.read(model.RefDataSet.FLOWS)
+    else:
+        d = data
+    _write_unit_lib(d)
+
+    flow_dir = _BUILD_DIR / "flows"
+    if flow_dir.exists():
+        shutil.rmtree(flow_dir)
+    flow_dir.mkdir()
+
+
+def _write_unit_lib(data: model.RefData | None = None):
+    if data is None:
+        d = model.RefData.read(model.RefDataSet.UNITS)
+    else:
+        d = data
 
     unit_dir = _BUILD_DIR / "units"
     if unit_dir.exists():
@@ -27,9 +46,9 @@ def main():
     unit_dir.mkdir()
 
     with zipio.ZipWriter(str(unit_dir / "meta.zip")) as z:
-        _write(z, data.unit_groups)
-        _write(z, data.flow_properties)
-        _write(z, data.currencies)
+        _write(z, d.unit_groups)
+        _write(z, d.flow_properties)
+        _write(z, d.currencies)
 
     with open(unit_dir / "library.json", "w", encoding="utf-8") as info:
         json.dump({"name": _UNITS}, info)
