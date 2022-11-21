@@ -86,12 +86,19 @@ def _units_into(data: RefData):
         ids = _fill_head(prop, row)
         for prop_id in ids:
             data.flow_properties[prop_id] = prop
-            group_def = groups.get(prop_id)
-            if group_def is not None:
-                (group, default_prop) = group_def
-                prop.unit_group = _ref_of(group)
-                if default_prop in (prop.id, prop.name):
-                    group.default_flow_property = _ref_of(prop)
+        prop_type = _opt(row[5])
+        if prop_type and prop_type.lower().startswith("e"):
+            prop.flow_property_type = lca.FlowPropertyType.ECONOMIC_QUANTITY
+        else:
+            prop.flow_property_type = lca.FlowPropertyType.PHYSICAL_QUANTITY
+        group_def = groups.get(row[4])
+        if group_def is None:
+            log.error("invalid unit group %s", row[4])
+            continue
+        (group, default_prop) = group_def
+        prop.unit_group = _ref_of(group)
+        if default_prop in ids:
+            group.default_flow_property = _ref_of(prop)
 
 
 def _currencies_into(data: RefData):
@@ -341,6 +348,6 @@ def _opt_num(s: str) -> float | None:
 def _ref_of(entity: lca.RootEntity) -> lca.Ref:
     return lca.Ref(
         model_type=entity.__class__.__name__,
-        id=entity.name,
+        id=entity.id,
         name=entity.name,
     )
