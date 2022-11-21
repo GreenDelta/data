@@ -1,2 +1,4 @@
-impact_data/
 build/
+venv/
+
+.vscode/
