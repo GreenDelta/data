@@ -5,67 +5,87 @@ import model
 import olca_schema as lca
 import olca_schema.zipio as zipio
 
+from dataclasses import dataclass
 from pathlib import Path
-from typing import TypeVar
+from typing import Any, Iterable, Self, TypeVar
 
 VERSION = "2.0.0"
 
-_BUILD_DIR = Path(__file__).parent.parent / "build"
 E = TypeVar("E", bound=lca.RootEntity)
-_UNITS = f"openLCA ref. units {VERSION}"
-_FLOWS = f"openLCA ref. flows {VERSION}"
+_LIB = Path(__file__).parent.parent / "build" / "libraries"
+
+
+@dataclass
+class LibDir:
+    path: Path
+
+    @property
+    def name(self) -> str:
+        return self.path.name
+
+    @staticmethod
+    def of(base_name: str, deps: list["LibDir"] = []) -> "LibDir":
+        full_name = f"{base_name}-{VERSION}"
+        path = _LIB / full_name
+        path.mkdir(exist_ok=True, parents=True)
+
+        # copy dependencies
+        if hasdeps := len(deps) > 0:
+            depdir = path / "dependencies"
+            depdir.mkdir(exist_ok=True)
+            for dep in deps:
+                shutil.copytree(dep.path, depdir / dep.name)
+
+        # create the library manifest
+        info: dict[str, Any] = {"name": full_name}
+        if hasdeps:
+            info["dependencies"] = [dep.name for dep in deps]
+        with open(path / "library.json", "w", encoding="utf-8") as out:
+            json.dump(info, out, indent="  ")
+
+        return LibDir(path)
+
+    def write(self, *seqs: Iterable[E]) -> Self:
+        with zipio.ZipWriter(str(self.path / "meta.zip")) as z:
+            for seq in seqs:
+                handled = set()
+                for e in seq:
+                    if e.id in handled:
+                        continue
+                    handled.add(e.id)
+                    z.write(e)
+        return self
+
+    def package(self) -> Self:
+        shutil.make_archive(str(_LIB / self.name), "zip", str(self.path))
+        return self
 
 
 def main():
-    if not _BUILD_DIR.exists():
-        _BUILD_DIR.mkdir(parents=True)
-    _write_flow_lib()
+    if _LIB.exists():
+        shutil.rmtree(str(_LIB))
+    _LIB.mkdir(parents=True)
 
-def _write_flow_lib(data: model.RefData | None = None):
-    if data is None:
-        d = model.RefData.read(model.RefDataSet.FLOWS)
-    else:
-        d = data
-    _write_unit_lib(d)
+    data = model.RefData.read(model.RefDataSet.FLOWS)
 
-    flow_dir = _BUILD_DIR / "flows"
-    if flow_dir.exists():
-        shutil.rmtree(flow_dir)
-    flow_dir.mkdir()
+    unit_lib = (
+        LibDir.of("openLCA-ref-units")
+        .write(
+            data.currencies.values(),
+            data.unit_groups.values(),
+            data.flow_properties.values(),
+        )
+        .package()
+    )
 
-
-def _write_unit_lib(data: model.RefData | None = None):
-    if data is None:
-        d = model.RefData.read(model.RefDataSet.UNITS)
-    else:
-        d = data
-
-    unit_dir = _BUILD_DIR / "units"
-    if unit_dir.exists():
-        shutil.rmtree(unit_dir)
-    unit_dir.mkdir()
-
-    with zipio.ZipWriter(str(unit_dir / "meta.zip")) as z:
-        _write(z, d.unit_groups)
-        _write(z, d.flow_properties)
-        _write(z, d.currencies)
-
-    with open(unit_dir / "library.json", "w", encoding="utf-8") as info:
-        json.dump({"name": _UNITS}, info)
-
-    unit_pack = _BUILD_DIR / _UNITS
-    if unit_pack.exists():
-        unit_pack.unlink()
-    shutil.make_archive(str(unit_pack), "zip", str(unit_dir))
-
-
-def _write(writer: zipio.ZipWriter, data: dict[str, E]):
-    handled = set()
-    for e in data.values():
-        if e.id in handled:
-            continue
-        handled.add(e.id)
-        writer.write(e)
+    flow_lib = (
+        LibDir.of("openLCA-ref-flows", deps=[unit_lib])
+        .write(
+            data.flows.values(),
+            data.locations.values(),
+        )
+        .package()
+    )
 
 
 if __name__ == "__main__":
