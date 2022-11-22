@@ -174,6 +174,7 @@ def _write_impact_idx(libdir: Path, idx: list[str], data: model.RefData):
                 continue
             record[2] = impact.name
             record[3] = impact.ref_unit
+            writer.writerow(record)
 
 
 def _write_flow_idx(libdir: Path, idx: list[str], data: model.RefData):
