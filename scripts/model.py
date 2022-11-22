@@ -4,7 +4,7 @@ import olca_schema as lca
 
 from enum import Enum
 from pathlib import Path
-from typing import Iterable, Optional
+from typing import Iterable
 
 _ref_dir = Path(__file__).parent.parent / "refdata"
 
