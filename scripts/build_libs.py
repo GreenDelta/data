@@ -102,6 +102,13 @@ def main():
         ],
     )
     _build_impact_matrix(impact_lib.path, data)
+    impacts = [i for i in data.impact_categories.values()]
+    for i in impacts:
+        i.impact_factors = None
+    impact_lib.write(
+        data.impact_methods.values(),
+        impacts,
+    ).package()
 
 
 def _build_impact_matrix(libdir: Path, data: model.RefData):
@@ -140,11 +147,33 @@ def _build_impact_matrix(libdir: Path, data: model.RefData):
     if k == 0 or m == 0:
         log.warning("no LCIA factors found")
         return
-
     log.info("write %ix%i matrix C with %i entries", k, m, len(vals))
     csc = sparse.coo_array((vals, (rows, cols)), shape=(k, m)).tocsc()
     sparse.save_npz(str(libdir / "C.npz"), csc)
     _write_flow_idx(libdir, _swap_idx(flow_idx), data)
+    _write_impact_idx(libdir, _swap_idx(impact_idx), data)
+
+
+def _write_impact_idx(libdir: Path, idx: list[str], data: model.RefData):
+    path = libdir / "index_C.csv"
+    log.info("write impact category index %s", path)
+    with open(path, "w", encoding="utf-8", newline="") as out:
+        writer = csv.writer(out)
+        writer.writerow(
+            [
+                "index",
+                "indicator ID",
+                "indicator name",
+                "indicator unit",
+            ]
+        )
+        for (i, impact_id) in enumerate(idx):
+            record = [i, impact_id, None, None]
+            impact = data.impact_categories.get(impact_id)
+            if impact is None:
+                continue
+            record[2] = impact.name
+            record[3] = impact.ref_unit
 
 
 def _write_flow_idx(libdir: Path, idx: list[str], data: model.RefData):
