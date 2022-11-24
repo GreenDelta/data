@@ -1,7 +1,7 @@
 LCIA category,Flow,Flow property,Flow unit,Location,Factor
-acb4082f-4da6-4c44-93b3-ef1d23eb54be,dc398ffd-a5a1-3803-9b09-fb9ea5304d18,Person transport,p*km,,5.2
-acb4082f-4da6-4c44-93b3-ef1d23eb54be,fc4dbb89-5363-37ee-bbac-7a8d0bf53426,Goods transport (mass*distance),t*km,,14.0
-acb4082f-4da6-4c44-93b3-ef1d23eb54be,c24e2dc2-b141-376b-b4da-5d3d3b35c768,Goods transport (mass*distance),t*km,,15.0
 acb4082f-4da6-4c44-93b3-ef1d23eb54be,307a17c2-6434-3cf4-9527-2bd1c2288f3e,Length,km,,210.0
 acb4082f-4da6-4c44-93b3-ef1d23eb54be,6fa59153-aeea-33db-89a5-dc8f2672908b,Length,km,,21.0
+acb4082f-4da6-4c44-93b3-ef1d23eb54be,c24e2dc2-b141-376b-b4da-5d3d3b35c768,Goods transport (mass*distance),t*km,,15.0
+acb4082f-4da6-4c44-93b3-ef1d23eb54be,dc398ffd-a5a1-3803-9b09-fb9ea5304d18,Person transport,p*km,,5.2
 acb4082f-4da6-4c44-93b3-ef1d23eb54be,e0a1cf01-4d3a-3333-bb55-33dafa357fd3,Person transport,p*km,,1.4
+acb4082f-4da6-4c44-93b3-ef1d23eb54be,fc4dbb89-5363-37ee-bbac-7a8d0bf53426,Goods transport (mass*distance),t*km,,14.0

@@ -109,36 +109,6 @@ Compatible with
 - OzLCI    
 
 Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
-b28b29e5-efb8-3964-8c40-08ad5ce4858a,Ecological Scarcity 2006 (Water Scarcity),"Method included in openLCA LCIA method package 2.1.3
-
-Compatible with   
-- ecoinvent v3.6, v3.7, v3.8
-- Eugeos   
-- Agribalyse v3  
-- Agrifootprint v5  
-- OzLCI    
-
-Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
-b06c6f15-21bc-4dad-a5a9-d399235a3b48,Ecological Scarcity 2013,"Method included in openLCA LCIA method package 2.1.3
-
-Compatible with   
-- ecoinvent v3.6, v3.7, v3.8
-- Eugeos   
-- Agribalyse v3  
-- Agrifootprint v5  
-- OzLCI    
-
-Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
-49beff5f-2ecb-3ce4-82f5-4003815edeaf,Ecosystem Damage Potential,"Method included in openLCA LCIA method package 2.1.3
-
-Compatible with   
-- ecoinvent v3.6, v3.7, v3.8
-- Eugeos   
-- Agribalyse v3  
-- Agrifootprint v5  
-- OzLCI    
-
-Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
 ae266ddc-ff35-3a5b-be2e-5a2021226227,EDIP 2003,"Method included in openLCA LCIA method package 2.1.3
 
 Compatible with   
@@ -179,16 +149,6 @@ Compatible with
 - OzLCI    
 
 Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
-27407857-2131-3ba5-883a-8ef69088d36a,Environmental Prices,"Method included in openLCA LCIA method package 2.1.3
-
-Compatible with   
-- ecoinvent v3.6, v3.7, v3.8
-- Eugeos   
-- Agribalyse v3  
-- Agrifootprint v5  
-- OzLCI    
-
-Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
 83812f2a-8272-3244-91a5-20ca745f0902,EPD (2018),"Method included in openLCA LCIA method package 2.1.3
 
 Compatible with   
@@ -210,6 +170,46 @@ Compatible with
 
 Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
 aa52ffdd-fd6a-3c50-a10d-dbcb1ba207b2,EPS 2015dx,"Method included in openLCA LCIA method package 2.1.3
+
+Compatible with   
+- ecoinvent v3.6, v3.7, v3.8
+- Eugeos   
+- Agribalyse v3  
+- Agrifootprint v5  
+- OzLCI    
+
+Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
+b28b29e5-efb8-3964-8c40-08ad5ce4858a,Ecological Scarcity 2006 (Water Scarcity),"Method included in openLCA LCIA method package 2.1.3
+
+Compatible with   
+- ecoinvent v3.6, v3.7, v3.8
+- Eugeos   
+- Agribalyse v3  
+- Agrifootprint v5  
+- OzLCI    
+
+Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
+b06c6f15-21bc-4dad-a5a9-d399235a3b48,Ecological Scarcity 2013,"Method included in openLCA LCIA method package 2.1.3
+
+Compatible with   
+- ecoinvent v3.6, v3.7, v3.8
+- Eugeos   
+- Agribalyse v3  
+- Agrifootprint v5  
+- OzLCI    
+
+Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
+49beff5f-2ecb-3ce4-82f5-4003815edeaf,Ecosystem Damage Potential,"Method included in openLCA LCIA method package 2.1.3
+
+Compatible with   
+- ecoinvent v3.6, v3.7, v3.8
+- Eugeos   
+- Agribalyse v3  
+- Agrifootprint v5  
+- OzLCI    
+
+Method checked against SimaPro 9.1.0.7 (before inclusion of ecoinvent 3.8 flows and characterization factors)",openLCA LCIA methods 2_1_4
+27407857-2131-3ba5-883a-8ef69088d36a,Environmental Prices,"Method included in openLCA LCIA method package 2.1.3
 
 Compatible with   
 - ecoinvent v3.6, v3.7, v3.8

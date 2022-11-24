@@ -1,9 +1,9 @@
 LCIA category,Flow,Flow property,Flow unit,Location,Factor
 388e9af0-004b-33fb-bf91-90dded0001cc,47ede456-cb14-44fd-bc8e-01cb1bee4af1,Mass,kg,,0.01
-388e9af0-004b-33fb-bf91-90dded0001cc,c0dd7ccd-9e7a-42b3-b899-dfd18c2150ca,Energy,MJ,,1.0
-388e9af0-004b-33fb-bf91-90dded0001cc,d340bcfb-77bb-34f2-8052-b598a2cdf17e,Mass,kg,,0.01
-388e9af0-004b-33fb-bf91-90dded0001cc,c3ae56cd-b714-330e-a5f5-bfba53fd3b06,Energy,MJ,,1.0
-388e9af0-004b-33fb-bf91-90dded0001cc,b281f40a-9bd2-3973-b92d-a03734b4a506,Energy,MJ,,1.0
-388e9af0-004b-33fb-bf91-90dded0001cc,c69c1aac-2cd0-4bcf-8c98-434ef19d3a88,Energy,MJ,,1.0
-388e9af0-004b-33fb-bf91-90dded0001cc,75625969-b305-3a79-a8cb-b69adf1ce153,Energy,MJ,,1.0
 388e9af0-004b-33fb-bf91-90dded0001cc,62c6f0b4-0d4c-35ff-8233-b422f1312961,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,75625969-b305-3a79-a8cb-b69adf1ce153,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,b281f40a-9bd2-3973-b92d-a03734b4a506,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,c0dd7ccd-9e7a-42b3-b899-dfd18c2150ca,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,c3ae56cd-b714-330e-a5f5-bfba53fd3b06,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,c69c1aac-2cd0-4bcf-8c98-434ef19d3a88,Energy,MJ,,1.0
+388e9af0-004b-33fb-bf91-90dded0001cc,d340bcfb-77bb-34f2-8052-b598a2cdf17e,Mass,kg,,0.01

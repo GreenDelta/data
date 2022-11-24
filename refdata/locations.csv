@@ -1,7 +1,7 @@
 ID,Name,Description,Category,Code,Latitude,Longitude
+af92823f-638d-36d7-8406-451a58f61543,"AI producing Area 2, North America, without Quebec","reference location, sources:  ecoinvent 3",,"IAI Area 2, without Quebec",55.96,-91.69
 f0357a3f-154b-32ff-a2bf-f55055457068,Afghanistan,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,AF,33.67,65.21
 0d0ac1d0-76ad-307d-8b0e-05f06c746da9,Africa,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,RAF,6.41,18.28
-af92823f-638d-36d7-8406-451a58f61543,"AI producing Area 2, North America, without Quebec","reference location, sources:  ecoinvent 3",,"IAI Area 2, without Quebec",55.96,-91.69
 9ebe579b-1c4d-361f-97a7-4d7f59fcb7a6,Akrotiri Sovereign Base Area,"reference location, sources:  ecoinvent 3.2",,Akrotiri,34.63,32.93
 31c68c64-6657-3dcc-bc06-2d977c76315b,"Al producing Area 1, Africa","reference location, sources:  ecoinvent 3",,IAI Area 1,-2.34,22.31
 cf7ec575-43e5-3274-8c54-1e9ec72461bd,"Al producing Area 2, North America","reference location, sources:  ecoinvent 3",,"Al producing Area 2, North America",55.13,-103.95
@@ -79,9 +79,9 @@ de3ec0aa-2234-3a1e-bee2-75bbc715c6c9,Cape Verde,"reference location, sources: IS
 9e854e58-6592-3fe3-961f-e89d56220808,Cayman Islands,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,KY,19.31,-81.19
 4e29342d-9904-364e-9e25-fd3b92558e2f,Central African Republic,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,CF,6.57,20.48
 41f3dc5d-9734-339d-86ad-47fe2970dfe0,Central America,"reference location, sources:  ecoinvent 3",,UN-CAMERICA,21.8,-99.25
-8b6ba8a9-5220-3f57-8627-6e64a0f1cb40,Central and Eastern Europe,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,EEU,0.0,0.0
 f60425bb-5d9d-361c-8365-b042007676c0,Central Asia,"reference location, sources:  ecoinvent 3",,Central Asia,45.91,66.48
 35c302ef-c91c-31e9-a4e6-490bbe01a06f,Central European Power Association,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,CENTREL,50.67,18.82
+8b6ba8a9-5220-3f57-8627-6e64a0f1cb40,Central and Eastern Europe,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,EEU,0.0,0.0
 f114427f-29d0-3a63-9781-f1cc950e138e,Centrally Planned Asia and China,"reference location, sources:  ILCD, GaBi",,CPA,0.0,0.0
 626726e6-0bd1-315f-b671-9a308a25b798,Chad,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,TD,15.36,18.66
 161747ec-4dc9-355f-9760-195593742232,Chile,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,CL,-23.38,-69.43
@@ -142,17 +142,6 @@ b40feb9f-0afa-3eab-9c03-5085ecbbb908,Cyprus No Mans Area,"reference location, so
 64ca6097-2a6e-3926-91c4-b9d31080c687,Djibouti,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,DJ,11.9,42.51
 608e7dc1-16de-3157-b060-12b4f0be82ac,Dominica,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,DM,15.47,-61.35
 d4579b26-88d6-3523-9f40-2f6b4b43bcbf,Dominican Republic,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,DO,19.01,-70.72
-e110324f-3d3c-3394-a6f8-f87e742dcaa4,Eastern Africa,"reference location, sources:  ecoinvent 3",,UN-EAFRICA,-5.5,37.09
-95b09ece-0ccc-3fa4-89f0-ef29d63c6dbe,Eastern Asia,"reference location, sources:  ecoinvent 3",,UN-EASIA,38.21,105.25
-db28a51a-61d7-3b0b-bb5c-a1c0a25db72e,Eastern Europe,"reference location, sources:  ecoinvent 3",,UN-EEUROPE,60.98,92.13
-2f53e6f3-f2ac-3041-a4e0-737e58c45321,Ecuador,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EC,-1.38,-78.49
-2a6a84e9-e444-31af-bd75-cc19ce28be37,Egypt,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EG,26.49,29.87
-74354112-1c12-3113-af80-7d1582c74bea,El Salvador,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,SV,13.73,-88.86
-679f547e-8973-3198-9562-f49522f5f5ac,Electric Reliability Council of Texas,"reference location, sources: DataSmart",,ERCOT,31.1,-97.64
-b84a1ed8-db3d-3bf3-b8f4-9becdea153b2,Equatorial Guinea,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,GQ,1.6,10.48
-818f9c45-cfa3-3eef-b277-ef38bcbe9910,Eritrea,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,ER,16.04,38.21
-08a4415e-9d59-3ff9-a003-0b921d42b91e,Estonia,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EE,58.67,25.79
-4de1b7a4-dc53-34a8-8c25-ffb7cdb580ee,Ethiopia,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,ET,8.62,39.61
 c1717bc2-161f-3b18-90d6-80e24878d689,EU 15,"reference location, sources:  ILCD, GaBi",,EU-15,50.0,4.66
 80e68c50-5cf3-3f11-b809-f8cfbd9a4b17,EU 25 plus candidate countries 2005,"reference location, sources:  ILCD, GaBi",,EU-25&CC,49.0,14.51
 d5ef8373-2ea8-3c9b-9fb5-4f8cb68a9714,EU 25 plus candidate countries 2005 plus associated countries 2005,"reference location, sources:  ILCD, GaBi",,EU-25&CC&AC,0.0,0.0
@@ -165,6 +154,17 @@ b3c26978-fa5b-3e96-998d-3d5eb0cce441,EU associated countries 2007,"reference loc
 1981f919-7ad2-31d5-8748-b520285f6323,EU new member countries 2004,"reference location, sources:  ILCD, GaBi",,EU-NMC,48.7,20.95
 70262596-fdf2-327d-b787-12fb738a9270,EU-25,"reference location, sources:  ILCD, GaBi",,EU-25,50.52,7.59
 5c7f219e-57db-3579-a019-27fb8995651b,EU-27,"reference location, sources:  ILCD, GaBi",,EU-27,50.17,9.15
+e110324f-3d3c-3394-a6f8-f87e742dcaa4,Eastern Africa,"reference location, sources:  ecoinvent 3",,UN-EAFRICA,-5.5,37.09
+95b09ece-0ccc-3fa4-89f0-ef29d63c6dbe,Eastern Asia,"reference location, sources:  ecoinvent 3",,UN-EASIA,38.21,105.25
+db28a51a-61d7-3b0b-bb5c-a1c0a25db72e,Eastern Europe,"reference location, sources:  ecoinvent 3",,UN-EEUROPE,60.98,92.13
+2f53e6f3-f2ac-3041-a4e0-737e58c45321,Ecuador,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EC,-1.38,-78.49
+2a6a84e9-e444-31af-bd75-cc19ce28be37,Egypt,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EG,26.49,29.87
+74354112-1c12-3113-af80-7d1582c74bea,El Salvador,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,SV,13.73,-88.86
+679f547e-8973-3198-9562-f49522f5f5ac,Electric Reliability Council of Texas,"reference location, sources: DataSmart",,ERCOT,31.1,-97.64
+b84a1ed8-db3d-3bf3-b8f4-9becdea153b2,Equatorial Guinea,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,GQ,1.6,10.48
+818f9c45-cfa3-3eef-b277-ef38bcbe9910,Eritrea,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,ER,16.04,38.21
+08a4415e-9d59-3ff9-a003-0b921d42b91e,Estonia,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,EE,58.67,25.79
+4de1b7a4-dc53-34a8-8c25-ffb7cdb580ee,Ethiopia,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,ET,8.62,39.61
 d66c264e-1dbd-33e6-911d-3ffc70908e8e,Europe,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,RER,54.75,15.24
 c93762d2-a7a3-335c-81c2-fa0be65506df,Europe with NORDEL (NCPA),"reference location, sources:  ecoinvent 3",,Europe with NORDEL (NCPA),54.06,29.67
 06e2458b-3178-3438-b3f4-84051244c27d,"Europe without Austria, Belgium, France, Germany, Italy, Liechtenstein, Monaco, San Marino, Switzerland, and the Vatican","reference location, sources:  ecoinvent 3.2",,RER w/o AT+BE+CH+DE+FR+IT,56.97,30.73
@@ -200,9 +200,9 @@ d2a460df-08a4-3b7a-958f-635b540d90cb,Guam,"reference location, sources: ISO 3166
 5123dd8b-087b-344f-9b8f-8603acd1bad4,Guinea,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,GN,10.43,-10.94
 3f071f4f-163d-3855-9f4f-c1544c7f69a6,Guinea-Bissau,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,GW,12.12,-14.65
 5e08be98-8691-354c-937b-997b4cb6ad97,Guyana,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,GY,4.79,-58.97
+add33b5c-114e-39e1-8996-ebe46366c661,HICC,"reference location, sources:  ecoinvent 3",,HICC,20.25,-156.35
 eb5e48e7-4123-3acc-9276-1302ea4a7d22,Haiti,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,HT,19.14,-72.27
 2ab5564b-805d-3065-b4bc-f81060472746,Heard Island and McDonald Islands,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,HM,-53.11,73.5
-add33b5c-114e-39e1-8996-ebe46366c661,HICC,"reference location, sources:  ecoinvent 3",,HICC,20.25,-156.35
 43b1cc1d-b7be-33d8-99dd-4280f578691a,Holy See (Vatican City State),"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,VA,41.9,12.45
 59ca4f8b-bb97-33c2-ab59-db115fcdb664,Honduras,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,HN,14.81,-86.86
 ae417185-6a75-37b6-bd51-fc0e1f95902e,Hong Kong,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,HK,22.42,114.12
@@ -324,6 +324,7 @@ f1965a85-7bc2-35d2-afe2-2023aa5ab50d,Rest-of-World,"reference location, sources:
 89484b14-b36a-3d53-a942-6a3d944d2983,Russian Federation,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,RU,61.84,97.03
 038c0dc8-a958-3fea-97af-047244fb6960,Rwanda,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,RW,-1.99,29.91
 12eccbdd-9b32-3181-b134-1f38907cbbb5,Réunion,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,RE,-21.12,55.53
+44193271-0d3b-309d-b869-820f52c4c6db,SERC Reliability Corporation,"reference location, sources:  ecoinvent 3",,SERC,34.99,-86.47
 fd18772c-bac1-3277-b20d-cccc1b90efb9,Saint Barthélemy,"reference location, sources: ISO 3166-1, ecoinvent 3",,BL,18.04,-63.04
 77cbc257-e663-3286-acf6-191754c0c8e3,"Saint Helena, Ascension and Tristan da Cunha","reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,SH,-15.95,-5.71
 8c7e6965-b416-3689-a88b-313bbe7450f9,Saint Kitts and Nevis,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,KN,17.34,-62.76
@@ -340,7 +341,6 @@ d0ea3a63-8908-3b86-a4f9-10b6170de942,Scarborough Reef,"reference location, sourc
 afbe94cd-be69-393e-babc-9f1325fc7dff,Senegal,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,SN,15.01,-14.88
 3a2d7564-baee-3918-aebc-7b65084aabd1,Serbia,"reference location, sources: ISO 3166-1, ecoinvent 3",,RS,44.03,20.8
 95cc64dd-2825-39df-93ec-4ad683ecf339,Serbia and Montenegro,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,CS,43.86,20.59
-44193271-0d3b-309d-b869-820f52c4c6db,SERC Reliability Corporation,"reference location, sources:  ecoinvent 3",,SERC,34.99,-86.47
 cc9dabdf-852c-3698-ae98-b3d1d8b1c324,Serranilla Bank,"reference location, sources:  ecoinvent 3.2",,Serranilla Bank,15.86,-78.63
 d54185b7-1f61-3c30-a396-ac4bc44d3269,Seychelles,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,SC,-4.64,55.47
 5f507fb0-b905-3a32-bb57-967d0a3b3b43,Siachen Glacier,"reference location, sources:  ecoinvent 3.2",,Siachen Glacier,35.39,77.17
@@ -393,6 +393,7 @@ c9a1fdac-6e08-3dd8-9e71-73244f34d7b3,Tuvalu,"reference location, sources: ISO 31
 e743b51e-41f8-3369-9418-34177c8f34e7,UCTE without France,"reference location, sources:  ecoinvent 3",,UCTE without France,46.03,12.52
 cdba052d-e53c-3173-b857-3d555fad2c16,UCTE without Germany,"reference location, sources:  ecoinvent 3",,UCTE without Germany,45.45,10.92
 8dc6a685-44c9-3a1c-b937-78a6de2d9830,UCTE without Germany and France,"reference location, sources:  ecoinvent 3",,UCTE without Germany and France,45.18,12.88
+aae773f6-9106-3fd9-95d0-c38764e6dccd,US Naval Base Guantanamo Bay,"reference location, sources:  ecoinvent 3.2",,Guantanamo Bay,19.92,-75.15
 2a0617ac-cf8b-3862-9c43-e2ffeb5b8d5b,Uganda,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,UG,1.28,32.38
 5269f4d7-5f5b-375f-8f94-bab2100a5531,Ukraine,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,UA,49.01,31.38
 b633c174-f67b-3819-a2a4-ef89f2d5b8cb,Union for the Co-ordination of Transmission of Electricity,"reference location, sources:  ecoinvent 3, ILCD, GaBi",,UCTE,46.09,10.8
@@ -452,7 +453,6 @@ a8ce62fb-3610-311c-8af0-a8bf4942f5a0,"United States, West Virginia","reference l
 38af12ff-e146-3293-a429-6ddf9c28b806,"United States, Wisconsin","reference location, sources: USDA, DataSmart",,US-WI,44.25,-89.63
 373367f9-6d69-3917-ac7a-b9b523b4f30f,"United States, Wyoming","reference location, sources: DataSmart",,US-WY,42.74,-107.2
 1b23f8a4-c97c-355f-b57e-c2aae921f03d,Uruguay,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,UY,-32.8,-56.01
-aae773f6-9106-3fd9-95d0-c38764e6dccd,US Naval Base Guantanamo Bay,"reference location, sources:  ecoinvent 3.2",,Guantanamo Bay,19.92,-75.15
 8b3274b7-55aa-3339-82f5-7fb557e25923,Uzbekistan,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,UZ,41.75,63.17
 0730b75e-96c0-353b-9b19-6be7ff4fa194,Vanuatu,"reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,VU,-15.37,166.89
 eabb18f0-a40c-3b35-9237-0c9e1bc1d61e,"Venezuela, Bolivarian Republic of","reference location, sources: ISO 3166-1, ecoinvent 3, ILCD, GaBi",,VE,7.12,-66.16
