@@ -12,7 +12,7 @@ from scipy import sparse
 from olca_schema import zipio
 
 
-VERSION = "2.0.0"
+VERSION = "2.0.0.alpha"
 
 E = TypeVar("E", bound=lca.RootEntity)
 _LIB = Path(__file__).parent.parent / "build" / "libraries"
@@ -64,7 +64,8 @@ class LibDir:
 
     def package(self) -> Self:
         log.info("package library %s", self.name)
-        shutil.make_archive(str(_LIB / self.name), "zip", str(self.path))
+        pack = f"{self.name}_lib"
+        shutil.make_archive(str(_LIB / pack), "zip", str(self.path))
         return self
 
 
