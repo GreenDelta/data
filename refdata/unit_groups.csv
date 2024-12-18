@@ -1,28 +1,21 @@
 ID,Name,Description,Category,Default flow property,Reference unit
 93a60a57-a3c8-18da-a746-0800200c9a66,Units of area,,Technical unit groups,Area,m2
-93a60a57-a3c8-20da-a746-0800200c9a66,Units of area*time,,Technical unit groups,Area*time,m2*a
-da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,"Market value, bulk prices",EUR 2000
+93a60a57-a3c8-20da-a746-0800200c9a66,Units of area*time,,Technical unit groups,Area*Time,m2*a
+da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,Market value,USD
 93a60a57-a3c8-11da-a746-0800200c9a66,Units of energy,,Technical unit groups,Energy,MJ
-876adcd3-29e6-44e2-acdd-11be304ae654,Units of energy/area*time,,Technical unit groups,Energy/area*time,kWh/m2*d
-258d6abd-14f2-4484-956c-c88e8f6fd8ed,Units of energy/mass*time,,Technical unit groups,Energy/mass*time,MJ/kg*d
-9e5a91be-b3d1-4268-8e7d-e5e93f6a75d4,Units of groundwater replenishment (transf.),,Technical unit groups,Groundwater Replenishment (Transf.),(mm*m2)/a
-5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of items,,Technical unit groups,Number of items,Item(s)
-5454b231-270e-45e6-89b2-7f4f3e482245,Units of items*length,,Technical unit groups,Items*Length,Items*km
 838aaa22-0117-11db-92e3-0800200c9a66,Units of length,,Technical unit groups,Length,m
-36932b14-ba61-417b-a80c-eb9935d193f1,Units of length*area,,Technical unit groups,Groundwater Replenishment (Occ.),mm*m2
-f2275057-f8be-4db9-bb78-5dfc276967a0,Units of length*area/time,,Technical unit groups,Mechanical Filtration (Transf.),cm*m2/d
-326eb58b-e5b3-4cea-b45a-2398c25109f8,Units of length*time,,Technical unit groups,Length*time,m*a
+326eb58b-e5b3-4cea-b45a-2398c25109f8,Units of length*time,,Technical unit groups,Length*Time,km*a
 93a60a57-a4c8-11da-a746-0800200c9a66,Units of mass,,Technical unit groups,Mass,kg
-838aaa21-0117-11db-92e3-0800200c9a66,Units of mass*length,,Technical unit groups,Goods transport (mass*distance),t*km
-59f191d6-5dd3-4553-af88-1a32accfe308,Units of mass*time,,Technical unit groups,Mass*time,kg*a
-c28831de-8759-43da-98bd-05617cb1722d,Units of mass/time,,Technical unit groups,Biotic Production (Transf.),kg/a
-59f6a0a2-731f-41c3-86df-d383dc673dfe,Units of mechanical filtration (occ.),,Technical unit groups,Mechanical Filtration (Occ.),cm*m3
-a6941776-ee4b-40fe-9a05-e19faac45240,Units of mole*area*time/mass,,Technical unit groups,Physicochemical Filtration (Occ.),(cmol*m2*a)/kg
-3dbb60e1-edde-49f7-b28d-f34b4af727b3,Units of mole*area/mass,,Technical unit groups,Physicochemical Filtration (Transf.),(cmol*m2)/kg
-11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,Units of person transport,,Technical unit groups,Person transport,p*km
+838aaa21-0117-11db-92e3-0800200c9a66,Units of mass*length,,Technical unit groups,Mass transport,t*km
+59f191d6-5dd3-4553-af88-1a32accfe308,Units of mass*time,,Technical unit groups,Mass*Time,kg*d
+f170abd3-f010-45f4-8e7c-9871a5c0421b,Units of mole,,Technical unit groups,Mole,mol
+5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of number,,Technical unit groups,Number,Item(s)
+5454b231-270e-45e6-89b2-7f4f3e482245,Units of number*length,,Technical unit groups,Item transport,Items*km
+11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,Units of person*length,,Technical unit groups,Person transport,p*km
+4a4f6060-85a7-3ad8-961b-00844a2dfa96,Units of person*time,,Technical unit groups,Guest night,guest night
+d2779afe-bb00-48fe-9533-63cd0b3048dc,Units of power,,Technical unit groups,Power,W
 93a60a57-a3c8-16da-a746-0800200c9a66,Units of radioactivity,,Technical unit groups,Radioactivity,kBq
-af638906-3ec7-4314-8de7-f76039f2dd01,Units of time,,Technical unit groups,Duration,d
-af16ae7e-3e04-408a-b8ae-5b3666dbe7f9,Units of vehicle transport,,Technical unit groups,Vehicle transport,v*km
+af638906-3ec7-4314-8de7-f76039f2dd01,Units of time,,Technical unit groups,Time,h
 93a60a57-a3c8-12da-a746-0800200c9a66,Units of volume,,Technical unit groups,Volume,m3
-ff8ed45d-bbfb-4531-8c7b-9b95e52bd41d,Units of volume*length,,Technical unit groups,Volume*Length,m3*km
-93a60a57-a3c8-23da-a746-0800200c9a66,Units of volume*time,,Technical unit groups,Volume*time,m3*a
+ff8ed45d-bbfb-4531-8c7b-9b95e52bd41d,Units of volume*length,,Technical unit groups,Volume transport,m3*km
+93a60a57-a3c8-23da-a746-0800200c9a66,Units of volume*time,,Technical unit groups,Volume*Time,m3*a
