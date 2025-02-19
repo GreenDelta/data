@@ -9,6 +9,7 @@ da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,Mar
 838aaa21-0117-11db-92e3-0800200c9a66,Units of mass*length,,Technical unit groups,Mass transport,t*km
 59f191d6-5dd3-4553-af88-1a32accfe308,Units of mass*time,,Technical unit groups,Mass*Time,kg*d
 f170abd3-f010-45f4-8e7c-9871a5c0421b,Units of mole,,Technical unit groups,Mole,mol
+38313d60-bd1d-4cec-820e-1d5754e63f5d,Units of mole/mass,Reference Unit Group Data Set of the International Reference Life Cycle Data System (ILCD).,Technical unit groups,,g/mole
 5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of number,,Technical unit groups,Number,Item(s)
 5454b231-270e-45e6-89b2-7f4f3e482245,Units of number*length,,Technical unit groups,Item transport,Items*km
 11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,Units of person*length,,Technical unit groups,Person transport,p*km
