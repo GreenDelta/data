@@ -80,8 +80,8 @@ e1317ffc-7f83-4a85-bc65-4fb229a25cf8,g,Gram,0.001,,Units of mass
 e720c842-19f5-4a38-8573-78dd13719f5b,kt,Kilotonne,1000000.0,,Units of mass
 0300ec69-ce1a-45f0-bcf0-7b33845dc53e,lb av,British pound (Avoirdupois),0.45359237,lb,Units of mass
 e5ccc940-eb40-41f9-847e-5ee691ba8c2f,long tn,Long ton,1016.047,tn.lg,Units of mass
-b872a063-0500-42b7-9e5d-441642d84417,mg,Milligram,1.0E-6,,Units of mass
 d022bf34-1162-4579-90ab-dcca9620ce54,Mg,Megagram,1000.0,,Units of mass
+b872a063-0500-42b7-9e5d-441642d84417,mg,Milligram,1.0E-6,,Units of mass
 9dd23b40-4394-4f9a-9572-5f2ee9643864,Mt,Megatonne,1.0E9,Mtn,Units of mass
 63214902-17d4-41a0-be10-d1cad375c32e,ng,Nanogram,1.0E-12,,Units of mass
 fa44e424-f37b-419d-8475-723429d63c08,oz av,Ounce (Avoirdupois),0.028349523125,oz,Units of mass
@@ -102,8 +102,10 @@ b2ad404c-3e4f-4a7a-a604-46fb36654823,kg*a,Kilogram times year,365.0,kgy,Units of
 ab01fe47-d2c0-4308-adb1-e32df38d5a50,kg*d,Kilogram times day,1.0,kg*day,Units of mass*time
 23cc7a32-f08a-43df-a87c-66953eeeb3f5,t*a,Metric tonne times year,365000.0,,Units of mass*time
 5209be3d-094e-4203-a074-06d7b75e9a38,t*d,Metric tonne times day,1000.0,,Units of mass*time
-653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,,0.01,,Units of mole
-807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,,1.0,,Units of mole
+653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of mole
+807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of mole
+e09483a9-93a2-455e-bdcf-8d27a08076b5,g/mole,Gram per mole,1.0,,Units of mole/mass
+451c3176-d454-466e-9a0d-e3c0891a76f9,kg/mole,Kilogram per mole,1000.0,,Units of mole/mass
 3bd6c6c3-bb61-46f3-b19a-c87ac5502bb7,Dozen(s),Dozen(s) of items,12.0,dozen,Units of number
 6dabe201-aaac-4509-92f0-d00c26cb72ab,Item(s),Number of items,1.0,unit;LU;pig place;p;item,Units of number
 2abb86b6-e71b-4de5-a766-a20e80e59b6d,Items*km,Item times kilometre,1.0,,Units of number*length

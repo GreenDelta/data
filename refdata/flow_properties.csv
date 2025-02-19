@@ -2,6 +2,7 @@ ID,Name,Description,Category,Unit group,Property type
 93a60a56-a3c8-19da-a746-0800200c9a66,Area,,Technical flow properties,Units of area,physical
 93a60a56-a3c8-21da-a746-0800200c9a66,Area*Time,,Technical flow properties,Units of area*time,physical
 f6811440-ee37-11de-8a39-0800200c9a66,Energy,,Technical flow properties,Units of energy,physical
+93a60a56-a3c8-14da-a746-0800200c9a66,Gross calorific value,,Technical flow properties,Units of energy,physical
 e406dc2a-a672-319e-a9b8-87d4cdd8593a,Guest night,,Technical flow properties,Units of person*time,physical
 0ddc622a-bc4a-4cf8-a551-9e112864b77f,Item transport,,Technical flow properties,Units of number*length,physical
 838aaa23-0117-11db-92e3-0800200c9a66,Length,,Technical flow properties,Units of length,physical
@@ -10,7 +11,9 @@ fdfecf14-ff8a-4e17-b2b2-f938c4b5cc27,Market value,,Economic flow properties,Unit
 93a60a56-a3c8-11da-a746-0800200b9a66,Mass,,Technical flow properties,Units of mass,physical
 838aaa20-0117-11db-92e3-0800200c9a66,Mass transport,,Technical flow properties,Units of mass*length,physical
 4e10f566-0358-489a-8e3a-d687b66c50e6,Mass*Time,,Technical flow properties,Units of mass*time,physical
+d9c17bb1-8d2b-4d0f-9258-daaedd178eed,Molar mass,,Technical flow properties,Units of mole/mass,physical
 341fd786-b2ad-4552-a762-5eafcab45dee,Mole,,Technical flow properties,Units of mole,physical
+93a60a56-a3c8-11da-a746-0800200c9a66,Net calorific value,,Technical flow properties,Units of energy,physical
 01846770-4cfe-4a25-8ad9-919d8d378345,Number,,Technical flow properties,Units of number,physical
 8766e10f-9f41-4db0-8173-ad0d002a5b98,Person transport,,Technical flow properties,Units of person*length,physical
 ca160e10-b3f9-4458-9077-0d15b8b31ae5,Power,,Technical flow properties,Units of power,physical
