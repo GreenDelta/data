@@ -1,6 +1,6 @@
 ID,Name,Description,Category,Code,Latitude,Longitude
 f0357a3f-154b-32ff-a2bf-f55055457068,Afghanistan,,Country,AF,33.83,66.0
-0d0ac1d0-76ad-307d-8b0e-05f06c746da9,Africa,,Global/UN,RAF,6.42,18.28
+0d0ac1d0-76ad-307d-8b0e-05f06c746da9,Africa,,Global/Custom,RAF,6.42,18.28
 9ebe579b-1c4d-361f-97a7-4d7f59fcb7a6,Akrotiri Sovereign Base Area,,Miscellaneous,ASBA,34.63,32.93
 97282b27-8e5d-3186-af8e-57204e4820e5,Albania,,Country,AL,41.14,20.05
 0de7b6a6-1a70-388b-a6e6-eeb3113531a3,Algeria,,Country,DZ,28.14,2.65
@@ -15,7 +15,7 @@ c582dec9-43ff-3b74-baa0-691df291cea6,Argentina,,Country,AR,-35.37,-65.17
 c04cd38a-eb30-33ad-9f8a-b4e64a0ded7b,Armenia,,Country,AM,40.28,44.93
 b787d22d-9cb0-3342-a58b-f546039117bc,Aruba,,Country,AW,12.51,-69.97
 1c280670-4821-3d48-b168-efc6d6685406,Asia,,Global/Custom,RAS,45.29,95.75
-9331c8d7-3b48-3a8f-a4a8-2ea976840ba9,Asia without China,,Cutout,RAS_wo_CN,47.17,94.01
+9331c8d7-3b48-3a8f-a4a8-2ea976840ba9,Asia without China,,Cutout,RAS without CN,47.17,94.01
 e39deabc-78c0-37a0-a5dd-30a225aa9eec,"Asia, UN Region",,Global/UN,UN-ASIA,32.21,84.6
 8bcc25c9-6aa5-371f-ba76-309077753e67,Australia,,Country,AU,-25.73,134.49
 05b093bc-7b17-3c30-a09d-1c41f13e009a,Australia and New Zealand,,Global/UN,UN-AUSTRALIANZ,-26.37,135.97
@@ -62,10 +62,10 @@ c65371a5-fd9a-4ca9-ae24-c4fde6615445,"Brazil, Distrito Federal",,Subdivision/Bra
 6eaa35ce-47d2-4c3d-9079-12adc7ffb375,"Brazil, Maranhao",,Subdivision/Brazil,BR-MA,-5.09,-45.28
 64441fa1-0151-47ac-b97a-1fd886b90cae,"Brazil, Mato Grosso",,Subdivision/Brazil,BR-MT,-12.96,-55.92
 23baa40a-53e2-4d6c-a61e-a412c2b7aaae,"Brazil, Mato Grosso do Sul",,Subdivision/Brazil,BR-MS,-20.33,-54.84
-6e1c02cc-e7fc-4e63-a30e-59cfa5c4d9c1,"Brazil, Mid-western grid",,Electricity/Brazil,BR-Mid-western grid,-15.3,-54.3
+6e1c02cc-e7fc-4e63-a30e-59cfa5c4d9c1,"Brazil, Mid-western grid",,Electricity/Brazil,BR-MW-GRID,-15.3,-54.3
 00e9e1a4-0cf8-4f07-8bad-fd782ed54382,"Brazil, Minas Gerais",,Subdivision/Brazil,BR-MG,-18.45,-44.67
-3ece4ff8-55ae-40b2-baea-0d2bf2034fbf,"Brazil, North-eastern grid",,Electricity/Brazil,BR-North-eastern grid,-8.63,-41.72
-572aa631-8a25-4c16-b437-2ee0672c450d,"Brazil, Northern grid",,Electricity/Brazil,BR-Northern grid,-4.63,-59.25
+3ece4ff8-55ae-40b2-baea-0d2bf2034fbf,"Brazil, North-eastern grid",,Electricity/Brazil,BR-NE-GRID,-8.63,-41.72
+572aa631-8a25-4c16-b437-2ee0672c450d,"Brazil, Northern grid",,Electricity/Brazil,BR-N-GRID,-4.63,-59.25
 9a205fd8-72f3-423f-b3a7-6b805aaee30b,"Brazil, Para",,Subdivision/Brazil,BR-PA,-4.04,-53.13
 717c6f47-2eda-4d1b-8277-83f634ea7c23,"Brazil, Paraiba",,Subdivision/Brazil,BR-PB,-7.11,-36.82
 3b2c2140-c25c-47c5-876d-78e5dc82f066,"Brazil, Parana",,Subdivision/Brazil,BR-PR,-24.63,-51.63
@@ -79,9 +79,9 @@ d9497730-f613-4d31-aab2-1d82add2d1bc,"Brazil, Rondonia",,Subdivision/Brazil,BR-R
 4645f771-3596-4c42-ba0f-822d1ce2fb72,"Brazil, Santa Catarina",,Subdivision/Brazil,BR-SC,-27.24,-50.48
 a7ba1868-375a-4d62-9048-bdf2136447c4,"Brazil, Sao Paulo",,Subdivision/Brazil,BR-SP,-22.26,-48.72
 17a40e27-7f28-48c3-892d-6121e748ed01,"Brazil, Sergipe",,Subdivision/Brazil,BR-SE,-10.57,-37.44
-7e6d7407-6a88-50d1-8f56-eb53f1c12102,"Brazil, South-eastern and Mid-western grid",,Electricity/Brazil,"Brazil, South-eastern and Mid-western grid",-16.94,-51.03
-df7d08ae-6f20-4095-96e6-3d9cc6f49263,"Brazil, South-eastern grid",,Electricity/Brazil,BR-South-eastern grid,-19.72,-45.48
-dd2330a8-30dc-4af9-bb3a-d2d2bf404dde,"Brazil, Southern grid",,Electricity/Brazil,BR-Southern grid,-27.57,-52.26
+7e6d7407-6a88-50d1-8f56-eb53f1c12102,"Brazil, South-eastern and Mid-western grid",,Electricity/Brazil,BR-SE-MW-GRID,-16.94,-51.03
+df7d08ae-6f20-4095-96e6-3d9cc6f49263,"Brazil, South-eastern grid",,Electricity/Brazil,BR-SE-GRID,-19.72,-45.48
+dd2330a8-30dc-4af9-bb3a-d2d2bf404dde,"Brazil, Southern grid",,Electricity/Brazil,BR-S-GRID,-27.57,-52.26
 54e71d4b-1d1f-473d-91db-15d40c496a6d,"Brazil, Tocantins",,Subdivision/Brazil,BR-TO,-10.14,-48.32
 f98ed07a-4d5f-30f7-9e14-10d905f1477f,British Indian Ocean Territory (the),,Country,IO,-7.14,72.29
 4e58188f-f528-3ea1-aec7-38fffc0e118d,Brunei Darussalam,,Country,BN,4.51,114.72
@@ -92,9 +92,9 @@ de3ec0aa-2234-3a1e-bee2-75bbc715c6c9,Cabo Verde,,Country,CV,15.94,-23.97
 fa46ec0b-4924-38c2-994a-53ef61b94039,Cambodia,,Country,KH,12.71,104.9
 820eb5b6-96ea-3a65-bc0d-b1e258dc7d81,Cameroon,,Country,CM,5.69,12.73
 5435c69e-d3bc-35b2-a4d5-80e393e373d3,Canada,,Country,CA,61.37,-98.29
-546c1bd3-1f98-3d06-b407-1a7319f0ca71,Canada without Alberta,,Cutout,CA_wo_CA-AB,61.74,-97.34
-9a0db1a8-1866-3aaa-9f25-881d425e2981,Canada without Alberta and Quebec,,Cutout,CA_wo_CA-AB_CA-QC,62.96,-101.08
-042dd99e-b0ff-3653-814e-445ca0093427,Canada without Quebec,,Cutout,CA_wo_CA-QC,62.47,-101.92
+546c1bd3-1f98-3d06-b407-1a7319f0ca71,Canada without Alberta,,Cutout,CA without CA-AB,61.74,-97.34
+9a0db1a8-1866-3aaa-9f25-881d425e2981,Canada without Alberta and Quebec,,Cutout,CA without CA-AB+CA-QC,62.96,-101.08
+042dd99e-b0ff-3653-814e-445ca0093427,Canada without Quebec,,Cutout,CA without CA-QC,62.47,-101.92
 888ae6c0-9317-341c-86a4-6bfdf09b72fa,"Canada, Alberta",,Subdivision/Canada,CA-AB,55.16,-114.5
 391d04b7-aa3e-3b93-9d1f-4d14740ef5f7,"Canada, British Columbia",,Subdivision/Canada,CA-BC,54.76,-124.75
 e2494db3-71b1-310e-bc75-5ff220d01c47,"Canada, Manitoba",,Subdivision/Canada,CA-MB,54.92,-97.43
@@ -118,13 +118,13 @@ f114427f-29d0-3a63-9781-f1cc950e138e,Centrally Planned Asia and China,,Global/Cu
 626726e6-0bd1-315f-b671-9a308a25b798,Chad,,Country,TD,15.33,18.64
 161747ec-4dc9-355f-9760-195593742232,Chile,,Country,CL,-37.74,-71.36
 7efdfc94-655a-35dc-aa3e-c85e9bb703fa,China,,Country,CN,36.55,103.83
-5874165e-031e-4e85-ab69-8c2ae6a1a970,China without Inner Mongol,,Cutout,CN_wo_CN-NM,35.38,102.25
+5874165e-031e-4e85-ab69-8c2ae6a1a970,China without Inner Mongol,,Cutout,CN without CN-NM,35.38,102.25
 b89fbb5e-5b12-3fbf-84e0-dde2a1af83e7,"China, Anhui (安徽)",,Subdivision/China,CN-AH,31.82,117.22
 0c3eee87-5877-3e08-bafd-45af750ca0b8,"China, Beijing (北京)",,Subdivision/China,CN-BJ,40.17,116.4
-f6298475-5b7f-5c28-9885-2338946a6cd6,"China, Central Grid",,Electricity/China,CN-CCG,30.58,107.94
-4c4a60a5-a0d5-369e-ad35-c23714845ace,"China, China Southern Power Grid",,Electricity/China,CN-CSG,24.56,106.46
+f6298475-5b7f-5c28-9885-2338946a6cd6,"China, Central Grid",,Electricity/China,CN-C-GRID,30.58,107.94
+4c4a60a5-a0d5-369e-ad35-c23714845ace,"China, China Southern Power Grid",,Electricity/China,CN-S-GRID,24.56,106.46
 560cccf0-0b87-306f-bffd-5836e1175a7a,"China, Chongqing (重庆)",,Subdivision/China,CN-CQ,30.05,107.85
-b6ec5424-a43b-5e34-a8ca-f35abb031049,"China, East Grid",,Electricity/China,CN-ECGC,29.43,117.82
+b6ec5424-a43b-5e34-a8ca-f35abb031049,"China, East Grid",,Electricity/China,CN-E-GRID,29.43,117.82
 f15daa22-c911-3f89-ba04-2f020804afd5,"China, Fujian (福建)",,Subdivision/China,CN-FJ,26.07,117.97
 10a33d7b-6e2e-3aa5-8dee-a126f06ae6c1,"China, Gansu (甘肃)",,Subdivision/China,CN-GS,37.82,100.92
 e0da2e3f-1c41-368e-b7f1-d1aa54166975,"China, Guangdong (广东)",,Subdivision/China,CN-GD,23.35,113.42
@@ -142,16 +142,16 @@ e40e7f95-3d17-3bfe-bd65-a885f2088578,"China, Heilongjiang (黑龙江省)",,Subdi
 b6c0a73a-ad7d-352e-a96f-0e22769d89d5,"China, Liaoning (辽宁)",,Subdivision/China,CN-LN,41.3,122.61
 94f8eaf5-2a69-3408-a868-564ba00a53e9,"China, Nei Mongol (内蒙古自治区)",,Subdivision/China,CN-NM,44.08,113.9
 fc88ecd5-d3d6-3669-a708-4b9a86e8907d,"China, Ningxia (宁夏回族自治区)",,Subdivision/China,CN-NX,37.26,106.16
-ae30ab76-bfa2-59fb-bccc-1ad0246cd7b3,"China, North Grid",,Electricity/China,CN-NCGC,42.29,114.41
-f0894a96-367f-5327-bc91-e156fdb6a5c7,"China, Northeast Grid",,Electricity/China,CN-NECG,45.76,126.49
-fa7f6c22-bd54-58c5-a8f0-0939ace8b856,"China, Northwest Grid",,Electricity/China,CN-NWG,39.0,91.62
+ae30ab76-bfa2-59fb-bccc-1ad0246cd7b3,"China, North Grid",,Electricity/China,CN-N-GRID,42.29,114.41
+f0894a96-367f-5327-bc91-e156fdb6a5c7,"China, Northeast Grid",,Electricity/China,CN-NE-GRID,45.76,126.49
+fa7f6c22-bd54-58c5-a8f0-0939ace8b856,"China, Northwest Grid",,Electricity/China,CN-NW-GRID,39.0,91.62
 8091cd9d-b8ec-3623-a5a2-5b61ea85eb98,"China, Qinghai (青海)",,Subdivision/China,CN-QH,35.74,96.0
 442e473c-81d4-34e6-a31e-a13d33c939af,"China, Shaanxi (陕西)",,Subdivision/China,CN-SN,35.18,108.86
 21f95e96-39a6-3597-9376-f920757c6fb3,"China, Shandong (山东)",,Subdivision/China,CN-SD,36.35,118.15
 26f19341-0269-3662-9c33-6561ad91237f,"China, Shanghai (上海)",,Subdivision/China,CN-SH,31.18,121.44
 61ca6a75-802d-39f2-b7b3-09767d6389e0,"China, Shanxi (山西)",,Subdivision/China,CN-SX,37.57,112.28
 3ea7c4c6-7057-3b39-96e1-a3251dda63b2,"China, Sichuan (四川)",,Subdivision/China,CN-SC,30.61,102.7
-094ba255-b84b-5fbd-8c8a-75547f362075,"China, Southwest Grid",,Electricity/China,CN-SWG,31.68,88.11
+094ba255-b84b-5fbd-8c8a-75547f362075,"China, Southwest Grid",,Electricity/China,CN-SW-GRID,31.68,88.11
 6515e168-6762-351f-b146-9deb97414906,"China, State Grid Corporation of China",,Electricity/China,CN-SGCC,37.8,103.55
 267b1b52-9830-3ddd-bce9-0be0b80a70ec,"China, Tianjin (天津)",,Subdivision/China,CN-TJ,39.29,117.31
 524dc282-e858-3e44-b59c-05a258bde0bd,"China, Xinjiang (新疆维吾尔自治区)",,Subdivision/China,CN-XJ,41.09,85.18
@@ -204,28 +204,28 @@ d5ef8373-2ea8-3c9b-9fb5-4f8cb68a9714,EU-25 European Union and Candidate Countrie
 322eb489-99c8-380b-8870-87c8d2e958a2,EU-27 European Union and Candidate Countries 2007,,Global/EU,EU27-CC2007,0.0,0.0
 aef4c4e7-71b3-3811-876f-5a31fbf8eb0e,EU-27 European Union and Candidate Countries 2007 and Associated Countries 2007,,Global/EU,EU27-CC2007-AC2007,0.0,0.0
 d66c264e-1dbd-33e6-911d-3ffc70908e8e,Europe,,Global/Custom,RER,55.89,28.11
-67c114d5-d361-4466-a5e7-fc21c498a254,Europe without Austria,,Cutout,RER_wo_AT,55.95,28.21
-06e2458b-3178-3438-b3f4-84051244c27d,"Europe without Austria, Belgium, France, Germany, Italy, Liechtenstein, Monaco, San Marino, Switzerland, and the Vatican",,Cutout,RER_wo_AT_BE_FR_DE_IT_LI_MC_SM_CH_VA,56.99,30.72
-5d5718f2-ee74-462a-888c-be4d534ef542,Europe without Germany and Switzerland,,Cutout,RER_wo_DE_CH,56.08,28.77
-ae85cec6-cc61-4a0d-a322-5fb10b6b4ece,"Europe without Germany, Netherlands, Norway",,Cutout,RER_wo_DE_NL_NO,55.72,29.53
-8bd484ff-ec4e-45c6-9f61-e211a872a4ff,"Europe without Germany, Netherlands, Norway, Russia",,Cutout,RER_wo_DE_NL_NO_RU,52.47,14.88
-5c322a16-89ab-48d4-b1a2-fec5759774a3,"Europe without Germany, Netherlands, Russia",,Cutout,RER_wo_DE_NL_RU,53.42,14.82
-e6a1bb9b-c1f3-49ed-a64b-87d488244ef9,Europe without Russia,,Cutout,RER_wo_RU,53.28,14.51
-817ed804-f0ed-3175-b39d-7576a1c242b1,Europe without Switzerland,,Cutout,RER_wo_CH,55.92,28.18
-f4f87f1d-101c-4b43-b2de-f646734ae9fe,Europe without Switzerland and Austria,,Cutout,RER_wo_CH_AT,55.98,28.28
-6a1e0054-4990-4d43-b7e4-e3d9a595a275,Europe without Switzerland and France,,Cutout,RER_wo_RU_FR,56.36,29.39
+67c114d5-d361-4466-a5e7-fc21c498a254,Europe without Austria,,Cutout,RER without AT,55.95,28.21
+06e2458b-3178-3438-b3f4-84051244c27d,"Europe without Austria, Belgium, France, Germany, Italy, Liechtenstein, Monaco, San Marino, Switzerland, and the Vatican",,Cutout,RER without AT+BA+FR+DE+IT+LI+MC+SM+CH+VA,56.99,30.72
+5d5718f2-ee74-462a-888c-be4d534ef542,Europe without Germany and Switzerland,,Cutout,RER without DE+CH,56.08,28.77
+ae85cec6-cc61-4a0d-a322-5fb10b6b4ece,"Europe without Germany, Netherlands, Norway",,Cutout,RER without DE+NL+NO,55.72,29.53
+8bd484ff-ec4e-45c6-9f61-e211a872a4ff,"Europe without Germany, Netherlands, Norway, Russia",,Cutout,RER without DE+NL+NO+RU,52.47,14.88
+5c322a16-89ab-48d4-b1a2-fec5759774a3,"Europe without Germany, Netherlands, Russia",,Cutout,RER without DE+NL+RU,53.42,14.82
+e6a1bb9b-c1f3-49ed-a64b-87d488244ef9,Europe without Russia,,Cutout,RER without RU,53.28,14.51
+817ed804-f0ed-3175-b39d-7576a1c242b1,Europe without Switzerland,,Cutout,RER without CH,55.92,28.18
+f4f87f1d-101c-4b43-b2de-f646734ae9fe,Europe without Switzerland and Austria,,Cutout,RER without CH+AT,55.98,28.28
+6a1e0054-4990-4d43-b7e4-e3d9a595a275,Europe without Switzerland and France,,Cutout,RER without RU+FR,56.36,29.39
 b380c952-746f-3cf9-89ae-d6562c7ee132,"Europe, Baltic System Operator",,Electricity/Europe,BALTSO,56.8,24.71
 35c302ef-c91c-31e9-a4e6-490bbe01a06f,"Europe, Central European Power Association",,Electricity/Europe,CENTREL,50.67,18.81
 c93762d2-a7a3-335c-81c2-fa0be65506df,"Europe, Europe with NORDEL",,Electricity/Europe,Europe with NORDEL,54.06,29.67
 a2d4e588-e0d1-11de-823b-0019e336be3a,"Europe, Europe without NORDEL",,Electricity/Europe,Europe without NORDEL,54.44,30.4
 8ebf61e1-cf59-357c-b93d-225d0ccb7181,"Europe, European Network of Transmission Systems Operators for Electricity",,Electricity/Europe,ENTSO-E,53.78,12.18
 4205164e-e2e5-30d6-98fb-7657af40aed6,"Europe, Nordic Countries Power Association",,Electricity/Europe,NORDEL,63.75,18.86
-e743b51e-41f8-3369-9418-34177c8f34e7,"Europe, UCTE without France",,Electricity/Europe,UCTE without France,45.99,12.44
-cdba052d-e53c-3173-b857-3d555fad2c16,"Europe, UCTE without Germany",,Electricity/Europe,UCTE without Germany,45.41,10.85
-8dc6a685-44c9-3a1c-b937-78a6de2d9830,"Europe, UCTE without Germany and France",,Electricity/Europe,UCTE without Germany and France,45.14,12.79
+e743b51e-41f8-3369-9418-34177c8f34e7,"Europe, UCTE without France",,Electricity/Europe,UCTE without FR,45.99,12.44
+cdba052d-e53c-3173-b857-3d555fad2c16,"Europe, UCTE without Germany",,Electricity/Europe,UCTE without DE,45.41,10.85
+8dc6a685-44c9-3a1c-b937-78a6de2d9830,"Europe, UCTE without Germany and France",,Electricity/Europe,UCTE without DE+FR,45.14,12.79
 1e11ad8e-d46d-368b-9ef5-a43e99dec543,"Europe, UN Region",,Global/UN,UN-EUROPE,60.1,78.92
 b633c174-f67b-3819-a2a4-ef89f2d5b8cb,"Europe, Union for the Co-ordination of Transmission of Electricity",,Electricity/Europe,UCTE,46.09,10.79
-73ecfbb1-f6be-3c1e-b05a-aca2cb5b216d,"Europe, without Russia and Türkiye",,Cutout,RER_wo_RU_TR,53.28,14.51
+73ecfbb1-f6be-3c1e-b05a-aca2cb5b216d,"Europe, without Russia and Türkiye",,Cutout,RER without RU+TR,53.28,14.51
 ef1cb6e7-2d14-3b18-8cc2-41037203f60b,Falkland Islands (the),,Country,FK,-51.73,-59.37
 eed80702-4939-3808-883f-0031a56e9872,Faroe Islands (the),,Country,FO,62.07,-6.87
 6fac3ab6-03bb-3fb4-ae42-77786393194c,Fiji,,Country,FJ,-17.44,163.4
@@ -260,14 +260,14 @@ eb5e48e7-4123-3acc-9276-1302ea4a7d22,Haiti,,Country,HT,18.93,-72.69
 59ca4f8b-bb97-33c2-ab59-db115fcdb664,Honduras,,Country,HN,14.82,-86.62
 ae417185-6a75-37b6-bd51-fc0e1f95902e,Hong Kong,,Country,HK,22.38,114.13
 18bd9197-cb1d-333b-8352-f47535c00320,Hungary,,Country,HU,47.16,19.39
-31c68c64-6657-3dcc-bc06-2d977c76315b,"IAI Area, Africa",,Aluminium,IAI_RAF,-2.34,22.31
-60a4d810-df1e-3895-95b4-025bbedca798,"IAI Area, Asia, without China and GCC",,Aluminium,IAI_RAS_wo_CN_GCC,30.78,76.41
-a2788633-a453-37e8-ac1d-c6c5b63300b2,"IAI Area, EU27 & EFTA",,Aluminium,IAI_EU27_EFTA,52.47,8.4
-a335f1f7-79cd-311f-b82e-33648aa17cd3,"IAI Area, Gulf Cooperation Council",,Aluminium,IAI_GCC,21.35,55.61
-cf7ec575-43e5-3274-8c54-1e9ec72461bd,"IAI Area, North America",,Aluminium,IAI_RNA,55.13,-103.93
-af92823f-638d-36d7-8406-451a58f61543,"IAI Area, North America, without Quebec",,Aluminium,IAI_RNA_wo_QC,55.27,-106.45
-15b95f69-f97e-36b9-a54e-905eff9c2bdb,"IAI Area, Russia & Europe outside EU27 & EFTA",,Aluminium,IAI_RU_RER_wo_EU27_EFTA,61.93,96.49
-8364be66-e49f-36e8-8ea4-a8795d469fe3,"IAI Area, South America",,Aluminium,IAI_RSA,-15.97,-57.18
+31c68c64-6657-3dcc-bc06-2d977c76315b,"IAI Area, Africa",,Aluminium,IAI-AFRICA,-2.34,22.31
+60a4d810-df1e-3895-95b4-025bbedca798,"IAI Area, Asia, without China and GCC",,Aluminium,IAI-ASIA without CN+GCC,30.78,76.41
+a2788633-a453-37e8-ac1d-c6c5b63300b2,"IAI Area, EU27 & EFTA",,Aluminium,IAI-EU27+EFTA,52.47,8.4
+a335f1f7-79cd-311f-b82e-33648aa17cd3,"IAI Area, Gulf Cooperation Council",,Aluminium,IAI-GCC,21.35,55.61
+cf7ec575-43e5-3274-8c54-1e9ec72461bd,"IAI Area, North America",,Aluminium,IAI-RNA,55.13,-103.93
+af92823f-638d-36d7-8406-451a58f61543,"IAI Area, North America, without Quebec",,Aluminium,IAI-RNA without CA-QC,55.27,-106.45
+15b95f69-f97e-36b9-a54e-905eff9c2bdb,"IAI Area, Russia & Europe outside EU27 & EFTA",,Aluminium,IAI-RU+EUROPE without EU27+EFTA,61.93,96.49
+8364be66-e49f-36e8-8ea4-a8795d469fe3,"IAI Area, South America",,Aluminium,IAI-RSA,-15.97,-57.18
 a2a551a6-458a-3de2-a446-cc76d639a9e9,Iceland,,Country,IS,64.99,-18.59
 13b5bfe9-6f3e-3fe4-91c9-f66f4a582adf,India,,Country,IN,22.88,79.6
 7661383e-998b-4738-b8dc-9e1e60070c8a,"India, Andaman and Nicobar Islands",,Subdivision/India,IN-AN,11.13,92.97
@@ -281,12 +281,12 @@ d766dc54-3e8f-4ac4-8a0f-69707a338b33,"India, Dadra and Nagar Haveli",,Subdivisio
 9f8f7e77-9e26-43ed-9554-943adac1a051,"India, Dadra and Nagar Haveli and Daman and Diu",,Subdivision/India,IN-DH,20.2,72.99
 653869da-6e3f-476e-9380-19d23040f2b9,"India, Daman and Diu",,Subdivision/India,IN-DD,20.46,72.59
 de26c625-ae68-4c9e-8fde-a6c33b3dfe14,"India, Delhi",,Subdivision/India,IN-DL,28.66,77.1
-1eb1f8b3-8c35-425e-94ca-cf502eb004c3,"India, Eastern grid",,Electricity/India,IN-Eastern grid,23.07,85.69
+1eb1f8b3-8c35-425e-94ca-cf502eb004c3,"India, Eastern grid",,Electricity/India,IN-E-GRID,23.07,85.69
 567cc8ea-05d0-4d27-a509-89f10e1a280e,"India, Goa",,Subdivision/India,IN-GA,15.35,74.04
 0d325613-94aa-4a65-8014-d3f6ead19eb3,"India, Gujarat",,Subdivision/India,IN-GJ,22.71,71.55
 3f1442fa-0808-438c-a355-2a1e96f9adeb,"India, Haryana",,Subdivision/India,IN-HR,29.2,76.33
 763ca99d-f561-45ef-8d36-84cb877f9c08,"India, Himachal Pradesh",,Subdivision/India,IN-HP,31.93,77.22
-4a07e727-a1e5-4079-8433-b1d2b5ed544c,"India, Islands",,Electricity/India,IN-Islands,11.12,92.87
+4a07e727-a1e5-4079-8433-b1d2b5ed544c,"India, Islands",,Electricity/India,IN-ISL-GRID,11.12,92.87
 d8cc1385-8b61-4509-8db0-d9cb5fa95725,"India, Jammu and Kashmir",,Subdivision/India,IN-JK,33.55,75.07
 2221b78c-5a1c-454c-a637-744d54a0bbe9,"India, Jharkhand",,Subdivision/India,IN-JH,23.64,85.53
 c23d9dc6-d794-4775-8e92-ee830a084a7f,"India, Karnataka",,Subdivision/India,IN-KA,14.71,76.15
@@ -299,21 +299,21 @@ d6bf166c-b5aa-45a6-b0e9-7c169d2c7cbc,"India, Manipur",,Subdivision/India,IN-MN,2
 10988ebe-8be4-43c6-8451-3273ca12cd47,"India, Meghalaya",,Subdivision/India,IN-ML,25.53,91.28
 cab4fbd7-e8ae-4ea6-9e74-0e41df667c61,"India, Mizoram",,Subdivision/India,IN-MZ,23.29,92.81
 df16b2b2-c49e-4560-9b74-cbcbe0a8d281,"India, Nagaland",,Subdivision/India,IN-NL,26.05,94.44
-26e353a9-dac6-4123-833d-75cd720d9e19,"India, North-eastern grid",,Electricity/India,IN-North-eastern grid,26.3,93.42
-59003ab7-b40a-43ac-b7c9-3e3e8907803e,"India, Northern grid",,Electricity/India,IN-Northern grid,28.51,76.71
+26e353a9-dac6-4123-833d-75cd720d9e19,"India, North-eastern grid",,Electricity/India,IN-NE-GRID,26.3,93.42
+59003ab7-b40a-43ac-b7c9-3e3e8907803e,"India, Northern grid",,Electricity/India,IN-N-GRID,28.51,76.71
 bf61f94b-cbd6-4a41-9c8b-0ef2b4e06c3c,"India, Odisha",,Subdivision/India,IN-OD,20.51,84.41
 f7228566-0785-45da-b946-01f82d277dda,"India, Puducherry",,Subdivision/India,IN-PY,11.96,78.88
 83cdc953-e485-453b-a8f9-749f92aca417,"India, Punjab",,Subdivision/India,IN-PB,30.84,75.4
 4024933b-d7a2-4ebb-87dc-80460ff13c50,"India, Rajasthan",,Subdivision/India,IN-RJ,26.59,73.83
 01c44dfa-113d-427b-81b9-1d4fde230f93,"India, Sikkim",,Subdivision/India,IN-SK,27.57,88.44
-8a80d1d2-de76-44e0-a3d3-46b98c053ca1,"India, Southern grid",,Electricity/India,IN-Southern grid,14.53,78.11
+8a80d1d2-de76-44e0-a3d3-46b98c053ca1,"India, Southern grid",,Electricity/India,IN-S-GRID,14.53,78.11
 eb2442cf-93eb-4784-99f9-7a0c97c3576f,"India, Tamil Nadu",,Subdivision/India,IN-TN,11.01,78.4
 8297d551-597d-4330-8486-ef594f0bd831,"India, Telangana",,Subdivision/India,IN-TG,17.8,79.05
 001c936c-cf14-46dd-a99e-b1ef30f51c96,"India, Tripura",,Subdivision/India,IN-TR,23.75,91.72
 ae2be714-8cbe-4abd-afac-a5e7ca2b0d55,"India, Uttar Pradesh",,Subdivision/India,IN-UP,26.93,80.54
 6859dfd7-168b-4a36-9429-e0e884bff83a,"India, Uttarakhand",,Subdivision/India,IN-UK,30.16,79.19
 77849b53-31ea-4b25-93e5-451909753ad3,"India, West Bengal",,Subdivision/India,IN-WB,23.8,87.97
-25457a88-a525-4fd8-b73d-72fd3f37fc74,"India, Western grid",,Electricity/India,IN-Western grid,21.7,76.77
+25457a88-a525-4fd8-b73d-72fd3f37fc74,"India, Western grid",,Electricity/India,IN-W-GRID,21.7,76.77
 14b3773a-9228-3ca1-98e3-3d0017100d23,Indian Ocean Territories,,Miscellaneous,AU-IOT,-10.69,104.61
 b80bb774-0288-3da1-b201-890375a60c8f,Indonesia,,Country,ID,-2.22,117.27
 d74eea48-99a6-3f9f-8bc5-27ef988ea0ff,Iran (Islamic Republic of),,Country,IR,32.57,54.27
@@ -386,7 +386,7 @@ d4f91763-3649-33c4-bc7a-b917fa990146,Niger (the),,Country,NE,17.41,9.38
 66e10e9f-f65e-3479-a54d-de3968d3440d,Nigeria,,Country,NG,9.59,8.09
 0288bde0-c2d5-33f2-b576-6f61b826a650,Niue,,Country,NU,-19.04,-169.86
 78d9238c-1a21-3c8b-be8f-6c26172fb12d,Norfolk Island,,Country,NF,-29.03,167.95
-aab06382-a476-4bec-a78b-d2fc0b849980,North America without Quebec,,Cutout,RNA_wo_CA-QC,55.27,-106.45
+aab06382-a476-4bec-a78b-d2fc0b849980,North America without Quebec,,Cutout,RER without CA-QC,55.27,-106.45
 d9a20693-e28e-33ac-aa03-8df3b3bfa273,"North America, Alaska Systems Coordinating Council",,Electricity/North America,US-ASCC,64.26,-152.27
 679f547e-8973-3198-9562-f49522f5f5ac,"North America, Electric Reliability Council of Texas",,Electricity/North America,US-ERCOT,31.1,-97.64
 d1e780c1-ae55-3086-82ed-b9f568342c46,"North America, Florida Reliability Coordinating Council",,Electricity/North America,US-FRCC,28.34,-81.9
@@ -405,7 +405,7 @@ f37ced82-5df8-48c2-a207-1e36dd11a112,"North America, Western Electricity Coordin
 16096b94-483a-3671-b7a2-16db4118f8df,North American Free Trade Agreement,,Miscellaneous,NAFTA,53.3,-103.84
 07d93568-0b65-31b2-a42f-e4baea021389,North Macedonia,,Country,MK,41.59,21.68
 f9d758b6-d15e-3238-aa0e-e0a3b949fc32,Northern Africa,,Global/UN,UN-NAFRICA,25.13,14.87
-b320e7db-c758-3ba6-8839-81eb83c9d7d7,Northern America,,Global/UN,RNA,58.86,-92.02
+b320e7db-c758-3ba6-8839-81eb83c9d7d7,Northern America,,Global/Custom,RNA,58.86,-92.02
 bd6ef2ee-f612-38be-bce0-90c8e64ebaa9,Northern Cyprus,,Miscellaneous,CY-NORTHERN,35.27,33.59
 da657f65-6f70-3a48-893f-64cf7be37d09,Northern Europe,,Global/UN,UN-NEUROPE,63.05,13.82
 1f2dfa56-7dcf-3583-bedd-f7aec167fec7,Northern Mariana Islands (the),,Country,MP,16.25,145.59
@@ -470,7 +470,7 @@ d34c6aba-144a-3e2d-acb4-0dd5f93ae50e,South America,,Global/UN,UN-SAMERICA,-15.15
 3691308f-2a4c-3f69-83f2-880d32e29c84,South Sudan,,Country,SS,7.28,30.3
 e832ff92-78c2-3ab2-8f7d-d0ca126994bf,South-Eastern Asia,,Global/UN,UN-SEASIA,7.94,109.91
 326dde39-0b64-3523-b09f-aa0f427066d8,Southern Africa,,Global/UN,UN-SAFRICA,-25.49,22.52
-a8a64cef-262a-34de-8872-b68b63ab7cd8,Southern Asia,,Global/UN,SAS,27.43,70.79
+a8a64cef-262a-34de-8872-b68b63ab7cd8,Southern Asia,,Global/Custom,SAS,27.43,70.79
 fe8f0f22-0c96-348b-86c2-b27e42d27f04,Southern Europe,,Global/UN,UN-SEUROPE,41.48,7.29
 12470fe4-06d4-3017-996e-ab37dd65fc14,Spain,,Country,ES,40.22,-3.65
 e7d76f14-42a7-3fc0-bec2-21a3f18683d1,"Spain, Canary Islands",,Oversea,ES-CN,28.33,-15.67
@@ -557,7 +557,7 @@ a8ce62fb-3610-311c-8af0-a8bf4942f5a0,"United States of America, West Virginia",,
 38af12ff-e146-3293-a429-6ddf9c28b806,"United States of America, Wisconsin",,Subdivision/United States of America,US-WI,44.64,-89.73
 373367f9-6d69-3917-ac7a-b9b523b4f30f,"United States of America, Wyoming",,Subdivision/United States of America,US-WY,42.99,-107.55
 1b23f8a4-c97c-355f-b57e-c2aae921f03d,Uruguay,,Country,UY,-32.79,-56.01
-aae773f6-9106-3fd9-95d0-c38764e6dccd,US Naval Base Guantanamo Bay,,Miscellaneous,US-NBGB,19.92,-75.15
+aae773f6-9106-3fd9-95d0-c38764e6dccd,US Naval Base Guantanamo Bay,,Miscellaneous,USNBGB,19.92,-75.15
 8b3274b7-55aa-3339-82f5-7fb557e25923,Uzbekistan,,Country,UZ,41.75,63.13
 0730b75e-96c0-353b-9b19-6be7ff4fa194,Vanuatu,,Country,VU,-16.2,167.7
 eabb18f0-a40c-3b35-9237-0c9e1bc1d61e,Venezuela (Bolivarian Republic of),,Country,VE,7.12,-66.16
@@ -567,7 +567,7 @@ eabb18f0-a40c-3b35-9237-0c9e1bc1d61e,Venezuela (Bolivarian Republic of),,Country
 c1b291cb-8522-336e-8217-31b509c9fcdd,Wallis and Futuna,,Country,WF,-13.84,-177.23
 fb033b5d-d7d0-37f5-a147-c0bfed75d56c,Western Africa,,Global/UN,UN-WAFRICA,14.74,-1.18
 02cb9a5a-488d-3ea0-84d9-3ae7b315e386,Western Asia,,Global/UN,UN-WASIA,29.57,46.32
-27ec30d1-c271-32b7-8cdf-d39530307275,Western Europe,,Global/UN,WEU,48.53,6.47
+27ec30d1-c271-32b7-8cdf-d39530307275,Western Europe,,Global/Custom,WEU,48.53,6.47
 28c494da-87ff-3996-9927-ac34ba30adbe,Western Sahara,,Country,EH,24.23,-12.21
 00c66f1a-036b-38f9-8b70-9cb8d925d3d9,Yemen,,Country,YE,15.9,47.59
 d9c29677-6530-3ff5-92a5-ab979ed1f7a0,Zambia,,Country,ZM,-13.46,27.77
