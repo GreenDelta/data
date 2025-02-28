@@ -62,10 +62,10 @@ c65371a5-fd9a-4ca9-ae24-c4fde6615445,"Brazil, Distrito Federal",,Subdivision/Bra
 6eaa35ce-47d2-4c3d-9079-12adc7ffb375,"Brazil, Maranhao",,Subdivision/Brazil,BR-MA,-5.09,-45.28
 64441fa1-0151-47ac-b97a-1fd886b90cae,"Brazil, Mato Grosso",,Subdivision/Brazil,BR-MT,-12.96,-55.92
 23baa40a-53e2-4d6c-a61e-a412c2b7aaae,"Brazil, Mato Grosso do Sul",,Subdivision/Brazil,BR-MS,-20.33,-54.84
-6e1c02cc-e7fc-4e63-a30e-59cfa5c4d9c1,"Brazil, Mid-western grid",,Electricity/Brazil,BR-MW-GRID,-15.3,-54.3
+6e1c02cc-e7fc-4e63-a30e-59cfa5c4d9c1,"Brazil, Mid-western grid",,Electricity/Brazil,BR-MW-Grid,-15.3,-54.3
 00e9e1a4-0cf8-4f07-8bad-fd782ed54382,"Brazil, Minas Gerais",,Subdivision/Brazil,BR-MG,-18.45,-44.67
-3ece4ff8-55ae-40b2-baea-0d2bf2034fbf,"Brazil, North-eastern grid",,Electricity/Brazil,BR-NE-GRID,-8.63,-41.72
-572aa631-8a25-4c16-b437-2ee0672c450d,"Brazil, Northern grid",,Electricity/Brazil,BR-N-GRID,-4.63,-59.25
+3ece4ff8-55ae-40b2-baea-0d2bf2034fbf,"Brazil, North-eastern grid",,Electricity/Brazil,BR-NE-Grid,-8.63,-41.72
+572aa631-8a25-4c16-b437-2ee0672c450d,"Brazil, Northern grid",,Electricity/Brazil,BR-N-Grid,-4.63,-59.25
 9a205fd8-72f3-423f-b3a7-6b805aaee30b,"Brazil, Para",,Subdivision/Brazil,BR-PA,-4.04,-53.13
 717c6f47-2eda-4d1b-8277-83f634ea7c23,"Brazil, Paraiba",,Subdivision/Brazil,BR-PB,-7.11,-36.82
 3b2c2140-c25c-47c5-876d-78e5dc82f066,"Brazil, Parana",,Subdivision/Brazil,BR-PR,-24.63,-51.63
@@ -79,9 +79,9 @@ d9497730-f613-4d31-aab2-1d82add2d1bc,"Brazil, Rondonia",,Subdivision/Brazil,BR-R
 4645f771-3596-4c42-ba0f-822d1ce2fb72,"Brazil, Santa Catarina",,Subdivision/Brazil,BR-SC,-27.24,-50.48
 a7ba1868-375a-4d62-9048-bdf2136447c4,"Brazil, Sao Paulo",,Subdivision/Brazil,BR-SP,-22.26,-48.72
 17a40e27-7f28-48c3-892d-6121e748ed01,"Brazil, Sergipe",,Subdivision/Brazil,BR-SE,-10.57,-37.44
-7e6d7407-6a88-50d1-8f56-eb53f1c12102,"Brazil, South-eastern and Mid-western grid",,Electricity/Brazil,BR-SE-MW-GRID,-16.94,-51.03
-df7d08ae-6f20-4095-96e6-3d9cc6f49263,"Brazil, South-eastern grid",,Electricity/Brazil,BR-SE-GRID,-19.72,-45.48
-dd2330a8-30dc-4af9-bb3a-d2d2bf404dde,"Brazil, Southern grid",,Electricity/Brazil,BR-S-GRID,-27.57,-52.26
+7e6d7407-6a88-50d1-8f56-eb53f1c12102,"Brazil, South-eastern and Mid-western grid",,Electricity/Brazil,BR-SE-MW-Grid,-16.94,-51.03
+df7d08ae-6f20-4095-96e6-3d9cc6f49263,"Brazil, South-eastern grid",,Electricity/Brazil,BR-SE-Grid,-19.72,-45.48
+dd2330a8-30dc-4af9-bb3a-d2d2bf404dde,"Brazil, Southern grid",,Electricity/Brazil,BR-S-Grid,-27.57,-52.26
 54e71d4b-1d1f-473d-91db-15d40c496a6d,"Brazil, Tocantins",,Subdivision/Brazil,BR-TO,-10.14,-48.32
 f98ed07a-4d5f-30f7-9e14-10d905f1477f,British Indian Ocean Territory (the),,Country,IO,-7.14,72.29
 4e58188f-f528-3ea1-aec7-38fffc0e118d,Brunei Darussalam,,Country,BN,4.51,114.72
@@ -121,10 +121,10 @@ f114427f-29d0-3a63-9781-f1cc950e138e,Centrally Planned Asia and China,,Global/Cu
 5874165e-031e-4e85-ab69-8c2ae6a1a970,China without Inner Mongol,,Cutout,CN without CN-NM,35.38,102.25
 b89fbb5e-5b12-3fbf-84e0-dde2a1af83e7,"China, Anhui (安徽)",,Subdivision/China,CN-AH,31.82,117.22
 0c3eee87-5877-3e08-bafd-45af750ca0b8,"China, Beijing (北京)",,Subdivision/China,CN-BJ,40.17,116.4
-f6298475-5b7f-5c28-9885-2338946a6cd6,"China, Central Grid",,Electricity/China,CN-C-GRID,30.58,107.94
-4c4a60a5-a0d5-369e-ad35-c23714845ace,"China, China Southern Power Grid",,Electricity/China,CN-S-GRID,24.56,106.46
+f6298475-5b7f-5c28-9885-2338946a6cd6,"China, Central Grid",,Electricity/China,CN-C-Grid,30.58,107.94
+4c4a60a5-a0d5-369e-ad35-c23714845ace,"China, China Southern Power Grid",,Electricity/China,CN-S-Grid,24.56,106.46
 560cccf0-0b87-306f-bffd-5836e1175a7a,"China, Chongqing (重庆)",,Subdivision/China,CN-CQ,30.05,107.85
-b6ec5424-a43b-5e34-a8ca-f35abb031049,"China, East Grid",,Electricity/China,CN-E-GRID,29.43,117.82
+b6ec5424-a43b-5e34-a8ca-f35abb031049,"China, East Grid",,Electricity/China,CN-E-Grid,29.43,117.82
 f15daa22-c911-3f89-ba04-2f020804afd5,"China, Fujian (福建)",,Subdivision/China,CN-FJ,26.07,117.97
 10a33d7b-6e2e-3aa5-8dee-a126f06ae6c1,"China, Gansu (甘肃)",,Subdivision/China,CN-GS,37.82,100.92
 e0da2e3f-1c41-368e-b7f1-d1aa54166975,"China, Guangdong (广东)",,Subdivision/China,CN-GD,23.35,113.42
@@ -142,16 +142,16 @@ e40e7f95-3d17-3bfe-bd65-a885f2088578,"China, Heilongjiang (黑龙江省)",,Subdi
 b6c0a73a-ad7d-352e-a96f-0e22769d89d5,"China, Liaoning (辽宁)",,Subdivision/China,CN-LN,41.3,122.61
 94f8eaf5-2a69-3408-a868-564ba00a53e9,"China, Nei Mongol (内蒙古自治区)",,Subdivision/China,CN-NM,44.08,113.9
 fc88ecd5-d3d6-3669-a708-4b9a86e8907d,"China, Ningxia (宁夏回族自治区)",,Subdivision/China,CN-NX,37.26,106.16
-ae30ab76-bfa2-59fb-bccc-1ad0246cd7b3,"China, North Grid",,Electricity/China,CN-N-GRID,42.29,114.41
-f0894a96-367f-5327-bc91-e156fdb6a5c7,"China, Northeast Grid",,Electricity/China,CN-NE-GRID,45.76,126.49
-fa7f6c22-bd54-58c5-a8f0-0939ace8b856,"China, Northwest Grid",,Electricity/China,CN-NW-GRID,39.0,91.62
+ae30ab76-bfa2-59fb-bccc-1ad0246cd7b3,"China, North Grid",,Electricity/China,CN-N-Grid,42.29,114.41
+f0894a96-367f-5327-bc91-e156fdb6a5c7,"China, Northeast Grid",,Electricity/China,CN-NE-Grid,45.76,126.49
+fa7f6c22-bd54-58c5-a8f0-0939ace8b856,"China, Northwest Grid",,Electricity/China,CN-NW-Grid,39.0,91.62
 8091cd9d-b8ec-3623-a5a2-5b61ea85eb98,"China, Qinghai (青海)",,Subdivision/China,CN-QH,35.74,96.0
 442e473c-81d4-34e6-a31e-a13d33c939af,"China, Shaanxi (陕西)",,Subdivision/China,CN-SN,35.18,108.86
 21f95e96-39a6-3597-9376-f920757c6fb3,"China, Shandong (山东)",,Subdivision/China,CN-SD,36.35,118.15
 26f19341-0269-3662-9c33-6561ad91237f,"China, Shanghai (上海)",,Subdivision/China,CN-SH,31.18,121.44
 61ca6a75-802d-39f2-b7b3-09767d6389e0,"China, Shanxi (山西)",,Subdivision/China,CN-SX,37.57,112.28
 3ea7c4c6-7057-3b39-96e1-a3251dda63b2,"China, Sichuan (四川)",,Subdivision/China,CN-SC,30.61,102.7
-094ba255-b84b-5fbd-8c8a-75547f362075,"China, Southwest Grid",,Electricity/China,CN-SW-GRID,31.68,88.11
+094ba255-b84b-5fbd-8c8a-75547f362075,"China, Southwest Grid",,Electricity/China,CN-SW-Grid,31.68,88.11
 6515e168-6762-351f-b146-9deb97414906,"China, State Grid Corporation of China",,Electricity/China,CN-SGCC,37.8,103.55
 267b1b52-9830-3ddd-bce9-0be0b80a70ec,"China, Tianjin (天津)",,Subdivision/China,CN-TJ,39.29,117.31
 524dc282-e858-3e44-b59c-05a258bde0bd,"China, Xinjiang (新疆维吾尔自治区)",,Subdivision/China,CN-XJ,41.09,85.18
@@ -281,12 +281,12 @@ d766dc54-3e8f-4ac4-8a0f-69707a338b33,"India, Dadra and Nagar Haveli",,Subdivisio
 9f8f7e77-9e26-43ed-9554-943adac1a051,"India, Dadra and Nagar Haveli and Daman and Diu",,Subdivision/India,IN-DH,20.2,72.99
 653869da-6e3f-476e-9380-19d23040f2b9,"India, Daman and Diu",,Subdivision/India,IN-DD,20.46,72.59
 de26c625-ae68-4c9e-8fde-a6c33b3dfe14,"India, Delhi",,Subdivision/India,IN-DL,28.66,77.1
-1eb1f8b3-8c35-425e-94ca-cf502eb004c3,"India, Eastern grid",,Electricity/India,IN-E-GRID,23.07,85.69
+1eb1f8b3-8c35-425e-94ca-cf502eb004c3,"India, Eastern grid",,Electricity/India,IN-E-Grid,23.07,85.69
 567cc8ea-05d0-4d27-a509-89f10e1a280e,"India, Goa",,Subdivision/India,IN-GA,15.35,74.04
 0d325613-94aa-4a65-8014-d3f6ead19eb3,"India, Gujarat",,Subdivision/India,IN-GJ,22.71,71.55
 3f1442fa-0808-438c-a355-2a1e96f9adeb,"India, Haryana",,Subdivision/India,IN-HR,29.2,76.33
 763ca99d-f561-45ef-8d36-84cb877f9c08,"India, Himachal Pradesh",,Subdivision/India,IN-HP,31.93,77.22
-4a07e727-a1e5-4079-8433-b1d2b5ed544c,"India, Islands",,Electricity/India,IN-ISL-GRID,11.12,92.87
+4a07e727-a1e5-4079-8433-b1d2b5ed544c,"India, Islands",,Electricity/India,IN-ISL-Grid,11.12,92.87
 d8cc1385-8b61-4509-8db0-d9cb5fa95725,"India, Jammu and Kashmir",,Subdivision/India,IN-JK,33.55,75.07
 2221b78c-5a1c-454c-a637-744d54a0bbe9,"India, Jharkhand",,Subdivision/India,IN-JH,23.64,85.53
 c23d9dc6-d794-4775-8e92-ee830a084a7f,"India, Karnataka",,Subdivision/India,IN-KA,14.71,76.15
@@ -299,21 +299,21 @@ d6bf166c-b5aa-45a6-b0e9-7c169d2c7cbc,"India, Manipur",,Subdivision/India,IN-MN,2
 10988ebe-8be4-43c6-8451-3273ca12cd47,"India, Meghalaya",,Subdivision/India,IN-ML,25.53,91.28
 cab4fbd7-e8ae-4ea6-9e74-0e41df667c61,"India, Mizoram",,Subdivision/India,IN-MZ,23.29,92.81
 df16b2b2-c49e-4560-9b74-cbcbe0a8d281,"India, Nagaland",,Subdivision/India,IN-NL,26.05,94.44
-26e353a9-dac6-4123-833d-75cd720d9e19,"India, North-eastern grid",,Electricity/India,IN-NE-GRID,26.3,93.42
-59003ab7-b40a-43ac-b7c9-3e3e8907803e,"India, Northern grid",,Electricity/India,IN-N-GRID,28.51,76.71
+26e353a9-dac6-4123-833d-75cd720d9e19,"India, North-eastern grid",,Electricity/India,IN-NE-Grid,26.3,93.42
+59003ab7-b40a-43ac-b7c9-3e3e8907803e,"India, Northern grid",,Electricity/India,IN-N-Grid,28.51,76.71
 bf61f94b-cbd6-4a41-9c8b-0ef2b4e06c3c,"India, Odisha",,Subdivision/India,IN-OD,20.51,84.41
 f7228566-0785-45da-b946-01f82d277dda,"India, Puducherry",,Subdivision/India,IN-PY,11.96,78.88
 83cdc953-e485-453b-a8f9-749f92aca417,"India, Punjab",,Subdivision/India,IN-PB,30.84,75.4
 4024933b-d7a2-4ebb-87dc-80460ff13c50,"India, Rajasthan",,Subdivision/India,IN-RJ,26.59,73.83
 01c44dfa-113d-427b-81b9-1d4fde230f93,"India, Sikkim",,Subdivision/India,IN-SK,27.57,88.44
-8a80d1d2-de76-44e0-a3d3-46b98c053ca1,"India, Southern grid",,Electricity/India,IN-S-GRID,14.53,78.11
+8a80d1d2-de76-44e0-a3d3-46b98c053ca1,"India, Southern grid",,Electricity/India,IN-S-Grid,14.53,78.11
 eb2442cf-93eb-4784-99f9-7a0c97c3576f,"India, Tamil Nadu",,Subdivision/India,IN-TN,11.01,78.4
 8297d551-597d-4330-8486-ef594f0bd831,"India, Telangana",,Subdivision/India,IN-TG,17.8,79.05
 001c936c-cf14-46dd-a99e-b1ef30f51c96,"India, Tripura",,Subdivision/India,IN-TR,23.75,91.72
 ae2be714-8cbe-4abd-afac-a5e7ca2b0d55,"India, Uttar Pradesh",,Subdivision/India,IN-UP,26.93,80.54
 6859dfd7-168b-4a36-9429-e0e884bff83a,"India, Uttarakhand",,Subdivision/India,IN-UK,30.16,79.19
 77849b53-31ea-4b25-93e5-451909753ad3,"India, West Bengal",,Subdivision/India,IN-WB,23.8,87.97
-25457a88-a525-4fd8-b73d-72fd3f37fc74,"India, Western grid",,Electricity/India,IN-W-GRID,21.7,76.77
+25457a88-a525-4fd8-b73d-72fd3f37fc74,"India, Western grid",,Electricity/India,IN-W-Grid,21.7,76.77
 14b3773a-9228-3ca1-98e3-3d0017100d23,Indian Ocean Territories,,Miscellaneous,AU-IOT,-10.69,104.61
 b80bb774-0288-3da1-b201-890375a60c8f,Indonesia,,Country,ID,-2.22,117.27
 d74eea48-99a6-3f9f-8bc5-27ef988ea0ff,Iran (Islamic Republic of),,Country,IR,32.57,54.27
