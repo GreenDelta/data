@@ -1,19 +1,16 @@
 ID,Name,Description,Category,Default flow property,Reference unit
 93a60a57-a3c8-18da-a746-0800200c9a66,Units of area,,Technical unit groups,Area,m2
 93a60a57-a3c8-20da-a746-0800200c9a66,Units of area*time,,Technical unit groups,Area*Time,m2*a
-da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,Market value,USD
+f170abd3-f010-45f4-8e7c-9871a5c0421b,Units of chemical amount,,Technical unit groups,Chemical amount,mol
+5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of count,,Technical unit groups,Number of entities,Item(s)
+5454b231-270e-45e6-89b2-7f4f3e482245,Units of count*length,,Technical unit groups,Person transport,p*km
+da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,Market value,EUR 2024
 93a60a57-a3c8-11da-a746-0800200c9a66,Units of energy,,Technical unit groups,Energy,MJ
 838aaa22-0117-11db-92e3-0800200c9a66,Units of length,,Technical unit groups,Length,m
 326eb58b-e5b3-4cea-b45a-2398c25109f8,Units of length*time,,Technical unit groups,Length*Time,km*a
 93a60a57-a4c8-11da-a746-0800200c9a66,Units of mass,,Technical unit groups,Mass,kg
 838aaa21-0117-11db-92e3-0800200c9a66,Units of mass*length,,Technical unit groups,Mass transport,t*km
 59f191d6-5dd3-4553-af88-1a32accfe308,Units of mass*time,,Technical unit groups,Mass*Time,kg*d
-f170abd3-f010-45f4-8e7c-9871a5c0421b,Units of mole,,Technical unit groups,Mole,mol
-38313d60-bd1d-4cec-820e-1d5754e63f5d,Units of mole/mass,Reference Unit Group Data Set of the International Reference Life Cycle Data System (ILCD).,Technical unit groups,,g/mole
-5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of number,,Technical unit groups,Number,Item(s)
-5454b231-270e-45e6-89b2-7f4f3e482245,Units of number*length,,Technical unit groups,Item transport,Items*km
-11d161f0-37e3-4d49-bf7a-ff4f31a9e5c7,Units of person*length,,Technical unit groups,Person transport,p*km
-4a4f6060-85a7-3ad8-961b-00844a2dfa96,Units of person*time,,Technical unit groups,Guest night,guest night
 d2779afe-bb00-48fe-9533-63cd0b3048dc,Units of power,,Technical unit groups,Power,W
 93a60a57-a3c8-16da-a746-0800200c9a66,Units of radioactivity,,Technical unit groups,Radioactivity,kBq
 af638906-3ec7-4314-8de7-f76039f2dd01,Units of time,,Technical unit groups,Time,h

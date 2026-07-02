@@ -1,4 +1,6 @@
 ID,Name,Description,Conversion factor,Synonyms,Unit group
+653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of amount of substance
+807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of amount of substance
 8ee3bcbf-9e65-4f59-9b0b-40b504cbe345,ac,Acre (US Survey),4046.872,acre (US);acre,Units of area
 e114cd83-3e7f-4466-8028-761c0469f7c7,are,Are,100.0,,Units of area
 588613d5-6c8c-4ab6-8c69-ec5e20ef7881,cm2,Square centimetre,1.0E-4,,Units of area
@@ -20,18 +22,24 @@ c7266b67-4ea2-457f-b391-9b94e26e195a,m2*a,Square metre times year,1.0,m²*a;m2a;
 00d8370e-2bf1-4f3b-81bb-f8f147e84819,m2*d,Square metre times day,0.00273972602,,Units of area*time
 1c43f336-c84b-4f42-bbf7-b1b6f89e121a,mi2*a,Square international mile times year,2589988.11,mi²*a;mi2a;mi²a,Units of area*time
 b396b97c-29ab-409a-b6fa-2285589041bd,mm2a,Square millimetre times year,1.0E-6,,Units of area*time
-f5b2fb9d-ccc4-4b71-b5cc-59618fc0e170,AUD,,0.699,,Units of currency
-cfa81ea3-c1c9-4319-af9f-17d069603659,CAD,,0.76,,Units of currency
-2c42095d-580c-40c4-a9a3-5d9eb78ef285,CHF,,1.06,,Units of currency
-8481fea2-c670-4c7f-baa7-c81d0656c80f,CNY,,0.147,,Units of currency
-5f12a853-06a8-4277-833c-bca877cb29ee,EUR,,1.12,,Units of currency
-e24ca38c-cb14-44d3-85e7-d801c97fdf34,GBP,,1.28,,Units of currency
-ac90ae60-f133-45a9-8bd3-b0cca36465c7,HKD,,0.128,,Units of currency
-d0f654ec-8451-4c47-bcc7-167cff07b31f,JPY,,0.00835,,Units of currency
-755b34c3-4525-449b-b576-7269c0f633db,SEK,,0.104,,Units of currency
-bf5acdd4-f257-466f-8a45-721a25dd1820,SGD,,0.733,,Units of currency
-a24e8745-d867-449e-a6a2-3fdbde687125,USD,,1.0,,Units of currency
-673a9bd3-6385-46a7-b552-b9f39b361ca3,ZAR,,0.062,,Units of currency
+3bd6c6c3-bb61-46f3-b19a-c87ac5502bb7,Dozen(s),Dozen(s) of items,12.0,dozen,Units of count
+5dc11308-c00e-4c91-8d8d-8a458a5ea968,guest night,Person times day,1.0,,Units of count
+6dabe201-aaac-4509-92f0-d00c26cb72ab,Item(s),Number of items,1.0,unit;LU;pig place;p;item,Units of count
+2abb86b6-e71b-4de5-a766-a20e80e59b6d,Items*km,Item times kilometre,1.0,,Units of count*length
+ce39138f-55f8-47bc-b55a-66027fc836d9,Items*mi,Item times international mile,1.609344,,Units of count*length
+9bf0166c-fa76-47d0-95af-054ea9125f2c,Items*nmi,Item times nautical mile,1.852,,Units of count*length
+fe8da65d-f0ea-4496-b13e-1955aaa412d7,p*km,Person times kilometre,1.0,pkm;personkm;person*km,Units of count*length
+702d94e7-fbae-4a99-a2f5-b26db21126d6,p*mi,Person times international mile,1.609344,pmi,Units of count*length
+885f4273-ff04-46b1-a1d7-03c712dffa41,v*km,Vehicle times kilometre,1.0,vkm,Units of count*length
+f5b2fb9d-ccc4-4b71-b5cc-59618fc0e170,AUD 2024,Australian Dollar (2024),0.577,,Units of currency
+cfa81ea3-c1c9-4319-af9f-17d069603659,CAD 2024,Canadian Dollar (2024),0.641,,Units of currency
+2c42095d-580c-40c4-a9a3-5d9eb78ef285,CHF 2024,Swiss Franc (2024),1.07,,Units of currency
+8481fea2-c670-4c7f-baa7-c81d0656c80f,CNY 2024,Yuan Renminbi (2024),0.124,,Units of currency
+a5cb4d02-fd70-4646-a223-e25733b4932c,EUR 2005,Euro (2005),1.49,,Units of currency
+5f12a853-06a8-4277-833c-bca877cb29ee,EUR 2024,Euro (2024),1.0,,Units of currency
+e24ca38c-cb14-44d3-85e7-d801c97fdf34,GBP 2024,Pound Sterling (2024),1.18,,Units of currency
+d0f654ec-8451-4c47-bcc7-167cff07b31f,JPY 2024,Yen (2024),0.00602,,Units of currency
+a24e8745-d867-449e-a6a2-3fdbde687125,USD 2024,US Dollar (2024),0.897,,Units of currency
 55244053-94ba-404e-9172-cb279d905e00,btu,British thermal unit (International Table),0.0010551,,Units of energy
 01e58eb9-0aba-4c76-ba0c-03f6f3be1353,GJ,Gigajoule,1000.0,,Units of energy
 469d61f1-3bc4-4841-8adf-873825c1bc11,J,Joule,1.0E-6,,Units of energy
@@ -102,19 +110,6 @@ b2ad404c-3e4f-4a7a-a604-46fb36654823,kg*a,Kilogram times year,365.0,kgy,Units of
 ab01fe47-d2c0-4308-adb1-e32df38d5a50,kg*d,Kilogram times day,1.0,kg*day,Units of mass*time
 23cc7a32-f08a-43df-a87c-66953eeeb3f5,t*a,Metric tonne times year,365000.0,,Units of mass*time
 5209be3d-094e-4203-a074-06d7b75e9a38,t*d,Metric tonne times day,1000.0,,Units of mass*time
-653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of mole
-807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of mole
-e09483a9-93a2-455e-bdcf-8d27a08076b5,g/mole,Gram per mole,1.0,,Units of mole/mass
-451c3176-d454-466e-9a0d-e3c0891a76f9,kg/mole,Kilogram per mole,1000.0,,Units of mole/mass
-3bd6c6c3-bb61-46f3-b19a-c87ac5502bb7,Dozen(s),Dozen(s) of items,12.0,dozen,Units of number
-6dabe201-aaac-4509-92f0-d00c26cb72ab,Item(s),Number of items,1.0,unit;LU;pig place;p;item,Units of number
-2abb86b6-e71b-4de5-a766-a20e80e59b6d,Items*km,Item times kilometre,1.0,,Units of number*length
-ce39138f-55f8-47bc-b55a-66027fc836d9,Items*mi,Item times international mile,1.609344,,Units of number*length
-9bf0166c-fa76-47d0-95af-054ea9125f2c,Items*nmi,Item times nautical mile,1.852,,Units of number*length
-885f4273-ff04-46b1-a1d7-03c712dffa41,v*km,Vehicle times kilometre,1.0,vkm,Units of number*length
-fe8da65d-f0ea-4496-b13e-1955aaa412d7,p*km,Person times kilometre,1.0,pkm;personkm;person*km,Units of person*length
-702d94e7-fbae-4a99-a2f5-b26db21126d6,p*mi,Person times international mile,1.609344,pmi,Units of person*length
-5dc11308-c00e-4c91-8d8d-8a458a5ea968,guest night,Person times day,1.0,,Units of person*time
 c1045008-343e-43e0-8e6d-32eb48bf3f59,GW,Gigawatt,1.0E9,GWp,Units of power
 944d227c-c7cf-421a-b54b-277fd77b8f18,kW,Kilowatt,1000.0,kWp,Units of power
 fab62514-4b89-4ef3-9e82-79e4533c2ad9,MW,Megawatt,1000000.0,MWp,Units of power
