@@ -1,6 +1,6 @@
 ID,Name,Description,Conversion factor,Synonyms,Unit group
-653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of amount of substance
-807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of amount of substance
+653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of chemical amount
+807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of chemical amount
 8ee3bcbf-9e65-4f59-9b0b-40b504cbe345,ac,Acre (US Survey),4046.872,acre (US);acre,Units of area
 e114cd83-3e7f-4466-8028-761c0469f7c7,are,Are,100.0,,Units of area
 588613d5-6c8c-4ab6-8c69-ec5e20ef7881,cm2,Square centimetre,1.0E-4,,Units of area
