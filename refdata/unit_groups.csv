@@ -3,7 +3,7 @@ ID,Name,Description,Category,Default flow property,Reference unit
 93a60a57-a3c8-20da-a746-0800200c9a66,Units of area*time,,Technical unit groups,Area*Time,m2*a
 f170abd3-f010-45f4-8e7c-9871a5c0421b,Units of chemical amount,,Technical unit groups,Chemical amount,mol
 5beb6eed-33a9-47b8-9ede-1dfe8f679159,Units of count,,Technical unit groups,Number of entities,Item(s)
-5454b231-270e-45e6-89b2-7f4f3e482245,Units of count*length,,Technical unit groups,Transport of entities,n*km
+5454b231-270e-45e6-89b2-7f4f3e482245,Units of count*length,,Technical unit groups,Person transport,p*km
 da299c4d-1741-4da8-9fbd-5ccfb5e1d688,Units of currency,,Economic unit groups,Market value,EUR 2024
 93a60a57-a3c8-11da-a746-0800200c9a66,Units of energy,,Technical unit groups,Energy,MJ
 838aaa22-0117-11db-92e3-0800200c9a66,Units of length,,Technical unit groups,Length,m

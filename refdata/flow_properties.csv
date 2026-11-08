@@ -18,7 +18,6 @@ fdfecf14-ff8a-4e17-b2b2-f938c4b5cc27,Market value,,Economic flow properties,Unit
 ca160e10-b3f9-4458-9077-0d15b8b31ae5,Power,,Technical flow properties,Units of power,physical
 93a60a56-a3c8-17da-a746-0800200c9a66,Radioactivity,,Technical flow properties,Units of radioactivity,physical
 c0447923-0e60-4b3c-97c2-a86dddd9eea5,Time,,Technical flow properties,Units of time,physical
-9fb9082a-5e06-4771-8470-07674f9812ab,Transport of entities,,Technical flow properties,Units of count*length,physical
 93a60a56-a3c8-22da-a746-0800200c9a66,Volume,,Technical flow properties,Units of volume,physical
 64771383-534c-4051-84ca-e195564d5425,Volume transport,,Technical flow properties,Units of volume*length,physical
 441238a3-ba09-46ec-b35b-c30cfba746d1,Volume*Time,,Technical flow properties,Units of volume*time,physical

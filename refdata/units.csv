@@ -1,4 +1,6 @@
 ID,Name,Description,Conversion factor,Synonyms,Unit group
+653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of chemical amount
+807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of chemical amount
 8ee3bcbf-9e65-4f59-9b0b-40b504cbe345,ac,Acre (US Survey),4046.872,acre (US);acre,Units of area
 e114cd83-3e7f-4466-8028-761c0469f7c7,are,Are,100.0,,Units of area
 588613d5-6c8c-4ab6-8c69-ec5e20ef7881,cm2,Square centimetre,1.0E-4,,Units of area
@@ -20,15 +22,12 @@ c7266b67-4ea2-457f-b391-9b94e26e195a,m2*a,Square metre times year,1.0,m²*a;m2a;
 00d8370e-2bf1-4f3b-81bb-f8f147e84819,m2*d,Square metre times day,0.00273972602,,Units of area*time
 1c43f336-c84b-4f42-bbf7-b1b6f89e121a,mi2*a,Square international mile times year,2589988.11,mi²*a;mi2a;mi²a,Units of area*time
 b396b97c-29ab-409a-b6fa-2285589041bd,mm2a,Square millimetre times year,1.0E-6,,Units of area*time
-653766dc-b4d1-4a62-b0b0-69fe4c4be931,cmol,Centimole,0.01,,Units of chemical amount
-807ff448-c8bc-4d1f-b3b6-7c6b8d16eee9,mol,Mole,1.0,,Units of chemical amount
 3bd6c6c3-bb61-46f3-b19a-c87ac5502bb7,Dozen(s),Dozen(s) of items,12.0,dozen,Units of count
 5dc11308-c00e-4c91-8d8d-8a458a5ea968,guest night,Person times day,1.0,,Units of count
 6dabe201-aaac-4509-92f0-d00c26cb72ab,Item(s),Number of items,1.0,unit;LU;pig place;p;item,Units of count
 2abb86b6-e71b-4de5-a766-a20e80e59b6d,Items*km,Item times kilometre,1.0,,Units of count*length
 ce39138f-55f8-47bc-b55a-66027fc836d9,Items*mi,Item times international mile,1.609344,,Units of count*length
 9bf0166c-fa76-47d0-95af-054ea9125f2c,Items*nmi,Item times nautical mile,1.852,,Units of count*length
-aca08fd3-17ef-4d65-bd18-427f2dede648,n*km,Count times kilometre,1.0,nkm;N*km;Nkm,Units of count*length
 fe8da65d-f0ea-4496-b13e-1955aaa412d7,p*km,Person times kilometre,1.0,pkm;personkm;person*km,Units of count*length
 702d94e7-fbae-4a99-a2f5-b26db21126d6,p*mi,Person times international mile,1.609344,pmi,Units of count*length
 885f4273-ff04-46b1-a1d7-03c712dffa41,v*km,Vehicle times kilometre,1.0,vkm,Units of count*length
